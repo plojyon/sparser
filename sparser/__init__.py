@@ -14,6 +14,7 @@ class Item:
 
     @property
     def id(self):
+        """Spar internal product id. Acquired from the product url."""
         regex = r"https://www\.spar\.si/online/.+/p/(\d+).*"
         match = re.search(regex, self.url)
         if match is not None:
@@ -28,7 +29,7 @@ class Item:
         return self.id in blacklist
 
     @classmethod
-    def normalize_weight_string(cls, weight_string):
+    def _normalize_weight_string(cls, weight_string):
         """Convert weight string to float in grams."""
         weight = float("".join(re.findall("[0-9\,]+", weight_string)).replace(",", "."))
 
@@ -42,7 +43,7 @@ class Item:
         return None
 
     @classmethod
-    def normalize_price_string(cls, price_string):
+    def _normalize_price_string(cls, price_string):
         """Convert price string to float in eur/g.
 
         Accept a string representing the price per unit weight or volume, e.g.
@@ -69,6 +70,7 @@ class Item:
 
     @property
     def url(self):
+        """Spar Online URL of the product."""
         return self.data.get("url", "")
 
     @property
@@ -77,7 +79,7 @@ class Item:
         data = self.data.get("product-priceperunit")
         if data is None:
             return None
-        return Item.normalize_price_string(data)
+        return Item._normalize_price_string(data)
 
     @property
     def weight(self):
@@ -89,7 +91,7 @@ class Item:
         )
         if data is None:
             return None
-        return Item.normalize_weight_string(data)
+        return Item._normalize_weight_string(data)
 
     def _get_nutritional_info(self, attribute):
         data = (
@@ -101,7 +103,7 @@ class Item:
             return None
 
         if attribute not in ["kcal", "kj"]:  # normalize unit (if there is one)
-            return Item.normalize_weight_string(data)
+            return Item._normalize_weight_string(data)
         else:
             return float(data.replace(",", "."))
 
@@ -138,7 +140,7 @@ class Item:
         return this.has_values([field], allow_zero)
 
 
-nutritional_info = {
+_nutritional_info_field_names = {
     "sugar": "Sugar",
     "carbohydrates": "Total Carbohydrate",
     "saturated_fat": "Saturated fat",
@@ -149,15 +151,16 @@ nutritional_info = {
     "kj": "kJ",
 }
 # add nutrirional attributes
-for attr in nutritional_info:
-    attr_name = nutritional_info[attr]
+for _attr in _nutritional_info_field_names:
+    _attr_name = _nutritional_info_field_names[_attr]
     setattr(
         Item,
-        attr,
+        _attr,
         property(
-            lambda this, attr_name=attr_name: this._get_nutritional_info(attr_name)
+            lambda this, _attr_name=_attr_name: this._get_nutritional_info(_attr_name)
         ),
     )
+    getattr(Item, _attr).__doc__ = f"Product's {_attr} content."
 
 
 def data(location="./sparsed/", use_blacklist=True, parse=True):

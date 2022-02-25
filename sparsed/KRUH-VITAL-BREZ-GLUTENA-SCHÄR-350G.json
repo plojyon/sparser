@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,67",
+    "product-priceperunit": "10,49 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KRUH VITAL BREZ GLUTENA, SCHÄR, 350G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,30 g",
+            "Total Carbohydrate": "11,00 g",
+            "Prehranske vlaknine": "2,60 g",
+            "Total Fat": "2,80 g",
+            "Protein": "1,40 g",
+            "kJ": "333,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "80,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        }
+    },
+    "description": "KRUH VITAL 350 G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,67",
+    "teaser-text": "KRUH VITAL 350 G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kruh-vital-brez-glutena-schr-350g/p/489315",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489315/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "18,69 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SALAMA OGRSKA",
+    "teaser-text": "SALAMA OGRSKA",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "31,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Rostep d.o.o. Potoče, Potoče 15 A, 5263 Dobravlje"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "31,10 g",
+            "Saturated fat": "12,40 g",
+            "Total Carbohydrate": "0,60 g",
+            "kJ": "1601,00 ",
+            "Protein": "25,90 g",
+            "Salt": "4,20 g",
+            "Sugar": "0,00 g",
+            "kcal": "386,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, sol, dekstroza, saharoza, začimbe, arome, arome dima, antioksidant e301, konzervans e252, e250."
+        }
+    },
+    "url": "https://www.spar.si/online/ogrska-salama-1kg/p/383834",
+    "product-insteadofprice": "18,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/383834/dt_main.jpg",
+    "title": "OGRSKA SALAMA, 1KG",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "18,69",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

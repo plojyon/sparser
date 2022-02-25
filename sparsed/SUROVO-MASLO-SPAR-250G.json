@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "opis": "Surovo maslo I. vrste. Vsebuje 82 % mlečne maščobe.",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR MASLO 250 G",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3054,00 ",
+            "Saturated fat": "53,00 g",
+            "Protein": "0,60 g",
+            "Sugar": "0,60 g",
+            "Total Fat": "82,00 g",
+            "kcal": "743,00 ",
+            "Total Carbohydrate": "0,60 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "8,76 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/surovo-maslo-spar-250g/p/269107",
+    "product-price": "2,19",
+    "title": "SUROVO MASLO, SPAR, 250G",
+    "description": "SPAR MASLO 250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/269107/dt_main.jpg",
+    "teaser-text": "SPAR MASLO 250G"
+}

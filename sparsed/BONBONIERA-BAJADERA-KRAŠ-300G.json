@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "7,74",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Lešnikov-mandljev nugatni izdelek.",
+        "ingredient-information": {
+            "alergeni": "SOJA, LEŠNIKI, MANDLJI, MLEKO (V SLEDOVIH), OREH (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2280,00 ",
+            "Saturated fat": "10,80 g",
+            "Prehranske vlaknine": "4,33 g",
+            "Protein": "5,81 g",
+            "Sugar": "54,91 g",
+            "Total Fat": "33,30 g",
+            "kcal": "545,00 ",
+            "Total Carbohydrate": "59,63 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "19,30 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bonboniera-bajadera-kras-300g/p/40195",
+    "product-price": "5,79",
+    "title": "BONBONIERA BAJADERA, KRAŠ, 300G",
+    "description": "BONB.BAJADERA 300G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40195/dt_main.jpg",
+    "teaser-text": "BONB.BAJADERA 300G"
+}

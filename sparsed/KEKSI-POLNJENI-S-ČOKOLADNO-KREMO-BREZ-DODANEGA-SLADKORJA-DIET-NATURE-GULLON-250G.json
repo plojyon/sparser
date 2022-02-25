@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,79",
+    "product-priceperunit": "5,96 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "KEKSI POLNJENI S ČOKOLADNO KREMO BREZ DODANEGA SLADKORJA, DIET NATURE, GULLON, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "keksi",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "SPEKTER d.o.o. Ljubljana, Letališka cesta 16, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,60 g",
+            "Total Carbohydrate": "67,00 g",
+            "Prehranske vlaknine": "5,30 g",
+            "Total Fat": "17,00 g",
+            "Protein": "6,70 g",
+            "kJ": "1763,00 ",
+            "Sugar": "5,00 g",
+            "kcal": "422,00 ",
+            "Saturated fat": "6,00 g"
+        }
+    },
+    "description": "KEKS SENDVIČ B.S. 250G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,49",
+    "teaser-text": "KEKS SENDVIČ B.S. 250G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/keksi-polnjeni-s-cokoladno-kremo-brez-dodanega-sladkorja-diet-nature-gullon-250g/p/446837",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446837/dt_main.jpg"
+}

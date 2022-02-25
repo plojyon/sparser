@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "13,89 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "PARADIŽNIK SUŠ. 270G ETA",
+    "teaser-text": "PARADIŽNIK SUŠ. 270G ETA",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "base-information": {
+            "neto-količina-plod:": "130G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "9,30 g",
+            "Saturated fat": "1,20 g",
+            "Total Carbohydrate": "9,50 g",
+            "kJ": "634,00 ",
+            "Protein": "4,20 g",
+            "Salt": "3,40 g",
+            "Sugar": "9,50 g",
+            "kcal": "153,00 ",
+            "Prehranske vlaknine": "7,10 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sušeni paradižniki v sončničnem olju",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "270g"
+        },
+        "ingredient-information": {
+            "sestavine": "sušeni paradižnik, sončnično olje, voda, alkoholni kis, vinski kis, jedilna sol, sredstvo za uravnavanje kislosti: citronska kislina, antioksidant: askorbinska kislina, začimbe."
+        }
+    },
+    "url": "https://www.spar.si/online/suseni-paradiznik-v-olju-natureta-270g/p/364133",
+    "product-insteadofprice": "3,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364133/dt_main.jpg",
+    "title": "SUŠENI PARADIŽNIK V OLJU, NATURETA, 270G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,75",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

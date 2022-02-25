@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "16,99",
+    "product-priceperunit": "16,99 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KRANJSKA KLOBASA ARVAJ, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,87 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "18,10 g",
+            "Protein": "18,49 g",
+            "kJ": "984,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "235,00 ",
+            "Saturated fat": "6,52 g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, slanina, jedilna sol, začimbe, konzervans: natrijev nitrit."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "20,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Loške mesnine d.o.o., Kidričeva cesta 63a, 4220 Škofja Loka"
+        }
+    },
+    "description": "KLOBASA KRANJSKA ARVAJ",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "16,99",
+    "teaser-text": "KLOBASA KRANJSKA ARVAJ",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kranjska-klobasa-arvaj-1kg/p/48077",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48077/dt_main.jpg"
+}

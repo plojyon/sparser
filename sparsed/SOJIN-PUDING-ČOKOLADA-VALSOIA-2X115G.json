@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PUDING SOJIN ČOKOLADA",
+    "description": "PUDING SOJIN ČOKOLADA",
+    "product-info": {
+        "opis": "Je okusen rastlinski kremni desert. Prepustite se hrepenenju po sladkem užitku. Predlagamo, da ga uživate ohlajenega. Brez laktoze, brez glutena. 100% rastlinski izdelek.",
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B12 0,38 mikrogr. Kalcij 120,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "230g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "435,00 ",
+            "Salt": "0,23 g",
+            "Sugar": "15,00 g",
+            "Total Carbohydrate": "18,00 g",
+            "Total Fat": "1,90 g",
+            "kcal": "103,00 ",
+            "Prehranske vlaknine": "0,30 g",
+            "Saturated fat": "0,70 g",
+            "Protein": "3,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Valsoia Pronova d.o.o."
+        }
+    },
+    "title": "SOJIN PUDING ČOKOLADA, VALSOIA, 2X115G",
+    "url": "https://www.spar.si/online/sojin-puding-cokolada-valsoia-2x115g/p/411015",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,74 €/kg",
+    "product-insteadofprice": "1,55",
+    "product-stock-status": "",
+    "product-price": "1,55",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411015/dt_main.jpg"
+}

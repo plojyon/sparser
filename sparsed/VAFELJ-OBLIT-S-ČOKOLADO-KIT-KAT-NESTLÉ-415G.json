@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "0,64",
+    "product-priceperunit": "15,24 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VAFELJ OBLIT S ČOKOLADO KIT KAT, NESTLÉ, 41,5G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "60,19 g",
+            "Prehranske vlaknine": "1,71 g",
+            "Total Fat": "27,88 g",
+            "Protein": "7,03 g",
+            "kJ": "2189,00 ",
+            "Sugar": "49,38 g",
+            "kcal": "523,00 ",
+            "Saturated fat": "15,61 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "41,5g"
+        },
+        "contact-information": {
+            "kontakt:": "Nestle Adriatic d.o.o., Šmartinska 53, 1000 Ljubljana"
+        }
+    },
+    "description": "VAFELJ KIT KAT 41,5G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,64",
+    "teaser-text": "VAFELJ KIT KAT 41,5G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vafelj-oblit-s-cokolado-kit-kat-nestl-415g/p/506460",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506460/dt_main.jpg"
+}

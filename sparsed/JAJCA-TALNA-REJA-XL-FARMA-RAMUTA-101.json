@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "2,59",
+    "product-priceperunit": "0,26 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "JAJCA TALNA REJA XL, FARMA RAMUTA, 10/1",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "10 SVEŽIH JAJC IZ TALNE REJE XL",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA."
+        },
+        "product-net-cont": {
+            "neto-količina": "10kos"
+        },
+        "trade-group": {
+            "način-pridelave": "2 - Talna reja"
+        }
+    },
+    "description": "JAJCA RAMUTA XL 10/1",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,59",
+    "teaser-text": "JAJCA RAMUTA XL 10/1",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jajca-talna-reja-xl-farma-ramuta-101/p/508486",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/508486/dt_main.jpg"
+}

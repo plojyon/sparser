@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "2,90",
+    "product-priceperunit": "0,29 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "JAJCA HLEVSKA REJA L, FARMA HRVATIČ, 10/1",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jajca iz hlevske reje pakirano po 10 jajc. Velikost L.",
+        "contact-information": {
+            "kontakt:": "Proizvodnja kokošjih jajc Hrvatič Franc s.p., Mala Pristava 20, 6257 Pivka"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA."
+        },
+        "product-net-cont": {
+            "neto-količina": "10kos"
+        },
+        "trade-group": {
+            "način-pridelave": "2 - Talna reja"
+        }
+    },
+    "description": "JAJCA TALNA REJA L10/1",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,90",
+    "teaser-text": "JAJCA TALNA REJA L10/1",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jajca-hlevska-reja-l-farma-hrvatic-101/p/486854",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486854/dt_main.jpg"
+}

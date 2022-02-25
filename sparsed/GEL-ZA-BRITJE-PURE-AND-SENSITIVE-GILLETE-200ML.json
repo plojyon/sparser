@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,95",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Posoda je pod tlakom, lahko eksplodira."
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Ascorbyl Palmitate, BHT, Eucalyptus Globulus Leaf Oil, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Hydroxyethylcellulose, Isobutane, Isopentane, Lauric Acid, Lavandula Angustifolia Oil, Lecithin, Linalool, Myristic Acid, Palmitic Acid, PEG-23M, PEG-90M, Silica, Sorbitol, Stearic Acid, Tocopherol, Triethanolamine"
+        },
+        "contact-information": {
+            "kontakt:": "Orbico d.o.o., Verovškova 72, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "14,80 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gel-za-britje-pure-and-sensitive-gillete-200ml/p/532745",
+    "product-price": "2,96",
+    "title": "GEL ZA BRITJE PURE AND SENSITIVE, GILLETE, 200ML",
+    "description": "GEL ZA BR.GILLETTE 200ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/532745/dt_main.jpg",
+    "teaser-text": "GEL ZA BR.GILLETTE 200ML"
+}

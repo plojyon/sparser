@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "6,39",
+    "product-priceperunit": "7,24 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "VINO, MERLOT, STOBI, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "14,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO MERLOT STOB.0,75L",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "5,43",
+    "teaser-text": "VINO MERLOT STOB.0,75L",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/vino-merlot-stobi-075-l/p/456232",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/456232/dt_main.jpg"
+}

@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "11,60 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "NAMAZ LIPTAVER WOJ 150G",
+    "teaser-text": "NAMAZ LIPTAVER WOJ 150G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "17,00 g",
+            "Saturated fat": "10,00 g",
+            "Total Carbohydrate": "4,40 g",
+            "kJ": "851,00 ",
+            "Protein": "8,40 g",
+            "Salt": "1,20 g",
+            "Sugar": "3,60 g",
+            "kcal": "205,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        }
+    },
+    "url": "https://www.spar.si/online/skutni-namaz-ostri-liptaver-150-g/p/384690",
+    "product-insteadofprice": "1,74",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384690/dt_main.jpg",
+    "title": "SKUTNI NAMAZ, OSTRI, LIPTAVER, 150 G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,74",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

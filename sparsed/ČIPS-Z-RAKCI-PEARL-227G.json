@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,50 g",
+            "Total Carbohydrate": "77,30 g",
+            "Sugar": "4,20 g",
+            "Salt": "2,60 g",
+            "kJ": "1450,00 ",
+            "Protein": "6,80 g",
+            "kcal": "345,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČIPS Z RAKCI",
+        "contact-information": {
+            "kontakt:": "ASIANA d.o.o., Šmartinska cesta 152, Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "227g"
+        },
+        "ingredient-information": {
+            "alergeni": "RAKI."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cips-z-rakci-pearl-227g/p/133674",
+    "product-price": "4,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/133674/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "4,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČIPS Z RAKCI 227G PEARL",
+    "product-stock-status": "",
+    "title": "ČIPS Z RAKCI, PEARL, 227G",
+    "product-priceperunit": "19,78 €/kg",
+    "description": "ČIPS Z RAKCI 227G PEARL"
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "20,00 g",
+            "Total Fat": "30,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "1,60 g",
+            "kJ": "1671,00 ",
+            "Protein": "32,00 g",
+            "kcal": "402,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PARMEZAN PARMIGIANO REGGIANO, GALBANI, 200G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Parmigiano Reggiano dozoreva najmanj 16 mesecev, vse dokler ne dobi bledo zlate barve in rahlo zrnato teksturo ter oreškast in slan okus. Lupina tega sira je zelo trda in je lahko rumene ali oranžne barve. Idealen je, ko se nareže na koščke, lahko se je samostojno ali postreže z zrelimi hruškami in vinom.",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/parmezan-parmigiano-reggiano-galbani-200g/p/258420",
+    "product-price": "6,94",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/258420/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "6,94",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SIR PARMEZAN REGGIA 200G",
+    "product-stock-status": "",
+    "title": "PARMEZAN PARMIGIANO REGGIANO, GALBANI, 200G",
+    "product-priceperunit": "34,70 €/kg",
+    "description": "SIR PARMEZAN REGGIA 200G"
+}

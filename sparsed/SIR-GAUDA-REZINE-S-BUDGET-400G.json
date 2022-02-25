@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,73",
+    "product-priceperunit": "6,83 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR GAUDA REZINE, S-BUDGET, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SIR GAUDA REZINE, S-BUDGET, 400G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,80 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "29,00 g",
+            "Protein": "23,00 g",
+            "kJ": "1485,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "358,00 ",
+            "Saturated fat": "20,00 g"
+        }
+    },
+    "description": "SB SIR GAUDA REZINE 400G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,73",
+    "teaser-text": "SB SIR GAUDA REZINE 400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-gauda-rezine-s-budget-400g/p/483311",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/483311/dt_main.jpg"
+}

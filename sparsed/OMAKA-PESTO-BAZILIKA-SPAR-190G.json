@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR PESTO GENOVESE 190G",
+    "description": "SPAR PESTO GENOVESE 190G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PESTO Z BAZILIKO",
+        "opis": "Pesto z baziliko.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, INDIJSKI OREŠČKI, RIBE (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "190G"
+        },
+        "product-net-cont": {
+            "neto-količina": "190g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1657,00 ",
+            "Salt": "2,00 g",
+            "Sugar": "3,60 g",
+            "Total Carbohydrate": "5,90 g",
+            "Total Fat": "39,00 g",
+            "kcal": "402,00 ",
+            "Prehranske vlaknine": "3,20 g",
+            "Saturated fat": "5,00 g",
+            "Protein": "5,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "OMAKA PESTO BAZILIKA SPAR, 190G",
+    "url": "https://www.spar.si/online/omaka-pesto-bazilika-spar-190g/p/410156",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,21 €/kg",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/410156/dt_main.jpg"
+}

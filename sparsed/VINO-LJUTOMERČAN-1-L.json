@@ -1,0 +1,31 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VINO LJUTOMERČAN 1L",
+    "description": "VINO LJUTOMERČAN 1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,00 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "contact-information": {
+            "kontakt:": "P&F Jeruzalem d.o.o., Kolodvorska 11, 2270 Ormož"
+        }
+    },
+    "title": "VINO LJUTOMERČAN, 1 L",
+    "url": "https://www.spar.si/online/vino-ljutomercan-1-l/p/389175",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,99 €/l",
+    "product-insteadofprice": "2,99",
+    "product-stock-status": "",
+    "product-price": "2,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/389175/dt_main.jpg"
+}

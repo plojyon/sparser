@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "3,09",
+    "product-priceperunit": "3,09 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "JAJCE ZA HLADILNIK, MR. MAGIC",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "MR. MAGIC Absorbcijsko jajce na osnovi inovativne formulacije odstranjuje smrad iz hladilnika, tako da ga absorbira v svoj aktivni gel ter ga zadrži v sebi kot spužva. Naravna sestava ohranja nespremenjen okus in aromo shranjenih živil. Je praktičen zaradi majhnih dimenzij in originalne oblike (jajca). Postavimo ga v predalnik za jajca. Aktivno deluje 2 meseca. Enostavno lahko ugotovimo kdaj je izdelek iztrošen. Na osnovi vinskega kisa.",
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Odprite pokrovček (1), odstranite zaščitno membrano (2), spet namestite pokrovček. Postavite izdelek v notranjost hladilnika. Izdelek zamenjajte, ko nivo gela pade pod oznako na spodnjem delu jajčka. Ena posoda zadostuje v hladilniku do 200 l za dva meseca."
+        },
+        "contact-information": {
+            "kontakt:": "KEMIKAL d.o.o., Ljubljanska cesta 45, 1241 Kamnik"
+        }
+    },
+    "description": "JAJCE MR.MAGIC KIS",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,09",
+    "teaser-text": "JAJCE MR.MAGIC KIS",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jajce-za-hladilnik-mr-magic/p/468002",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468002/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "6,98",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom! Zaradi sestavin naravnega izvora lahko pride do manjših odstopanj v sestavi in videzu izdelka."
+        },
+        "opis": "Kapsule vsebujejo kombinacijo pegastega badlja in holina, ki prispeva k presnovi maščob in boljšemu delovanju jeter. Jetra so največji organ za presnovo in či...",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "30kos"
+        },
+        "ingredient-information": {
+            "sestavine": "riževa moka, suhi izvleček pegastega badlja - silybum marianum (maltodekstrin) 33,00 %, holin bitartrat 28,00 %, želatinasta ovojnica, sredstvi proti sprijemanju: smukec in magnezijeve soli maščobnih kislin."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "0,17 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pegasti-badelj-kapsule-medex-113g-301/p/439676",
+    "product-price": "4,99",
+    "title": "PEGASTI BADELJ, KAPSULE, MEDEX, 11,3G, 30/1",
+    "description": "PEGASTI BADELJ 11,3G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/439676/dt_main.jpg",
+    "teaser-text": "PEGASTI BADELJ 11,3G"
+}

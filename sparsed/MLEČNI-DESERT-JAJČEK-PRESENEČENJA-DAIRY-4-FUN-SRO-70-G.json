@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,06",
+    "product-priceperunit": "15,14 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "MLEČNI DESERT, JAJČEK PRESENEČENJA, DAIRY 4 FUN S.R.O., 70 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,23 g",
+            "Total Carbohydrate": "18,10 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Total Fat": "5,60 g",
+            "Protein": "3,10 g",
+            "kJ": "572,00 ",
+            "Sugar": "14,50 g",
+            "kcal": "136,00 ",
+            "Saturated fat": "3,70 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "70g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "DESERT MLEČNI KUŽKI 70G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,06",
+    "teaser-text": "DESERT MLEČNI KUŽKI 70G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mlecni-desert-jajcek-presenecenja-dairy-4-fun-sro-70-g/p/492227",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/492227/dt_main.jpg"
+}

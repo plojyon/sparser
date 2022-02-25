@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,27",
+    "product-priceperunit": "23,16 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONI MINT, TIC TAC, 98G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "opis": "Tic Tac je tabletka, ki izstopa po prijetnem in osvežujočem okusu, pristnosti in praktičnem in izvirnem primeru. Njegovi različni okusi, namenjeni zabavi in osvežitvi ust, so idealni za skupno rabo kadarkoli, kjerkoli.Poiščite vsak okus!",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, maltodekstrini, fruktoza, sredstvo za zgostitev (gumi arabicum), rižev škrob, sredstvo proti sprijemanju (magnezijeve soli maščobnih kislin), arome, eterično olje mete, glazirno sredstvo (karnauba vosek)."
+        },
+        "product-net-cont": {
+            "neto-količina": "98g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "97,50 g",
+            "Total Fat": "0,50 g",
+            "Protein": "0,10 g",
+            "kJ": "1685,00 ",
+            "Sugar": "94,50 g",
+            "kcal": "397,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "BONBONI TIC TAC MINT 98G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,27",
+    "teaser-text": "BONBONI TIC TAC MINT 98G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboni-mint-tic-tac-98g/p/487849",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/487849/dt_main.jpg"
+}

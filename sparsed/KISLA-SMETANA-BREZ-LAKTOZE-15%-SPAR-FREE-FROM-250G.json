@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "2,56 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SPAR KISLA SME FREE 250",
+    "teaser-text": "SPAR KISLA SME FREE 250",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "15,00 g",
+            "Saturated fat": "11,00 g",
+            "Total Carbohydrate": "3,20 g",
+            "kJ": "670,00 ",
+            "Protein": "3,00 g",
+            "Salt": "0,13 g",
+            "Sugar": "3,20 g",
+            "kcal": "162,00 "
+        },
+        "opis": "*Laktose/Laktoza <0,01g/100g",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR free from kisla smetana iz pasterizirane smetane s 15% mlečne maščobe brez laktoze .",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "sestavine": "KISLA SMETANA IZ PASTERIZIRANE SMETANE S 15% MLEČNE MAŠČOBE BREZ LAKTOZE."
+        }
+    },
+    "url": "https://www.spar.si/online/kisla-smetana-brez-laktoze-15-spar-free-from-250g/p/378176",
+    "product-insteadofprice": "0,64",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378176/dt_main.jpg",
+    "title": "KISLA SMETANA BREZ LAKTOZE 15% SPAR FREE FROM, 250G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,64",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

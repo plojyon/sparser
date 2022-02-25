@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,63",
+    "product-priceperunit": "21,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MINI LIZIKE, CHUPA CHUPS, 30 G, VREČKA",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "30g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,07 g",
+            "Total Carbohydrate": "96,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1656,00 ",
+            "Sugar": "79,00 g",
+            "kcal": "390,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "LIZIKE MINI CHUPA CH.30G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,63",
+    "teaser-text": "LIZIKE MINI CHUPA CH.30G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mini-lizike-chupa-chups-30-g-vrecka/p/458484",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/458484/dt_main.jpg"
+}

@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BON.XXL CEDEV.MIX 58,5G",
+    "description": "BON.XXL CEDEV.MIX 58,5G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "58,5g"
+        },
+        "ingredient-information": {
+            "sestavine": "dekstroza, sladkor, glukozni daup, kislina: citronska kislina, limona v prahu 1,00 %, gozdno sadje v prahu 0,80 %, sredstvo proti sprijemanju: magnezijev stearat, arome, zgoščeni sadni sok pomaranče 0,20 %, koncentrat črneg korena, koncentrat rdeče pese, barvilo: beta-karoten, askorbinska kislina."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1631,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "95,00 g",
+            "Total Carbohydrate": "95,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "384,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "BONBONI, GOZDNI MIX, XXL, CEDEVITA, 58,5 G",
+    "url": "https://www.spar.si/online/bonboni-gozdni-mix-xxl-cedevita-585-g/p/398939",
+    "isOnPromotion": "false",
+    "product-priceperunit": "23,56 €/kg",
+    "product-insteadofprice": "1,39",
+    "product-stock-status": "",
+    "product-price": "1,39",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/398939/dt_main.jpg"
+}

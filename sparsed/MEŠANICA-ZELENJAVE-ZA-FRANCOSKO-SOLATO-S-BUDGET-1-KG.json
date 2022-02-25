@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "1,59 €/kg",
+    "product-promotionBadges": "Zamrznjeno",
+    "isOnPromotion": "false",
+    "description": "SB FRANCOSKA SOLATA 1KG",
+    "teaser-text": "SB FRANCOSKA SOLATA 1KG",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,40 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "6,00 g",
+            "kJ": "203,00 ",
+            "Protein": "2,70 g",
+            "Salt": "0,60 g",
+            "Sugar": "3,60 g",
+            "kcal": "48,00 ",
+            "Prehranske vlaknine": "5,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "grah, korenje kocka, krompir kocka."
+        }
+    },
+    "url": "https://www.spar.si/online/mesanica-zelenjave-za-francosko-solato-s-budget-1-kg/p/381633",
+    "product-insteadofprice": "1,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381633/dt_main.jpg",
+    "title": "MEŠANICA ZELENJAVE ZA FRANCOSKO SOLATO, S-BUDGET, 1 KG",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,59",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "20,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "HRANITI IZVEN DOSEGA OTROK"
+        },
+        "ingredient-information": {
+            "sestavine": "5-15 % anionske površinsko aktivne snovi< 5 % neionske površinsko aktivne snovimi, lofosfonati. Nadaljnje sestavine: konzervansi, Benzisothiazolinone, Methylisothiazolinone, encimi, parfumi, Benzyl salicylate, Butylphenyl methylpropional, Linalool, Coumarin, Limonene."
+        },
+        "contact-information": {
+            "kontakt:": "HENKEL SLOVENIJA D.O.O., INDUSTRIJSKA ULICA 23, 2000 MARIBOR"
+        }
+    },
+    "product-priceperunit": "4,16 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gel-lavander-persil-color-60pranj-3l/p/550818",
+    "product-price": "12,48",
+    "title": "GEL LAVANDER PERSIL COLOR, 60PRANJ, 3L",
+    "description": "GEL PERSIL LAVENDER 3L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/550818/dt_main.jpg",
+    "teaser-text": "GEL PERSIL LAVENDER 3L"
+}

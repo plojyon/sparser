@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "6,99",
+    "product-priceperunit": "46,60 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SIRUP MULTIVITAMIN JUNIOR, MEDEX, 150ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 400,00 mikrogr. Vitamin D 5,00 mikrogr. Vitamin C 21,60 mg, Vitamin B1 (Tiamin) 0,50 mg, Vitamin B2 (Riboflavin) 0,60 mg, Vitamin B3 (Niacin) 6,40 mg, Vitamin B6 0,70 mg, Vitamin B12 0,66 mikrogr. Vitamin B5 (Pantotenska kislina) 2,40 mg."
+        },
+        "instruction-for-use": {},
+        "security-warning": {
+            "varnostna-opozorila": "Osebam, alergičnim na katerokoli od sestavin, uporabe ne priporočamo. Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom! Zaradi sestavin naravnega izvora lahko pride do manjših odstopanj v sestavi in videzu izdelka."
+        },
+        "opis": "Sirup Multivitamin junior poleg medu, ki vsebuje dragocene hranilne snovi, združuje 9 pomembnih vitaminov za otroke: A, B6, B12, C, D, niacin, tiamin, riboflavi...",
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "med 74,00 %, sok pomaranče, oligofruktoza, sok hruške, vitamin c, niacin, naravne arome, pantotenska kislina, vitamin b6, riboflavin (vitamin b2), vitamin b12, tiamin, vitamin a (retinil palmitat), vitamin d, izvleček rožmarina."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "52,00 g",
+            "Total Fat": "1,20 g",
+            "Protein": "0,00 g",
+            "kJ": "1219,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "287,00 ",
+            "Saturated fat": "0,75 g"
+        }
+    },
+    "description": "SIRUP MULTIVIT.JUN.150ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,99",
+    "teaser-text": "SIRUP MULTIVIT.JUN.150ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sirup-multivitamin-junior-medex-150ml/p/439684",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/439684/dt_main.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,58",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "/"
+        },
+        "opis": "Rastlinsko olje je pridobljeno z rafiniranjem ene ali več vrst surovih rastlinskih olj. Rastlinska olje naravno ne vsebujejo holesterola.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Rastlinsko olje se uporablja za pripravo vseh vrst jedi, omak, solat, majoneze, krem, različnih slaščic ter vseh vrst cvrtja. S svojim blagim okusom in vonjem obogati pripravljene jedi."
+        },
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 28,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jedilno rafinirano rastlinsko olje",
+        "ingredient-information": {
+            "sestavine": "sončnično olje 90,00 %, repično olje 5,00 %, sojino olje 5,00 %."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3404,00 ",
+            "Saturated fat": "9,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "92,00 g",
+            "kcal": "828,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "2,58 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rastlinsko-olje-zvijezda-1l/p/270915",
+    "product-price": "2,58",
+    "title": "RASTLINSKO OLJE, ZVIJEZDA, 1L",
+    "description": "OLJE RASTLINSKO ZVIJE 1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/270915/dt_main.jpg",
+    "teaser-text": "OLJE RASTLINSKO ZVIJE 1L"
+}

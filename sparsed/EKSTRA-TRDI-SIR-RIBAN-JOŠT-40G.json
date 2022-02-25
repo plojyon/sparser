@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,88",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/ekstra-trdi-sir-riban-jost-40g/p/525437",
+    "title": "EKSTRA TRDI SIR RIBAN, JOŠT, 40G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,88",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "JOŠT SIR EKSTRA TRDI RIBAN 40G",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "3,50 g",
+            "Total Carbohydrate": "3,50 g",
+            "Saturated fat": "17,10 g",
+            "Protein": "41,00 g",
+            "Total Fat": "27,50 g",
+            "kcal": "426,00 ",
+            "Salt": "2,50 g",
+            "kJ": "1774,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "22,00 €/kg",
+    "teaser-text": "SIR JOŠT RIBAN 40G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SIR JOŠT RIBAN 40G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/525437/dt_main.jpg",
+    "product-brand": ""
+}

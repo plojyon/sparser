@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "9,90 g",
+            "Total Fat": "30,00 g",
+            "Total Carbohydrate": "68,00 g",
+            "Sugar": "17,00 g",
+            "Salt": "0,10 g",
+            "kJ": "2378,00 ",
+            "Protein": "6,60 g",
+            "kcal": "568,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, OREH (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Pekarna Adamič d.o.o., Stara cesta 21, 1360 Vrhnika"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cajni-keksi-pekarna-adamic-450g/p/216226",
+    "product-price": "4,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/216226/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "4,39",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KEKSI ČOK.PRELIV 450G",
+    "product-stock-status": "",
+    "title": "ČAJNI KEKSI PEKARNA ADAMIČ, 450G",
+    "product-priceperunit": "9,76 €/kg",
+    "description": "KEKSI ČOK.PRELIV 450G"
+}

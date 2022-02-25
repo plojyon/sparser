@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "FRIT.DOM.100G ŽITO",
+    "description": "FRIT.DOM.100G ŽITO",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Domačih fritatov ne zakuhavajte. Stresite jih v vročo juho in takoj postrezite. Vrečka s preostalo vsebino naj bo dobro zaprta."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Domači fritati",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1711,00 ",
+            "Salt": "1,70 g",
+            "Sugar": "4,60 g",
+            "Total Carbohydrate": "72,00 g",
+            "Total Fat": "6,00 g",
+            "kcal": "404,00 ",
+            "Saturated fat": "2,00 g",
+            "Protein": "15,60 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "DOMAČI FRITATI, INTES, 100G",
+    "url": "https://www.spar.si/online/domaci-fritati-intes-100g/p/40789",
+    "isOnPromotion": "false",
+    "product-priceperunit": "13,50 €/kg",
+    "product-insteadofprice": "1,35",
+    "product-stock-status": "",
+    "product-price": "1,35",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40789/dt_main.jpg"
+}

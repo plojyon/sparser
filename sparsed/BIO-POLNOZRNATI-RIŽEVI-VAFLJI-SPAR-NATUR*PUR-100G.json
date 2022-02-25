@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "SPAR VAFLJI RIŽEVI 100G",
+    "description": "SPAR VAFLJI RIŽEVI 100G",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "ingredient-information": {
+            "alergeni": "SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1655,00 ",
+            "Salt": "0,03 g",
+            "Sugar": "0,80 g",
+            "Total Carbohydrate": "80,00 g",
+            "Total Fat": "3,60 g",
+            "kcal": "391,00 ",
+            "Prehranske vlaknine": "3,80 g",
+            "Saturated fat": "0,70 g",
+            "Protein": "7,70 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "opis": "Iz ekološke pridelave.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "BIO POLNOZRNATI RIŽEVI VAFLJI SPAR NATUR*PUR, 100G",
+    "url": "https://www.spar.si/online/bio-polnozrnati-rizevi-vaflji-spar-naturpur-100g/p/390868",
+    "isOnPromotion": "true",
+    "product-priceperunit": "6,30 €/kg",
+    "product-insteadofprice": "0,70",
+    "product-stock-status": "",
+    "product-price": "0,63",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/390868/dt_main.jpg"
+}

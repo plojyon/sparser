@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,70 g",
+            "Total Fat": "14,00 g",
+            "Total Carbohydrate": "9,00 g",
+            "Sugar": "1,00 g",
+            "Salt": "1,30 g",
+            "kJ": "874,00 ",
+            "Protein": "11,00 g",
+            "kcal": "210,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "320g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "ingredient-information": {
+            "alergeni": "RIBE, GORČIČNO SEME."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tunina-v-omaki-s-fizolom-rio-mare-2x160g/p/268306",
+    "product-price": "5,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/268306/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "5,39",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "FIŽOL S TUNINO 2X160G",
+    "product-stock-status": "",
+    "title": "TUNINA V OMAKI S FIŽOLOM RIO MARE, 2X160G",
+    "product-priceperunit": "16,84 €/kg",
+    "description": "FIŽOL S TUNINO 2X160G"
+}

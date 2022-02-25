@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "13,25 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR PRALIN.MAGNIFIC200G",
+    "teaser-text": "SPAR PRALIN.MAGNIFIC200G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "42,00 g",
+            "Saturated fat": "13,00 g",
+            "Total Carbohydrate": "40,00 g",
+            "kJ": "2435,00 ",
+            "Protein": "9,30 g",
+            "Salt": "0,13 g",
+            "Sugar": "33,00 g",
+            "kcal": "586,00 ",
+            "Prehranske vlaknine": "5,40 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Vaflji s celimi lešniki (8%), polnjeni z nougat kremo (39%) in oblit z mlečno čokolado (27%).Kakavovi deli v mlečni čokoladi: najmanj 30% min.",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/vaflji-s-celimi-lesniki-magnifico-spar-200g/p/377898",
+    "product-insteadofprice": "2,65",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377898/dt_main.jpg",
+    "title": "VAFLJI S CELIMI LEŠNIKI MAGNIFICO SPAR, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,65",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

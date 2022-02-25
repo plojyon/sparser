@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,69",
+    "product-priceperunit": "17,07 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NACHO OMAKA SIROVA, FUNACHO, 99G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "NACHO SIROVA OMAKA FUNACHO 99 G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Univerzal Commerce Ljubljana d.o.o., Novo Polje C. IV / 1 - Slo"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "99g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,99 g",
+            "Total Carbohydrate": "8,08 g",
+            "Total Fat": "7,07 g",
+            "Protein": "0,00 g",
+            "kJ": "380,30 ",
+            "Sugar": "2,02 g",
+            "kcal": "90,00 ",
+            "Saturated fat": "1,01 g"
+        }
+    },
+    "description": "NACHO OMAKA SIROVA 99G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,69",
+    "teaser-text": "NACHO OMAKA SIROVA 99G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/nacho-omaka-sirova-funacho-99g/p/472257",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472257/dt_main.jpg"
+}

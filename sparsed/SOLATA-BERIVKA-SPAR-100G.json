@@ -1,0 +1,35 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Sveža, očiščena, oprana.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pripravljeno za zaužitje."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "gorčično seme (v sledovih)."
+        },
+        "trade-group": {
+            "razred": "1"
+        }
+    },
+    "product-priceperunit": "9,90 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/solata-berivka-spar-100g/p/438816",
+    "product-price": "0,99",
+    "title": "SOLATA BERIVKA SPAR, 100G",
+    "description": "SPAR BERIVKA 100G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/438816/dt_main.jpg",
+    "teaser-text": "SPAR BERIVKA 100G"
+}

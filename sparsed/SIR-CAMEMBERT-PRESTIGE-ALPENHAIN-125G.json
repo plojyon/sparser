@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "17,00 g",
+            "Total Fat": "25,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Sugar": "1,00 g",
+            "Salt": "2,00 g",
+            "kJ": "1265,00 ",
+            "Protein": "2,00 g",
+            "kcal": "305,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sir-camembert-prestige-alpenhain-125g/p/136949",
+    "product-price": "1,98",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/136949/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "1,98",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SIR CAMEMBERT BAV.125G",
+    "product-stock-status": "",
+    "title": "SIR CAMEMBERT PRESTIGE, ALPENHAIN, 125G",
+    "product-priceperunit": "15,84 €/kg",
+    "description": "SIR CAMEMBERT BAV.125G"
+}

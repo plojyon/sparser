@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "TEST.KORU.SVEDRI 500g",
+    "description": "TEST.KORU.SVEDRI 500g",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Zavrite 1 l osoljene vode in dodajte 100 g testenin. Kuhajte v odkriti posodi 10 - 12 minut in občasno premešajte. Skuhane testenine sperite s toplo vodo in prelijte s poljubno omako."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "KORUZNE TESTENINE SVEDRI, BREZ GLUTENA, SAM MILLS, 500G",
+        "opis": "Testenine iz sestavin, ki naravno ne vsebujejo glutena. Proizvedene v pogojih brez prisotnosti glutena. Brez sestavin pridobljenih z biotehnologijo. Nizka vsebnost maščob.",
+        "ingredient-information": {
+            "sestavine": "100 % koruzna moka, voda."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1466,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "1,00 g",
+            "Total Carbohydrate": "79,00 g",
+            "Total Fat": "0,80 g",
+            "kcal": "345,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "5,50 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Sweet Randi d.o.o., Mednarodni prehod 2 - B5, 5290 Šempeter pri Gorici"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "title": "KORUZNE TESTENINE SVEDRI, BREZ GLUTENA, SAM MILLS, 500G",
+    "url": "https://www.spar.si/online/koruzne-testenine-svedri-brez-glutena-sam-mills-500g/p/418511",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,38 €/kg",
+    "product-insteadofprice": "1,69",
+    "product-stock-status": "",
+    "product-price": "1,69",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/418511/dt_main.jpg"
+}

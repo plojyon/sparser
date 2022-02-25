@@ -1,0 +1,25 @@
+{
+    "product-promotionBadges": "BIO Certifikat",
+    "product-insteadofprice": "2,45",
+    "product-stock-status": "",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "50g"
+        }
+    },
+    "product-priceperunit": "49,00 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-janez-sonnentor-50g/p/555968",
+    "product-price": "2,45",
+    "title": "BIO JANEŽ SONNENTOR, 50G",
+    "description": "JANEŽ BIO 50G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/555968/dt_main.jpg",
+    "teaser-text": "JANEŽ BIO 50G"
+}

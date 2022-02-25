@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "15,40 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "PAŠTETA TURISTIČNA 50G",
+    "teaser-text": "PAŠTETA TURISTIČNA 50G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Delamaris d.o.o., Kal 1, 6257 Pivka"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "14,00 g",
+            "Saturated fat": "2,80 g",
+            "Total Carbohydrate": "7,00 g",
+            "kJ": "826,00 ",
+            "Protein": "11,00 g",
+            "Salt": "0,95 g",
+            "Sugar": "1,30 g",
+            "kcal": "199,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Turistična pašteta - classic",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/turisticna-pasteta-classic-delamaris-50g/p/379806",
+    "product-insteadofprice": "0,77",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/379806/dt_main.jpg",
+    "title": "TURISTIČNA PAŠTETA CLASSIC, DELAMARIS, 50G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,77",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

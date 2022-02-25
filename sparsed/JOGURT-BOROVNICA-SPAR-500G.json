@@ -1,0 +1,47 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,80 g",
+            "Salt": "0,11 g",
+            "Total Fat": "2,60 g",
+            "Total Carbohydrate": "12,00 g",
+            "Sugar": "11,00 g",
+            "Prehranske vlaknine": "0,40 g",
+            "kJ": "365,00 ",
+            "Protein": "2,90 g",
+            "kcal": "87,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sadni jogurt iz pasteriziranega mleka s 3,2% maščobe z borovnicami 8,8% in borovničevim sokom iz zgoščenega soka 1,3%.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "KG"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jogurt-borovnica-spar-500g/p/251615",
+    "product-price": "0,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/251615/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "0,79",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SPAR JOGURT BOROVNI 500G",
+    "product-stock-status": "",
+    "title": "JOGURT BOROVNICA SPAR, 500G",
+    "product-priceperunit": "1,58 €/kg",
+    "description": "SPAR JOGURT BOROVNI 500G"
+}

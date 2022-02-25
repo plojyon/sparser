@@ -1,0 +1,47 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "4,50 g",
+            "Total Fat": "36,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "1,00 g",
+            "kJ": "1599,00 ",
+            "Protein": "16,00 g",
+            "kcal": "387,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Tun v kosih v rastlinskem olju.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "opis": "Tun v kosih v rastlinskem olju. Sterilizirano.",
+        "base-information": {
+            "neto-količina-plod:": "156G"
+        },
+        "product-net-cont": {
+            "neto-količina": "240g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "trade-group": {
+            "latinsko-ime": "Thunnus albacares"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tuna-v-rastlinskem-olju-spar-3x80g/p/193381",
+    "product-price": "1,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/193381/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,95",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR TUNA 3X80G",
+    "product-stock-status": "",
+    "title": "TUNA V RASTLINSKEM OLJU, SPAR, 3X80G",
+    "product-priceperunit": "8,13 €/kg",
+    "description": "SPAR TUNA 3X80G"
+}

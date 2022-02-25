@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,15",
+    "product-priceperunit": "14,33 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SOJINA MAJONEZA, VALSOIA, 150ML",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Nemlečna majoneza na osnovi soje. Brez jajc, glutena in GSO. 100% rastlinsko.",
+        "ingredient-information": {
+            "alergeni": "SOJA, GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "7,50 g",
+            "Prehranske vlaknine": "0,10 g",
+            "Total Fat": "61,00 g",
+            "Protein": "0,90 g",
+            "kJ": "2401,00 ",
+            "Sugar": "7,20 g",
+            "kcal": "583,00 ",
+            "Saturated fat": "28,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Valsoia Pronova d.o.o."
+        }
+    },
+    "description": "MAJONEZA SOJINA 150ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,15",
+    "teaser-text": "MAJONEZA SOJINA 150ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sojina-majoneza-valsoia-150ml/p/495470",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/495470/dt_main.jpg"
+}

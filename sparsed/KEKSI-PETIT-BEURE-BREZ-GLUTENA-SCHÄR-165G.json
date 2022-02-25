@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "12,06 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KEKSI PETIT BEURE BREZ GLUTENA, SCHÄR, 165G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "80,00 g",
+            "Prehranske vlaknine": "0,80 g",
+            "Total Fat": "14,00 g",
+            "Protein": "2,70 g",
+            "kJ": "1930,00 ",
+            "Sugar": "16,00 g",
+            "kcal": "458,00 ",
+            "Saturated fat": "9,40 g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, SOJA (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "165g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        }
+    },
+    "description": "KEKSI PETIT B.BR.GL.165G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "KEKSI PETIT B.BR.GL.165G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/keksi-petit-beure-brez-glutena-schr-165g/p/446849",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446849/dt_main.jpg"
+}

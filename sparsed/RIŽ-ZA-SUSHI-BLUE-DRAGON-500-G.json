@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "RIŽ SUŠI 500G",
+    "description": "RIŽ SUŠI 500G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "riž."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1475,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "0,20 g",
+            "Total Carbohydrate": "78,00 g",
+            "Total Fat": "0,90 g",
+            "kcal": "347,00 ",
+            "Saturated fat": "0,30 g",
+            "Protein": "6,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "Salvia d.o.o., Radnička cesta 80, 10000 Zagreb, Hrvaška"
+        }
+    },
+    "title": "RIŽ ZA SUSHI, BLUE DRAGON, 500 G",
+    "url": "https://www.spar.si/online/riz-za-sushi-blue-dragon-500-g/p/431200",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,98 €/kg",
+    "product-insteadofprice": "2,99",
+    "product-stock-status": "",
+    "product-price": "2,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/431200/dt_main.jpg"
+}

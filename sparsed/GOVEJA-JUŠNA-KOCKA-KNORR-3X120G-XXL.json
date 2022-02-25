@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "11,06 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KOCKA JUŠ.GOV.3X120G XXL",
+    "teaser-text": "KOCKA JUŠ.GOV.3X120G XXL",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Atlantic Trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,50 g",
+            "Saturated fat": "0,30 g",
+            "Total Carbohydrate": "0,20 g",
+            "kJ": "25,00 ",
+            "Protein": "0,20 g",
+            "Salt": "0,95 g",
+            "Sugar": "0,00 g",
+            "kcal": "5,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "KNORR KONCENTRAT ZA PRIPRAVO GOVEJE JUHE",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "360g"
+        },
+        "ingredient-information": {
+            "alergeni": "ZELENA."
+        }
+    },
+    "url": "https://www.spar.si/online/goveja-jusna-kocka-knorr-3x120g-xxl/p/375709",
+    "product-insteadofprice": "3,98",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/375709/dt_main.jpg",
+    "title": "GOVEJA JUŠNA KOCKA, KNORR, 3X120G, XXL",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,98",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

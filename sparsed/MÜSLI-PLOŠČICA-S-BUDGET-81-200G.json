@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB MUESLI PLOŠ.JAG.8X25G",
+    "description": "SB MUESLI PLOŠ.JAG.8X25G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MÜSLI PLOŠČICA S KOŠČKI JAGOD IN JOGURTOVO GLAZURO.",
+        "opis": "/",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1781,00 ",
+            "Salt": "0,51 g",
+            "Sugar": "30,00 g",
+            "Total Carbohydrate": "67,00 g",
+            "Total Fat": "13,00 g",
+            "kcal": "424,00 ",
+            "Prehranske vlaknine": "3,80 g",
+            "Saturated fat": "7,90 g",
+            "Protein": "7,80 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "MÜSLI PLOŠČICA S-BUDGET 8/1, 200G",
+    "url": "https://www.spar.si/online/msli-ploscica-s-budget-81-200g/p/424414",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,45 €/kg",
+    "product-insteadofprice": "1,29",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/424414/dt_main.jpg"
+}

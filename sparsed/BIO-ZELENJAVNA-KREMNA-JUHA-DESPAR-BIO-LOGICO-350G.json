@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Salt": "0,72 g",
+            "Total Fat": "0,90 g",
+            "Total Carbohydrate": "4,20 g",
+            "Sugar": "1,50 g",
+            "Prehranske vlaknine": "0,90 g",
+            "kJ": "126,00 ",
+            "Protein": "0,90 g",
+            "kcal": "30,00 "
+        },
+        "instruction-for-use": {},
+        "opis": "BIO pasirana zelenjavna juha z ekstra deviškim oljčnim oljem (1 %). (Kmetijstvo EU/izven EU, IT-BIO-007)",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "ingredient-information": {
+            "alergeni": "ZELENA, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {}
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-zelenjavna-kremna-juha-despar-bio-logico-350g/p/594980",
+    "product-price": "2,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/594980/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "2,99",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "DE BL BIO JUHA ZEL. 350G",
+    "product-stock-status": "",
+    "title": "BIO ZELENJAVNA KREMNA JUHA, DESPAR BIO, LOGICO, 350G",
+    "product-priceperunit": "6,83 €/kg",
+    "description": "DE BL BIO JUHA ZEL. 350G"
+}

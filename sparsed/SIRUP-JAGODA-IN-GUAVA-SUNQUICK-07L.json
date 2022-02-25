@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "4,23",
+    "product-priceperunit": "6,04 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SIRUP JAGODA IN GUAVA SUNQUICK, 0,7L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "7,50 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "134,00 ",
+            "Sugar": "7,50 g",
+            "kcal": "32,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 12,00 mg."
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "SIRUP JAGODA-GUA.0,7L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,23",
+    "teaser-text": "SIRUP JAGODA-GUA.0,7L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sirup-jagoda-in-guava-sunquick-07l/p/507287",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507287/dt_main.jpg"
+}

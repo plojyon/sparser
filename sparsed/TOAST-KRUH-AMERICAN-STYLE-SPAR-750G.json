@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,30",
+    "product-priceperunit": "1,73 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TOAST KRUH, AMERICAN STYLE, SPAR, 750G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "46,00 g",
+            "Prehranske vlaknine": "1,90 g",
+            "Total Fat": "2,30 g",
+            "Protein": "8,60 g",
+            "kJ": "1029,00 ",
+            "Sugar": "3,50 g",
+            "kcal": "243,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana"
+        }
+    },
+    "description": "SPAR TOAST AMERIC.SEND.",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,30",
+    "teaser-text": "SPAR TOAST AMERIC.SEND.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/toast-kruh-american-style-spar-750g/p/476160",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/476160/dt_main.jpg"
+}

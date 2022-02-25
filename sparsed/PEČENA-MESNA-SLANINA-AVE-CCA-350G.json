@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,90 g",
+            "Total Fat": "16,00 g",
+            "Total Carbohydrate": "5,00 g",
+            "Sugar": "0,40 g",
+            "Salt": "1,80 g",
+            "kJ": "935,00 ",
+            "Protein": "20,00 g",
+            "kcal": "225,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PEČENA MESNA SLANINA",
+        "security-warning": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Panvita Mir d.d., Ljutomerska cesta 28a, 9250 Gornja Radgona"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "34,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pecena-mesna-slanina-ave-cca-350g/p/193068",
+    "product-price": "15,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/193068/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "15,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SLANINA PEČ.MES.VP MIR",
+    "product-stock-status": "",
+    "title": "PEČENA MESNA SLANINA, AVE, CCA. 350G",
+    "product-priceperunit": "15,99 €/kg",
+    "description": "SLANINA PEČ.MES.VP MIR"
+}

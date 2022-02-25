@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Salt": "0,03 g",
+            "Total Fat": "0,50 g",
+            "Total Carbohydrate": "79,20 g",
+            "Sugar": "59,20 g",
+            "Prehranske vlaknine": "3,20 g",
+            "kJ": "1443,00 ",
+            "Protein": "3,10 g",
+            "kcal": "340,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ROZINE 200 G SPAR",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za neposredno uporabo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/suhe-rozine-spar-200g/p/200222",
+    "product-price": "0,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/200222/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,79",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR ROZINE 200G",
+    "product-stock-status": "",
+    "title": "SUHE ROZINE, SPAR, 200G",
+    "product-priceperunit": "3,95 €/kg",
+    "description": "SPAR ROZINE 200G"
+}

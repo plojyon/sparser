@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,70 g",
+            "Total Fat": "12,00 g",
+            "Total Carbohydrate": "68,00 g",
+            "Sugar": "21,00 g",
+            "Salt": "0,96 g",
+            "kJ": "1811,00 ",
+            "Protein": "11,00 g",
+            "kcal": "430,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelek - Keksi z  dodanimi vitamini",
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 2,00 mg, Vitamin C 13,00 mg, Vitamin B1 (Tiamin) 0,90 mg, Vitamin B3 (Niacin) 18,00 mg, Vitamin B6 2,00 mg, Fosfor 130,00 mg, Železo 2,10 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, ŽVEPLOV DIOKSID IN SULFITI, LEŠNIKI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/otroski-piskoti-plazma-bambi-150g/p/235261",
+    "product-price": "1,17",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/235261/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,17",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PLAZMA PIŠKOTI OTR.150G",
+    "product-stock-status": "",
+    "title": "OTROŠKI PIŠKOTI PLAZMA, BAMBI, 150G",
+    "product-priceperunit": "7,80 €/kg",
+    "description": "PLAZMA PIŠKOTI OTR.150G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,56",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "url": "https://www.spar.si/online/pizza-sunka-ristorante-dr-oetker-330g/p/556007",
+    "title": "PIZZA ŠUNKA RISTORANTE, DR. OETKER, 330G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,56",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Dr. Oetker, d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pizza bogato obložena s paradižnikom, kuhano šunkoin in sirom na tankem hrustljavem testu, hitro zamrznjena.",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,80 g",
+            "Total Carbohydrate": "24,00 g",
+            "Saturated fat": "2,90 g",
+            "Protein": "10,00 g",
+            "Total Fat": "9,90 g",
+            "kcal": "229,00 ",
+            "Salt": "1,30 g",
+            "kJ": "958,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, gorčično seme (v sledovih)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek"
+    },
+    "product-priceperunit": "10,79 €/kg",
+    "teaser-text": "PIZZA RISTORANTE ŠUNKA",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PIZZA RISTORANTE ŠUNKA",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/556007/dt_main.jpg",
+    "product-brand": ""
+}

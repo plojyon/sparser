@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "33,90 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SALAMA OGRSKA KRAS 100G",
+    "teaser-text": "SALAMA OGRSKA KRAS 100G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "39,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Kras d.o.o., Šepulje 31, 6210 Sežana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "39,00 g",
+            "Saturated fat": "14,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "1868,00 ",
+            "Protein": "25,00 g",
+            "Salt": "4,70 g",
+            "Sugar": "0,50 g",
+            "kcal": "451,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, slani, morska sol, dekstroza, začimbe, naravne arome, aroma dima, antioksidant e300, konzervans e252, konzervans e250."
+        }
+    },
+    "url": "https://www.spar.si/online/ogrska-salama-narezek-kras-100-g/p/368319",
+    "product-insteadofprice": "3,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368319/dt_main.jpg",
+    "title": "OGRSKA SALAMA, NAREZEK, KRAS, 100 G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

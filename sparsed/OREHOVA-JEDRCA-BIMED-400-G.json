@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "4,99",
+    "product-priceperunit": "12,48 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OREHOVA JEDRCA, BIMED, 400 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "OREHOVA JEDRCA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Mednarodni prehod 8, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "ingredient-information": {
+            "alergeni": "OREHI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,05 g",
+            "Total Carbohydrate": "14,00 g",
+            "Total Fat": "65,00 g",
+            "Protein": "15,00 g",
+            "kJ": "2738,00 ",
+            "Sugar": "2,60 g",
+            "kcal": "654,00 ",
+            "Saturated fat": "6,20 g"
+        }
+    },
+    "description": "OREHOVA JEDRCA 400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,99",
+    "teaser-text": "OREHOVA JEDRCA 400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/orehova-jedrca-bimed-400-g/p/482015",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/482015/dt_main.jpg"
+}

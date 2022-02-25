@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "8,10 g",
+            "Total Fat": "12,20 g",
+            "Total Carbohydrate": "10,70 g",
+            "Sugar": "8,70 g",
+            "Salt": "0,11 g",
+            "kJ": "688,00 ",
+            "Protein": "3,00 g",
+            "kcal": "165,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 120,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "220g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-desert-z-manj-sladkorja-monte-zott-4x55g/p/587136",
+    "product-price": "1,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/587136/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "1,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "DESERT MONTE 4x55G",
+    "product-stock-status": "",
+    "title": "MLEČNI DESERT Z MANJ SLADKORJA MONTE, ZOTT, 4X55G",
+    "product-priceperunit": "7,95 €/kg",
+    "description": "DESERT MONTE 4x55G"
+}

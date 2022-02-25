@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "17,99 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "PRŠUT PEČEN ANTON",
+    "teaser-text": "PRŠUT PEČEN ANTON",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "15,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Meso Kamnik d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "15,70 g",
+            "Saturated fat": "5,51 g",
+            "Total Carbohydrate": "1,50 g",
+            "kJ": "838,00 ",
+            "Protein": "13,60 g",
+            "Salt": "2,01 g",
+            "Sugar": "0,57 g",
+            "kcal": "202,00 ",
+            "Prehranske vlaknine": "1,00 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pečen pršut Anton",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, voda, sol, gostilo: karagenan, stabilizatorji: difosfati, trifosfati, dekstroza, antioksidant: natrijev nitrit, ojačevalec arome: mononatrijev glutamat, začimbni ekstrakti."
+        }
+    },
+    "url": "https://www.spar.si/online/pecen-prsut-anton-1kg/p/376484",
+    "product-insteadofprice": "17,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376484/dt_main.jpg",
+    "title": "PEČEN PRŠUT ANTON, 1KG",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "17,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

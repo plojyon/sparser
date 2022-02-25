@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "teaser-text": "SPAR PREMIUM SLAD.MAK500",
+    "description": "SPAR PREMIUM SLAD.MAK500",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR PREMIUM vanilijev sladoled s karameliziranimi orehi makadamije (9,2%).",
+        "opis": "/",
+        "ingredient-information": {
+            "alergeni": "MLEKO, MAKADAMIJA, JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1124,00 ",
+            "Salt": "0,19 g",
+            "Sugar": "27,00 g",
+            "Total Carbohydrate": "27,00 g",
+            "Total Fat": "16,00 g",
+            "kcal": "269,00 ",
+            "Prehranske vlaknine": "0,70 g",
+            "Saturated fat": "8,80 g",
+            "Protein": "3,40 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek"
+    },
+    "title": "SLADOLED MAKADAMIJA SPAR PREMIUM, 500ML",
+    "url": "https://www.spar.si/online/sladoled-makadamija-spar-premium-500ml/p/394363",
+    "isOnPromotion": "false",
+    "product-priceperunit": "7,98 €/l",
+    "product-insteadofprice": "3,99",
+    "product-stock-status": "",
+    "product-price": "3,99",
+    "product-brand": "",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/394363/dt_main.jpg"
+}

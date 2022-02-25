@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "0,19",
+    "product-priceperunit": "0,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "KOKOSOVA VODA BIO, COCOMI, 330ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Kalij 220,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,06 g",
+            "Total Carbohydrate": "4,50 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "76,00 ",
+            "Sugar": "4,20 g",
+            "kcal": "18,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Kokosova voda je zelo osvežujoča pijača, odličnega okusa, ki jo lahko uživate samostojno ali pa jo dodate v smoothije in sveže sokove. Še posebej je dobrodošla za pogasitev žeje v poletnih mesecih, saj ima izjemno sposobnost hlajenja. Pred uporabo dobro pretresite."
+        },
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "kokosova voda iz ekološke pridelave 99,99 %, antioksidant: askorbinska kislina 0,01 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "BIO VODA KOKOSOVA 330ML",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,19",
+    "teaser-text": "BIO VODA KOKOSOVA 330ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kokosova-voda-bio-cocomi-330ml/p/475259",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/475259/dt_main.jpg"
+}

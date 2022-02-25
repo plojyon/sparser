@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "8,40 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "BONB.BRONHI ICE 100G",
+    "teaser-text": "BONB.BRONHI ICE 100G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "5,70 g",
+            "Saturated fat": "1,60 g",
+            "Total Carbohydrate": "82,90 g",
+            "kJ": "1621,00 ",
+            "Protein": "0,60 g",
+            "Salt": "0,21 g",
+            "Sugar": "57,70 g",
+            "kcal": "387,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, GLUTEN (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/bonboni-karamele-bronhi-ice-kras-100g/p/361157",
+    "product-insteadofprice": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361157/dt_main.jpg",
+    "title": "BONBONI KARAMELE BRONHI ICE, KRAŠ, 100G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,84",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

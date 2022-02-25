@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MOKA CEL.PŠ.ZRN 1KG",
+    "description": "MOKA CEL.PŠ.ZRN 1KG",
+    "product-info": {
+        "instruction-for-use": {},
+        "\n\t\t\t\ttehnično-ime-izdelka": "Moka iz celega pšeničnega zrna - polnozrnata moka",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1400,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,60 g",
+            "Total Carbohydrate": "60,00 g",
+            "Total Fat": "2,00 g",
+            "kcal": "331,00 ",
+            "Saturated fat": "0,40 g",
+            "Protein": "13,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "MOKA IZ CELIH PŠENIČNIH ZRN, INTES, 1KG",
+    "url": "https://www.spar.si/online/moka-iz-celih-psenicnih-zrn-intes-1kg/p/41461",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,99 €/kg",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41461/dt_main.jpg"
+}

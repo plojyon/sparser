@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "14,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OMAKA DIP HOT SALSA, CHIO, 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Omaka iz paradižnika in paprike, pikantna.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Intersnack d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "ZELENA, GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,60 g",
+            "Total Carbohydrate": "27,00 g",
+            "Prehranske vlaknine": "1,30 g",
+            "Total Fat": "0,20 g",
+            "Protein": "0,90 g",
+            "kJ": "504,00 ",
+            "Sugar": "25,00 g",
+            "kcal": "119,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "OMAKA DIP HOT CHIO 200ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "OMAKA DIP HOT CHIO 200ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/omaka-dip-hot-salsa-chio-200ml/p/463898",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/463898/dt_main.jpg"
+}

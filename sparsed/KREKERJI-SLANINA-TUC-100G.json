@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,89",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelki. Krekerji z okusom slanine.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, ŽVEPLOV DIOKSID IN SULFITI, SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2043,00 ",
+            "Saturated fat": "10,00 g",
+            "Protein": "8,00 g",
+            "Sugar": "7,80 g",
+            "Total Fat": "23,50 g",
+            "kcal": "488,00 ",
+            "Total Carbohydrate": "60,00 g",
+            "Salt": "2,88 g"
+        }
+    },
+    "product-priceperunit": "7,10 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/krekerji-slanina-tuc-100g/p/455450",
+    "product-price": "0,71",
+    "title": "KREKERJI SLANINA, TUC, 100G",
+    "description": "KREK.S SLANI. TUC 100G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/455450/dt_main.jpg",
+    "teaser-text": "KREK.S SLANI. TUC 100G"
+}

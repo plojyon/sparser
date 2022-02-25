@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,49",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/bohinjski-kefir-bohinjska-sirarna-05l/p/552455",
+    "title": "BOHINJSKI KEFIR, BOHINJSKA SIRARNA, 0,5L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,49",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "500ML"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "contact-information": {
+            "kontakt:": "Bohinjska sirarna d.o.o., Srednja vas 114, 4267 Srednja vas v Bohinju"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,30 g",
+            "Total Carbohydrate": "4,30 g",
+            "Saturated fat": "1,40 g",
+            "Protein": "3,10 g",
+            "Total Fat": "2,20 g",
+            "kcal": "49,00 ",
+            "Salt": "0,10 g",
+            "kJ": "207,00 "
+        }
+    },
+    "product-priceperunit": "2,98 €/l",
+    "teaser-text": "KEFIR BOHINJSKI 500ML",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "KEFIR BOHINJSKI 500ML",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/552455/dt_main.jpg",
+    "product-brand": ""
+}

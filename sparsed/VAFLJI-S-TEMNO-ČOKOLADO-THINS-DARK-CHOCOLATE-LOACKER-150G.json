@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,79",
+    "product-priceperunit": "11,93 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VAFLJI S TEMNO ČOKOLADO THINS DARK CHOCOLATE, LOACKER, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hrustljavi vaflji polnjeni s temno čokoladno kremo (71%)",
+        "opis": "Hrustljavi vaflji Loacker s kremo iz temne čokolade, brez dodanih arom, barvil in kozervansov ter trans maščob. Brez gensko spremenjenih organizmov.",
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, MANDLJI."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,35 g",
+            "Total Carbohydrate": "60,00 g",
+            "Total Fat": "24,00 g",
+            "Protein": "7,90 g",
+            "kJ": "2087,00 ",
+            "Sugar": "26,00 g",
+            "kcal": "499,00 ",
+            "Saturated fat": "20,00 g"
+        }
+    },
+    "description": "VAFELJ LOACKER S TEM150G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,79",
+    "teaser-text": "VAFELJ LOACKER S TEM150G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vaflji-s-temno-cokolado-thins-dark-chocolate-loacker-150g/p/502596",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502596/dt_main.jpg"
+}

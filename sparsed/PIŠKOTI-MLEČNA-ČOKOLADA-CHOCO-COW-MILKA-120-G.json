@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,35",
+    "product-priceperunit": "11,25 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIŠKOTI, MLEČNA ČOKOLADA, CHOCO COW, MILKA, 120 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "\n\t\t\t\ttehnično-ime-izdelka": "FIN PEKOVSKI IZDELEK. KEKSI Z MLEČNO ČOKOLADO Z ALPSKIM MLEKOM (28%).",
+        "opis": "Mlečna čokolada vsebuje najmanj 30 % kakavovih delov.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, SEZAM."
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,70 g",
+            "Total Carbohydrate": "71,00 g",
+            "Total Fat": "21,00 g",
+            "Protein": "6,60 g",
+            "kJ": "2115,00 ",
+            "Sugar": "33,50 g",
+            "kcal": "505,00 ",
+            "Saturated fat": "10,50 g"
+        }
+    },
+    "description": "PIŠKOTI ČOK.KRAVA 120G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,35",
+    "teaser-text": "PIŠKOTI ČOK.KRAVA 120G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/piskoti-mlecna-cokolada-choco-cow-milka-120-g/p/491777",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491777/dt_main.jpg"
+}

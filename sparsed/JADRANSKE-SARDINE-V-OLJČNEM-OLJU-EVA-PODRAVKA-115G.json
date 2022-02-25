@@ -1,0 +1,46 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SARDINA V OL.OLJU 115G",
+    "description": "SARDINA V OL.OLJU 115G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sardine v oljčnem olju",
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "base-information": {
+            "neto-količina-plod:": "81G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1436,00 ",
+            "Salt": "0,95 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "31,00 g",
+            "kcal": "347,00 ",
+            "Saturated fat": "6,10 g",
+            "Protein": "17,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "115g"
+        },
+        "trade-group": {
+            "latinsko-ime": "sardina pilchardus"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "JADRANSKE SARDINE V OLJČNEM OLJU EVA, PODRAVKA, 115G",
+    "url": "https://www.spar.si/online/jadranske-sardine-v-oljcnem-olju-eva-podravka-115g/p/387122",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,22 €/kg",
+    "product-insteadofprice": "1,75",
+    "product-stock-status": "",
+    "product-price": "1,75",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/387122/dt_main.jpg"
+}

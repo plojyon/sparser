@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "5,30 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KORUZA 3X200G NATURETA",
+    "teaser-text": "KORUZA 3X200G NATURETA",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "base-information": {
+            "neto-količina-plod:": "330G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,70 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "8,80 g",
+            "kJ": "224,00 ",
+            "Protein": "1,80 g",
+            "Salt": "0,90 g",
+            "Sugar": "5,10 g",
+            "kcal": "53,00 ",
+            "Prehranske vlaknine": "2,40 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "600g"
+        },
+        "ingredient-information": {
+            "alergeni": "ZELENA (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/koruza-natureta-3x200g/p/369501",
+    "product-insteadofprice": "3,18",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/369501/dt_main.jpg",
+    "title": "KORUZA NATURETA, 3X200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,18",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

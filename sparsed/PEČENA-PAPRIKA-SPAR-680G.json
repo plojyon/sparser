@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "0,81 g",
+            "Total Fat": "0,50 g",
+            "Total Carbohydrate": "7,00 g",
+            "Sugar": "4,70 g",
+            "Prehranske vlaknine": "1,20 g",
+            "kJ": "162,00 ",
+            "Protein": "0,90 g",
+            "kcal": "39,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "420G"
+        },
+        "product-net-cont": {
+            "neto-količina": "680g"
+        },
+        "ingredient-information": {
+            "sestavine": "pečena olupljena rdeča paprika 70,00 %, voda, sladkor, kis, jedilna sol."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pecena-paprika-spar-680g/p/274298",
+    "product-price": "1,97",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/274298/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,97",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR PAPRIKA PEČ.680G",
+    "product-stock-status": "",
+    "title": "PEČENA PAPRIKA SPAR, 680G",
+    "product-priceperunit": "2,90 €/kg",
+    "description": "SPAR PAPRIKA PEČ.680G"
+}

@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "13,75 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB SLADILO UMETNO 72G",
+    "teaser-text": "SB SLADILO UMETNO 72G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "1 tabletka = 1 kocka sladkorja (4,4 g)",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "117,00 ",
+            "Protein": "0,00 g",
+            "Salt": "36,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "27,00 ",
+            "Prehranske vlaknine": "0,10 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "72g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred prvo uporabo močno pritisnemo dozirno glavo."
+        }
+    },
+    "url": "https://www.spar.si/online/umetno-sladilo-s-budget-72g/p/361773",
+    "product-insteadofprice": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361773/dt_main.jpg",
+    "title": "UMETNO SLADILO S-BUDGET, 72G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

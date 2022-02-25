@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,34",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "964,00 ",
+            "Saturated fat": "14,50 g",
+            "Prehranske vlaknine": "0,20 g",
+            "Protein": "5,50 g",
+            "Sugar": "4,00 g",
+            "Total Fat": "21,50 g",
+            "kcal": "235,00 ",
+            "Total Carbohydrate": "4,00 g",
+            "Salt": "0,75 g"
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "product-priceperunit": "13,37 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sirni-namaz-natur-philadelphia-175-g/p/368893",
+    "product-price": "2,34",
+    "title": "SIRNI NAMAZ, NATUR, PHILADELPHIA, 175 G",
+    "description": "NAMAZ PHILADEL NAV 175G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368893/dt_main.jpg",
+    "teaser-text": "NAMAZ PHILADEL NAV 175G"
+}

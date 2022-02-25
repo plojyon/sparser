@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,79",
+    "product-priceperunit": "10,23 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VAFLJI KAKAV IN MLEKO CLASSIC, LOACKER, 175G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Vafelj polnjen z mlečno kremo, hrustljavimi pšeničnimi kalčki oblit z mlečno čokolado (56% kreme)",
+        "opis": "Hrustljavi kakavovi vaflji Loacker polnjeni z mlečno kremo (75 %). Brez dodanih arom, barvil in konzervansov in trans maščob. Brez gensko spremenjenih organizmov.",
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,48 g",
+            "Total Carbohydrate": "58,00 g",
+            "Total Fat": "28,00 g",
+            "Protein": "9,10 g",
+            "kJ": "2199,00 ",
+            "Sugar": "27,00 g",
+            "kcal": "526,00 ",
+            "Saturated fat": "24,00 g"
+        }
+    },
+    "description": "VAF.CLASSIC KAKA.175G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,79",
+    "teaser-text": "VAF.CLASSIC KAKA.175G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vaflji-kakav-in-mleko-classic-loacker-175g/p/513926",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513926/dt_main.jpg"
+}

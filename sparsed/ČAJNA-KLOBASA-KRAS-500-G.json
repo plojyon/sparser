@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "14,18 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "KLOBASA ČAJNA 500G KRAS",
+    "teaser-text": "KLOBASA ČAJNA 500G KRAS",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "46,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Kras d.o.o., Šepulje 31, 6210 Sežana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "45,30 g",
+            "Saturated fat": "15,80 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "2092,00 ",
+            "Protein": "23,40 g",
+            "Salt": "4,20 g",
+            "Sugar": "0,50 g",
+            "kcal": "505,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, slani, goveje meso, jedilna sol, dekstroza, začimbe, ekstrakti začimb, naravne arome, aroma dima, antioksidant e301, starterske kulture, konzervans e252, konzervans e250."
+        }
+    },
+    "url": "https://www.spar.si/online/cajna-klobasa-kras-500-g/p/384284",
+    "product-insteadofprice": "8,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384284/dt_main.jpg",
+    "title": "ČAJNA KLOBASA, KRAS, 500 G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "7,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

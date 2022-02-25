@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "TESTO BREZ GLUT.LIS250G",
+    "description": "TESTO BREZ GLUT.LIS250G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1624,00 ",
+            "Salt": "0,95 g",
+            "Sugar": "2,10 g",
+            "Total Carbohydrate": "30,00 g",
+            "Total Fat": "28,00 g",
+            "kcal": "391,00 ",
+            "Prehranske vlaknine": "4,80 g",
+            "Saturated fat": "13,00 g",
+            "Protein": "2,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek"
+    },
+    "title": "TESTO LISTNATO BREZ GLUTENA, SCHÄR, 250G",
+    "url": "https://www.spar.si/online/testo-listnato-brez-glutena-schr-250g/p/394950",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,52 €/kg",
+    "product-insteadofprice": "4,88",
+    "product-stock-status": "",
+    "product-price": "4,88",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/394950/dt_main.jpg"
+}

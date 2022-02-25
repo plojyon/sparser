@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-priceperunit": "2,58 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SUŠENE TESTENINE ELICOIDALI NO. 49, RUMMO, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Čas kuhanja: 12 minut."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ELICOIDALI no. 49 SUŠENE TESTENINE",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "69,50 g",
+            "Prehranske vlaknine": "2,90 g",
+            "Total Fat": "1,60 g",
+            "Protein": "14,50 g",
+            "kJ": "1510,00 ",
+            "Sugar": "3,10 g",
+            "kcal": "356,00 ",
+            "Saturated fat": "0,30 g"
+        }
+    },
+    "description": "TEST. ELICOIDALI 500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,29",
+    "teaser-text": "TEST. ELICOIDALI 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/susene-testenine-elicoidali-no-49-rummo-500g/p/496543",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/496543/dt_main.jpg"
+}

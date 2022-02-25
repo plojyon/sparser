@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "11,13 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "DROBTINICE PISANI 80G",
+    "teaser-text": "DROBTINICE PISANI 80G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,30 g",
+            "Saturated fat": "0,70 g",
+            "Total Carbohydrate": "96,60 g",
+            "kJ": "1692,00 ",
+            "Protein": "0,10 g",
+            "Salt": "0,03 g",
+            "Sugar": "91,10 g",
+            "kcal": "399,00 "
+        },
+        "opis": "Z Dr. Oetkerjevim dekorjem lahko hitro in na lahek način okrasite vsak desert ali kolač ter tako obogatite slaščice za vaše najbližje.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dr. Oetker Drobtinice pisane 80g.",
+        "ingredient-information": {
+            "sestavine": "sladkor, modificiran koruzni škrob, rastlinska mast, glukozni sirup, sredstvo proti sprijemanju: kalijev aluminijev silikat, barvilo: karmini, briliant blue fcf, snov za barvanje: koncentrati limone in žafrana."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za najboljši uspeh: na deserte, kot so pudingi, sladoledi in stepene pene ter na kolače obložene s sladko stepeno smetano, posujte drobtinice tik pred serviranjem."
+        }
+    },
+    "url": "https://www.spar.si/online/pisane-drobtinice-dr-oetker-80-g/p/378149",
+    "product-insteadofprice": "0,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378149/dt_main.jpg",
+    "title": "PISANE DROBTINICE, DR. OETKER, 80 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,89",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

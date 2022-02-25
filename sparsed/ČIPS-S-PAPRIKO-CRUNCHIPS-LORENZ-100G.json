@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,60 g",
+            "Salt": "1,70 g",
+            "Total Fat": "33,00 g",
+            "Total Carbohydrate": "52,00 g",
+            "Sugar": "1,40 g",
+            "Prehranske vlaknine": "3,40 g",
+            "kJ": "2240,00 ",
+            "Protein": "5,70 g",
+            "kcal": "537,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Krompirjev čips z okusom paprike",
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje gluten."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cips-s-papriko-crunchips-lorenz-100g/p/17731",
+    "product-price": "1,26",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/17731/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,26",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČIPS S PAPRIKO 100G",
+    "product-stock-status": "",
+    "title": "ČIPS S PAPRIKO CRUNCHIPS, LORENZ, 100G",
+    "product-priceperunit": "12,60 €/kg",
+    "description": "ČIPS S PAPRIKO 100G"
+}

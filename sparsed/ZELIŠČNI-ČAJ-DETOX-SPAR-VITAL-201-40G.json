@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "49,75 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ZELIŠČNI ČAJ DETOX SPAR VITAL, 20/1, 40G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "40G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za 1 skodelico vzamemo 1 vrečko, za čajnik glede na velikost 3-4. Prelijemo s svežo, vrelo vodo in pustimo stati najmanj 8 minut."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ZELIŠČNI ČAJ DETOX",
+        "opis": "Raznolika in uravnotežena prehrana, gibanje in zdrav življenjski slog so pomembni za zdravje.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "kopriva, regrat, regratova korenina, komarček, kodrasta meta, preslica, hruškovi listi, zlata rozga, brinove jagode."
+        },
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "1,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "SPAR VITAL ČAJ DETOX 40G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "SPAR VITAL ČAJ DETOX 40G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zeliscni-caj-detox-spar-vital-201-40g/p/504549",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/504549/dt_main.jpg"
+}

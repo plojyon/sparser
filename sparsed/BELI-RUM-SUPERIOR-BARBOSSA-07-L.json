@@ -1,0 +1,32 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "RUM SUPERIOR 0,7L",
+    "description": "RUM SUPERIOR 0,7L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "37,50 vol. %"
+        },
+        "opis": "Barbossa beli rum iz Karibov je primeren za mešanje osvežilnih alkoholnih pijač ali kot samostojna pijača.",
+        "ingredient-information": {
+            "sestavine": "rum."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "BELI RUM, SUPERIOR BARBOSSA, 0,7 L",
+    "url": "https://www.spar.si/online/beli-rum-superior-barbossa-07-l/p/407158",
+    "isOnPromotion": "false",
+    "product-priceperunit": "9,99 €/l",
+    "product-insteadofprice": "6,99",
+    "product-stock-status": "",
+    "product-price": "6,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/407158/dt_main.jpg"
+}

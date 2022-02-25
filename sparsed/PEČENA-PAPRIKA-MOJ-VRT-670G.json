@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "0,81 g",
+            "Total Fat": "0,47 g",
+            "Total Carbohydrate": "7,00 g",
+            "Sugar": "4,66 g",
+            "Prehranske vlaknine": "1,20 g",
+            "kJ": "150,00 ",
+            "Protein": "0,94 g",
+            "kcal": "36,00 "
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "product-net-cont": {
+            "neto-količina": "650g"
+        },
+        "ingredient-information": {
+            "sestavine": "olupljena pečena paprika 70,00 %, voda, sladkor, sol, kis, česen."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pecena-paprika-moj-vrt-670g/p/176365",
+    "product-price": "2,83",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/176365/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,83",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PAPRIKA PEČENA 670G MOJ",
+    "product-stock-status": "",
+    "title": "PEČENA PAPRIKA MOJ VRT, 670G",
+    "product-priceperunit": "4,35 €/kg",
+    "description": "PAPRIKA PEČENA 670G MOJ"
+}

@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,09",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Decyl Glucoside, Parfum, Sodium Chloride, Styrene/Acrylates Copolymer, Polyquaternium-10, Sodium PCA, PEG-120 Methyl Glucose Dioleate, Citric Acid, Disodium EDTA, Coco-Glucoside, PPG-20, Methyl Glucose Ether, Propylene Glycol, Hydroxycetyl Hydroxyethyl Dimonium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Alpha-Isomethyl lonone, Benzyl Salicylate, Citronellol, Coumarin, Geraniol, Limonene, Linalool."
+        },
+        "opis": "Kopel Moisturizing neguje vašo kožo, zahvaljujoč kremni formuli bogati z vlažilnimi snovmi. Uživajte v edinstvenem vonju Borotalca!",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Proizvod se doda vodi za kopel."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "4,64 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kopel-moisturizing-borotalco-500ml/p/446541",
+    "product-price": "2,32",
+    "title": "KOPEL MOISTURIZING BOROTALCO, 500ML",
+    "description": "KOPEL BOROTALCO 500ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446541/dt_main.jpg",
+    "teaser-text": "KOPEL BOROTALCO 500ML"
+}

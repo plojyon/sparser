@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "20,10 g",
+            "Salt": "0,22 g",
+            "Total Fat": "33,00 g",
+            "Total Carbohydrate": "56,10 g",
+            "Sugar": "53,20 g",
+            "Prehranske vlaknine": "2,22 g",
+            "kJ": "2282,00 ",
+            "Protein": "7,40 g",
+            "kcal": "545,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "15g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cokoladna-lizika-lizli-kraljestvo-zivali-kras-15g/p/251453",
+    "product-price": "0,47",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/251453/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,47",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "LIZIKA ML.ČOK. LIZLI 15G",
+    "product-stock-status": "",
+    "title": "ČOKOLADNA LIZIKA LIZLI KRALJESTVO ŽIVALI, KRAŠ, 15G",
+    "product-priceperunit": "31,33 €/kg",
+    "description": "LIZIKA ML.ČOK. LIZLI 15G"
+}

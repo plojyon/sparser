@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,87",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/gumijasti-bonboni-starmix-haribo-100g/p/587527",
+    "title": "GUMIJASTI BONBONI STARMIX, HARIBO, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,87",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Novateks 1 d.o.o., Ljubljana, Trpinčeva ulica 37a, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GUMIJASTI BONBONI Z OKUSOM SADJA",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "48,00 g",
+            "Total Carbohydrate": "76,00 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "6,20 g",
+            "Total Fat": "0,50 g",
+            "kcal": "334,00 ",
+            "Salt": "0,08 g",
+            "kJ": "1419,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "8,70 €/kg",
+    "teaser-text": "BON.GUM.STAR.HARIBO100G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BON.GUM.STAR.HARIBO100G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/587527/dt_main.jpg",
+    "product-brand": ""
+}

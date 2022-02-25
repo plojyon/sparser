@@ -1,0 +1,47 @@
+{
+    "product-priceperunit": "4,27 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "JOTA BREZ MESA 415G",
+    "teaser-text": "JOTA BREZ MESA 415G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "base-information": {
+            "neto-količina-plod:": "415G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,60 g",
+            "Saturated fat": "0,20 g",
+            "Total Carbohydrate": "7,20 g",
+            "kJ": "243,00 ",
+            "Protein": "2,40 g",
+            "Salt": "1,20 g",
+            "Sugar": "1,10 g",
+            "kcal": "58,00 ",
+            "Prehranske vlaknine": "2,60 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jota s kislim zeljem brez mesa",
+        "ingredient-information": {
+            "alergeni": "ZELENA, SOJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "415g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Jed iz pločevinke pretresite v posodo in pogrejte do vretja."
+        }
+    },
+    "url": "https://www.spar.si/online/jota-brez-mesa-natureta-415g/p/376489",
+    "product-insteadofprice": "1,77",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376489/dt_main.jpg",
+    "title": "JOTA BREZ MESA NATURETA, 415G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,77",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

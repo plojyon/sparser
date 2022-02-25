@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "0,21",
+    "product-priceperunit": "21,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RUMOV SLADKOR DOLCELA, PODRAVKA, 10G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za obogatitev okusa testa, nadevov, napitkov, sadnih solat, krem za sladice in desertov. Tri vrečke sladkorja z okusom ruma raztopite v 100 ml vode nadomestijo 100 ml ruma. Ena vrečka sladkorja z okusom ruma zadostuje za 200 ml čaja."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sladkor z okusom ruma",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, aroma."
+        },
+        "product-net-cont": {
+            "neto-količina": "10g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "98,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1660,00 ",
+            "Sugar": "94,00 g",
+            "kcal": "392,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SLADKOR RUMOV 10G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,21",
+    "teaser-text": "SLADKOR RUMOV 10G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rumov-sladkor-dolcela-podravka-10g/p/507139",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507139/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "15,00 g",
+            "Total Fat": "24,00 g",
+            "Total Carbohydrate": "64,00 g",
+            "Sugar": "28,00 g",
+            "Salt": "0,86 g",
+            "kJ": "2105,00 ",
+            "Protein": "6,30 g",
+            "kcal": "503,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "security-warning": {
+            "varnostna-opozorila": "Na proizvodni liniji v predelavi tudi lešniki in mandlji."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "130g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/keksi-kakao-hit-minis-bahlsen-130g/p/224227",
+    "product-price": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/224227/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KEKSI HIT MI.KAK.130G BK",
+    "product-stock-status": "",
+    "title": "KEKSI KAKAO HIT MINIS, BAHLSEN, 130G",
+    "product-priceperunit": "7,62 €/kg",
+    "description": "KEKSI HIT MI.KAK.130G BK"
+}

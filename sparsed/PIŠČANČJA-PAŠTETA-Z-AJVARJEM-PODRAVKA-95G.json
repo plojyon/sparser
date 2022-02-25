@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,35",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/piscancja-pasteta-z-ajvarjem-podravka-95g/p/602178",
+    "title": "PIŠČANČJA PAŠTETA Z AJVARJEM, PODRAVKA, 95G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,35",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "95g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,80 g",
+            "Total Carbohydrate": "4,50 g",
+            "Saturated fat": "2,60 g",
+            "Protein": "11,00 g",
+            "Total Fat": "22,00 g",
+            "kcal": "260,00 ",
+            "Salt": "1,20 g",
+            "kJ": "1078,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, JAJCA (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-priceperunit": "14,21 €/kg",
+    "teaser-text": "PAŠTETA Z AJVARJEM 95G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PAŠTETA Z AJVARJEM 95G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/602178/dt_main.jpg",
+    "product-brand": ""
+}

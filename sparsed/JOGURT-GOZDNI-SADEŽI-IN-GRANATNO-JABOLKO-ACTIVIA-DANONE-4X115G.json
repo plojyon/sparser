@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "460g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "neto-količina-plod:": "460G"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "JOGURT ACTIVIA - GOZDNI SADEŽI",
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "369,00 ",
+            "Saturated fat": "1,90 g",
+            "Protein": "3,90 g",
+            "Sugar": "10,90 g",
+            "Total Fat": "2,90 g",
+            "kcal": "88,00 ",
+            "Total Carbohydrate": "11,30 g",
+            "Salt": "0,18 g"
+        }
+    },
+    "product-priceperunit": "3,30 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jogurt-gozdni-sadezi-in-granatno-jabolko-activia-danone-4x115g/p/547245",
+    "product-price": "1,52",
+    "title": "JOGURT GOZDNI SADEŽI IN GRANATNO JABOLKO ACTIVIA, DANONE, 4X115G",
+    "description": "JOGURT ACTIVIA 4X115G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/547245/dt_main.jpg",
+    "teaser-text": "JOGURT ACTIVIA 4X115G"
+}

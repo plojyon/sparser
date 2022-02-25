@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "11,80 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "NAMAZ ABC KLASIK 100G",
+    "teaser-text": "NAMAZ ABC KLASIK 100G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 180,00 mikrogr. Kalcij 126,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "22,50 g",
+            "Saturated fat": "15,90 g",
+            "Total Carbohydrate": "3,00 g",
+            "kJ": "1009,00 ",
+            "Protein": "6,50 g",
+            "Salt": "0,80 g",
+            "Sugar": "3,00 g",
+            "kcal": "241,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ABC sveži kremni sir, min. 30% suhe snovi in min. 60% mlečne maščobe v suhi snovi",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/svezi-kremni-sir-klasik-abc-100g/p/377947",
+    "product-insteadofprice": "1,18",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377947/dt_main.jpg",
+    "title": "SVEŽI KREMNI SIR KLASIK, ABC, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,18",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

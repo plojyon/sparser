@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,69",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Palmitic Acid, Triethanolamine, Isopentane, Glyceryl Oleate, Stearic Acid, Glycerin, Isobutane, Sorbitol, Parfum, Hydroxyethylcellulose, PEG-90M, Menthol, Limonene, PEG-23M, Hexyl Cinnamal, Myristic Acid, Benzyl Salicylate, Linalool, Lauric Acid, Glyceryl Acrylate/Acrylic Acid Copolymer, Propylene Glycol, Butyrospermum Parkii Butter Extract, Silica, PVM/MA Copolymer, CI 42053, Methylparaben, CI 42090, Propylparaben, BHT."
+        },
+        "contact-information": {
+            "kontakt:": "Orbico d.o.o., Verovškova 72, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "21,35 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gel-za-britje-fusion5-ultra-sensitive-gillette-200ml/p/556589",
+    "product-price": "4,27",
+    "title": "GEL ZA BRITJE FUSION5 ULTRA SENSITIVE, GILLETTE, 200ML",
+    "description": "GEL ZA BRIT.GILLETTE",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/556589/dt_main.jpg",
+    "teaser-text": "GEL ZA BRIT.GILLETTE"
+}

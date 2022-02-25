@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,50 g",
+            "Total Fat": "3,20 g",
+            "Total Carbohydrate": "73,00 g",
+            "Sugar": "3,00 g",
+            "Salt": "2,30 g",
+            "kJ": "1563,00 ",
+            "Protein": "12,00 g",
+            "kcal": "369,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlinci z jajci",
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlinci-z-jajci-zito-250g/p/197266",
+    "product-price": "1,84",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/197266/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,84",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "MLINCI Z JAJCI 250G KRUH",
+    "product-stock-status": "",
+    "title": "MLINCI Z JAJCI, ŽITO, 250G",
+    "product-priceperunit": "7,36 €/kg",
+    "description": "MLINCI Z JAJCI 250G KRUH"
+}

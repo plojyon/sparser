@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "2,48 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MEŠANICA ZELENJAVE ZA FRANCOSKO SOLATO VALFRUTTA, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "STERILIZIRANA MEŠANA ZELENJAVA ZA FRANCOSKO SOLATO.",
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI - 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "zelenjava v spremenljivem deležu (krompir, korenje, grah), voda, jedilna sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,30 g",
+            "Total Carbohydrate": "7,00 g",
+            "Prehranske vlaknine": "3,00 g",
+            "Total Fat": "0,40 g",
+            "Protein": "1,80 g",
+            "kJ": "188,00 ",
+            "Sugar": "1,00 g",
+            "kcal": "45,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "ZELENJ.MEŠ.ZA FRANC.400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "ZELENJ.MEŠ.ZA FRANC.400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mesanica-zelenjave-za-francosko-solato-valfrutta-400g/p/48886",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48886/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "15,25 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "MANDELJNI OBLIT.ČOK.200G",
+    "teaser-text": "MANDELJNI OBLIT.ČOK.200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Mednarodni prehod 8, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "36,00 g",
+            "Saturated fat": "17,00 g",
+            "Total Carbohydrate": "48,00 g",
+            "kJ": "2380,00 ",
+            "Protein": "11,00 g",
+            "Salt": "0,40 g",
+            "Sugar": "41,00 g",
+            "kcal": "557,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČOKOLADNI BONBONI Z MANDELJNI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, MANDLJI, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/cokoladni-bonboni-z-mandeljni-bimed-200g/p/378118",
+    "product-insteadofprice": "3,05",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378118/dt_main.jpg",
+    "title": "ČOKOLADNI BONBONI Z MANDELJNI, BIMED, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,05",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

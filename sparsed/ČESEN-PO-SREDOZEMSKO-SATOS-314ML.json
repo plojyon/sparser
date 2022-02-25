@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "4,29",
+    "product-priceperunit": "13,66 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČESEN PO SREDOZEMSKO S.A.TOS, 314ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "FIN-TUN d.o.o., Perovo 55, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,31l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,80 g",
+            "Total Carbohydrate": "3,98 g",
+            "Prehranske vlaknine": "2,80 g",
+            "Total Fat": "5,60 g",
+            "Protein": "1,00 g",
+            "kJ": "367,00 ",
+            "Sugar": "0,88 g",
+            "kcal": "88,00 ",
+            "Saturated fat": "0,90 g"
+        }
+    },
+    "description": "ČESEN PO SRED.314ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,29",
+    "teaser-text": "ČESEN PO SRED.314ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cesen-po-sredozemsko-satos-314ml/p/513376",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513376/dt_main.jpg"
+}

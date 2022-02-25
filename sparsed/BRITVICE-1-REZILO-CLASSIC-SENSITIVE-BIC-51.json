@@ -1,0 +1,29 @@
+{
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "5kos"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "opis": "Britvice za britje.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/britvice-1-rezilo-classic-sensitive-bic-51/p/150704",
+    "product-price": "1,55",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/150704/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,55",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BRIVNIK BIC CLASSIC 5/1",
+    "product-stock-status": "",
+    "title": "BRITVICE 1 REZILO CLASSIC SENSITIVE, BIC, 5/1",
+    "product-priceperunit": "0,31 €/kos",
+    "description": "BRIVNIK BIC CLASSIC 5/1"
+}

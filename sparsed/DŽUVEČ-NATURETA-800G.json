@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "3,74 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "DŽUVEČ, NATURETA, 800G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Džuveč, zelenjava v paradižnikovi omaki",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "sestavine": "paprika 30,00 %, paradižnikov sok 20,00 %, paradižnik 18,00 %, jajčevci 9,00 %, čebula 9,00 %, korenje 7,00 %, grah 1,00 %, sončnično olje, jodirana sol, sladkor, peteršilj."
+        },
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,40 g",
+            "Total Carbohydrate": "5,40 g",
+            "Total Fat": "2,10 g",
+            "Protein": "2,00 g",
+            "kJ": "209,00 ",
+            "Sugar": "1,90 g",
+            "kcal": "50,00 ",
+            "Saturated fat": "0,30 g"
+        }
+    },
+    "description": "DŽUVEČ 800G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "DŽUVEČ 800G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/dzuvec-natureta-800g/p/466487",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/466487/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "8,20 g",
+            "Total Fat": "14,18 g",
+            "Total Carbohydrate": "3,60 g",
+            "Sugar": "1,60 g",
+            "Salt": "0,36 g",
+            "kJ": "751,00 ",
+            "Protein": "9,70 g",
+            "kcal": "181,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "DOMAČA SKUTA IZ SENENEGA MLEKA, 0,5L",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "opis": "Domača skuta iz pasteriziranega, polnomastnega senenega kravjega mleka. Glavna panoga kmetije je seneno mleko, za katerega so prvi v Sloveniji prejeli certifikat. Vsi njihovi izdelki so brez GSO in FFS, saj kmetujejo na naravi prijazen način.",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "Kmetija Reberšak, Osenca 18, 3000 Celje"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/domaca-skuta-iz-senenega-mleka-kmetija-rebersak-05l/p/593851",
+    "product-price": "3,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/593851/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "3,88",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "SKUTA 500G",
+    "product-stock-status": "",
+    "title": "DOMAČA SKUTA IZ SENENEGA MLEKA, KMETIJA REBERŠAK, 0,5L",
+    "product-priceperunit": "7,76 €/kg",
+    "description": "SKUTA 500G"
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,01 g",
+            "Salt": "0,08 g",
+            "Total Fat": "0,01 g",
+            "Total Carbohydrate": "87,00 g",
+            "Sugar": "0,00 g",
+            "Prehranske vlaknine": "0,01 g",
+            "kJ": "1479,00 ",
+            "Protein": "0,01 g",
+            "kcal": "354,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Naravno barvilo namenjeno peki peciva z dodatkom 1% betakarotena.",
+        "contact-information": {
+            "kontakt:": "Gorimpex d.o.o., Ižanska cesta 2, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "7g"
+        },
+        "ingredient-information": {
+            "sestavine": "koruzni škrob 99,00 %, naravno barvilo: betakaroten 1,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/naravno-barvilo-za-pecivo-gorimpex-7g/p/253091",
+    "product-price": "0,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/253091/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BARVILO NARAV.ZA PEC.7G",
+    "product-stock-status": "",
+    "title": "NARAVNO BARVILO ZA PECIVO, GORIMPEX, 7G",
+    "product-priceperunit": "27,14 €/kg",
+    "description": "BARVILO NARAV.ZA PEC.7G"
+}

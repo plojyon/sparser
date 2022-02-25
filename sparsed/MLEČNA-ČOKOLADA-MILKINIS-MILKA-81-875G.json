@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "22,00 g",
+            "Total Fat": "39,00 g",
+            "Total Carbohydrate": "52,00 g",
+            "Sugar": "51,50 g",
+            "Salt": "0,43 g",
+            "kJ": "2430,00 ",
+            "Protein": "5,00 g",
+            "kcal": "585,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z alpskim mlekom z mlečnim polnilom (50%).",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Mlečna čokolada vsebuje najmanj 30 % kakavovih delov.",
+        "product-net-cont": {
+            "neto-količina": "87,5g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecna-cokolada-milkinis-milka-81-875g/p/196093",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/196093/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČOK.MILKINIS 87.5G",
+    "product-stock-status": "",
+    "title": "MLEČNA ČOKOLADA MILKINIS, MILKA, 8/1, 87,5G",
+    "product-priceperunit": "13,52 €/kg",
+    "description": "ČOK.MILKINIS 87.5G"
+}

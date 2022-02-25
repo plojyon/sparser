@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,04",
+    "product-priceperunit": "1,04 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIROTKA, PLANIKA, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,11 g",
+            "Total Carbohydrate": "4,90 g",
+            "Total Fat": "0,40 g",
+            "Protein": "0,90 g",
+            "kJ": "113,00 ",
+            "Sugar": "4,00 g",
+            "kcal": "27,00 ",
+            "Saturated fat": "0,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "SIROTKA PLANIKA 1L",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,04",
+    "teaser-text": "SIROTKA PLANIKA 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sirotka-planika-1-l/p/472592",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472592/dt_main.jpg"
+}

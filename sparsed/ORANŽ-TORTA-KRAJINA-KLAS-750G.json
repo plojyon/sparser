@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "7,34",
+    "product-priceperunit": "9,79 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "ORANŽ TORTA KRAJINA KLAS, 750G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,30 g",
+            "Total Carbohydrate": "36,80 g",
+            "Prehranske vlaknine": "1,10 g",
+            "Total Fat": "17,60 g",
+            "Protein": "3,70 g",
+            "kJ": "1336,00 ",
+            "Sugar": "28,30 g",
+            "kcal": "318,20 ",
+            "Saturated fat": "14,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI."
+        },
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Krajina Klas d.o.o., Seidlova cesta 28, 8000 Novo mesto"
+        }
+    },
+    "description": "TORTA ORANŽ 750G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "7,34",
+    "teaser-text": "TORTA ORANŽ 750G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/oranz-torta-krajina-klas-750g/p/491039",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491039/dt_main.jpg"
+}

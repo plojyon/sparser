@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "38,33 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČAJ JANEŽ 30G KRTEK",
+    "teaser-text": "ČAJ JANEŽ 30G KRTEK",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "TIP TRADE, d.o.o., Kosovelova cesta 2, 1290 Grosuplje"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,10 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,10 g",
+            "kcal": "0,52 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČAJ ZA OTROKE, JANEŽ, KRTEK TREBUŠČEK, MATIK, 30 G, 20/1",
+        "ingredient-information": {
+            "sestavine": "plod janeža 40,00 %, anisi fructus, plod komarčka 30,00 %, foeniculi fructus, plod kumine 30,00 %, carvi fructus."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "30g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Filter vrečko prelijte z 2 dl vrele vode. Po osmih minutah vrečko odstranite. Topel čajni napitek ponudite otroku, po možnosti nesladkan."
+        }
+    },
+    "url": "https://www.spar.si/online/caj-za-otroke-janez-krtek-trebuscek-matik-30g-201/p/384579",
+    "product-insteadofprice": "1,15",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384579/dt_main.jpg",
+    "title": "ČAJ ZA OTROKE JANEŽ, KRTEK TREBUŠČEK, MATIK, 30G, 20/1",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,15",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

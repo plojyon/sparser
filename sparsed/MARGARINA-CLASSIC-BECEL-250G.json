@@ -1,0 +1,49 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "teaser-text": "MARGARINA BECEL 250G",
+    "description": "MARGARINA BECEL 250G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "za kuho in mazanje"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MASTINI NAMAZ 45% MAŠČOBE. ZA NAMAZ IN ZA KUHANJE. VEGANSKI",
+        "product-badges": {
+            "certifikati": "Vegan"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, rastlinska olja (45%) (sončnično (26%), laneno (11%), palmino, repično (2%)) 45,00 %, jedilna sol 0,50 %, emulgatorja (mono- in digliceridi maščobnih kislin, sončnični lecitin), sredstvo za uravnavanje kislosti (citronska kislina), naravna aroma, vitamini (a, d), barvilo (karoteni)."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 800,00 mikrogr. Vitamin D 7,50 mikrogr. Vitamin E 14,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1665,00 ",
+            "Salt": "0,50 g",
+            "Sugar": "0,50 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "45,00 g",
+            "kcal": "398,00 ",
+            "Saturated fat": "9,10 g",
+            "Protein": "0,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic Trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "title": "MARGARINA CLASSIC, BECEL, 250G",
+    "url": "https://www.spar.si/online/margarina-classic-becel-250g/p/395798",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,96 €/kg",
+    "product-insteadofprice": "1,49",
+    "product-stock-status": "",
+    "product-price": "1,49",
+    "product-brand": "",
+    "product-promotionBadges": "Vegan",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395798/dt_main.jpg"
+}

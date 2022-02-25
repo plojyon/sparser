@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "4,84 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SKUTA 10%M.M. 500G",
+    "teaser-text": "SKUTA 10%M.M. 500G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "9,80 g",
+            "Saturated fat": "6,20 g",
+            "Total Carbohydrate": "4,40 g",
+            "kJ": "602,00 ",
+            "Protein": "9,70 g",
+            "Salt": "0,08 g",
+            "Sugar": "4,40 g",
+            "kcal": "144,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92. 3301 Petrovče"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/domaca-skuta-nepasirana-posneta-zelene-doline-500-g/p/377207",
+    "product-insteadofprice": "2,42",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377207/dt_main.jpg",
+    "title": "DOMAČA SKUTA, NEPASIRANA, POSNETA, ZELENE DOLINE, 500 G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,42",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SIR PARMEZAN TOPLJ 140G",
+    "description": "SIR PARMEZAN TOPLJ 140G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "878,00 ",
+            "Salt": "1,75 g",
+            "Sugar": "5,00 g",
+            "Total Carbohydrate": "5,00 g",
+            "Total Fat": "15,00 g",
+            "kcal": "217,00 ",
+            "Saturated fat": "10,50 g",
+            "Protein": "14,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 200,00 mikrogr. Kalcij 430,00 mg, Fosfor 290,00 mg."
+        },
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        }
+    },
+    "title": "TOPLJENI SIR, PARMEZAN, REGGIANO, 140 G, 8/1",
+    "url": "https://www.spar.si/online/topljeni-sir-parmezan-reggiano-140-g-81/p/431910",
+    "isOnPromotion": "false",
+    "product-priceperunit": "13,50 €/kg",
+    "product-insteadofprice": "1,89",
+    "product-stock-status": "",
+    "product-price": "1,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/431910/dt_main.jpg"
+}

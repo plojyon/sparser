@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "3,48 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR SALSA BBQ 330G",
+    "teaser-text": "SPAR SALSA BBQ 330G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,20 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "35,00 g",
+            "kJ": "635,00 ",
+            "Protein": "1,00 g",
+            "Salt": "3,80 g",
+            "Sugar": "30,50 g",
+            "kcal": "150,00 ",
+            "Prehranske vlaknine": "2,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Paradižnikova žar omaka.",
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, paradižnikov koncentrat 15,70 %, alkoholni kis, modificiran koruzni zdrob, jedilna sol, sirup karameliziranega sladkorja, arome (vsebujejo ojačevalce arome: E621, E627, E631), aroma dima, začimbe, česen 0,10 %."
+        }
+    },
+    "url": "https://www.spar.si/online/omaka-salsa-barbecue-spar-330g/p/368717",
+    "product-insteadofprice": "1,15",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368717/dt_main.jpg",
+    "title": "OMAKA SALSA BARBECUE SPAR, 330G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,15",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

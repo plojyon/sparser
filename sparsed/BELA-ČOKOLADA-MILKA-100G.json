@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "18,00 g",
+            "Total Fat": "29,50 g",
+            "Total Carbohydrate": "63,00 g",
+            "Sugar": "63,00 g",
+            "Salt": "0,18 g",
+            "kJ": "2255,00 ",
+            "Protein": "4,80 g",
+            "kcal": "540,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bela čokolada.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bela-cokolada-milka-100g/p/13561",
+    "product-price": "1,22",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/13561/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,22",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČOK.MILKA BELA 100G",
+    "product-stock-status": "",
+    "title": "BELA ČOKOLADA, MILKA, 100G",
+    "product-priceperunit": "12,20 €/kg",
+    "description": "ČOK.MILKA BELA 100G"
+}

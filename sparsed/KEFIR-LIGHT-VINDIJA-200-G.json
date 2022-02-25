@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "KEFIR LIGHT VINDIJA 200G",
+    "description": "KEFIR LIGHT VINDIJA 200G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kefir light z 0,9% mlečne maščobe.",
+        "opis": "/",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 120,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "176,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "4,80 g",
+            "Total Carbohydrate": "4,80 g",
+            "Total Fat": "0,90 g",
+            "kcal": "41,00 ",
+            "Saturated fat": "0,60 g",
+            "Protein": "3,60 g"
+        },
+        "contact-information": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "title": "KEFIR, LIGHT, VINDIJA, 200 G",
+    "url": "https://www.spar.si/online/kefir-light-vindija-200-g/p/431456",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,55 €/kg",
+    "product-insteadofprice": "0,51",
+    "product-stock-status": "",
+    "product-price": "0,51",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/431456/dt_main.jpg"
+}

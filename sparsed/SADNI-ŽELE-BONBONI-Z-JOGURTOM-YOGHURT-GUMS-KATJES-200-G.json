@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-priceperunit": "6,45 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNI ŽELE BONBONI, Z JOGURTOM, YOGHURT GUMS, KATJES, 200 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "74,00 g",
+            "Total Fat": "0,20 g",
+            "Protein": "1,90 g",
+            "kJ": "1338,00 ",
+            "Sugar": "52,00 g",
+            "kcal": "315,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "BON.JOGURT GUMS 200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,29",
+    "teaser-text": "BON.JOGURT GUMS 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadni-zele-bonboni-z-jogurtom-yoghurt-gums-katjes-200-g/p/448519",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/448519/dt_main.jpg"
+}

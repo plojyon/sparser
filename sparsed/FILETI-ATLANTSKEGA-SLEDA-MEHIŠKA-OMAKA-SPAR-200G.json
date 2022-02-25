@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "4,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "FILETI ATLANTSKEGA SLEDA MEHIŠKA OMAKA, SPAR, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "120G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "ATLANTSKI SLED V MEHIŠKI OMAKI.",
+        "opis": "Ribolovno območje: Severovzhodni Atlantik FAO 27Ribolovno orodje: obkroževalne mreže in dvižne mreže.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE, MLEKO, GORČIČNO SEME, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Clupea harengus"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,70 g",
+            "Total Carbohydrate": "4,40 g",
+            "Prehranske vlaknine": "1,20 g",
+            "Total Fat": "16,00 g",
+            "Protein": "13,00 g",
+            "kJ": "879,00 ",
+            "Sugar": "2,50 g",
+            "kcal": "216,00 ",
+            "Saturated fat": "2,60 g"
+        }
+    },
+    "description": "SPAR SLANIK MEH.O. 200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "SPAR SLANIK MEH.O. 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/fileti-atlantskega-sleda-mehiska-omaka-spar-200g/p/474531",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/474531/dt_main.jpg"
+}

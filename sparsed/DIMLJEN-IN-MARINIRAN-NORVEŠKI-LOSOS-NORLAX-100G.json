@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "50,90 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "LOSOS DIM.NORV.MARI.100G",
+    "teaser-text": "LOSOS DIM.NORV.MARI.100G",
+    "product-info": {
+        "trade-group": {
+            "latinsko-ime": "Zvrst: salmo salar"
+        },
+        "contact-information": {
+            "kontakt:": "AL PONTE, d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "11,00 g",
+            "Saturated fat": "1,50 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "750,00 ",
+            "Protein": "20,00 g",
+            "Salt": "3,00 g",
+            "Sugar": "1,00 g",
+            "kcal": "180,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "DIMLJEN IN MARINIRAN NORVEŠKI LOSOS 100G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        }
+    },
+    "url": "https://www.spar.si/online/dimljen-in-mariniran-norveski-losos-norlax-100g/p/362099",
+    "product-insteadofprice": "5,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/362099/dt_main.jpg",
+    "title": "DIMLJEN IN MARINIRAN NORVEŠKI LOSOS, NORLAX, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

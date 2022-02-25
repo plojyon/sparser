@@ -1,0 +1,29 @@
+{
+    "product-insteadofprice": "1,25",
+    "product-priceperunit": "2,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "DOMAČI NARAVNI JOGURT SIRARSTVO KRAMAR, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Živilo je skladno z zahtevami zasebnega standarda ¨Seneno mleko¨/ ¨Seneno meso¨. Živilo je skladno z zahtevami zasebnega standarda ¨Pridelano/ proizvedeno brez GSO- brez gensko spremenjenih organizmov¨. ¨Kontrolira IKC UM¨.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Sirarstvo Kramar, David Klinkon, Zatolmin 18, 5220 Tolmin"
+        }
+    },
+    "description": "JOGURT NARAVNI 500G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,25",
+    "teaser-text": "JOGURT NARAVNI 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domaci-naravni-jogurt-sirarstvo-kramar-500g/p/508434",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/508434/dt_main.jpg"
+}

@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "0,84 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "NAPITEK S HRUŠKOVO KAŠO, DESPAR, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresemo."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "opis": "Sadni delež: 50%.",
+        "ingredient-information": {
+            "sestavine": "hruškova kaša 50%, voda, sladkor, kislina: citronska kislina, antioksidant: askorbinska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "12,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "217,00 ",
+            "Sugar": "12,00 g",
+            "kcal": "51,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DESPAR NAPITEK HRUŠ.1LTZ",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,84",
+    "teaser-text": "DESPAR NAPITEK HRUŠ.1LTZ",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/napitek-s-hruskovo-kaso-despar-1l/p/491923",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491923/dt_main.jpg"
+}

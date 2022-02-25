@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "ingredient-information": {
+            "sestavine": "hibiskus, jabolka, šipek, plod črnega ribeza, aroma, plod bezga, plod borovnice."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/caj-gozdni-sadezi-1001-cvet-201-50g/p/195099",
+    "product-price": "1,82",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/195099/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,82",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČAJ GOZDNE 1001 50G",
+    "product-stock-status": "",
+    "title": "ČAJ GOZDNI SADEŽI, 1001 CVET, 20/1, 50G",
+    "product-priceperunit": "36,40 €/kg",
+    "description": "ČAJ GOZDNE 1001 50G"
+}

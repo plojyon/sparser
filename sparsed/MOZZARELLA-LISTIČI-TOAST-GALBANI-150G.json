@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,93",
+    "product-priceperunit": "12,87 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "MOZZARELLA LISTIČI TOAST, GALBANI, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "140G"
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        },
+        "opis": "Mozzarella topljeni sir v lističih - za slastne, tople zalogaje.Popolna topljivost mozzarelle je neprekosljiva kombinacija za okusne, tople sendviče in slastne grižljaje.",
+        "ingredient-information": {
+            "alergeni": "MLEKO, JAJCA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,40 g",
+            "Total Carbohydrate": "3,00 g",
+            "Total Fat": "19,50 g",
+            "Protein": "16,50 g",
+            "kJ": "1053,00 ",
+            "Sugar": "3,00 g",
+            "kcal": "254,00 ",
+            "Saturated fat": "14,00 g"
+        }
+    },
+    "description": "SIR MOZZARELLA LIST 150G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,93",
+    "teaser-text": "SIR MOZZARELLA LIST 150G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mozzarella-listici-toast-galbani-150g/p/494043",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/494043/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,83",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/kapsule-cappuccino-perfetto-barcaffe-120g/p/574204",
+    "title": "KAPSULE CAPPUCCINO PERFETTO, BARCAFFE, 120G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,83",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ATLANTIC TRADE D.O.O., KOLINSKA ULICA 1, 1000 LJUBLJANA"
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Saturated fat": "13,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "15,00 g",
+            "kcal": "412,00 ",
+            "Salt": "0,00 g",
+            "kJ": "1723,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "product-priceperunit": "31,92 €/kg",
+    "teaser-text": "KAP.BARCAFFE CAPPUC.120G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "KAP.BARCAFFE CAPPUC.120G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/574204/dt_main.jpg",
+    "product-brand": ""
+}

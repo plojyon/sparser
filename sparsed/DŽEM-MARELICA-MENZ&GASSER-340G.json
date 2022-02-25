@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "6,03 €/g",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "DŽEM MARELICA 340G",
+    "teaser-text": "DŽEM MARELICA 340G",
+    "product-info": {
+        "contact-information": {},
+        "security-warning": {
+            "varnostna-opozorila": "Zaradi uporabe celih sadežev ali koščkov sadja, so lahko v izdelku prisotni ostanki koščic."
+        },
+        "opis": "Ekstra džem marelica, pripravljen iz 50 g marelic na 100 g izdelka. BREZ GLUTENA.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "59,00 g",
+            "kJ": "1031,00 ",
+            "Protein": "0,50 g",
+            "Salt": "0,10 g",
+            "Sugar": "54,00 g",
+            "kcal": "243,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "0,34g"
+        },
+        "ingredient-information": {
+            "sestavine": "marelice, sladkor, glukozno-fruktozni sirup, želirno sredstvo: pektin, sredstvo za uravnavanje kislosti: citronska kislina."
+        }
+    },
+    "url": "https://www.spar.si/online/dzem-marelica-menzgasser-340g/p/364114",
+    "product-insteadofprice": "2,05",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364114/dt_main.jpg",
+    "title": "DŽEM MARELICA MENZ&GASSER, 340G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,05",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

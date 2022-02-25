@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "1,26 €/kg",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR JOGURT NAVADNI 500G",
+    "teaser-text": "SPAR JOGURT NAVADNI 500G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "3,20 g",
+            "Saturated fat": "2,10 g",
+            "Total Carbohydrate": "4,30 g",
+            "kJ": "248,00 ",
+            "Protein": "3,30 g",
+            "Salt": "0,13 g",
+            "Sugar": "4,30 g",
+            "kcal": "59,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/tekoci-navadni-jogurt-32-spar-500g/p/369899",
+    "product-insteadofprice": "0,63",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/369899/dt_main.jpg",
+    "title": "TEKOČI NAVADNI JOGURT 3,2%, SPAR, 500G",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,63",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

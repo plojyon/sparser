@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MAJONEZA ZVIJEZDA 90G",
+    "description": "MAJONEZA ZVIJEZDA 90G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Majoneza",
+        "ingredient-information": {
+            "alergeni": "JAJCA, GORČIČNO SEME, LEŠNIKI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "90g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2942,00 ",
+            "Salt": "1,40 g",
+            "Sugar": "1,50 g",
+            "Total Carbohydrate": "2,30 g",
+            "Total Fat": "78,00 g",
+            "kcal": "715,00 ",
+            "Saturated fat": "10,00 g",
+            "Protein": "1,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        }
+    },
+    "title": "TRADICIONALNA MAJONEZA, ZVIJEZDA, 90G",
+    "url": "https://www.spar.si/online/tradicionalna-majoneza-zvijezda-90g/p/417400",
+    "isOnPromotion": "false",
+    "product-priceperunit": "10,89 €/kg",
+    "product-insteadofprice": "0,98",
+    "product-stock-status": "",
+    "product-price": "0,98",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/417400/dt_main.jpg"
+}

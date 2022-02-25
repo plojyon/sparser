@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,25",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/jesprenj-zlato-polje-1kg/p/567161",
+    "title": "JEŠPRENJ, ZLATO POLJE, 1KG",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,25",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,00 g",
+            "Total Carbohydrate": "63,30 g",
+            "Saturated fat": "0,50 g",
+            "Protein": "11,20 g",
+            "Total Fat": "2,10 g",
+            "kcal": "314,00 ",
+            "Salt": "0,04 g",
+            "kJ": "1331,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "2,25 €/kg",
+    "teaser-text": "JEŠPRENJ ZLATO POLJE 1KG",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "JEŠPRENJ ZLATO POLJE 1KG",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/567161/dt_main.jpg",
+    "product-brand": ""
+}

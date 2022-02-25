@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "15,96 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR FF PREPEČEN.250G",
+    "teaser-text": "SPAR FF PREPEČEN.250G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "11,00 g",
+            "Saturated fat": "1,80 g",
+            "Total Carbohydrate": "78,00 g",
+            "kJ": "1802,00 ",
+            "Protein": "1,00 g",
+            "Salt": "1,70 g",
+            "Sugar": "4,40 g",
+            "kcal": "428,00 ",
+            "Prehranske vlaknine": "6,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, SOJA (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/prepecenec-brez-glutena-spar-free-from-250g/p/376870",
+    "product-insteadofprice": "3,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376870/dt_main.jpg",
+    "title": "PREPEČENEC BREZ GLUTENA, SPAR FREE FROM, 250G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

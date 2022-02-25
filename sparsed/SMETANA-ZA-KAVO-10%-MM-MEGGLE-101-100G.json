@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "4,90 €/kg",
+    "title": "SMETANA ZA KAVO 10% M.M., MEGGLE, 10/1, 100G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Smetana za kavo 10% m.m., UVT, homogenizirano.",
+        "povprečna-hranilna-vrednost": {
+            "kcal": "119,00 ",
+            "Total Fat": "10,00 g",
+            "Salt": "0,10 g",
+            "Sugar": "4,30 g",
+            "kJ": "498,00 ",
+            "Protein": "3,20 g",
+            "Saturated fat": "5,90 g",
+            "Total Carbohydrate": "4,30 g"
+        },
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-stock-status": "",
+    "product-price": "0,49",
+    "product-badge-hostname": "https://www.spar.si",
+    "url": "https://www.spar.si/online/smetana-za-kavo-10-mm-meggle-101-100g/p/133104",
+    "product-amount": "",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "description": "SMETANA ZA KAVO 10X10G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/133104/dt_main.jpg",
+    "isOnPromotion": "true",
+    "product-insteadofprice": "0,66",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "teaser-text": "SMETANA ZA KAVO 10X10G"
+}

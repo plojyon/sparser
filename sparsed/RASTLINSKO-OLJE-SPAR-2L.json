@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "12,00 g",
+            "Total Fat": "100,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR rastlinsko olje jedilno rafinirano",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "ingredient-information": {
+            "sestavine": "jedilno rafinirano sončnično olje, jedilno rafinirano sojino olje, jedilno rafinirano repično olje."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rastlinsko-olje-spar-2l/p/273656",
+    "product-price": "4,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/273656/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "4,09",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR RASTLINSKO OLJE 2L",
+    "product-stock-status": "",
+    "title": "RASTLINSKO OLJE, SPAR, 2L",
+    "product-priceperunit": "2,05 €/l",
+    "description": "SPAR RASTLINSKO OLJE 2L"
+}

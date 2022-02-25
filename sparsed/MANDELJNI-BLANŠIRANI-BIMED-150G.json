@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "3,15",
+    "product-priceperunit": "21,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MANDELJNI BLANŠIRANI BIMED, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 20,00 mg, Vitamin B1 (Tiamin) 0,24 mg, Vitamin B2 (Riboflavin) 0,67 mg, 0,10 mg, Vitamin M (Folna kislina) 0,05 mikrogr. Kalij 860,00 mg, Kalcij 254,00 mg, Fosfor 454,00 mg, Magnezij 258,00 mg, Železo 4,20 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Blanširani MANDELJNI",
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Mednarodni prehod 8, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "ingredient-information": {
+            "alergeni": "MANDLJI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "10,00 g",
+            "Total Fat": "54,00 g",
+            "Protein": "24,00 g",
+            "kJ": "2508,00 ",
+            "Sugar": "6,90 g",
+            "kcal": "600,00 ",
+            "Saturated fat": "4,20 g"
+        }
+    },
+    "description": "MANDEL.BELI BIMED150G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,15",
+    "teaser-text": "MANDEL.BELI BIMED150G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mandeljni-blansirani-bimed-150g/p/498626",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498626/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "11,00 g",
+            "Sugar": "11,00 g",
+            "Salt": "0,10 g",
+            "kJ": "194,00 ",
+            "Protein": "0,00 g",
+            "kcal": "46,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RED BULL energijska pijača - visoka vsebnost kofeina.",
+        "contact-information": {
+            "kontakt:": "ROISS d.o.o., Letališka cesta 14, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B3 (Niacin) 8,00 mg, Vitamin B6 2,00 mg, Vitamin B12 2,00 mikrogr. Vitamin B5 (Pantotenska kislina) 2,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, saharoza, glukoza, kislina (citronska kislina), ogljikov dioksid, tavrin 0,40 %, sredstvo za uravnavanje kislosti (natrijevi karbonati, magnezijev karbonat), kofein 0,03 %, vitamini (niacin, pantotenska kislina, vitamin b6, vitamin b12), arome, barvila (karamel, riboflavin)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/energijski-napitek-red-bull-4x250ml/p/210666",
+    "product-price": "5,26",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/210666/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "5,26",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "RED BULL 4X0,25L",
+    "product-stock-status": "",
+    "title": "ENERGIJSKI NAPITEK RED BULL, 4X250ML",
+    "product-priceperunit": "5,26 €/l",
+    "description": "RED BULL 4X0,25L"
+}

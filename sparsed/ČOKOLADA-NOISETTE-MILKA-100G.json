@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,19",
+    "product-priceperunit": "11,90 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČOKOLADA NOISETTE, MILKA, 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z alpskim mlekom z lešnikovo pasto.",
+        "opis": "Lahko vsebuje druge oreščke in pšenico.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,32 g",
+            "Total Carbohydrate": "53,00 g",
+            "Total Fat": "34,00 g",
+            "Protein": "7,50 g",
+            "kJ": "2291,00 ",
+            "Sugar": "51,00 g",
+            "kcal": "549,00 ",
+            "Saturated fat": "16,00 g"
+        }
+    },
+    "description": "ČOK.MILKA NOISETTE 100G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,19",
+    "teaser-text": "ČOK.MILKA NOISETTE 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cokolada-noisette-milka-100g/p/46646",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/46646/dt_main.jpg"
+}

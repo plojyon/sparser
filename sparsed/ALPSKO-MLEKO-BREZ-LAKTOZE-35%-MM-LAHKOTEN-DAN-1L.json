@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,68",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ALPSKO ML. BREZ LAKTOZE 3,5% 1L TBA EDGE",
+        "ingredient-information": {
+            "sestavine": "POLNOMASTNO MLEKO BREZ LAKTOZE."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "266,00 ",
+            "Saturated fat": "2,30 g",
+            "Protein": "3,30 g",
+            "Sugar": "4,70 g",
+            "Total Fat": "3,50 g",
+            "kcal": "64,00 ",
+            "Total Carbohydrate": "4,70 g",
+            "Salt": "0,12 g"
+        }
+    },
+    "product-priceperunit": "1,68 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/alpsko-mleko-brez-laktoze-35-mm-lahkoten-dan-1l/p/511978",
+    "product-price": "1,68",
+    "title": "ALPSKO MLEKO BREZ LAKTOZE 3,5% M.M. LAHKOTEN DAN, 1L",
+    "description": "MLEKO ALPSKO BREZ LA 1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/511978/dt_main.jpg",
+    "teaser-text": "MLEKO ALPSKO BREZ LA 1L"
+}

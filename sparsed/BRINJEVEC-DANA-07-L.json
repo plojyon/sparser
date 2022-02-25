@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BRINJEVEC DANA 0,7L",
+    "description": "BRINJEVEC DANA 0,7L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Brinjevec - izdelek z geografskim poreklom.",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura / room temperature"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "916,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "221,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "DANA d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "BRINJEVEC, DANA, 0,7 L",
+    "url": "https://www.spar.si/online/brinjevec-dana-07-l/p/398812",
+    "isOnPromotion": "false",
+    "product-priceperunit": "27,70 €/l",
+    "product-insteadofprice": "19,39",
+    "product-stock-status": "",
+    "product-price": "19,39",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/398812/dt_main.jpg"
+}

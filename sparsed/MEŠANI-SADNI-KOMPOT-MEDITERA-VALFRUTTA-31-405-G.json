@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KOMPOT MEŠ.SADJE 3X135G",
+    "description": "KOMPOT MEŠ.SADJE 3X135G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MEŠANI SADNI KOMPOT S POMARANČNIM SOKOM 3X135g VALFRUTTA",
+        "opis": "/",
+        "ingredient-information": {
+            "sestavine": "sadje (breskev, hruška, ananas, grozdje) 63,00 %, pomarančni sok 7,00 %, voda, glukozno fruktozni sirup, sladkor, regulator kislosti: citronska kislina, antioksidant: l - askorbinska kislina."
+        },
+        "base-information": {
+            "neto-količina-plod:": "405G"
+        },
+        "product-net-cont": {
+            "neto-količina": "405g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "277,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "15,00 g",
+            "Total Carbohydrate": "15,00 g",
+            "Total Fat": "0,10 g",
+            "kcal": "65,00 ",
+            "Prehranske vlaknine": "1,40 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,40 g"
+        },
+        "contact-information": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "MEŠANI SADNI KOMPOT, MEDITERA, VALFRUTTA, 3/1, 405 G",
+    "url": "https://www.spar.si/online/mesani-sadni-kompot-meditera-valfrutta-31-405-g/p/403753",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,35 €/kg",
+    "product-insteadofprice": "2,57",
+    "product-stock-status": "",
+    "product-price": "2,57",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/403753/dt_main.jpg"
+}

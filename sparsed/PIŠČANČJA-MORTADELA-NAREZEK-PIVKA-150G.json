@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "3,10 g",
+            "Total Fat": "10,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Sugar": "1,00 g",
+            "Salt": "2,20 g",
+            "kJ": "725,00 ",
+            "Protein": "15,00 g",
+            "kcal": "175,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PASTERILIZIRANA MESNINA - POLTRAJNA  KLOBASA IZ PIŠČANČJEGA MESA",
+        "contact-information": {
+            "kontakt:": "Pivka d.d., Kal 1, 6257 Pivka"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "sestavine": "piščančje meso 45,00 %, mehansko izkoščeno piščančje meso 21,00 %, piščančje kožice 20,00 %, piščančji file 5,00 %, voda, krompirjev škrob, riževa moka, nejodirana sol, stabilizatorji (e450, E451, E516, E452), želirno sredstvo (e401), začimbe, antioksidant (e301), arome, emulgator (e471), konzervans (e250)."
+        },
+        "trade-group": {
+            "vrsta-mesa": "piščančje meso"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancja-mortadela-narezek-pivka-150g/p/604780",
+    "product-price": "1,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/604780/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "2,69",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "NAREZEK PIŠČ. MORT.150g",
+    "product-stock-status": "",
+    "title": "PIŠČANČJA MORTADELA NAREZEK, PIVKA, 150G",
+    "product-priceperunit": "12,53 €/kg",
+    "description": "NAREZEK PIŠČ. MORT.150g"
+}

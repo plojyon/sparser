@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "DESPAR PARAD.KOŠČ.3X400G",
+    "description": "DESPAR PARAD.KOŠČ.3X400G",
+    "product-info": {
+        "opis": "Koščki paradižnika.",
+        "ingredient-information": {
+            "sestavine": "paradižnik, paradižnikov sok, sol, sredstvo za uravnavanje kislosti:citronska kislina."
+        },
+        "base-information": {
+            "neto-količina-plod:": "720G"
+        },
+        "product-net-cont": {
+            "neto-količina": "1,2kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "89,00 ",
+            "Salt": "0,15 g",
+            "Sugar": "3,90 g",
+            "Total Carbohydrate": "3,90 g",
+            "Total Fat": "0,00 g",
+            "kcal": "22,00 ",
+            "Prehranske vlaknine": "1,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "PARADIŽNIK V PARADIŽNIKOVEM SOKU DESPAR, 3X400G",
+    "url": "https://www.spar.si/online/paradiznik-v-paradiznikovem-soku-despar-3x400g/p/426236",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,32 €/kg",
+    "product-insteadofprice": "1,58",
+    "product-stock-status": "",
+    "product-price": "1,58",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/426236/dt_main.jpg"
+}

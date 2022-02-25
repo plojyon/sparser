@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "3,39",
+    "product-priceperunit": "12,11 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "HRENOVKA V NARAVNEM OVOJU, MESO KAMNIK, 280G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hrenovke v naravnem ovoju Anton 280 g",
+        "contact-information": {
+            "kontakt:": "MESO KAMNIK d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "sestavine": "goveje meso, svinjsko mastno tkivo, svinjsko meso, grahove vlaknine, sol, naravne začimbe, dekstroza, začimbni ekstrakti, antioksidant: e300, stabilizator: e450, e451, konzervans: e250."
+        },
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "30,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,60 g",
+            "Total Carbohydrate": "0,30 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "21,70 g",
+            "Protein": "15,10 g",
+            "kJ": "1065,00 ",
+            "Sugar": "0,20 g",
+            "kcal": "257,00 ",
+            "Saturated fat": "9,00 g"
+        }
+    },
+    "description": "HRENOVKE V NARAVNEM OVOJ",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,39",
+    "teaser-text": "HRENOVKE V NARAVNEM OVOJ",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/hrenovka-v-naravnem-ovoju-meso-kamnik-280g/p/470019",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/470019/dt_main.jpg"
+}

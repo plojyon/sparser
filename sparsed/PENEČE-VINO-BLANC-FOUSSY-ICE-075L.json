@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "7,99",
+    "product-priceperunit": "10,65 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PENEČE VINO BLANC FOUSSY, ICE, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Ni posebnih navodil za uporabo."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PENEČE VINO BLANC FOUSSY ICE 0,75L",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "security-warning": {
+            "varnostna-opozorila": "Živilo ni primerno za otroke."
+        },
+        "opis": "Peneče vino, polsuho Barva: bela Vonj: po sadju - citrusih Okus: saden in osvežilen  Spajanje s hrano: lahko je aperitiv, odlično pa se poda k desertom ali morski hrani.  Temperatura serviranja: 4-6 °C",
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,00 vol. %"
+        }
+    },
+    "description": "PEN.V. BLA.FOUSSY 0,75",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,99",
+    "teaser-text": "PEN.V. BLA.FOUSSY 0,75",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/penece-vino-blanc-foussy-ice-075l/p/509458",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509458/dt_main.jpg"
+}

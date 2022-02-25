@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/cajno-pecivo-kokos-brez-sladkorja-spar-vital-175g/p/579134",
+    "title": "ČAJNO PECIVO KOKOS BREZ SLADKORJA, SPAR VITAL, 175G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Prekomerno uživanje ima lahko odvajalni učinek."
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,10 g",
+            "Total Carbohydrate": "56,00 g",
+            "Prehranske vlaknine": "11,00 g",
+            "Saturated fat": "14,00 g",
+            "Protein": "5,50 g",
+            "Total Fat": "25,00 g",
+            "kcal": "449,00 ",
+            "Salt": "0,20 g",
+            "kJ": "1865,00 "
+        }
+    },
+    "product-priceperunit": "11,37 €/kg",
+    "teaser-text": "SPAR VITAL PEC.ČAJ.75G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR VITAL PEC.ČAJ.75G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/579134/dt_main.jpg",
+    "product-brand": ""
+}

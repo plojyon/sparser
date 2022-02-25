@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,24 g",
+            "Salt": "0,00 g",
+            "Total Fat": "1,00 g",
+            "Total Carbohydrate": "77,00 g",
+            "Sugar": "0,20 g",
+            "Prehranske vlaknine": "1,30 g",
+            "kJ": "1465,00 ",
+            "Protein": "6,40 g",
+            "kcal": "345,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Brušen (beli) riž.",
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "ingredient-information": {
+            "sestavine": "brušen beli riž."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/riz-zlato-polje-800g/p/205593",
+    "product-price": "1,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/205593/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,79",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "RIŽ 800G ZLATO POLJE",
+    "product-stock-status": "",
+    "title": "RIŽ, ZLATO POLJE, 800G",
+    "product-priceperunit": "2,24 €/kg",
+    "description": "RIŽ 800G ZLATO POLJE"
+}

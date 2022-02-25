@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,59",
+    "product-priceperunit": "35,33 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BELJAKOVINSKA PLOŠČICA MEDEX, 45G",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {},
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "opis": "Z drobno razvado v obliki ploščice lahko s pomočjo beljakovin, ki jih vsebuje, gradimo in oblikujemo tako naše telo kot naš vsakdan. V Medexu smo razvili beljak...",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), SEZAM (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "45g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,95 g",
+            "Total Carbohydrate": "25,00 g",
+            "Prehranske vlaknine": "9,50 g",
+            "Total Fat": "11,00 g",
+            "Protein": "39,00 g",
+            "kJ": "1436,00 ",
+            "Sugar": "2,30 g",
+            "kcal": "343,00 ",
+            "Saturated fat": "5,80 g"
+        }
+    },
+    "description": "PLOŠČ.BELJ.BANAN.45G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,59",
+    "teaser-text": "PLOŠČ.BELJ.BANAN.45G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/beljakovinska-ploscica-medex-45g/p/488373",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/488373/dt_main.jpg"
+}

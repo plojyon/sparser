@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "1,20 €/kg",
+    "product-promotionBadges": "Zamrznjeno",
+    "isOnPromotion": "false",
+    "description": "SPAR PAS. ŠPINAČA 350G",
+    "teaser-text": "SPAR PAS. ŠPINAČA 350G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,80 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "0,50 g",
+            "kJ": "108,00 ",
+            "Protein": "3,10 g",
+            "Salt": "0,05 g",
+            "Sugar": "0,20 g",
+            "kcal": "26,00 ",
+            "Prehranske vlaknine": "2,10 g"
+        },
+        "opis": "/",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pasirana špinača, hitro zamrznjena.",
+        "ingredient-information": {
+            "sestavine": "pasirana špinača, blanširana."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priprava v posodi: Odstranimo embalažo in v posodo damo zamrznjeno špinačo in 3 žlice vode. Pokrito odtajamo na najnižji temperaturi 15 minut. Zavremo in kuhamo 1 do 2 minuti. Vmes večkrat premešamo. Začinimo po želji. Priprava v mikrovalovni pečici: Odstranimo embalažo in zamrznjeno špinačo damo v posodo, primerno za mikrovalovno pečico. Pokrito segrevamo pri 700 W 10 do 12 minut. Proti koncu segrevanja premešamo."
+        }
+    },
+    "url": "https://www.spar.si/online/pasirana-spinaca-spar-350g/p/385870",
+    "product-insteadofprice": "0,42",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/385870/dt_main.jpg",
+    "title": "PASIRANA ŠPINAČA SPAR, 350G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,42",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,46 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,60 g",
+            "Total Fat": "20,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Sugar": "0,00 g",
+            "Salt": "2,50 g",
+            "kJ": "230,00 ",
+            "Protein": "12,00 g",
+            "kcal": "953,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR HRENOVKA PURANJA 210G TZ",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Hrenovke so že kuhane. Potopimo jih v hladno vodo in segrevamo do vretja ali jih popečemo na žaru."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "210g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "strojno izkoščeno purje meso 61,00 %, voda, purje kožice, sol, krompirjeve vlaknine, stabilizator(e450=difosfat), antioksidant, e300=askorbinska kislina),začimbe,ekstrakti začimb,konzervans, (e250=natrijev nitrit,e262=natrijev acetat."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "18,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/puranja-hrenovka-hot-dog-spar-210g/p/246416",
+    "product-price": "1,03",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/246416/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-insteadofprice": "1,29",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "teaser-text": "SPAR HRENOVKA PURANJA",
+    "product-stock-status": "",
+    "title": "PURANJA HRENOVKA HOT DOG, SPAR, 210G",
+    "product-priceperunit": "4,90 €/kg",
+    "description": "SPAR HRENOVKA PURANJA"
+}

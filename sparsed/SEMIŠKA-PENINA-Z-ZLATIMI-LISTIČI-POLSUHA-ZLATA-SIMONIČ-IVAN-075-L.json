@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "21,35",
+    "product-priceperunit": "28,47 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SEMIŠKA PENINA, Z ZLATIMI LISTIČI, POLSUHA, ZLATA, SIMONIČ IVAN, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "1,80 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "318,00 ",
+            "Sugar": "1,80 g",
+            "kcal": "76,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "PEN.VINO SEMIŠKA ZL.0,75",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "21,35",
+    "teaser-text": "PEN.VINO SEMIŠKA ZL.0,75",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/semiska-penina-z-zlatimi-listici-polsuha-zlata-simonic-ivan-075-l/p/501124",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/501124/dt_main.jpg"
+}

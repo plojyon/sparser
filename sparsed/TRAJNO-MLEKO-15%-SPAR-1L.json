@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "0,79",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "opis": "Ob nakupu 12 kos, izdelke prejmete v vezu.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Mleka pred uporabo ni potrebno kuhati. Za pripravo jedi ga med kuhanjem mešajte."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "190,00 ",
+            "Saturated fat": "0,90 g",
+            "Protein": "3,30 g",
+            "Sugar": "4,60 g",
+            "Total Fat": "1,50 g",
+            "kcal": "45,00 ",
+            "Total Carbohydrate": "4,60 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "0,63 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/trajno-mleko-15-spar-1l/p/270242",
+    "product-price": "0,63",
+    "title": "TRAJNO MLEKO 1,5%, SPAR, 1L",
+    "description": "SPAR TRAJNO MLEKO 1,5%",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/270242/dt_main.jpg",
+    "teaser-text": "SPAR TRAJNO MLEKO 1,5%"
+}

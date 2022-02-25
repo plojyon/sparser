@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1,94 ",
+            "kcal": "464,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "LIMONA AROMA Z BARVILI",
+        "security-warning": {
+            "varnostna-opozorila": "Barvilo E102 lahko škodljivo vpliva na aktivnost in pozornost otrok. (EU 1333/2008)"
+        },
+        "opis": "Uporablja se za kreme, peciva, kompote, brezalkoholne, alkoholne in žgane pijače.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "10g"
+        },
+        "contact-information": {
+            "kontakt:": "AROMA-AZG d.o.o. , Sadjarska 19/a, 2000 Maribor"
+        },
+        "ingredient-information": {
+            "sestavine": "etanol, voda, tartrasine E102 0,09 %."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priporočeno doziranje: do 10,0 g/l."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/aroma-limona-etol-10ml/p/254168",
+    "product-price": "1,85",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/254168/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,85",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "AROMA LIMONA 10ML",
+    "product-stock-status": "",
+    "title": "AROMA LIMONA ETOL, 10ML",
+    "product-priceperunit": "185,00 €/kg",
+    "description": "AROMA LIMONA 10ML"
+}

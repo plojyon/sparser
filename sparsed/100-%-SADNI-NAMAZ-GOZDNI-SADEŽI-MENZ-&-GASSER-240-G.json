@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,49",
+    "product-priceperunit": "10,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "100 % SADNI NAMAZ, GOZDNI SADEŽI, MENZ & GASSER, 240 G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Sadni namaz iz gozdnih sadežev, pripravljen iz 100g gozdnih sadežev na 100g izdelka.",
+        "ingredient-information": {
+            "sestavine": "gozdni sadeži v spremenljivem deležu (maline, jagode, robide, borovnice, bezgove jagode), grozdni sladkor, želirno sredstvo: sadni pektin, zgoščeni sok limon."
+        },
+        "product-net-cont": {
+            "neto-količina": "240g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "29,00 g",
+            "Total Fat": "0,50 g",
+            "Protein": "1,00 g",
+            "kJ": "551,00 ",
+            "Sugar": "28,00 g",
+            "kcal": "130,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "ICG d.o.o., Fabianijeva 31, 1000 Ljubljana"
+        }
+    },
+    "description": "SADNI NAMAZ GOZ.SAD.240G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,49",
+    "teaser-text": "SADNI NAMAZ GOZ.SAD.240G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/100-sadni-namaz-gozdni-sadezi-menz-gasser-240-g/p/486293",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486293/dt_main.jpg"
+}

@@ -1,0 +1,31 @@
+{
+    "product-priceperunit": "18,99 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL ŽREBIČ.ZREZKI",
+    "teaser-text": "SPAR VITAL ŽREBIČ.ZREZKI",
+    "product-info": {
+        "trade-group": {
+            "kategorija-mesa": "I"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "žrebičkovo meso."
+        }
+    },
+    "url": "https://www.spar.si/online/zrebicek-zrezki-spar-vital-cca500g/p/384519",
+    "product-insteadofprice": "18,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384519/dt_main.jpg",
+    "title": "ŽREBIČEK ZREZKI SPAR VITAL, CCA.500G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "18,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

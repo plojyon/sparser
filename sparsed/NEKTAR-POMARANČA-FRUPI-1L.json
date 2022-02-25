@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,08",
+    "product-priceperunit": "0,79 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "NEKTAR POMARANČA, FRUPI, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "POMARANČNI NEKTAR IZ ZGOŠČENEGA POMARANČNEGA SOKA. SADNI DELEŽ: 50%.",
+        "contact-information": {
+            "kontakt:": "Vital Mestinje, d.o.o., Stranje 7a, 3241 Podplat"
+        },
+        "ingredient-information": {
+            "sestavine": "pomarančni sok iz zgoščenega pomarančnega soka 50,00 %, voda, glukozni-fruktozni sirup, sladkor, kislina (citronska kislina), antioksidant (askorbinska kislina)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "9,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,30 g",
+            "kJ": "158,00 ",
+            "Sugar": "8,50 g",
+            "kcal": "37,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NEKTAR FRUPI POMAR.1L TZ",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,79",
+    "teaser-text": "NEKTAR FRUPI POMAR.1L TZ",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/nektar-pomaranca-frupi-1l/p/454187",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/454187/dt_main.jpg"
+}

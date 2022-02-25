@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "22,70",
+    "product-priceperunit": "22,70 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR ŽIGLJEN GLIGORA, CCA. 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sir Žigljen 1/8",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "31,00 g",
+            "Protein": "24,00 g",
+            "kJ": "1610,00 ",
+            "Sugar": "1,00 g",
+            "kcal": "388,00 ",
+            "Saturated fat": "23,00 g"
+        }
+    },
+    "description": "SIR ŽIGLJEN OVČJI VP",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "22,70",
+    "teaser-text": "SIR ŽIGLJEN OVČJI VP",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-zigljen-gligora-cca-250g/p/470251",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/470251/dt_main.jpg"
+}

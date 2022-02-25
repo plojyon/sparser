@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "1,99 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLADKORNE KOCKE DESPAR, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "1KG"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SLADKORNE KOCKE",
+        "opis": "Povprečna hranilna vrednost na 100g:Energijska vrednost : 1700KJ/400kaclMaščobe: 0god tega nasičene maščobe: 0gOgljikovi hidrati: 100god tega sladkorji: 100gPrehranske vlaknine: 0gBeljakovine: 0gSol: 0g",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "100,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1700,00 ",
+            "Sugar": "100,00 g",
+            "kcal": "400,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DESPAR SLADKOR KOCKE 1KG",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "DESPAR SLADKOR KOCKE 1KG",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladkorne-kocke-despar-1kg/p/452772",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452772/dt_main.jpg"
+}

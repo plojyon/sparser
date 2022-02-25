@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,93",
+    "product-priceperunit": "1,93 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TRAJNO MLEKO, 3,5% M. M., BREZ LAKTOZE, ZELENE DOLINE, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "4,70 g",
+            "Total Fat": "3,50 g",
+            "Protein": "3,20 g",
+            "kJ": "268,00 ",
+            "Sugar": "4,70 g",
+            "kcal": "63,00 ",
+            "Saturated fat": "2,40 g"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 120,00 mg."
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia, d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "description": "MLEKO BREZ LAKTOZE 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,93",
+    "teaser-text": "MLEKO BREZ LAKTOZE 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/trajno-mleko-35-m-m-brez-laktoze-zelene-doline-1l/p/510747",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/510747/dt_main.jpg"
+}

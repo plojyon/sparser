@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,33",
+    "product-priceperunit": "6,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VANILIN SLADKOR, GORIMPEX, 5 X 10 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Vanilin sladkor za pripravo peciv, vsebuje pesni sladkor.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Gorimpex d.o.o., Ižanska cesta 2, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "saharoza (pesni sladkor), aroma vanilije."
+        },
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "99,98 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1617,00 ",
+            "Sugar": "99,98 g",
+            "kcal": "387,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SLADKOR VANILIN 5X10G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,33",
+    "teaser-text": "SLADKOR VANILIN 5X10G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vanilin-sladkor-gorimpex-5-x-10-g/p/514140",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/514140/dt_main.jpg"
+}

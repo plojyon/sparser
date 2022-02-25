@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "6,90 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "GORČICA DIJON 200G",
+    "teaser-text": "GORČICA DIJON 200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "13,00 g",
+            "Saturated fat": "0,90 g",
+            "Total Carbohydrate": "6,70 g",
+            "kJ": "780,00 ",
+            "Protein": "8,30 g",
+            "Salt": "6,10 g",
+            "Sugar": "1,80 g",
+            "kcal": "186,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GORČICA DIJON 200G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME, ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/gorcica-dijon-mautner-markhof-200-g/p/364888",
+    "product-insteadofprice": "1,38",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364888/dt_main.jpg",
+    "title": "GORČICA, DIJON, MAUTNER MARKHOF, 200 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,38",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

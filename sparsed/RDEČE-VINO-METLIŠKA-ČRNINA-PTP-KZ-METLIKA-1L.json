@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VINO METLIŠ.ČRNIN.1L",
+    "description": "VINO METLIŠ.ČRNIN.1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,50 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "267,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,17 g",
+            "Total Carbohydrate": "0,17 g",
+            "Total Fat": "0,00 g",
+            "kcal": "64,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "KZ METLIKA z.o.o., Cesta XV. brigade 2, 8330 Metlika"
+        }
+    },
+    "title": "RDEČE VINO METLIŠKA ČRNINA, PTP, KZ METLIKA, 1L",
+    "url": "https://www.spar.si/online/rdece-vino-metliska-crnina-ptp-kz-metlika-1l/p/400001",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,69 €/l",
+    "product-insteadofprice": "3,69",
+    "product-stock-status": "",
+    "product-price": "3,69",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/400001/dt_main.jpg"
+}

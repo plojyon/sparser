@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,49",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Mlečna čokolada vsebuje najmanj 30 % kakavovih delov.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "110g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pralineji iz mlečne čokolade z alpskim mlekom z polnilom z višnjevim okusom (39%)",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2359,00 ",
+            "Saturated fat": "20,00 g",
+            "Protein": "5,20 g",
+            "Sugar": "53,00 g",
+            "Total Fat": "36,00 g",
+            "kcal": "566,00 ",
+            "Total Carbohydrate": "54,00 g",
+            "Salt": "0,36 g"
+        }
+    },
+    "product-priceperunit": "14,64 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bonboniera-happy-birthday-polnilo-visnja-milka-110g/p/477999",
+    "product-price": "1,61",
+    "title": "BONBONIERA HAPPY BIRTHDAY POLNILO VIŠNJA, MILKA, 110G",
+    "description": "BON.HAPP.BIRTHDAY 110G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/477999/dt_main.jpg",
+    "teaser-text": "BON.HAPP.BIRTHDAY 110G"
+}

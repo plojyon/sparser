@@ -1,0 +1,42 @@
+{
+    "product-priceperunit": "1,89 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB PAPR.FIL.RDEČA 660G",
+    "teaser-text": "SB PAPR.FIL.RDEČA 660G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,70 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "4,90 g",
+            "kJ": "138,00 ",
+            "Protein": "1,20 g",
+            "Salt": "1,30 g",
+            "Sugar": "0,30 g",
+            "kcal": "33,00 ",
+            "Prehranske vlaknine": "1,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "410G"
+        },
+        "product-net-cont": {
+            "neto-količina": "660g"
+        },
+        "ingredient-information": {
+            "sestavine": "paprika, voda, alkoholni kis, jedilna sol, sladkor."
+        }
+    },
+    "url": "https://www.spar.si/online/paprika-rdeca-file-s-budget-660-g/p/374561",
+    "product-insteadofprice": "1,25",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374561/dt_main.jpg",
+    "title": "PAPRIKA RDEČA, FILE, S-BUDGET, 660 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,25",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

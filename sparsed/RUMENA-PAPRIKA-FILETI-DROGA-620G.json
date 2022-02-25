@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "620g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ahac d.o.o., Stopče 31, 3231 Grobelno, Slovenija, EU"
+        },
+        "base-information": {
+            "neto-količina-plod:": "360G"
+        },
+        "ingredient-information": {
+            "sestavine": "paprika 58,00 %, voda, kis, jedilna sol, sladkor."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "76,00 ",
+            "Saturated fat": "0,10 g",
+            "Prehranske vlaknine": "2,20 g",
+            "Protein": "0,60 g",
+            "Sugar": "1,70 g",
+            "Total Fat": "0,20 g",
+            "kcal": "18,00 ",
+            "Total Carbohydrate": "2,40 g",
+            "Salt": "0,96 g"
+        }
+    },
+    "product-priceperunit": "3,19 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rumena-paprika-fileti-droga-620g/p/252527",
+    "product-price": "1,98",
+    "title": "RUMENA PAPRIKA FILETI, DROGA, 620G",
+    "description": "PAPRI.FIL.RUM.V KIS.620G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/252527/dt_main.jpg",
+    "teaser-text": "PAPRI.FIL.RUM.V KIS.620G"
+}

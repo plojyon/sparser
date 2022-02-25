@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "10,40 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ARAŠIDI NIC NAC XXL 375G",
+    "teaser-text": "ARAŠIDI NIC NAC XXL 375G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "35,00 g",
+            "Saturated fat": "11,00 g",
+            "Total Carbohydrate": "39,00 g",
+            "kJ": "2248,00 ",
+            "Protein": "15,00 g",
+            "Salt": "2,30 g",
+            "Sugar": "7,30 g",
+            "kcal": "540,00 ",
+            "Prehranske vlaknine": "4,40 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI, SOJA, MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/arasidi-v-pikantnem-testu-nic-nacs-lorenz-31-375g-xxl/p/372537",
+    "product-insteadofprice": "3,90",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/372537/dt_main.jpg",
+    "title": "ARAŠIDI V PIKANTNEM TESTU NIC NAC´S, LORENZ, 3/1, 375G, XXL",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,90",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

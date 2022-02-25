@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR PRE.NAMA MAR.250G",
+    "description": "SPAR PRE.NAMA MAR.250G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MARELIČNI NAMAZ, 70% sadja",
+        "opis": "Marelični namaz iz 70% sadja.",
+        "ingredient-information": {
+            "sestavine": "marelice, sladkor, limonin zgoščeni sok, želirno sredstvo: pektin."
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "765,00 ",
+            "Salt": "0,04 g",
+            "Sugar": "41,00 g",
+            "Total Carbohydrate": "43,00 g",
+            "Total Fat": "0,50 g",
+            "kcal": "180,00 ",
+            "Prehranske vlaknine": "2,10 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "MARELIČNI NAMAZ SPAR PREMIUM, 250G",
+    "url": "https://www.spar.si/online/marelicni-namaz-spar-premium-250g/p/395440",
+    "isOnPromotion": "false",
+    "product-priceperunit": "12,76 €/kg",
+    "product-insteadofprice": "3,19",
+    "product-stock-status": "",
+    "product-price": "3,19",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395440/dt_main.jpg"
+}

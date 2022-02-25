@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Total Fat": "1,00 g",
+            "Total Carbohydrate": "72,00 g",
+            "Sugar": "0,80 g",
+            "Salt": "0,00 g",
+            "kJ": "1473,00 ",
+            "Protein": "10,60 g",
+            "kcal": "347,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pšenična bela moka tip 400",
+        "opis": "Tip 400.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "5kg"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "instruction-for-use": {}
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/moka-posebna-bela-t400-zito-5kg/p/139176",
+    "product-price": "6,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/139176/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "6,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "MOKA POSEBNA 5KG ŽITO",
+    "product-stock-status": "",
+    "title": "MOKA POSEBNA BELA T400, ŽITO, 5KG",
+    "product-priceperunit": "1,40 €/kg",
+    "description": "MOKA POSEBNA 5KG ŽITO"
+}

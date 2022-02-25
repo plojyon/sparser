@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,92",
+    "product-priceperunit": "6,40 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČIČERIKA, NATURETA, 300G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "185G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Čičerika v slanici",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "sestavine": "čičerika, voda, jedilna sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,10 g",
+            "Total Carbohydrate": "26,00 g",
+            "Prehranske vlaknine": "10,70 g",
+            "Total Fat": "0,50 g",
+            "Protein": "10,00 g",
+            "kJ": "325,00 ",
+            "Sugar": "2,90 g",
+            "kcal": "77,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "ČIČERIKA 300G NATURETA",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,92",
+    "teaser-text": "ČIČERIKA 300G NATURETA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cicerika-natureta-300g/p/460412",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/460412/dt_main.jpg"
+}

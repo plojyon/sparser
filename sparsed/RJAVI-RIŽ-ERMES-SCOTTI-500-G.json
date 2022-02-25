@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "4,48",
+    "product-priceperunit": "8,96 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RJAVI RIŽ, ERMES, SCOTTI, 500 G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Fosfor 404,00 mg, Magnezij 114,00 mg."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Riž je kuhan po 25-30 minutah."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "DOLGOZRNATI NEBRUŠENI RIŽ ERMES, vakumsko pakiran.",
+        "opis": null,
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "dolgozrnati riž tipa ermes (100%)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "70,00 g",
+            "Prehranske vlaknine": "4,10 g",
+            "Total Fat": "3,00 g",
+            "Protein": "8,80 g",
+            "kJ": "1481,00 ",
+            "Sugar": "1,00 g",
+            "kcal": "350,00 ",
+            "Saturated fat": "0,60 g"
+        }
+    },
+    "description": "RIŽ RJAVI ERMES 500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,48",
+    "teaser-text": "RIŽ RJAVI ERMES 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rjavi-riz-ermes-scotti-500-g/p/509119",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509119/dt_main.jpg"
+}

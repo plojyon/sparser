@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,85",
+    "product-priceperunit": "0,46 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "LEDENI ČAJ, GOZDNI SADEŽI IN BRUSNICA, JANA, 1,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "7,90 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "134,00 ",
+            "Sugar": "7,90 g",
+            "kcal": "32,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, koncentrirani sadni sokovi, ekstrakt čaja."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "contact-information": {
+            "kontakt:": "Jamnica Mineralna Voda d.o.o., Limbuška cesta 2, 2341 Limbuš"
+        }
+    },
+    "description": "LED.ČAJ GO.S.JANA 1,5LTZ",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,69",
+    "teaser-text": "LED.ČAJ GO.S.JANA 1,5LTZ",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/ledeni-caj-gozdni-sadezi-in-brusnica-jana-15-l/p/471160",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471160/dt_main.jpg"
+}

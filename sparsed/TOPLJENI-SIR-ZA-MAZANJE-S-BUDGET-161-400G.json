@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "4,48 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SB SIR TOPLJ NARAVN 400G",
+    "teaser-text": "SB SIR TOPLJ NARAVN 400G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "23,00 g",
+            "Saturated fat": "17,00 g",
+            "Total Carbohydrate": "4,00 g",
+            "kJ": "1123,00 ",
+            "Protein": "12,00 g",
+            "Salt": "2,30 g",
+            "Sugar": "4,00 g",
+            "kcal": "271,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/topljeni-sir-za-mazanje-s-budget-161-400g/p/378091",
+    "product-insteadofprice": "1,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378091/dt_main.jpg",
+    "title": "TOPLJENI SIR ZA MAZANJE S-BUDGET, 16/1, 400G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

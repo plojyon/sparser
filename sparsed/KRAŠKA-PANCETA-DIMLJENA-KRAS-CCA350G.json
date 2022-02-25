@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "24,39",
+    "product-priceperunit": "24,39 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KRAŠKA PANCETA DIMLJENA KRAS, CCA.350G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "40,40 g",
+            "Protein": "26,80 g",
+            "kJ": "1950,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "471,00 ",
+            "Saturated fat": "15,70 g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjska mesnata slanina, morska sol, dekstroza, začimbe."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "40,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Kras d.o.o., Šepulje 31, 6210 Sežana"
+        }
+    },
+    "description": "PANCETA KRAŠKA DIM.VP",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "24,39",
+    "teaser-text": "PANCETA KRAŠKA DIM.VP",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kraska-panceta-dimljena-kras-cca350g/p/44909",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/44909/dt_main.jpg"
+}

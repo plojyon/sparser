@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,78",
+    "product-priceperunit": "12,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "title": "GOZDNE GOBE ZE-GO, 300G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Carbohydrate": "1,50 g",
+            "Total Fat": "0,40 g",
+            "Protein": "1,80 g",
+            "kJ": "90,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "22,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "sirovke (lactarious delicious), karzelj (amanita caesarea), masleni gobani (boletus luteus), lisičke (cantr arellus cibarius, jurčki (boletus edulis pripadajoče skupine)."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "contact-information": {
+            "kontakt:": "ZE-GO d.o.o., Drenov Grič 186 C, 1360 Vrhnika"
+        }
+    },
+    "description": "GOBE GOZDNE ZE-GO 300G",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-brand": "",
+    "product-price": "3,78",
+    "teaser-text": "GOBE GOZDNE ZE-GO 300G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gozdne-gobe-ze-go-300g/p/467309",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/467309/dt_main.jpg"
+}

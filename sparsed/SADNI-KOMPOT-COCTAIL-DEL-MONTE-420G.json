@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "2,05",
+    "product-priceperunit": "4,88 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNI KOMPOT COCTAIL, DEL MONTE, 420G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "kcal": "0,00 "
+        },
+        "ingredient-information": {
+            "sestavine": "sadje v spremenljivih deležih (breskve, hruške, ananas, grozdje, češnje z barvilom E127), voda, glukozno-fruktozni sirup, sladkor, sredstvo za uravnavanje kislosti: citronska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "420g"
+        },
+        "contact-information": {
+            "kontakt:": "DEL MONTE"
+        }
+    },
+    "description": "KOMPOT SADNI COCKTA.420G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,05",
+    "teaser-text": "KOMPOT SADNI COCKTA.420G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadni-kompot-coctail-del-monte-420g/p/456408",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/456408/dt_main.jpg"
+}

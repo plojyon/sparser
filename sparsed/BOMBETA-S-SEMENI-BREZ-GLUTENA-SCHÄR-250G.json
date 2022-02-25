@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,79",
+    "product-priceperunit": "15,16 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BOMBETA S SEMENI BREZ GLUTENA, SCHÄR, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,75 g",
+            "Total Carbohydrate": "38,00 g",
+            "Prehranske vlaknine": "8,00 g",
+            "Total Fat": "11,00 g",
+            "Protein": "7,30 g",
+            "kJ": "1241,00 ",
+            "Sugar": "2,30 g",
+            "kcal": "296,00 ",
+            "Saturated fat": "1,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        }
+    },
+    "description": "BOMBETA S SEM. BG 250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,79",
+    "teaser-text": "BOMBETA S SEM. BG 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bombeta-s-semeni-brez-glutena-schr-250g/p/440420",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/440420/dt_main.jpg"
+}

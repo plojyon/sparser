@@ -1,0 +1,48 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB MÜSLI Z ROZ.IN OR.1KG",
+    "description": "SB MÜSLI Z ROZ.IN OR.1KG",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "POLNOZRNATI MUSLI Z ROZINAMI (15%) IN OREŠČKI (7%)",
+        "opis": "/",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI, LEŠNIKI, MANDLJI, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "1KG"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1600,00 ",
+            "Salt": "0,07 g",
+            "Sugar": "11,00 g",
+            "Total Carbohydrate": "54,00 g",
+            "Total Fat": "11,00 g",
+            "kcal": "381,00 ",
+            "Prehranske vlaknine": "11,00 g",
+            "Saturated fat": "2,70 g",
+            "Protein": "11,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "MÜSLI Z ROZINAMI IN OREŠČKI, S-BUDGET, 1KG",
+    "url": "https://www.spar.si/online/msli-z-rozinami-in-orescki-s-budget-1kg/p/416245",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,79 €/kg",
+    "product-insteadofprice": "1,79",
+    "product-stock-status": "",
+    "product-price": "1,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/416245/dt_main.jpg"
+}

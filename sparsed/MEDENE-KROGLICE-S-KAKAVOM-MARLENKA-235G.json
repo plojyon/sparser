@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "6,82",
+    "product-priceperunit": "29,02 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MEDENE KROGLICE S KAKAVOM, MARLENKA, 235G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,58 g",
+            "Total Carbohydrate": "49,00 g",
+            "Total Fat": "22,00 g",
+            "Protein": "6,50 g",
+            "kJ": "1787,00 ",
+            "Sugar": "38,00 g",
+            "kcal": "427,00 ",
+            "Saturated fat": "14,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, OREH (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "235g"
+        },
+        "contact-information": {
+            "kontakt:": "PETLJA D.O.O."
+        }
+    },
+    "description": "KROGLJICE MEDEN.S KAKAV.",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,82",
+    "teaser-text": "KROGLJICE MEDEN.S KAKAV.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/medene-kroglice-s-kakavom-marlenka-235g/p/490172",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490172/dt_main.jpg"
+}

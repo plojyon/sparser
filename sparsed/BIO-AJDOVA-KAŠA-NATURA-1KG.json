@@ -1,0 +1,47 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,30 g",
+            "Salt": "0,00 g",
+            "Total Fat": "1,70 g",
+            "Total Carbohydrate": "71,00 g",
+            "Sugar": "0,30 g",
+            "Prehranske vlaknine": "3,70 g",
+            "kJ": "1453,00 ",
+            "Protein": "9,00 g",
+            "kcal": "343,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Kuhajte v vreli in rahlo osoljeni vodi 10-15 minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-ajdova-kasa-natura-1kg/p/227702",
+    "product-price": "7,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/227702/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "7,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "BIO KAŠA AJDOVA 1KG",
+    "product-stock-status": "",
+    "title": "BIO AJDOVA KAŠA, NATURA, 1KG",
+    "product-priceperunit": "7,99 €/kg",
+    "description": "BIO KAŠA AJDOVA 1KG"
+}

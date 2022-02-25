@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "3,21 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR FEFERONI PEK. 620G",
+    "teaser-text": "SPAR FEFERONI PEK. 620G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "350G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,30 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "6,70 g",
+            "kJ": "158,00 ",
+            "Protein": "1,30 g",
+            "Salt": "1,18 g",
+            "Sugar": "3,00 g",
+            "kcal": "38,00 ",
+            "Prehranske vlaknine": "1,40 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "620g"
+        },
+        "ingredient-information": {
+            "sestavine": "pekoči feferoni 56,00 %, voda, jedilna sol, kis 1,00 %, sladkor."
+        }
+    },
+    "url": "https://www.spar.si/online/pekoci-feferoni-v-kisu-spar-620g/p/386678",
+    "product-insteadofprice": "1,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/386678/dt_main.jpg",
+    "title": "PEKOČI FEFERONI V KISU SPAR, 620G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

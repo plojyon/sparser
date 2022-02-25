@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NUTELLA COPPETTA 15G",
+    "description": "NUTELLA COPPETTA 15G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "15g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2278,00 ",
+            "Salt": "0,11 g",
+            "Sugar": "56,80 g",
+            "Total Carbohydrate": "57,60 g",
+            "Total Fat": "31,60 g",
+            "kcal": "546,00 ",
+            "Saturated fat": "11,00 g",
+            "Protein": "6,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "NUTELLA, FERRERO, 15G",
+    "url": "https://www.spar.si/online/nutella-ferrero-15g/p/434107",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,33 €/kg",
+    "product-insteadofprice": "0,23",
+    "product-stock-status": "",
+    "product-price": "0,23",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/434107/dt_main.jpg"
+}

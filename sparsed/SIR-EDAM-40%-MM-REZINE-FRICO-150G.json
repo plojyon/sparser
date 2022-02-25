@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "16,00 g",
+            "Total Fat": "24,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "2,00 g",
+            "kJ": "1327,00 ",
+            "Protein": "25,00 g",
+            "kcal": "319,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SIR EDAM, REZINE, 40% M.M., FRICO, 150G",
+        "contact-information": {
+            "kontakt:": "Digit, d.o.o., Pod brezami 7, 1218 Komenda"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sir-edam-40-mm-rezine-frico-150g/p/257545",
+    "product-price": "2,14",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/257545/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "2,14",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SIR EDAMER REZINE 150G",
+    "product-stock-status": "",
+    "title": "SIR EDAM 40% M.M., REZINE, FRICO, 150G",
+    "product-priceperunit": "14,27 €/kg",
+    "description": "SIR EDAMER REZINE 150G"
+}

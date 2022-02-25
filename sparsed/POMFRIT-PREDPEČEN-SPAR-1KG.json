@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,40 g",
+            "Salt": "0,10 g",
+            "Total Fat": "3,50 g",
+            "Total Carbohydrate": "21,00 g",
+            "Sugar": "0,40 g",
+            "Prehranske vlaknine": "2,50 g",
+            "kJ": "546,00 ",
+            "Protein": "2,50 g",
+            "kcal": "130,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR POMFRIT - predpečen in hitro zamrznjen.",
+        "opis": "/",
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "krompir 97%, sončnično olje."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Cvrtnik segrejete na 175°C ter cvrite 3-5minute do zlato rumene barve."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pomfrit-predpecen-spar-1kg/p/236231",
+    "product-price": "1,63",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/236231/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "1,63",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "SPAR POMMES FRITES 1KG",
+    "product-stock-status": "",
+    "title": "POMFRIT PREDPEČEN, SPAR, 1KG",
+    "product-priceperunit": "1,63 €/kg",
+    "description": "SPAR POMMES FRITES 1KG"
+}

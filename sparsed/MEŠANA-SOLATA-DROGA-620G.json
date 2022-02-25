@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,69",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "620g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ahac d.o.o., Stopče 31, 3231 Grobelno, Slovenija, EU"
+        },
+        "base-information": {
+            "neto-količina-plod:": "360G"
+        },
+        "ingredient-information": {
+            "sestavine": "zelenjava v spremenljivih deležih (zelje, kumare, korenje, paprika, čebula) 58,00 %, voda, kis, jedilna sol, sladkor, začimbe."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "79,00 ",
+            "Saturated fat": "0,00 g",
+            "Prehranske vlaknine": "2,20 g",
+            "Protein": "0,60 g",
+            "Sugar": "2,70 g",
+            "Total Fat": "0,00 g",
+            "kcal": "19,00 ",
+            "Total Carbohydrate": "3,00 g",
+            "Salt": "1,00 g"
+        }
+    },
+    "product-priceperunit": "2,73 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mesana-solata-droga-620g/p/205410",
+    "product-price": "1,69",
+    "title": "MEŠANA SOLATA DROGA, 620G",
+    "description": "SOLATA MEŠANA 620G DROGA",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/205410/dt_main.jpg",
+    "teaser-text": "SOLATA MEŠANA 620G DROGA"
+}

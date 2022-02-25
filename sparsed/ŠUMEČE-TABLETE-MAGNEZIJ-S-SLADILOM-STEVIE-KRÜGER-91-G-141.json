@@ -1,0 +1,45 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,94",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "91g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom!"
+        },
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Magnezij 250,00 mg."
+        },
+        "ingredient-information": {
+            "sestavine": "kislina: citronska kislina, sredstvo za uravnavanje kislosti: natrijev hidrogenkarbonat, magnezijev karbonat, maltodekstrin, koruzni škrob, sok rdeče pese v prahu, zgoščeni sok rdeče pese, naravna aroma, naravna aroma pomaranče, sladilo: steviol glikozidi, barvilo: riboflavin-5-fosfat."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "760,00 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,10 g",
+            "Sugar": "0,10 g",
+            "Total Fat": "0,10 g",
+            "kcal": "176,00 ",
+            "Total Carbohydrate": "2,80 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "16,04 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sumece-tablete-magnezij-s-sladilom-stevie-krger-91-g-141/p/475281",
+    "product-price": "1,46",
+    "title": "ŠUMEČE TABLETE, MAGNEZIJ S SLADILOM STEVIE, KRÜGER, 91 G, 14/1",
+    "description": "TABLET.ŠUM.MAGNEZ.91G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/475281/dt_main.jpg",
+    "teaser-text": "TABLET.ŠUM.MAGNEZ.91G"
+}

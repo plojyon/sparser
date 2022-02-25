@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "100,00 g",
+            "Sugar": "100,00 g",
+            "Salt": "0,00 g",
+            "kJ": "1700,00 ",
+            "Protein": "0,00 g",
+            "kcal": "400,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "NERAFINIRANI TRSNI RJAVI SLADKOR",
+        "contact-information": {
+            "kontakt:": "JADRAN DOM d.o.o., Partizanska cesta 75, 6210 Sežana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "nerafnirani trsni rjavi sladkor 100,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rjavi-sladkor-mauritius-500g/p/147727",
+    "product-price": "1,74",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/147727/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,74",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SLADKOR RJAVI 500G MAURI",
+    "product-stock-status": "",
+    "title": "RJAVI SLADKOR, MAURITIUS, 500G",
+    "product-priceperunit": "3,48 €/kg",
+    "description": "SLADKOR RJAVI 500G MAURI"
+}

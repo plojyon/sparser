@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-priceperunit": "10,62 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "title": "ROGLJIČEK ŽITNI DOP. 65G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "50KOS"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Hraniti na temperaturi -18???C do roka uporabe odtisnjenega na embalaži. Peči na 165-175???C 20-22 minut. Po odtajanju se ne sme ponovno zamrzovati! Dnevno svež izdelek."
+        },
+        "contact-information": {
+            "kontakt:": "M-Sfinga d.o.o, Zbilje 20c, 1215 Medvode"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, SEZAM, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "65g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,46 g",
+            "Total Carbohydrate": "40,60 g",
+            "Total Fat": "16,60 g",
+            "Protein": "8,50 g",
+            "kJ": "352,00 ",
+            "Sugar": "0,90 g",
+            "kcal": "1475,00 ",
+            "Saturated fat": "9,50 g"
+        }
+    },
+    "description": "ROGLJIČEK ŽITNI 65G",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-brand": "",
+    "product-price": "0,69",
+    "teaser-text": "ROGLJIČEK ŽITNI 65G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rogljicek-zitni-dop-65g/p/480210",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/480210/dt_main.jpg"
+}

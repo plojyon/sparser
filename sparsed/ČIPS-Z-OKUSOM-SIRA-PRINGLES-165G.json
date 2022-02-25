@@ -1,0 +1,42 @@
+{
+    "product-priceperunit": "14,48 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČIPS PRINGLES SIR 165G",
+    "teaser-text": "ČIPS PRINGLES SIR 165G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ORBICO d.o.o., Verovškova 72, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "32,00 g",
+            "Saturated fat": "3,50 g",
+            "Total Carbohydrate": "51,00 g",
+            "kJ": "2129,00 ",
+            "Protein": "4,50 g",
+            "Salt": "1,90 g",
+            "Sugar": "1,40 g",
+            "kcal": "509,00 ",
+            "Prehranske vlaknine": "2,60 g"
+        },
+        "opis": "Hrustljavi slani prigrizek z okusom sira.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pringles s sirom 165 g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "165g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/cips-z-okusom-sira-pringles-165g/p/384589",
+    "product-insteadofprice": "2,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384589/dt_main.jpg",
+    "title": "ČIPS Z OKUSOM SIRA, PRINGLES, 165G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

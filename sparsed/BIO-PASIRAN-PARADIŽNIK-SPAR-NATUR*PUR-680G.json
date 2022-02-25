@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "teaser-text": "SPAR BIO PASI.PARAD.680G",
+    "description": "SPAR BIO PASI.PARAD.680G",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "ingredient-information": {
+            "sestavine": "paradižnik*, morska sol, *iz ekološke pridelave."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "100,00 ",
+            "Salt": "0,40 g",
+            "Sugar": "3,60 g",
+            "Total Carbohydrate": "3,60 g",
+            "Total Fat": "0,20 g",
+            "kcal": "24,00 ",
+            "Prehranske vlaknine": "1,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,40 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "680g"
+        },
+        "opis": "Iz ekološke pridelave.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "BIO PASIRAN PARADIŽNIK SPAR NATUR*PUR, 680G",
+    "url": "https://www.spar.si/online/bio-pasiran-paradiznik-spar-naturpur-680g/p/413889",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,46 €/kg",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-brand": "",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/413889/dt_main.jpg"
+}

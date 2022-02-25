@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,51",
+    "product-priceperunit": "14,57 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ŠVICARSKA MLEČNA ČOKOLADA Z MEDOM IN MANDLJEVIM NUGATOM, TOBLERONE, 35G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Švicarska mlečna čokolada z medom in mandljevim nugatom (10%).",
+        "opis": "Mlečna čokolada vsebuje najmanj 28 % kakavovih delov.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, SOJA, MLEKO, MANDLJI, LEŠNIKI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "35g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,15 g",
+            "Total Carbohydrate": "60,50 g",
+            "Total Fat": "29,50 g",
+            "Protein": "5,60 g",
+            "kJ": "2235,00 ",
+            "Sugar": "59,50 g",
+            "kcal": "535,00 ",
+            "Saturated fat": "18,00 g"
+        }
+    },
+    "description": "ČOK.TOBLERONE 35G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,51",
+    "teaser-text": "ČOK.TOBLERONE 35G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/svicarska-mlecna-cokolada-z-medom-in-mandljevim-nugatom-toblerone-35g/p/495240",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/495240/dt_main.jpg"
+}

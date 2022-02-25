@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "13,60 g",
+            "Salt": "0,00 g",
+            "Total Fat": "21,60 g",
+            "Total Carbohydrate": "70,10 g",
+            "Sugar": "61,70 g",
+            "Prehranske vlaknine": "6,50 g",
+            "kJ": "2011,00 ",
+            "Protein": "4,10 g",
+            "kcal": "481,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cokolada-v-prahu-kras-200g/p/270799",
+    "product-price": "1,82",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/270799/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-insteadofprice": "2,15",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Trajno znižano",
+    "teaser-text": "ČOKOLADA MLETA 200G",
+    "product-stock-status": "",
+    "title": "ČOKOLADA V PRAHU, KRAŠ, 200G",
+    "product-priceperunit": "9,10 €/kg",
+    "description": "ČOKOLADA MLETA 200G"
+}

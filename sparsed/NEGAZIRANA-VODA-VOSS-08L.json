@@ -1,0 +1,37 @@
+{
+    "product-insteadofprice": "3,98",
+    "product-priceperunit": "4,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NEGAZIRANA VODA VOSS, 0,8L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "TIPTRADE D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,8l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "\n\t\t\t\ttehnično-ime-izdelka": "VODA VOSS, 0,8L"
+    },
+    "description": "VODA VOSS ST. 0,8 L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,98",
+    "teaser-text": "VODA VOSS ST. 0,8 L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/negazirana-voda-voss-08l/p/490023",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490023/dt_main.jpg"
+}

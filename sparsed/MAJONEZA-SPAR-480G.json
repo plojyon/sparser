@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,42",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/majoneza-spar-480g/p/594723",
+    "title": "MAJONEZA SPAR, 480G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,42",
+    "product-info": {
+        "opis": "/",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "480g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,50 g",
+            "Total Carbohydrate": "3,40 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "4,10 g",
+            "Protein": "0,90 g",
+            "Total Fat": "51,00 g",
+            "kcal": "478,00 ",
+            "Salt": "1,00 g",
+            "kJ": "1967,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Spar majoneza s 50% maščobe.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, GORČIČNO SEME."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-priceperunit": "2,96 €/kg",
+    "teaser-text": "SPAR MAJONEZA 480G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR MAJONEZA 480G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/594723/dt_main.jpg",
+    "product-brand": ""
+}

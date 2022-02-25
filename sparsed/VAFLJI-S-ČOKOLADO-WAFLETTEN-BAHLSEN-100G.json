@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "22,00 g",
+            "Total Fat": "31,00 g",
+            "Total Carbohydrate": "59,00 g",
+            "Sugar": "36,00 g",
+            "Salt": "0,47 g",
+            "kJ": "2265,00 ",
+            "Protein": "6,00 g",
+            "kcal": "542,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fino pekovsko pecivo - vafli z mlečno čokolado (28%)",
+        "security-warning": {
+            "varnostna-opozorila": "Na proizvodni liniji v predelavi tudi soja."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/vaflji-s-cokolado-wafletten-bahlsen-100g/p/17696",
+    "product-price": "1,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/17696/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,79",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "VAFLI OB.Z ML.ČOK.100GBK",
+    "product-stock-status": "",
+    "title": "VAFLJI S ČOKOLADO WAFLETTEN, BAHLSEN, 100G",
+    "product-priceperunit": "17,90 €/kg",
+    "description": "VAFLI OB.Z ML.ČOK.100GBK"
+}

@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "1,07",
+    "product-priceperunit": "0,71 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAPITEK, S POMARANČNIM SOKOM IN 4 VITAMINI, STEVIA, FRUC IZI, 1,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 120,00 mikrogr. Vitamin E 1,80 mg, Vitamin C 22,00 mg, 0,21 mg."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite. Servirajte ohlajeno."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ne izpostavljajte direktni sončni svetlobi."
+        },
+        "opis": "Pijača je brez konzervansov in umetnih barvil. Stabilnost proizvoda, ki zagotavlja rok trajanja več mesecev, je dosežena s toplotno obdelavo pred polnjenjem. Polnjenje je aseptično.",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, pomarančni sok iz zgoščenega soka 6,00 %, sladkor, kislina (citronska kislina), sredstvo za uravnavanje kislosti (trinatrijev citrat), stabilizatorji (gumi arabikum, natrijeva karboksimetil celuloza), rastlinska olja (palmovo, repično), vitamini (c, e, beta-karoten, b6), aroma, izvlečki iz pomaranč, sladilo (steviol glikozidi)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,14 g",
+            "Total Carbohydrate": "5,70 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,00 g",
+            "kJ": "101,00 ",
+            "Sugar": "4,80 g",
+            "kcal": "23,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPIT.FRUC IZI POM.1,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,07",
+    "teaser-text": "NAPIT.FRUC IZI POM.1,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/napitek-s-pomarancnim-sokom-in-4-vitamini-stevia-fruc-izi-15-l/p/486965",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486965/dt_main.jpg"
+}

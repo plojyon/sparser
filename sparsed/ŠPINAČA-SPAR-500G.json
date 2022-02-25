@@ -1,0 +1,35 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "3,98 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "ŠPINAČA SPAR, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pripravljeno za zaužitje ali nadaljnjo pripravo."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Sveža, očiščena, oprana špinača.",
+        "ingredient-information": {
+            "alergeni": "gorčično seme (v sledovih)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "trade-group": {
+            "razred": "1"
+        }
+    },
+    "description": "SPAR ŠPINAČA 500G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "SPAR ŠPINAČA 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/spinaca-spar-500g/p/438826",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/438826/dt_main.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "opis": "Vsebuje 55 % maščob.",
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 640,00 mikrogr. Vitamin D 5,00 mikrogr. Vitamin E 15,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mastni namaz 55%",
+        "ingredient-information": {
+            "alergeni": "MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1092,00 ",
+            "Saturated fat": "16,50 g",
+            "Protein": "0,20 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "55,00 g",
+            "kcal": "497,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,40 g"
+        }
+    },
+    "product-priceperunit": "3,96 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/margarina-za-mazanje-margo-jogurt-500g/p/506972",
+    "product-price": "1,98",
+    "title": "MARGARINA ZA MAZANJE, MARGO JOGURT, 500G",
+    "description": "MARGARINA MARGO 500G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506972/dt_main.jpg",
+    "teaser-text": "MARGARINA MARGO 500G"
+}

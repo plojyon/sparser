@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "9,40 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "GORČICA GROBOZRNATA 200G",
+    "teaser-text": "GORČICA GROBOZRNATA 200G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "12,00 g",
+            "Saturated fat": "0,90 g",
+            "Total Carbohydrate": "4,20 g",
+            "kJ": "674,00 ",
+            "Protein": "7,60 g",
+            "Salt": "5,10 g",
+            "Sugar": "2,80 g",
+            "kcal": "163,00 ",
+            "Prehranske vlaknine": "5,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME, ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/gorcica-grobozrnata-alancienne-clovis-200-g/p/375345",
+    "product-insteadofprice": "1,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/375345/dt_main.jpg",
+    "title": "GORČICA, GROBOZRNATA, A´LANCIENNE, CLOVIS, 200 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,88",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

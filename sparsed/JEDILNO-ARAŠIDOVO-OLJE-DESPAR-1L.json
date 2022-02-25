@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "15,00 g",
+            "Total Fat": "91,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "3367,00 ",
+            "Protein": "0,00 g",
+            "kcal": "819,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "JEDILNO RAFINIRANO ARAŠIDOVO OLJE.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "Rafinirano olje.",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jedilno-arasidovo-olje-despar-1l/p/147367",
+    "product-price": "3,72",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/147367/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,72",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "DESPAR OLJE ARAŠIDOVO 1L",
+    "product-stock-status": "",
+    "title": "JEDILNO ARAŠIDOVO OLJE DESPAR, 1L",
+    "product-priceperunit": "3,72 €/l",
+    "description": "DESPAR OLJE ARAŠIDOVO 1L"
+}

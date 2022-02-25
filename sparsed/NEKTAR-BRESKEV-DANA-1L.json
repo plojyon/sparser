@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,54",
+    "product-priceperunit": "1,23 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "title": "NEKTAR BRESKEV, DANA, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite!"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sadni nektar iz breskev in jabolk iz breskove in jabolčne kaše. Sadni delež: najmanj 50%.",
+        "contact-information": {
+            "kontakt:": "DANA d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, breskova kaša 33,00 %, jabolčna kaša 17,00 %, sladkor, kislina:citronska kislina, antioksidant: askorbinska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "12,80 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "218,00 ",
+            "Sugar": "12,50 g",
+            "kcal": "51,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NEKTAR DANA BRESKEV 1L",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "product-price": "1,23",
+    "teaser-text": "NEKTAR DANA BRESKEV 1L",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/nektar-breskev-dana-1l/p/493837",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/493837/dt_main.jpg"
+}

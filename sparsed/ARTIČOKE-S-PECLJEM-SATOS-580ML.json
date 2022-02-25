@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "5,39",
+    "product-priceperunit": "9,29 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ARTIČOKE S PECLJEM S.A.TOS, 580ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "350G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "FIN-TUN d.o.o., Perovo 55, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "sestavine": "artičoke, sončnično olje, vinski kis, sol, peteršilj, česen, bazilika, ojačevalec okusa: mononatrijev glutamat, e330, e300."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,58l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,61 g",
+            "Total Carbohydrate": "1,30 g",
+            "Prehranske vlaknine": "3,02 g",
+            "Total Fat": "3,90 g",
+            "Protein": "1,60 g",
+            "kJ": "228,00 ",
+            "Sugar": "0,30 g",
+            "kcal": "51,00 ",
+            "Saturated fat": "0,53 g"
+        }
+    },
+    "description": "ARTIČOKE S PECLJEM 580ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,39",
+    "teaser-text": "ARTIČOKE S PECLJEM 580ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/articoke-s-pecljem-satos-580ml/p/513380",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513380/dt_main.jpg"
+}

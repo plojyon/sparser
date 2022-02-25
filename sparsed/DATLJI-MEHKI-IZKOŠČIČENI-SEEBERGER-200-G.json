@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "13,45 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "DATLJI, MEHKI, IZKOŠČIČENI, SEEBERGER, 200 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "57,00 g",
+            "Total Fat": "0,40 g",
+            "Protein": "1,70 g",
+            "kJ": "1072,00 ",
+            "Sugar": "56,00 g",
+            "kcal": "254,00 ",
+            "Saturated fat": "0,10 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "security-warning": {
+            "varnostna-opozorila": "Kljub natančnemu izkoščičenju lahko datlji vsebujejo posamezne koščice ali delčke koščic."
+        },
+        "opis": "Datlji, izkoščičeni, pripravljeni za uživanje, pasterizirani, brez dodanih konzervansov",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "datlji."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "product-badges": {
+            "certifikati": "Fair Trade"
+        }
+    },
+    "description": "DATLJI IZKOŠČ.SOFT 200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "DATLJI IZKOŠČ.SOFT 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/datlji-mehki-izkosciceni-seeberger-200-g/p/492619",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/492619/dt_main.jpg"
+}

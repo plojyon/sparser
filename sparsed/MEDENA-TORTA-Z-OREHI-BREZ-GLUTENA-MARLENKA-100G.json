@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/medena-torta-z-orehi-brez-glutena-marlenka-100g/p/595474",
+    "title": "MEDENA TORTA Z OREHI BREZ GLUTENA, MARLENKA, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,99",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "PETLJA D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "37,00 g",
+            "Total Carbohydrate": "48,00 g",
+            "Prehranske vlaknine": "3,10 g",
+            "Saturated fat": "13,00 g",
+            "Protein": "5,70 g",
+            "Total Fat": "23,00 g",
+            "kcal": "422,00 ",
+            "Salt": "0,46 g",
+            "kJ": "1766,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, OREHI, SOJA (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "100G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "product-priceperunit": "29,90 €/kg",
+    "teaser-text": "TORTA MARLENKA Z OREHI",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "TORTA MARLENKA Z OREHI",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/595474/dt_main.jpg",
+    "product-brand": ""
+}

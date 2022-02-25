@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,69",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Kinder Country vsebuje okusno mlečno polnilo in odličen okus mešanice petih različnih hrustljavih žit, ječmena, riža, pšenice, pire in ajde, preprosto napihnjenih in popraženih. Vse skupaj pa je zavito v obliv iz okusne mlečne čokolade.",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "94g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2342,00 ",
+            "Saturated fat": "21,90 g",
+            "Protein": "8,60 g",
+            "Sugar": "49,10 g",
+            "Total Fat": "33,80 g",
+            "kcal": "561,00 ",
+            "Total Carbohydrate": "54,90 g",
+            "Salt": "0,28 g"
+        }
+    },
+    "product-priceperunit": "17,98 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecna-cokolada-kinder-country-ferrero-41-94g/p/490671",
+    "product-price": "1,69",
+    "title": "MLEČNA ČOKOLADA KINDER COUNTRY, FERRERO, 4/1, 94G",
+    "description": "ČOK.KINDER COUNTRY 94G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490671/dt_main.jpg",
+    "teaser-text": "ČOK.KINDER COUNTRY 94G"
+}

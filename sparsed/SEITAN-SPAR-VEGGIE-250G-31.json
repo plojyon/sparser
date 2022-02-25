@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "2,19",
+    "product-priceperunit": "8,76 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "title": "SEITAN, SPAR VEGGIE, 250G, 3/1",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,18 g",
+            "Total Carbohydrate": "2,10 g",
+            "Prehranske vlaknine": "1,50 g",
+            "Total Fat": "1,70 g",
+            "Protein": "24,90 g",
+            "kJ": "534,00 ",
+            "Sugar": "0,20 g",
+            "kcal": "126,00 ",
+            "Saturated fat": "0,40 g"
+        },
+        "instruction-for-use": {},
+        "security-warning": {
+            "varnostna-opozorila": "Pred zaužitjem je potrebno izdelek termično obdelati do središčne temperature vsaj +72 °C."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "product-badges": {
+            "certifikati": "Vegan"
+        }
+    },
+    "description": "SPAR VEGGIE SEITAN 250G",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-brand": "",
+    "product-price": "2,19",
+    "teaser-text": "SPAR VEGGIE SEITAN 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/seitan-spar-veggie-250g-31/p/436118",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/436118/dt_main.jpg"
+}

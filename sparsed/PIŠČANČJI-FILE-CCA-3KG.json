@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "9,29",
+    "product-priceperunit": "9,29 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "PIŠČANČJI FILE, CCA. 3KG",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "KG"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Toplotno obdelati do središčne temperature nad +82 °C."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIŠČANČJA PRSA FILE, AVE, PANVITA AGROMERKUR D.O.O.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "security-warning": {
+            "varnostna-opozorila": "Hraniti pri temperaturi od -2 °C do +4 °C."
+        },
+        "opis": "PIŠČANČJA PRSA FILE, AVE, PANVITA AGROMERKUR D.O.O.",
+        "contact-information": {
+            "kontakt:": "Panvita Agromerkur d.o.o., Industrijska ulica 8, 9000 Murska Sobota"
+        },
+        "ingredient-information": {
+            "sestavine": "piščančje meso 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "2,00 %"
+        }
+    },
+    "description": "FILE PIŠČANČJI IK",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "9,29",
+    "teaser-text": "FILE PIŠČANČJI IK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/piscancji-file-cca-3kg/p/440850",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/440850/dt_main.jpg"
+}

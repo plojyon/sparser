@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,62",
+    "product-priceperunit": "62,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLADKORNE PERLE, MIX, DEKOR, DR. OETKER, 10 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pisane sladkorne dekorativne perle, mehke.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "dekstroza, sladkor, glukozni sirup, riževa moka, živila za obarvanje (spirulina, žafranika, limona, črni ribez, redkev), barvila: kurkumin, karminska kislina, e132, e171, sredstvo za glaziranje: šelak, aroma, jedilna sol, rastlinsko olje, kislina: citronska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "10g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "93,50 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,76 g",
+            "kJ": "1602,00 ",
+            "Sugar": "82,80 g",
+            "kcal": "377,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DEKOR MIX PERLE 10G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,62",
+    "teaser-text": "DEKOR MIX PERLE 10G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladkorne-perle-mix-dekor-dr-oetker-10-g/p/457976",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457976/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "60,00 g",
+            "Sugar": "60,00 g",
+            "Salt": "0,00 g",
+            "kJ": "1020,00 ",
+            "Protein": "0,00 g",
+            "kcal": "240,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "700g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/marmeladni-namaz-jagoda-belsad-700g/p/118627",
+    "product-price": "3,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/118627/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "MARMEL.JAGODA 700G",
+    "product-stock-status": "",
+    "title": "MARMELADNI NAMAZ JAGODA, BELSAD, 700G",
+    "product-priceperunit": "4,56 €/kg",
+    "description": "MARMEL.JAGODA 700G"
+}

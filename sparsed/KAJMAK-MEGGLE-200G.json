@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "11,85 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "KAJMAK MEGGLE 200G",
+    "teaser-text": "KAJMAK MEGGLE 200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "50,00 g",
+            "Saturated fat": "31,50 g",
+            "Total Carbohydrate": "3,30 g",
+            "kJ": "2006,00 ",
+            "Protein": "5,90 g",
+            "Salt": "1,50 g",
+            "Sugar": "3,30 g",
+            "kcal": "487,00 "
+        },
+        "opis": "Vsebuje min. 75% maščobe v suhi snovi, min 60% suhe snovi.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MEGGLE KAJMAK 200GVsebuje min. 75% maščobe v suhi snovi, min 60% suhe snovi.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        }
+    },
+    "url": "https://www.spar.si/online/kajmak-meggle-200g/p/364982",
+    "product-insteadofprice": "2,37",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364982/dt_main.jpg",
+    "title": "KAJMAK, MEGGLE, 200G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,37",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

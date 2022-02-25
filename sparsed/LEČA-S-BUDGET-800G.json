@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/leca-s-budget-800g/p/605304",
+    "title": "LEČA, S-BUDGET, 800G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,69",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "6,80 g",
+            "Prehranske vlaknine": "4,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "4,00 g",
+            "Total Fat": "0,30 g",
+            "kcal": "54,00 ",
+            "Salt": "0,55 g",
+            "kJ": "227,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "LEČA, sterilizirano",
+        "ingredient-information": {
+            "sestavine": "leča, voda, nejodirana sol, antioksidant: askorbinska kislina."
+        },
+        "base-information": {
+            "neto-količina-plod:": "530G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-priceperunit": "0,86 €/kg",
+    "teaser-text": "SB LEČA 800G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SB LEČA 800G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/605304/dt_main.jpg",
+    "product-brand": ""
+}

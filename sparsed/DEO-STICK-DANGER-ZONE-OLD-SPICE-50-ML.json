@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,69",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,05l"
+        },
+        "ingredient-information": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-priceperunit": "55,40 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/deo-stick-danger-zone-old-spice-50-ml/p/451591",
+    "product-price": "2,77",
+    "title": "DEO STICK, DANGER ZONE, OLD SPICE, 50 ML",
+    "description": "DEO STICK OLD SPICE 50ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451591/dt_main.jpg",
+    "teaser-text": "DEO STICK OLD SPICE 50ML"
+}

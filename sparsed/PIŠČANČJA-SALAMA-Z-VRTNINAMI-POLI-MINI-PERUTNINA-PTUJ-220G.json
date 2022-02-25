@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,20 g",
+            "Total Fat": "20,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Sugar": "0,50 g",
+            "Salt": "2,40 g",
+            "kJ": "936,00 ",
+            "Protein": "11,00 g",
+            "kcal": "226,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "POI MINI Z VRTNINAMI 220G",
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj, d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "220g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "20,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancja-salama-z-vrtninami-poli-mini-perutnina-ptuj-220g/p/256165",
+    "product-price": "2,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/256165/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "2,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "POLI MINI Z VRTNIN.220G",
+    "product-stock-status": "",
+    "title": "PIŠČANČJA SALAMA Z VRTNINAMI POLI MINI, PERUTNINA PTUJ, 220G",
+    "product-priceperunit": "10,41 €/kg",
+    "description": "POLI MINI Z VRTNIN.220G"
+}

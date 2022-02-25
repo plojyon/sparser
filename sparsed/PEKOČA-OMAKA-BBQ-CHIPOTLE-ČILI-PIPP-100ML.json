@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "OMAKA PEK.CHIPOTLE100ML",
+    "description": "OMAKA PEK.CHIPOTLE100ML",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PEKOČA OMAKA",
+        "ingredient-information": {
+            "sestavine": "suhi čili, paradižnik, sladkor, čebula, kis, limeta, česen, sol, poper, začimbe, naravna aroma dima, koruzni škrob."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "402,00 ",
+            "Salt": "0,72 g",
+            "Sugar": "14,00 g",
+            "Total Carbohydrate": "22,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "96,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "ČILI PIPP D.O.O."
+        }
+    },
+    "title": "PEKOČA OMAKA BBQ CHIPOTLE, ČILI PIPP, 100ML",
+    "url": "https://www.spar.si/online/pekoca-omaka-bbq-chipotle-cili-pipp-100ml/p/428763",
+    "isOnPromotion": "false",
+    "product-priceperunit": "84,80 €/kg",
+    "product-insteadofprice": "8,48",
+    "product-stock-status": "",
+    "product-price": "8,48",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/428763/dt_main.jpg"
+}

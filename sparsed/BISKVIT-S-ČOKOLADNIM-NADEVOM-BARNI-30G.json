@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PECIVO BARNI ČOK.30G",
+    "description": "PECIVO BARNI ČOK.30G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelek. Mehki biskvit s čokoladnim nadevom (30%).",
+        "opis": "Čokolada vsebuje najmanj 55 % kakavovih delov.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1691,00 ",
+            "Salt": "0,83 g",
+            "Sugar": "29,00 g",
+            "Total Carbohydrate": "58,00 g",
+            "Total Fat": "16,00 g",
+            "kcal": "402,00 ",
+            "Saturated fat": "3,10 g",
+            "Protein": "6,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "30g"
+        },
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "BISKVIT S ČOKOLADNIM NADEVOM, BARNI, 30G",
+    "url": "https://www.spar.si/online/biskvit-s-cokoladnim-nadevom-barni-30g/p/394237",
+    "isOnPromotion": "false",
+    "product-priceperunit": "12,33 €/kg",
+    "product-insteadofprice": "0,37",
+    "product-stock-status": "",
+    "product-price": "0,37",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/394237/dt_main.jpg"
+}

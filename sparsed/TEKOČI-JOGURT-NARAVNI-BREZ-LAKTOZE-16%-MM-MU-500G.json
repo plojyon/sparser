@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,48",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU JOGURT NAR. BREZ LAKT. 1,6%MM 500G TT",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "207,00 ",
+            "Saturated fat": "0,90 g",
+            "Protein": "3,70 g",
+            "Sugar": "5,30 g",
+            "Total Fat": "1,60 g",
+            "kcal": "50,00 ",
+            "Total Carbohydrate": "5,30 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "2,08 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoci-jogurt-naravni-brez-laktoze-16-mm-mu-500g/p/369343",
+    "product-price": "1,04",
+    "title": "TEKOČI JOGURT NARAVNI BREZ LAKTOZE 1,6% M.M., MU, 500G",
+    "description": "JOGURT NAVADNI 1,6% 500G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/369343/dt_main.jpg",
+    "teaser-text": "JOGURT NAVADNI 1,6% 500G"
+}

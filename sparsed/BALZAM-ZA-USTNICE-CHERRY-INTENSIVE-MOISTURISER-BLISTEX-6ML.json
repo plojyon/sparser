@@ -1,0 +1,30 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "1,99 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BALZAM ZA USTNICE CHERRY INTENSIVE MOISTURISER, BLISTEX, 6ML",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Blistex Intensive Moisturiser Cherry z univerzalno formulo, ki vključuje bogate vlažilne sestavine karitejevega masla, Lanolina in Dimethicone, ki zagotavljajo vlago, zaščito in naredijo ustnice prijetno mehke. Preprečuje izsušenost ter razpokanost ustnic. Sočen okus češnje. Vsebuje SPF 15, ki ščiti ustnice pred škodljivimi vplivi UVB žarkov.",
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "ingredient-information": {},
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Balzam lahko uporabljate po potrebi oz. če ste izpostavljeni soncu, vetru in mrazu. Pri dolgotrajnem izpostavljanju uporabite balzam večkrat na dan."
+        },
+        "contact-information": {
+            "kontakt:": "Fraktal d.o.o., Cesta Andreja Bitenca 68, 1000 Ljubljana"
+        }
+    },
+    "description": "BALZAM BLISTEX 6G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "BALZAM BLISTEX 6G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/balzam-za-ustnice-cherry-intensive-moisturiser-blistex-6ml/p/503248",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/503248/dt_main.jpg"
+}

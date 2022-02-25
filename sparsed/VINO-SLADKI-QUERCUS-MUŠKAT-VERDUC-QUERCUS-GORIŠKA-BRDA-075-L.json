@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,67",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Vinska klet Goriška Brda z.o.o., Zadružna cesta 9, 5212 Dobrovo"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sladki Quercus, Goriška brda, Muškat-verduc, vrhunsko vino zgp",
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "10,50 vol. %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "334,90 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "4,70 g",
+            "Total Fat": "0,00 g",
+            "kcal": "80,00 ",
+            "Total Carbohydrate": "4,70 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "5,99 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/vino-sladki-quercus-muskat-verduc-quercus-goriska-brda-075-l/p/371970",
+    "product-price": "4,49",
+    "title": "VINO SLADKI QUERCUS MUŠKAT-VERDUC, QUERCUS, GORIŠKA BRDA, 0,75 L",
+    "description": "VINO MUŠKAT QUERC.0,75L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/371970/dt_main.jpg",
+    "teaser-text": "VINO MUŠKAT QUERC.0,75L"
+}

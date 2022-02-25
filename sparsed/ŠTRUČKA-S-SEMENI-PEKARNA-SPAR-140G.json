@@ -1,0 +1,31 @@
+{
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR štručka s semeni (5%).",
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "opis": "Štručka je izdelana iz bele pšenične moke, kislega testa in vsebuje sončnična, lanena in chia semena. Štručka je odlična izbira za vsak sendvič ali malico.",
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/strucka-s-semeni-pekarna-spar-140g/p/607967",
+    "product-price": "0,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/607967/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "product-insteadofprice": "0,59",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Odlična kakovost",
+    "teaser-text": "ŠTRUČKA S SEMENI 140 G",
+    "product-stock-status": "",
+    "title": "ŠTRUČKA S SEMENI, PEKARNA SPAR, 140G",
+    "product-priceperunit": "0,59 €/kos",
+    "description": "ŠTRUČKA S SEMENI 140 G"
+}

@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "GINGERINO 10 X 0,1L",
+    "description": "GINGERINO 10 X 0,1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor (glukozno fruktozni sirup), co2, arome, barvila (e150a, e110, e122), citronska kislina."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "title": "NAPITEK, GINGERINO, 10 X 0,1 L",
+    "url": "https://www.spar.si/online/napitek-gingerino-10-x-01-l/p/409094",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,58 €/l",
+    "product-insteadofprice": "5,58",
+    "product-stock-status": "",
+    "product-price": "5,58",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/409094/dt_main.jpg"
+}

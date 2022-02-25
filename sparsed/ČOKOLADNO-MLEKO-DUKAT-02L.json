@@ -1,0 +1,46 @@
+{
+    "product-priceperunit": "2,10 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "MLEKO ČOKOLADNO 0,2L",
+    "teaser-text": "MLEKO ČOKOLADNO 0,2L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "opis": "Čokoladno mleko najljubši napitek vseh generacij. Odlikuje ga bogat okus in gosta tekstura. Je dragocen vir hranljivih snovi, ki so naravno prisotne v mleku.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,10 g",
+            "Saturated fat": "0,70 g",
+            "Total Carbohydrate": "10,70 g",
+            "kJ": "268,00 ",
+            "Protein": "2,30 g",
+            "Salt": "0,13 g",
+            "Sugar": "10,20 g",
+            "kcal": "63,00 ",
+            "Prehranske vlaknine": "0,75 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pretresti pred uporabo."
+        }
+    },
+    "url": "https://www.spar.si/online/cokoladno-mleko-dukat-02l/p/382969",
+    "product-insteadofprice": "0,42",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/382969/dt_main.jpg",
+    "title": "ČOKOLADNO MLEKO DUKAT, 0,2L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,42",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

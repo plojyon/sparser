@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "JOGURT B ACTIV LGG 330G",
+    "description": "JOGURT B ACTIV LGG 330G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "320,00 ",
+            "Salt": "0,13 g",
+            "Sugar": "13,00 g",
+            "Total Carbohydrate": "13,30 g",
+            "Total Fat": "1,20 g",
+            "kcal": "76,00 ",
+            "Prehranske vlaknine": "0,06 g",
+            "Saturated fat": "0,75 g",
+            "Protein": "2,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "DUKAT S D.O.O., TOLSTOJEVA 63, 1000 LJUBLJANA"
+        }
+    },
+    "title": "JOGURT GOZDNI SADEŽI LGG B.AKTIV, DUKAT, 330G",
+    "url": "https://www.spar.si/online/jogurt-gozdni-sadezi-lgg-baktiv-dukat-330g/p/391305",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,36 €/kg",
+    "product-insteadofprice": "0,78",
+    "product-stock-status": "",
+    "product-price": "0,78",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/391305/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,79",
+    "product-priceperunit": "13,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "DIMLJEN SLANIK, VICI, 200 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SLANIK FILE, HLADNO DIMLJENO (VAKUMSKO PAKIRAN)",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Clupea harengus"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,00 g",
+            "Total Carbohydrate": "0,40 g",
+            "Total Fat": "10,50 g",
+            "Protein": "13,40 g",
+            "kJ": "627,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "150,00 ",
+            "Saturated fat": "2,30 g"
+        }
+    },
+    "description": "SLANIK DIMLJEN 200G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,79",
+    "teaser-text": "SLANIK DIMLJEN 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/dimljen-slanik-vici-200-g/p/441446",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/441446/dt_main.jpg"
+}

@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,53",
+    "product-priceperunit": "6,12 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ENERGIJSKI NAPITEK, RED BULL, 250 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B3 (Niacin) 8,00 mg, Vitamin B6 2,00 mg, Vitamin B12 2,00 mikrogr. Vitamin B5 (Pantotenska kislina) 2,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "ROISS d.o.o., Letališka cesta 14, 1000 Ljubljana, SI50353578"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, saharoza, glukoza, kislina (citronska kislina), ogljikov dioksid, tavrin 0,40 %, sredstvo za uravnavanje kislosti (natrijevi karbonati, magnezijev karbonat), kofein 0,03 %, vitamini (niacin, pantotenska kislina, vitamin b6, vitamin b12), arome, barvila (karamel, riboflavin)."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "11,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "194,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "46,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "RED BULL STEKLENICA 250M",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,53",
+    "teaser-text": "RED BULL STEKLENICA 250M",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/energijski-napitek-red-bull-250-ml/p/494818",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/494818/dt_main.jpg"
+}

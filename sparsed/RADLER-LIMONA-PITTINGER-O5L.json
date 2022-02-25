@@ -1,0 +1,32 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PIVO PITTIN.RADL.LI.0,5L",
+    "description": "PIVO PITTIN.RADL.LI.0,5L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "2,50 vol. %"
+        },
+        "opis": "Mešana pijača iz piva in brezalkoholne pijače z okusom limone z dodanimi sladili.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "RADLER LIMONA PITTINGER, O,5L",
+    "url": "https://www.spar.si/online/radler-limona-pittinger-o5l/p/387517",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,10 €/l",
+    "product-insteadofprice": "0,55",
+    "product-stock-status": "",
+    "product-price": "0,55",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/387517/dt_main.jpg"
+}

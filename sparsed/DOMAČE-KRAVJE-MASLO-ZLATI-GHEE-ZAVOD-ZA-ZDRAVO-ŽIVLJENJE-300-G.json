@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "9,49",
+    "product-priceperunit": "31,63 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "DOMAČE KRAVJE MASLO, ZLATI GHEE, ZAVOD ZA ZDRAVO ŽIVLJENJE, 300 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,10 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "71,10 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "\n\t\t\t\ttehnično-ime-izdelka": "GHEE MASLO",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "MASLO BIO GHEE 300G",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "9,49",
+    "teaser-text": "MASLO BIO GHEE 300G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domace-kravje-maslo-zlati-ghee-zavod-za-zdravo-zivljenje-300-g/p/513995",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513995/dt_main.jpg"
+}

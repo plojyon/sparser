@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,87",
+    "product-priceperunit": "1,74 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SCHWEPPES TANGERINE, 500ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna brezalkoholna gazirana  pijača z okusom mandarine. S sladkorjem in sladiloma.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, fruktozni-glukozni sirup, mandarinin sok iz zgoščenega mandarininega soka 2,00 %, ogljikov dioksid, kislina: citronska kislina, arome, stabilizatorja: e 414 in E445, antioksidant: askorbinska kislina, konzervans: kalijev sorbat, sladili: acesulfam k in sukraloza, barvilo: karoteni."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "7,10 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "126,00 ",
+            "Sugar": "7,10 g",
+            "kcal": "30,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SCHWEPPES TANGERINE 0.5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,87",
+    "teaser-text": "SCHWEPPES TANGERINE 0.5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/schweppes-tangerine-500ml/p/48334",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48334/dt_main.jpg"
+}

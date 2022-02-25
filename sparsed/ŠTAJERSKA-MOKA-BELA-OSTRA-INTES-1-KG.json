@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,98",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/stajerska-moka-bela-ostra-intes-1-kg/p/52390",
+    "title": "ŠTAJERSKA MOKA BELA OSTRA, INTES, 1 KG",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,98",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,80 g",
+            "Total Carbohydrate": "72,00 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "10,60 g",
+            "Total Fat": "1,00 g",
+            "kcal": "347,00 ",
+            "Salt": "0,00 g",
+            "kJ": "1473,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Štajerska moka bela ostra",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "1,98 €/kg",
+    "teaser-text": "MOKA ŠTAJER.O.1/1",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "MOKA ŠTAJER.O.1/1",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/52390/dt_main.jpg",
+    "product-brand": ""
+}

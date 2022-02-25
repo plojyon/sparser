@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,64",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/jogurt-60-mm-alpsko-180g/p/558037",
+    "title": "JOGURT 6,0% M.M., ALPSKO, 180G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,64",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "LJUBLJANSKE MLEKARNE D.O.O., Tolstojeva ulica 63, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jogurt iz pasteriziranega mleka s 6,0% mlečne maščobe.",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,50 g",
+            "Total Carbohydrate": "4,50 g",
+            "Saturated fat": "4,30 g",
+            "Protein": "3,80 g",
+            "Total Fat": "6,00 g",
+            "kcal": "87,00 ",
+            "Salt": "0,10 g",
+            "kJ": "363,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "3,56 €/kg",
+    "teaser-text": "JOGURT ALPSKO NAV 180G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "JOGURT ALPSKO NAV 180G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/558037/dt_main.jpg",
+    "product-brand": ""
+}

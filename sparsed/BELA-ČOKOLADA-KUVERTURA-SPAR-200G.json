@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "5,95 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR KUVERTURA BELA 200G",
+    "teaser-text": "SPAR KUVERTURA BELA 200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "31,00 g",
+            "Saturated fat": "19,00 g",
+            "Total Carbohydrate": "60,00 g",
+            "kJ": "2250,00 ",
+            "Protein": "4,90 g",
+            "Salt": "0,30 g",
+            "Sugar": "60,00 g",
+            "kcal": "539,00 "
+        },
+        "opis": "Bela čokolada za prelive, dekoracijo in peko.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BELA ČOKOLADA ZA PRELIVE, DEKORACIJO IN PEKO",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/bela-cokolada-kuvertura-spar-200g/p/381325",
+    "product-insteadofprice": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381325/dt_main.jpg",
+    "title": "BELA ČOKOLADA KUVERTURA SPAR, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "teaser-text": "SPAR OLJE REPIČNO PET 1L",
+    "description": "SPAR OLJE REPIČNO PET 1L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR Repica jedilno rafinirano",
+        "opis": "Rafinirano olje.",
+        "ingredient-information": {
+            "sestavine": "jedilno rafinirano repično olje 100,00 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3700,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "8,50 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "REPIČNO OLJE SPAR, 1L",
+    "url": "https://www.spar.si/online/repicno-olje-spar-1l/p/432279",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,99 €/l",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-price": "1,99",
+    "product-brand": "",
+    "product-promotionBadges": "Odlična kakovost",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/432279/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "10,41",
+    "product-priceperunit": "20,82 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RUM, CARTA ORO, BACARDI, 0,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "rum."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "37,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "RUM BACARDI CAR. 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "10,41",
+    "teaser-text": "RUM BACARDI CAR. 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rum-carta-oro-bacardi-05-l/p/500948",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/500948/dt_main.jpg"
+}

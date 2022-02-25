@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "23,00 g",
+            "Total Fat": "37,00 g",
+            "Total Carbohydrate": "51,00 g",
+            "Sugar": "50,00 g",
+            "Salt": "0,28 g",
+            "kJ": "2387,00 ",
+            "Protein": "6,40 g",
+            "kcal": "567,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada",
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje pšenico, sezamova semena, oreščke."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecna-cokolada-excellence-lindt-100g/p/264531",
+    "product-price": "2,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/264531/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČOKOLADA EX.MLEČ.100G",
+    "product-stock-status": "",
+    "title": "MLEČNA ČOKOLADA EXCELLENCE, LINDT, 100G",
+    "product-priceperunit": "21,90 €/kg",
+    "description": "ČOKOLADA EX.MLEČ.100G"
+}

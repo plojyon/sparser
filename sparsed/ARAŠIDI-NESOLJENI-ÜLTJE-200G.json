@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "8,85 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "ARAŠ.NESOL.ÜLTJE200G TZ",
+    "teaser-text": "ARAŠ.NESOL.ÜLTJE200G TZ",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "52,00 g",
+            "Saturated fat": "7,90 g",
+            "Total Carbohydrate": "11,00 g",
+            "kJ": "2592,00 ",
+            "Protein": "25,00 g",
+            "Salt": "0,05 g",
+            "Sugar": "5,30 g",
+            "kcal": "626,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Intersnack, d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Majhni otroci se z oreščki lahko zadušijo."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/arasidi-nesoljeni-ltje-200g/p/368827",
+    "product-insteadofprice": "2,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368827/dt_main.jpg",
+    "title": "ARAŠIDI NESOLJENI, ÜLTJE, 200G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,77",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

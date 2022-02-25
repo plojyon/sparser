@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "8,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/studentska-hrana-spar-700g/p/579963",
+    "title": "ŠTUDENTSKA HRANA, SPAR, 700G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "8,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "700g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "LEŠNIKI, OREHI, INDIJSKI OREŠČKI, AMERIŠKI OREH, BRAZILSKI OREŠČKI, MANDLJI, ARAŠIDI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "40,00 g",
+            "Total Carbohydrate": "45,00 g",
+            "Prehranske vlaknine": "8,00 g",
+            "Saturated fat": "3,20 g",
+            "Protein": "9,40 g",
+            "Total Fat": "28,00 g",
+            "kcal": "484,00 ",
+            "Salt": "0,01 g",
+            "kJ": "2020,00 "
+        }
+    },
+    "product-priceperunit": "12,84 €/kg",
+    "teaser-text": "SPAR ŠTUDENTSKA HR.700G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR ŠTUDENTSKA HR.700G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/579963/dt_main.jpg",
+    "product-brand": ""
+}

@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "1,09",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti!"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "TEKOČI JOGURT 1,3 % m.m.Tekoči jogurt z 1,3% mlečne maščobe iz pasteriziranega fermentiranega mleka.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "188,00 ",
+            "Saturated fat": "0,80 g",
+            "Protein": "3,80 g",
+            "Sugar": "4,40 g",
+            "Total Fat": "1,30 g",
+            "kcal": "45,00 ",
+            "Total Carbohydrate": "4,40 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "1,09 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoci-jogurt-13-mm-spar-1l/p/542118",
+    "product-price": "1,09",
+    "title": "TEKOČI JOGURT 1,3% M.M., SPAR, 1L",
+    "description": "SPAR JOGURT 1,3%M.M.1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/542118/dt_main.jpg",
+    "teaser-text": "SPAR JOGURT 1,3%M.M.1L"
+}

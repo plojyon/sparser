@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.S SMETAN.HIBBI 100G",
+    "description": "ČOK.S SMETAN.HIBBI 100G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNA ČOKOLADA Z MLEČNIM POLNILOM 50%",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2264,00 ",
+            "Salt": "0,27 g",
+            "Sugar": "58,00 g",
+            "Total Carbohydrate": "58,00 g",
+            "Total Fat": "33,00 g",
+            "kcal": "542,00 ",
+            "Saturated fat": "18,00 g",
+            "Protein": "3,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Baron International d.o.o., Obrežje 4, 1433 Radeče"
+        }
+    },
+    "title": "MLEČNA ČOKOLADA S SMETANOVIM POLNILOM, HIBBI, 100 G",
+    "url": "https://www.spar.si/online/mlecna-cokolada-s-smetanovim-polnilom-hibbi-100-g/p/431891",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,80 €/kg",
+    "product-insteadofprice": "0,88",
+    "product-stock-status": "",
+    "product-price": "0,88",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/431891/dt_main.jpg"
+}

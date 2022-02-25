@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "6,70 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "BONB.NIMM2 100G SMIL. TZ",
+    "teaser-text": "BONB.NIMM2 100G SMIL. TZ",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o. Tehnološki park 18, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 10,30 mg, Vitamin B3 (Niacin) 15,60 mg, Vitamin B6 1,50 mg, Vitamin B12 2,20 mikrogr. Vitamin H (Biotin) 50,00 mikrogr. Vitamin B5 (Pantotenska kislina) 7,40 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,20 g",
+            "Saturated fat": "0,20 g",
+            "Total Carbohydrate": "75,40 g",
+            "kJ": "1414,00 ",
+            "Protein": "6,50 g",
+            "Salt": "0,11 g",
+            "Sugar": "52,10 g",
+            "kcal": "333,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SADNI GUMIJEVI BONBONI Z VITAMINI, SMILE GUMMI, NIMM2, STORCK, 100 G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/sadni-gumijevi-bonboni-z-vitamini-smile-gummi-nimm2-storck-100g/p/363262",
+    "product-insteadofprice": "0,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363262/dt_main.jpg",
+    "title": "SADNI GUMIJEVI BONBONI Z VITAMINI SMILE GUMMI, NIMM2, STORCK, 100G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,67",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

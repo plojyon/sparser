@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,10 g",
+            "Total Carbohydrate": "58,20 g",
+            "Sugar": "57,80 g",
+            "Salt": "0,03 g",
+            "kJ": "1023,00 ",
+            "Protein": "0,40 g",
+            "kcal": "241,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "700g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "ingredient-information": {
+            "sestavine": "sladkor, marelice - fino pasirane 45,00 %, glukozno-fruktozni sirup, sredstvo za uravnavanje kislosti: citronska kislina, želirno sredstvo: pektin, konzervans: sorbinska kislina, aroma ruma."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/marelicna-marmelada-uwe-700g/p/242622",
+    "product-price": "2,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/242622/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SAD.NAMAZ MAREL.700G UWE",
+    "product-stock-status": "",
+    "title": "MARELIČNA MARMELADA UWE, 700G",
+    "product-priceperunit": "4,27 €/kg",
+    "description": "SAD.NAMAZ MAREL.700G UWE"
+}

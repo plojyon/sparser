@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,85",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {},
+        "opis": "Čisti, odišavi in preprečuje nabiranje vodnega kamna.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Potisnite polnilo v plastičen nastavek, da zaskoči. Obešanko namestite na rob WC školjke, kjer je tok vode največji. Po izpraznitvi polnilo zamenjajte z novim. Prepričajte se, da je obešanka vedno v pravilni - vertikalni legi."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "ingredient-information": {}
+    },
+    "product-priceperunit": "1,49 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/wc-obesanka-lavender-splendid-3x55ml/p/419473",
+    "product-price": "1,49",
+    "title": "WC OBEŠANKA LAVENDER, SPLENDID, 3X55ML",
+    "description": "SPLENDID WC OBEŠANKA",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/419473/dt_main.jpg",
+    "teaser-text": "SPLENDID WC OBEŠANKA"
+}

@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "9,50 g",
+            "Total Fat": "19,00 g",
+            "Total Carbohydrate": "51,00 g",
+            "Sugar": "22,00 g",
+            "Salt": "0,48 g",
+            "kJ": "1706,00 ",
+            "Protein": "7,70 g",
+            "kcal": "407,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "NARAVNO VZHAJANI PEKARSKI IZDELEK, POLNJEN S ČOKOLADNO KREMO (30%)",
+        "security-warning": {
+            "varnostna-opozorila": "V sledovih lahko vsebuje oreščke in sojo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rogljici-s-kakavom-bauli-61-300g/p/230919",
+    "product-price": "2,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/230919/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,69",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ROGL.CROIS.KAKAV 300G",
+    "product-stock-status": "",
+    "title": "ROGLJIČI S KAKAVOM, BAULI, 6/1, 300G",
+    "product-priceperunit": "8,97 €/kg",
+    "description": "ROGL.CROIS.KAKAV 300G"
+}

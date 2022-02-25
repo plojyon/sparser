@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,90 g",
+            "Total Fat": "29,00 g",
+            "Total Carbohydrate": "56,00 g",
+            "Sugar": "20,00 g",
+            "Salt": "0,20 g",
+            "kJ": "2156,00 ",
+            "Protein": "7,70 g",
+            "kcal": "515,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, OREHI, MLEKO (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Pekarna Adamič d.o.o., Stara cesta 21, 1360 Vrhnika"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/breskvice-pekarna-adamic-500g/p/229017",
+    "product-price": "6,97",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/229017/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "6,97",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KEKSI BRESKVICE 500G",
+    "product-stock-status": "",
+    "title": "BRESKVICE PEKARNA ADAMIČ, 500G",
+    "product-priceperunit": "13,94 €/kg",
+    "description": "KEKSI BRESKVICE 500G"
+}

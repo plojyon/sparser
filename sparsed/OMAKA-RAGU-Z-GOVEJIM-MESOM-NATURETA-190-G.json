@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "RAGU MES. NATURETA 190G",
+    "description": "RAGU MES. NATURETA 190G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "190g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "551,00 ",
+            "Salt": "3,70 g",
+            "Sugar": "1,40 g",
+            "Total Carbohydrate": "5,40 g",
+            "Total Fat": "9,60 g",
+            "kcal": "132,00 ",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "2,70 g",
+            "Protein": "5,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ZELENA."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "OMAKA RAGU Z GOVEJIM MESOM, NATURETA, 190 G",
+    "url": "https://www.spar.si/online/omaka-ragu-z-govejim-mesom-natureta-190-g/p/405751",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,16 €/kg",
+    "product-insteadofprice": "1,55",
+    "product-stock-status": "",
+    "product-price": "1,55",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/405751/dt_main.jpg"
+}

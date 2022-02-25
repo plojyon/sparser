@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "13,20 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SIR MOZZARELLA 250G",
+    "teaser-text": "SIR MOZZARELLA 250G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "20,00 g",
+            "Saturated fat": "13,00 g",
+            "Total Carbohydrate": "1,70 g",
+            "kJ": "1102,00 ",
+            "Protein": "19,00 g",
+            "Salt": "1,00 g",
+            "Sugar": "1,70 g",
+            "kcal": "265,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Hmezad Trgovina Žalec d.o.o., Arja vas 103, 3301 Petrovče"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/sir-mozzarella-paladin-250g/p/366034",
+    "product-insteadofprice": "3,30",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/366034/dt_main.jpg",
+    "title": "SIR MOZZARELLA, PALADIN, 250G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,30",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

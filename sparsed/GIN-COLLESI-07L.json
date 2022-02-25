@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "29,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/gin-collesi-07l/p/590282",
+    "title": "GIN COLLESI, 0,7L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "29,99",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "42,80 vol. %"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kcal": "263,00 ",
+            "Total Fat": "0,00 g",
+            "kJ": "1104,00 "
+        },
+        "contact-information": {
+            "kontakt:": "BEER PRO distribution d.o.o., Industrijska cesta 1C, 5000 Nova Gorica"
+        },
+        "ingredient-information": {
+            "sestavine": "gin 100,00 %."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Shranjujte izven dosega otrok."
+        },
+        "base-information": {
+            "neto-količina-plod:": "700ML"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave"
+    },
+    "product-priceperunit": "42,84 €/l",
+    "teaser-text": "GIN COLLESI 0,7L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "GIN COLLESI 0,7L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/590282/dt_main.jpg",
+    "product-brand": ""
+}

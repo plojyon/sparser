@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "7,55",
+    "product-priceperunit": "2,52 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SIRUP MALINA FRUCTAL, 3L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "87,90 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,30 g",
+            "kJ": "1509,00 ",
+            "Sugar": "76,90 g",
+            "kcal": "355,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "glukozni-fruktozni sirup, sladkor, malinov sok iz zgoščenega soka 33,00 %, kislina (citronska kislina), aroma."
+        },
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "SIRUP MALINA 3L FRUCT.",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,55",
+    "teaser-text": "SIRUP MALINA 3L FRUCT.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sirup-malina-fructal-3l/p/50263",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/50263/dt_main.jpg"
+}

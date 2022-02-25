@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.BANAN. BANANKO 30G",
+    "description": "ČOK.BANAN. BANANKO 30G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Penasti izdelek s čokolado.",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "30g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1525,00 ",
+            "Salt": "3,00 g",
+            "Sugar": "61,62 g",
+            "Total Carbohydrate": "70,49 g",
+            "Total Fat": "8,22 g",
+            "kcal": "364,00 ",
+            "Prehranske vlaknine": "1,79 g",
+            "Saturated fat": "5,11 g",
+            "Protein": "1,23 g"
+        },
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        }
+    },
+    "title": "ČOKOLADNA BANANICA BANANKO, KRAŠ, 30G",
+    "url": "https://www.spar.si/online/cokoladna-bananica-bananko-kras-30g/p/423836",
+    "isOnPromotion": "false",
+    "product-priceperunit": "10,00 €/kg",
+    "product-insteadofprice": "0,30",
+    "product-stock-status": "",
+    "product-price": "0,30",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/423836/dt_main.jpg"
+}

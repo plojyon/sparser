@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,45",
+    "product-priceperunit": "2,90 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIJAČA ZA HIDRACIJO IN VZDRŽLJIVOST, L-CARNITINE, ISOSTAR, 500 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "security-warning": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, l-karnitin, sredstvo za kisanje: citronska kislina, sladila: acesulfam kalij in sukraloza, aroma, barvila: e122."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,10 g",
+            "kJ": "3,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "1,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "ISOSTAR NAPITEK 500 ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,45",
+    "teaser-text": "ISOSTAR NAPITEK 500 ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pijaca-za-hidracijo-in-vzdrzljivost-l-carnitine-isostar-500-ml/p/449246",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/449246/dt_main.jpg"
+}

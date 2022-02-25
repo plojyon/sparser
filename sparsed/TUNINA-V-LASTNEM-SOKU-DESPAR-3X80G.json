@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "2,19",
+    "product-priceperunit": "9,13 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TUNINA V LASTNEM SOKU, DESPAR, 3X80G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "168G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "TUN V KOSIH V LASTNEM SOKU.",
+        "opis": "Rumenoplavuti tun v lastnem soku. V kosih.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "240g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Thunnus albacares"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,80 g",
+            "Protein": "23,00 g",
+            "kJ": "412,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "97,00 ",
+            "Saturated fat": "0,30 g"
+        }
+    },
+    "description": "DESPAR TUNA V N.SO.3X80G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,19",
+    "teaser-text": "DESPAR TUNA V N.SO.3X80G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/tunina-v-lastnem-soku-despar-3x80g/p/452009",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452009/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,69",
+    "product-priceperunit": "2,35 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "title": "SLADOLED KORNETI VANILIJA CONTE, S-BUDGET, 6X120ML",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Sladoled z okusom vanilije v vafljevem kornetu 16% s kakavovo maščobno glazuro 10 % in karameliziranimi koščki lešnikov 1 %.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,72l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,17 g",
+            "Total Carbohydrate": "35,00 g",
+            "Prehranske vlaknine": "0,70 g",
+            "Total Fat": "14,00 g",
+            "Protein": "3,10 g",
+            "kJ": "1170,00 ",
+            "Sugar": "24,00 g",
+            "kcal": "280,00 ",
+            "Saturated fat": "11,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "SB KORNETI VANIL.6X120ML",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-brand": "",
+    "product-price": "1,69",
+    "teaser-text": "SB KORNETI VANIL.6X120ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladoled-korneti-vanilija-conte-s-budget-6x120ml/p/448930",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/448930/dt_main.jpg"
+}

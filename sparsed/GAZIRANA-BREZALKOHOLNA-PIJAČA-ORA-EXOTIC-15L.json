@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "10,00 g",
+            "Sugar": "9,90 g",
+            "Salt": "0,02 g",
+            "kJ": "173,00 ",
+            "Protein": "0,00 g",
+            "kcal": "41,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača s sokom pomaranče, limone, banane, pasijonke in ananasa.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Osvežilna brezalkoholna pijača iz izvirske vode s 1,5 % soka eksotičnega sadja in naravnimi barvili.",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "naravna mineralna voda, sladkor, sok pomaranče (1 %), limone (0,2 %), banane (0,1 %), pasijonke (0,1 %) in ananasa (0,1 %) iz zgoščenega soka, ogljikov dioksid, kislina: citronska kislina, emulgator: gumi arabikum, stabilizator: glicerolni estri lesnih smol, antioksidant: askorbinska kislina, konzervans: kalijev sorbat, barvilo: karoteni, aroma."
+        },
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-ora-exotic-15l/p/189746",
+    "product-price": "0,83",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/189746/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-insteadofprice": "1,04",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Trajno znižano",
+    "teaser-text": "ORA EKSOTIK RADENSKA1,5L",
+    "product-stock-status": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA ORA EXOTIC, 1,5L",
+    "product-priceperunit": "0,55 €/l",
+    "description": "ORA EKSOTIK RADENSKA1,5L"
+}

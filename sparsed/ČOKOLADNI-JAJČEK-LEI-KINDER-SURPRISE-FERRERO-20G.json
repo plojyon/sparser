@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "JAJČEK LEI KINDER 20G",
+    "description": "JAJČEK LEI KINDER 20G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČOKOLADNI JAJČEK LEI, KINDER SURPRISE, FERRERO, 20G",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "20g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2360,00 ",
+            "Salt": "0,31 g",
+            "Sugar": "53,50 g",
+            "Total Carbohydrate": "53,50 g",
+            "Total Fat": "35,00 g",
+            "kcal": "566,00 ",
+            "Saturated fat": "22,60 g",
+            "Protein": "8,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "ČOKOLADNI JAJČEK LEI, KINDER SURPRISE, FERRERO, 20G",
+    "url": "https://www.spar.si/online/cokoladni-jajcek-lei-kinder-surprise-ferrero-20g/p/418551",
+    "isOnPromotion": "false",
+    "product-priceperunit": "49,50 €/kg",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/418551/dt_main.jpg"
+}

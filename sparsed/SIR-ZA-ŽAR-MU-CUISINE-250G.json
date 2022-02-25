@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "15,96 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SIR ZA ŽAR MU CUISIN 250",
+    "teaser-text": "SIR ZA ŽAR MU CUISIN 250",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "22,00 g",
+            "Saturated fat": "15,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "1215,00 ",
+            "Protein": "22,50 g",
+            "Salt": "1,30 g",
+            "Sugar": "1,00 g",
+            "kcal": "292,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU CUISINE SIR ZA ŽAR 250G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/sir-za-zar-mu-cuisine-250g/p/379711",
+    "product-insteadofprice": "3,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/379711/dt_main.jpg",
+    "title": "SIR ZA ŽAR, MU CUISINE, 250G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

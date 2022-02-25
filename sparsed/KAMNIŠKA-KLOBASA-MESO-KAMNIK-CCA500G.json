@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "11,79 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "KLOBASA KAMNIŠKA VP",
+    "teaser-text": "KLOBASA KAMNIŠKA VP",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "30,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Meso Kamnik d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "28,40 g",
+            "Saturated fat": "11,70 g",
+            "Total Carbohydrate": "0,60 g",
+            "kJ": "1338,00 ",
+            "Protein": "16,30 g",
+            "Salt": "2,38 g",
+            "Sugar": "0,40 g",
+            "kcal": "323,00 ",
+            "Prehranske vlaknine": "1,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, svinjsko mastno tkivo, goveje meso, sol, začimbe, dekstroza, antioksidant E316, stabilizatorji: E450, E451, začimbni ekstrakti, konzervans E250."
+        }
+    },
+    "url": "https://www.spar.si/online/kamniska-klobasa-meso-kamnik-cca500g/p/364228",
+    "product-insteadofprice": "11,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364228/dt_main.jpg",
+    "title": "KAMNIŠKA KLOBASA MESO KAMNIK, CCA.500G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "11,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

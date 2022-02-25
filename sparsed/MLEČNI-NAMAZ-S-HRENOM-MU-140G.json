@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,63",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU MLEČNI NAMAZ S HRENOM 140G",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "818,00 ",
+            "Saturated fat": "11,10 g",
+            "Protein": "3,40 g",
+            "Sugar": "5,10 g",
+            "Total Fat": "18,00 g",
+            "kcal": "198,00 ",
+            "Total Carbohydrate": "5,50 g",
+            "Salt": "0,80 g"
+        }
+    },
+    "product-priceperunit": "7,79 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-namaz-s-hrenom-mu-140g/p/261702",
+    "product-price": "1,09",
+    "title": "MLEČNI NAMAZ S HRENOM, MU, 140G",
+    "description": "NAMAZ MLEČNI LAHKI 140G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/261702/dt_main.jpg",
+    "teaser-text": "NAMAZ MLEČNI LAHKI 140G"
+}

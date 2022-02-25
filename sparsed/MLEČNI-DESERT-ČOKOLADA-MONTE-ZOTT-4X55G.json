@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,75",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "product-net-cont": {
+            "neto-količina": "220g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "813,00 ",
+            "Saturated fat": "8,80 g",
+            "Prehranske vlaknine": "0,40 g",
+            "Protein": "2,80 g",
+            "Sugar": "13,70 g",
+            "Total Fat": "13,30 g",
+            "kcal": "195,00 ",
+            "Total Carbohydrate": "18,90 g",
+            "Salt": "0,13 g"
+        }
+    },
+    "product-priceperunit": "4,77 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-desert-cokolada-monte-zott-4x55g/p/351200",
+    "product-price": "1,05",
+    "title": "MLEČNI DESERT ČOKOLADA MONTE, ZOTT, 4X55G",
+    "description": "DESERT MONTE 4x55G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/351200/dt_main.jpg",
+    "teaser-text": "DESERT MONTE 4x55G"
+}

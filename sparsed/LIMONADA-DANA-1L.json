@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,25",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/limonada-dana-1l/p/568934",
+    "title": "LIMONADA, DANA, 1L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,25",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Dana d.o.o."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,70 g",
+            "Total Carbohydrate": "4,90 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "49,00 ",
+            "Salt": "0,01 g",
+            "kJ": "208,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA LIMONADA CLASSIC - negazirana brezalkoholna pijača s sokom limone. Sadni delež: min. 7%.",
+        "ingredient-information": {
+            "sestavine": "voda 87,00 %, sladkor 4,90 %, sok limone 7,00 %, limonina pulpa 0,50 %, naravne arome 0,02 %, askorbinska kislina 0,02 %."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pretresite pred uporabo!"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "1,25 €/l",
+    "teaser-text": "NAPITEK DANA LIMONADA 1L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "NAPITEK DANA LIMONADA 1L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/568934/dt_main.jpg",
+    "product-brand": ""
+}

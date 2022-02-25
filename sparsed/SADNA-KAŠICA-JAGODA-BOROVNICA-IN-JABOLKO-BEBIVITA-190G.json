@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,19",
+    "product-priceperunit": "6,26 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNA KAŠICA JAGODA, BOROVNICA IN JABOLKO, BEBIVITA, 190G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "opis": "Brez dodanih sladkorjev (vsebuje naravno prisotne sladkorje), vitamin C - ima vlogo pri delovanju imunskega sistema in povečuje absorbcijo železa, blago in sadno, brez mlečnih beljakovin, brez gostil - če se razsloji, premešajte.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "sadje 95,00 %, rižev zdrob, rižev škrob, koncentrat korenčkovega soka, vitamin c."
+        },
+        "product-net-cont": {
+            "neto-količina": "190g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,05 g",
+            "Total Carbohydrate": "13,40 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,40 g",
+            "kJ": "246,00 ",
+            "Sugar": "9,50 g",
+            "kcal": "58,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "KAŠA JAB.MAL.190G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,19",
+    "teaser-text": "KAŠA JAB.MAL.190G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadna-kasica-jagoda-borovnica-in-jabolko-bebivita-190g/p/461896",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/461896/dt_main.jpg"
+}

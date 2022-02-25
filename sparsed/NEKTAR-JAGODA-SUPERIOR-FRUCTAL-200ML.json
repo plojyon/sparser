@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,58",
+    "product-priceperunit": "2,45 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "NEKTAR JAGODA, SUPERIOR, FRUCTAL, 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "13,60 g",
+            "Prehranske vlaknine": "0,30 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,30 g",
+            "kJ": "236,00 ",
+            "Sugar": "10,20 g",
+            "kcal": "56,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, jagodna kaša 30,00 %, jabolčna kaša 11,00 %, sladkor, glukozno-fruktozni sirup, grozdni sok iz zgoščenega soka 4,00 %, kislina (citronska kislina)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "NEKTAR JAGO.FRU.0,2L TZ",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,49",
+    "teaser-text": "NEKTAR JAGO.FRU.0,2L TZ",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/nektar-jagoda-superior-fructal-200ml/p/458981",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/458981/dt_main.jpg"
+}

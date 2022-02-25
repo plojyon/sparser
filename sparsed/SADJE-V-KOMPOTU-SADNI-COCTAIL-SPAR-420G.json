@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR SADNI COCKTAIL 420G",
+    "description": "SPAR SADNI COCKTAIL 420G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MEŠANO SADJE V KOMPOTU, sterilizirano.",
+        "opis": "/",
+        "ingredient-information": {
+            "sestavine": "sadje v spremenljivih deležih: breskve, hruške, grozdje, ananas, češnje, barvilo: eritrozin, voda, hruškov pire, sladkor, kislina: citronska kislina."
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "product-net-cont": {
+            "neto-količina": "420g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "289,00 ",
+            "Salt": "0,02 g",
+            "Sugar": "17,00 g",
+            "Total Carbohydrate": "17,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "68,00 ",
+            "Prehranske vlaknine": "0,10 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "SADJE V KOMPOTU SADNI COCTAIL SPAR, 420G",
+    "url": "https://www.spar.si/online/sadje-v-kompotu-sadni-coctail-spar-420g/p/423104",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,38 €/kg",
+    "product-insteadofprice": "1,42",
+    "product-stock-status": "",
+    "product-price": "1,42",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/423104/dt_main.jpg"
+}

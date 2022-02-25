@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "3,35 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB ROLADA JAGODA 400G",
+    "teaser-text": "SB ROLADA JAGODA 400G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "7,70 g",
+            "Saturated fat": "4,40 g",
+            "Total Carbohydrate": "63,60 g",
+            "kJ": "1449,00 ",
+            "Protein": "4,30 g",
+            "Salt": "0,60 g",
+            "Sugar": "38,00 g",
+            "kcal": "343,00 ",
+            "Prehranske vlaknine": "1,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Biskvit s kremnim polnilom 18 % in jagodnim pripravkom 18 %.",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/jagodna-rolada-s-budget-400g/p/382358",
+    "product-insteadofprice": "1,34",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/382358/dt_main.jpg",
+    "title": "JAGODNA ROLADA S-BUDGET, 400G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,34",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

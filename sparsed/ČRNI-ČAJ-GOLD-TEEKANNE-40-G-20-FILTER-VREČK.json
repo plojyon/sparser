@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "25,75 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČAJ ČRNI GOLD TEE.40G",
+    "teaser-text": "ČAJ ČRNI GOLD TEE.40G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,30 g",
+            "kJ": "8,00 ",
+            "Protein": "0,20 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,30 g",
+            "kcal": "2,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "črni čaj."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Čajno vrečko prelijte z 200 ml sveže vrele vode in pustite stati 3-5 minut."
+        }
+    },
+    "url": "https://www.spar.si/online/crni-caj-gold-teekanne-40-g-20-filter-vreck/p/376847",
+    "product-insteadofprice": "1,03",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376847/dt_main.jpg",
+    "title": "ČRNI ČAJ, GOLD, TEEKANNE, 40 G, 20 FILTER VREČK",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,03",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

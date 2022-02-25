@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,74",
+    "product-priceperunit": "2,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNI OBROK, BRESKEV, SMOOTHIE, FRUCTAL, 250 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "10,80 g",
+            "Prehranske vlaknine": "3,00 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,50 g",
+            "kJ": "217,00 ",
+            "Sugar": "9,80 g",
+            "kcal": "52,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "breskova kaša 29,90 %, grozdni sok iz zgoščenega soka 21,90 %, jabolčni sok iz zgoščenega soka 20,00 %, bananina kaša 13,00 %, marelična kaša 10,00 %, jabolčna kaša 5,00 %, inulin 0,20 %."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "SMOOTHIE BRESK.0,25L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,74",
+    "teaser-text": "SMOOTHIE BRESK.0,25L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadni-obrok-breskev-smoothie-fructal-250-ml/p/479045",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/479045/dt_main.jpg"
+}

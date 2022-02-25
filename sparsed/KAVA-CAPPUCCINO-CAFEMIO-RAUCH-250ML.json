@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,70 g",
+            "Salt": "0,25 g",
+            "Total Fat": "2,60 g",
+            "Total Carbohydrate": "10,60 g",
+            "Sugar": "10,00 g",
+            "Prehranske vlaknine": "0,30 g",
+            "kJ": "323,00 ",
+            "Protein": "2,70 g",
+            "kcal": "77,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "KAVA CAPPUCCINO CAFEMIO, RAUCH, 250ML",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, SOJA (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kava-cappuccino-cafemio-rauch-250ml/p/277310",
+    "product-price": "1,13",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/277310/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-insteadofprice": "1,33",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Trajno znižano",
+    "teaser-text": "NAP.KAVA CAFEMIO 0,25LTZ",
+    "product-stock-status": "",
+    "title": "KAVA CAPPUCCINO CAFEMIO, RAUCH, 250ML",
+    "product-priceperunit": "4,52 €/l",
+    "description": "NAP.KAVA CAFEMIO 0,25LTZ"
+}

@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "4,49",
+    "product-priceperunit": "44,90 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PEKOČA OMAKA, KLASIK, ČILI PIPP, 100 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PEKOČA OMAKA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "čili, korenje, kis, česen, piranska sol, začimbe, koruzni škrob."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,10 g",
+            "Total Carbohydrate": "9,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "1,30 g",
+            "kJ": "168,00 ",
+            "Sugar": "2,00 g",
+            "kcal": "43,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "OMAKA PEKOČA KL.100ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,49",
+    "teaser-text": "OMAKA PEKOČA KL.100ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pekoca-omaka-klasik-cili-pipp-100-ml/p/499713",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499713/dt_main.jpg"
+}

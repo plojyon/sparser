@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,59",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,3l"
+        },
+        "ingredient-information": {
+            "sestavine": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, DISODIUM LAURYL SULFOSUCCINATE, GLYCERIN, GLYCOL DISTEARATE, LAURETH-4, PARFUM, SODIUM CHLORIDE, PHENOXYETHANOL, BENZYL ALCOHOL, POTASSIUM SORBATE, TOCOPHEROL, LAURETH-2, SODIUM CITRATE, SALICYLIC ACID, HYDROLYZED WHEAT PROTEIN, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, NIACINAMIDE, CALCIUM PANTOTHENATE, SODIUM ASCORBYL PHOSPHATE, TOCOPHERYL ACETATE, PYRIDOXINE HCL, MALTODEXTRIN, SODIUM STARCH , OCTENYLSUCCINATE SILICA, CITRUS AURANTIUM DULCIS PEEL EXTRACT, PROPYLENE GLYCOL, OLEA EUROPAEA LEAF EXTRACT, LINALOOL, LIMONENE, HEXYL CINNAMAL."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-priceperunit": "5,63 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sampon-vitamines-strength-subrina-300ml/p/496148",
+    "product-price": "1,69",
+    "title": "ŠAMPON VITAMINES & STRENGTH, SUBRINA, 300ML",
+    "description": "ŠAMPON SUBRINA 300ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/496148/dt_main.jpg",
+    "teaser-text": "ŠAMPON SUBRINA 300ML"
+}

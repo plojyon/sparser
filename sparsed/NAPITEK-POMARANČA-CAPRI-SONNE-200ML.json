@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NAP. CAPRI POM.0,2L",
+    "description": "NAP. CAPRI POM.0,2L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "178,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "10,00 g",
+            "Total Carbohydrate": "10,00 g",
+            "Total Fat": "0,50 g",
+            "kcal": "42,00 ",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,50 g"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, pomarančni sok, limonin sok 7,00 %, limetin sok 4,90 %, sladkor 0,10 %, naravna aroma pomaranče, antioksidant: askorbinska kislina E300."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 12,00 mg."
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "title": "NAPITEK POMARANČA CAPRI-SONNE, 200ML",
+    "url": "https://www.spar.si/online/napitek-pomaranca-capri-sonne-200ml/p/393508",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,30 €/l",
+    "product-insteadofprice": "0,46",
+    "product-stock-status": "",
+    "product-price": "0,46",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/393508/dt_main.jpg"
+}

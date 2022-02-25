@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,79",
+    "product-priceperunit": "10,73 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "BIO PEKOČI RASTLINSKI NAMAZ SPAR VEGGIE, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "6,10 g",
+            "Prehranske vlaknine": "2,50 g",
+            "Total Fat": "21,00 g",
+            "Protein": "3,70 g",
+            "kJ": "977,00 ",
+            "Sugar": "3,40 g",
+            "kcal": "236,00 ",
+            "Saturated fat": "2,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Namaz na liptavrski način.Iz ekološke pridelave.",
+        "ingredient-information": {
+            "alergeni": "SOJA, GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR VEGGIE NAM.LIP.150G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,61",
+    "teaser-text": "SPAR VEGGIE NAM.LIP.150G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/bio-pekoci-rastlinski-namaz-spar-veggie-150g/p/494682",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/494682/dt_main.jpg"
+}

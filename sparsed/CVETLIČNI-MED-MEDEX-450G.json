@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "7,55",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "opis": "Točeni cvetlični med iz Medexa je med preverjene kakovosti. Cvetlični med prepoznamo po dokaj svetli barvi, prijetnemu vonju po sadju in medonosnih travniških cvetlicah. Njegov okus je srednje do močno, lahko tudi zelo sladek. Po večini je moten, le redkokdaj bister in hitro kristalizira. Kristalizacija je naraven pojav, ki ne povzroča kemičnih sprememb in ne vpliva na kakovost medu. Cvetlični med je priljubljen tako pri odraslih kot otrocih. Najpogosteje se ga uživa kot namaz na kruhu ali kot dodatek čaju, uporabite pa ga lahko tudi pri pripravi drugih, predvsem mlečnih jedi.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Cvetlični med lahko jeste z žlico, okusen je na kruhu, v pecivu, kot dodatek jogurtu, skuti, kosmičem ali sadju. Primeren je tudi za pripravo lahkih mesnih jedi, solat in napitkov. Pri napitkih morate paziti, da niso prevroči, sicer se najpomembnejše učinkovine medu izgubijo. Naravni med se strjuje, s segrevanjem do 40 °C pa postane ponovno tekoč in pri tem ohrani naravne lastnosti in učinkovine."
+        },
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "CVETLIČNI MED MEDEX, 450G",
+        "ingredient-information": {
+            "sestavine": "cvetlični med 100,00 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1426,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,30 g",
+            "Sugar": "83,60 g",
+            "Total Fat": "0,00 g",
+            "kcal": "335,60 ",
+            "Total Carbohydrate": "83,60 g",
+            "Salt": "0,02 g"
+        }
+    },
+    "product-priceperunit": "12,56 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cvetlicni-med-medex-450g/p/41399",
+    "product-price": "5,65",
+    "title": "CVETLIČNI MED, MEDEX, 450G",
+    "description": "MED CVETLIČNI 450G MEDEX",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41399/dt_main.jpg",
+    "teaser-text": "MED CVETLIČNI 450G MEDEX"
+}

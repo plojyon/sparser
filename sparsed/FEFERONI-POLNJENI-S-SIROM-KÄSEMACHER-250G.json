@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "16,28 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "FEFERONI POLNJ.SIR. 250G",
+    "teaser-text": "FEFERONI POLNJ.SIR. 250G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "190G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "16,00 g",
+            "Saturated fat": "5,70 g",
+            "Total Carbohydrate": "8,50 g",
+            "kJ": "821,00 ",
+            "Protein": "4,60 g",
+            "Salt": "0,45 g",
+            "Sugar": "6,20 g",
+            "kcal": "198,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PAPRIKA PEKOČA POLNJENA S SVEŽIM SIROM",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/feferoni-polnjeni-s-sirom-ksemacher-250g/p/361300",
+    "product-insteadofprice": "4,07",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361300/dt_main.jpg",
+    "title": "FEFERONI POLNJENI S SIROM, KÄSEMACHER, 250G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,07",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

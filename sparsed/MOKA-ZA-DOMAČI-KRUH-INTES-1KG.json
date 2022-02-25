@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MOKA ZA DOMAČI KRUH 1KG",
+    "description": "MOKA ZA DOMAČI KRUH 1KG",
+    "product-info": {
+        "instruction-for-use": {},
+        "\n\t\t\t\ttehnično-ime-izdelka": "Moka za domači kruh. Namenska moka.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1569,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "1,10 g",
+            "Total Carbohydrate": "67,00 g",
+            "Total Fat": "1,30 g",
+            "kcal": "374,00 ",
+            "Saturated fat": "0,20 g",
+            "Protein": "11,20 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "MOKA ZA DOMAČI KRUH, INTES, 1KG",
+    "url": "https://www.spar.si/online/moka-za-domaci-kruh-intes-1kg/p/41500",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,57 €/kg",
+    "product-insteadofprice": "1,57",
+    "product-stock-status": "",
+    "product-price": "1,57",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41500/dt_main.jpg"
+}

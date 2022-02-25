@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,96",
+    "product-priceperunit": "0,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BREZALKOHOLNA SADNA PIJAČA DVOJNI C, FRUCTAL, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Negazirana brezalkoholna sadna pijača.",
+        "opis": "Proizvod je negazirana brezalkoholna sadna pijača, proizvedena iz pomarančnega zgoščenega soka. Za slajenje je uporabljena kombinacija sladkorja in glukozno-fruktoznega sirupa. Kot antioksidant je uporabljena askorbinska kislina. Stabilno rumenooranžno barvo dosežemo z dodatkom naravnih barvil (karotenov).",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, pomarančni sok iz zgoščenega soka 10,00 %, sladkor, glukozni-fruktozni sirup, kislina (citronska kislina), arome, antioksidant (askorbinska kislina), barvili (beta karoten, beta-apo-8´-karotenal)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "9,80 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,10 g",
+            "kJ": "168,00 ",
+            "Sugar": "9,00 g",
+            "kcal": "39,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPITEK DVOJNI C 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,96",
+    "teaser-text": "NAPITEK DVOJNI C 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/brezalkoholna-sadna-pijaca-dvojni-c-fructal-1l/p/498213",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498213/dt_main.jpg"
+}

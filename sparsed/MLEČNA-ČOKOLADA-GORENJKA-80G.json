@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,13",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/mlecna-cokolada-gorenjka-80g/p/576101",
+    "title": "MLEČNA ČOKOLADA, GORENJKA, 80G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,13",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "51,00 g",
+            "Total Carbohydrate": "54,00 g",
+            "Saturated fat": "22,00 g",
+            "Protein": "8,20 g",
+            "Total Fat": "35,00 g",
+            "kcal": "565,00 ",
+            "Salt": "0,10 g",
+            "kJ": "2358,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "14,13 €/kg",
+    "teaser-text": "ČOKOLADA MLEČNA 80 G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "ČOKOLADA MLEČNA 80 G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/576101/dt_main.jpg",
+    "product-brand": ""
+}

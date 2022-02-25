@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "10,42",
+    "product-priceperunit": "20,84 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KONOPLJINO OLJE SPAR VITAL, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "opis": "Jedilno hladno stiskano konopljino olje. Primerno je za pripravo hladnih jedi. Motnost olja in usedlina sta naravna pojava. Za zdravje so pomembni raznolika in ...",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "jedilno hladno stiskano konopljino olje 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "9,00 g"
+        }
+    },
+    "description": "SPAR VITAL OLJE KON 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "10,42",
+    "teaser-text": "SPAR VITAL OLJE KON 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/konopljino-olje-spar-vital-05l/p/482188",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/482188/dt_main.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "7,99",
+    "product-priceperunit": "44,39 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA, BELGIJSKE PRALINE, OPUS, GUYLIAN, 180 G, DARILNO ZAVITA",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "49,00 g",
+            "Prehranske vlaknine": "2,00 g",
+            "Total Fat": "37,00 g",
+            "Protein": "6,00 g",
+            "kJ": "2314,00 ",
+            "Sugar": "46,00 g",
+            "kcal": "555,50 ",
+            "Saturated fat": "21,00 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "security-warning": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "product-badges": {
+            "certifikati": "Fair Trade"
+        }
+    },
+    "description": "BONB.OPUS 180G GUYLIAN",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,99",
+    "teaser-text": "BONB.OPUS 180G GUYLIAN",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-belgijske-praline-opus-guylian-180-g-darilno-zavita/p/479875",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/479875/dt_main.jpg"
+}

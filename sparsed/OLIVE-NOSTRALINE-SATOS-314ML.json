@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "4,27",
+    "product-priceperunit": "13,60 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OLIVE NOSTRALINE, S.A.TOS, 314ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "FIN-TUN d.o.o., Perovo 55, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "sestavine": "olive, sončnično olje, sol, e330, e300."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,31l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,97 g",
+            "Total Carbohydrate": "0,10 g",
+            "Prehranske vlaknine": "2,50 g",
+            "Total Fat": "19,50 g",
+            "Protein": "1,67 g",
+            "kJ": "809,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "197,00 ",
+            "Saturated fat": "2,80 g"
+        }
+    },
+    "description": "OLIVE NOSTRALINE 314ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,27",
+    "teaser-text": "OLIVE NOSTRALINE 314ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/olive-nostraline-satos-314ml/p/513411",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513411/dt_main.jpg"
+}

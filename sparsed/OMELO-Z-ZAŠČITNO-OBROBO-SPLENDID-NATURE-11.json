@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "15,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "opis": "50% konjska žima in 50% sintetika.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-priceperunit": "11,19 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/omelo-z-zascitno-obrobo-splendid-nature-11/p/509319",
+    "product-price": "11,19",
+    "title": "OMELO Z ZAŠČITNO OBROBO SPLENDID NATURE, 1/1",
+    "description": "SN OMELO Z ZAŠČITNO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509319/dt_main.jpg",
+    "teaser-text": "SN OMELO Z ZAŠČITNO"
+}

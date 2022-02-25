@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/slane-kroglice-brez-glutena-la-fabrique-100g/p/601584",
+    "title": "SLANE KROGLICE BREZ GLUTENA, LA FABRIQUE, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "HRIB D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Slane kroglice brez glutena 100 g la fabrique",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,20 g",
+            "Total Carbohydrate": "78,00 g",
+            "Prehranske vlaknine": "2,70 g",
+            "Saturated fat": "0,60 g",
+            "Protein": "5,30 g",
+            "Total Fat": "5,30 g",
+            "kcal": "386,00 ",
+            "Salt": "4,60 g",
+            "kJ": "1634,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "19,90 €/kg",
+    "teaser-text": "KROG.SLAN.BREZ GLUT.100G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "KROG.SLAN.BREZ GLUT.100G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/601584/dt_main.jpg",
+    "product-brand": ""
+}

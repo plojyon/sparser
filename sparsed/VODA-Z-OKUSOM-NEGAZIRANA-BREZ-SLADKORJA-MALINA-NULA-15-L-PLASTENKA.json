@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,83",
+    "product-priceperunit": "0,55 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VODA Z OKUSOM, NEGAZIRANA, BREZ SLADKORJA, MALINA, NULA, 1,5 L, PLASTENKA",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "10,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "2,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "voda 99,13 %, baza 0,87 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        }
+    },
+    "description": "VODA ZALA MAL.BR.SL.1,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,83",
+    "teaser-text": "VODA ZALA MAL.BR.SL.1,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/voda-z-okusom-negazirana-brez-sladkorja-malina-nula-15-l-plastenka/p/485745",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/485745/dt_main.jpg"
+}

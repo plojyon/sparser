@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "3,04 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "PŠENIČNI KRUH, SUPER MEHAK SENDVIČ, FARMER, ÖLZ, 750 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "45,00 g",
+            "Prehranske vlaknine": "3,10 g",
+            "Total Fat": "3,50 g",
+            "Protein": "8,30 g",
+            "kJ": "1060,00 ",
+            "Sugar": "3,20 g",
+            "kcal": "251,00 ",
+            "Saturated fat": "0,36 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "KRUH SUPER SENDVIČ 750G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "2,28",
+    "teaser-text": "KRUH SUPER SENDVIČ 750G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/psenicni-kruh-super-mehak-sendvic-farmer-lz-750-g/p/468035",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468035/dt_main.jpg"
+}

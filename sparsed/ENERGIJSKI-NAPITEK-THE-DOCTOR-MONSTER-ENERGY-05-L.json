@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,32",
+    "product-priceperunit": "2,64 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ENERGIJSKI NAPITEK, THE DOCTOR, MONSTER ENERGY, 0,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "sestavine": "gazirana voda, sladkor, sadni sok iz zgoščenega sadnega soka (pomaranča, limona) 4,00 %, glukozni sirup, sadne celice limone, aroma, tavrin 0,40 %, sredstvi za uravnavanje kislosti (kalcijev laktat, natrijev citrat), kislini (citronska kislina, askorbinska kislina), izvleček iz korenine panax ginsenga 0,08 %, konzervans (kalijev sorbat), kofein 0,03 %, vitamini (b3, b6, b2, b12), l-karnitin, l-tartrat, sol, d-glukoronolakton, inozitol, maltodekstrin."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "11,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "190,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "45,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "MONSTER ROSSI 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,32",
+    "teaser-text": "MONSTER ROSSI 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/energijski-napitek-the-doctor-monster-energy-05-l/p/470383",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/470383/dt_main.jpg"
+}

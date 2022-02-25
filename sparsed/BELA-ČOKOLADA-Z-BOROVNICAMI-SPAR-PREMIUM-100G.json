@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR PREM. BELA ČOK.100G",
+    "description": "SPAR PREM. BELA ČOK.100G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BELA ČOKOLADA Z BOROVNIČEVIM GRANULATOM",
+        "opis": "Z borovničevim granulatom.",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "100G"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2409,00 ",
+            "Salt": "0,24 g",
+            "Sugar": "53,00 g",
+            "Total Carbohydrate": "53,00 g",
+            "Total Fat": "38,00 g",
+            "kcal": "578,00 ",
+            "Saturated fat": "23,00 g",
+            "Protein": "6,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "BELA ČOKOLADA Z BOROVNICAMI SPAR PREMIUM, 100G",
+    "url": "https://www.spar.si/online/bela-cokolada-z-borovnicami-spar-premium-100g/p/424350",
+    "isOnPromotion": "false",
+    "product-priceperunit": "14,90 €/kg",
+    "product-insteadofprice": "1,49",
+    "product-stock-status": "",
+    "product-price": "1,49",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/424350/dt_main.jpg"
+}

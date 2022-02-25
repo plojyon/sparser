@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "3,29",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "url": "https://www.spar.si/online/pizza-mozzarella-z-zelenjavo-na-zaru-despar-premium-465g/p/600726",
+    "title": "PIZZA MOZZARELLA Z ZELENJAVO NA ŽARU, DESPAR PREMIUM, 465G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,29",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "465g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,90 g",
+            "Total Carbohydrate": "30,00 g",
+            "Prehranske vlaknine": "2,10 g",
+            "Saturated fat": "3,70 g",
+            "Protein": "8,30 g",
+            "Total Fat": "9,30 g",
+            "kcal": "241,00 ",
+            "Salt": "1,09 g",
+            "kJ": "1013,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIZZA Z MOZZARELLO, ZELENJAVO NA ŽARU IN RDEČO ČEBULO IZ TROPSKE KALABRIJE ZGO: Cipolla Rossa di Tropea Calabria ZGO, HITRO ZAMRZNJENA",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, RAKI (V SLEDOVIH), RIBE (V SLEDOVIH), SOJA (V SLEDOVIH)."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sojo, ribe, rake, piro, ječmen, oves, rž."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Segrejemo pečico (200°C, ventilatorska: 180°C). Odstranimo folijo, pizzo položimo na srednjo rešeto in pečemo ca. 10-13 minut. Vse pečice niso enake, ta navodila so samo smernice. Pizza je pripravljena, ko je sir stopljen."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek"
+    },
+    "product-priceperunit": "7,08 €/kg",
+    "teaser-text": "DES.PREM.PIZZA ZELENJAV.",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "DES.PREM.PIZZA ZELENJAV.",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/600726/dt_main.jpg",
+    "product-brand": ""
+}

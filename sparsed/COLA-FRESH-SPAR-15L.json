@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,50",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, ogljikov dioksid, barvilo: amonijev sulfitni karamel, kislina: fosforjeva kislina, aroma: kofein 0,01 %, naravna aroma."
+        },
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "163,00 ",
+            "Saturated fat": "0,10 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Protein": "0,50 g",
+            "Sugar": "9,50 g",
+            "Total Fat": "0,50 g",
+            "kcal": "38,00 ",
+            "Total Carbohydrate": "9,60 g",
+            "Salt": "0,01 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-priceperunit": "0,27 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cola-fresh-spar-15l/p/374949",
+    "product-price": "0,40",
+    "title": "COLA FRESH, SPAR, 1,5L",
+    "description": "SPAR FRESH COLA 1,5L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374949/dt_main.jpg",
+    "teaser-text": "SPAR FRESH COLA 1,5L"
+}

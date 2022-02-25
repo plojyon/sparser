@@ -1,0 +1,31 @@
+{
+    "product-priceperunit": "45,50 €/kg",
+    "product-promotionBadges": "BIO Certifikat",
+    "isOnPromotion": "false",
+    "description": "ČAJ BIO SADNI D.ČE.60G",
+    "teaser-text": "ČAJ BIO SADNI D.ČE.60G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "HERBA MEDICA d. o. o. Preserska cesta 5 1235 Radomlje"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "60g"
+        },
+        "ingredient-information": {
+            "sestavine": "cvet hibiskusa 44,00 %, divja jabolka, plod šipka, skorja pomaranče, skorja limone, naravna aroma divje češnje."
+        }
+    },
+    "url": "https://www.spar.si/online/bio-sadni-caj-divja-cesnja-herba-medica-60-g/p/374829",
+    "product-insteadofprice": "2,73",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374829/dt_main.jpg",
+    "title": "BIO SADNI ČAJ, DIVJA ČEŠNJA, HERBA MEDICA, 60 G",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,73",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

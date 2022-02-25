@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "4,95",
+    "product-priceperunit": "4,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "SMETANA PANNA COTTA, GALBANI, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "14,00 g",
+            "Total Fat": "14,00 g",
+            "Protein": "3,00 g",
+            "kJ": "807,00 ",
+            "Sugar": "13,00 g",
+            "kcal": "194,00 ",
+            "Saturated fat": "8,80 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "1L"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        }
+    },
+    "description": "SMETANA PANNA COTTA 1L",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "4,95",
+    "teaser-text": "SMETANA PANNA COTTA 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/smetana-panna-cotta-galbani-1l/p/447665",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/447665/dt_main.jpg"
+}

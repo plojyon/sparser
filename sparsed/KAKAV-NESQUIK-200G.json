@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KAKAV NESQUIK 200G",
+    "description": "KAKAV NESQUIK 200G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1594,00 ",
+            "Salt": "0,50 g",
+            "Sugar": "74,00 g",
+            "Total Carbohydrate": "78,30 g",
+            "Total Fat": "3,60 g",
+            "kcal": "377,00 ",
+            "Prehranske vlaknine": "6,50 g",
+            "Saturated fat": "1,50 g",
+            "Protein": "4,60 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO (V SLEDOVIH)."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 16,70 mikrogr. Vitamin C 150,00 mg, Vitamin B1 (Tiamin) 1,20 mg, Kalij 668,00 mg, Magnezij 247,00 mg, Železo 16,10 mg, Cink 11,30 mg."
+        },
+        "contact-information": {
+            "kontakt:": "Nestle Adriatic d.o.o., Šmartinska 53, 1000 Ljubljana"
+        }
+    },
+    "title": "KAKAV NESQUIK, 200G",
+    "url": "https://www.spar.si/online/kakav-nesquik-200g/p/430343",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,90 €/kg",
+    "product-insteadofprice": "1,78",
+    "product-stock-status": "",
+    "product-price": "1,78",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/430343/dt_main.jpg"
+}

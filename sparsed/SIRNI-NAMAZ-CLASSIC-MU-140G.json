@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,63",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU SIRNI NAMAZ CLASSIC 140G LJ",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1026,00 ",
+            "Saturated fat": "14,60 g",
+            "Protein": "7,00 g",
+            "Sugar": "3,20 g",
+            "Total Fat": "23,00 g",
+            "kcal": "248,00 ",
+            "Total Carbohydrate": "3,30 g",
+            "Salt": "0,90 g"
+        }
+    },
+    "product-priceperunit": "7,79 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sirni-namaz-classic-mu-140g/p/260419",
+    "product-price": "1,09",
+    "title": "SIRNI NAMAZ CLASSIC, MU, 140G",
+    "description": "NAMAZ SIRNI S SMET 140G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/260419/dt_main.jpg",
+    "teaser-text": "NAMAZ SIRNI S SMET 140G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,88",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/pasteta-pikant-gavrilovi-100-g/p/518261",
+    "title": "PAŠTETA PIKANT, GAVRILOVIĆ, 100 G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,88",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Gavrilović M.G.P. d.o.o., Vojkova 5, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pašteta pikant - dodane mlečne beljakovine",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,20 g",
+            "Total Carbohydrate": "4,00 g",
+            "Saturated fat": "12,00 g",
+            "Protein": "8,00 g",
+            "Total Fat": "30,00 g",
+            "kcal": "318,00 ",
+            "Salt": "1,20 g",
+            "kJ": "1314,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-priceperunit": "8,80 €/kg",
+    "teaser-text": "PAŠTETA PIKANT 100G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PAŠTETA PIKANT 100G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/518261/dt_main.jpg",
+    "product-brand": ""
+}

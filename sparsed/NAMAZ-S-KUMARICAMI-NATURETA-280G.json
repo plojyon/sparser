@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,87",
+    "product-priceperunit": "6,68 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAMAZ S KUMARICAMI, NATURETA, 280G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Namaz s kumaricami",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,10 g",
+            "Total Carbohydrate": "5,30 g",
+            "Prehranske vlaknine": "2,20 g",
+            "Total Fat": "13,20 g",
+            "Protein": "1,80 g",
+            "kJ": "581,00 ",
+            "Sugar": "4,30 g",
+            "kcal": "141,00 ",
+            "Saturated fat": "1,40 g"
+        }
+    },
+    "description": "NAMAZ S KUMARCAMI 280G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,87",
+    "teaser-text": "NAMAZ S KUMARCAMI 280G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/namaz-s-kumaricami-natureta-280g/p/480603",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/480603/dt_main.jpg"
+}

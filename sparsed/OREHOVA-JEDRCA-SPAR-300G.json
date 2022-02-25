@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "3,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/orehova-jedrca-spar-300g/p/540974",
+    "title": "OREHOVA JEDRCA SPAR, 300G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,99",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Hrib d.o.o., Večje Brdo 8, 3224 Dobje pri Planini"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,60 g",
+            "Total Carbohydrate": "13,70 g",
+            "Prehranske vlaknine": "6,70 g",
+            "Saturated fat": "6,10 g",
+            "Protein": "15,20 g",
+            "Total Fat": "65,20 g",
+            "kcal": "716,00 ",
+            "Salt": "0,01 g",
+            "kJ": "2957,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "OREHOVA JEDRCA",
+        "ingredient-information": {
+            "alergeni": "OREHI, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "security-warning": {},
+        "base-information": {
+            "neto-količina-plod:": "300G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "13,30 €/kg",
+    "teaser-text": "SPAR OREHI JEDRCA 300 G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR OREHI JEDRCA 300 G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/540974/dt_main.jpg",
+    "product-brand": ""
+}

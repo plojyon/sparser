@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,02",
+    "product-priceperunit": "1,02 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAPITEK, BRESKEV, CLASSIC, FRUCTAL, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "opis": "Proizvod je negazirana brezalkoholna sadna pijača, proizvedena iz breskove kaše. Za slajenje je uporabljena kombinacija sladkorja in glukozno-fruktoznega sirupa. Kot antioksidant je uporabljena askorbinska kislina.",
+        "ingredient-information": {
+            "sestavine": "voda, breskova kaša 25,00 %, sladkor, glukozni-fruktozni sirup, kislina (citronska kislina), antioksidant (askorbinska kislina), aroma breskve."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "11,90 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,20 g",
+            "kJ": "205,00 ",
+            "Sugar": "10,00 g",
+            "kcal": "48,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPITEK BRESKEV CL.1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,02",
+    "teaser-text": "NAPITEK BRESKEV CL.1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/napitek-breskev-classic-fructal-1-l/p/466090",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/466090/dt_main.jpg"
+}

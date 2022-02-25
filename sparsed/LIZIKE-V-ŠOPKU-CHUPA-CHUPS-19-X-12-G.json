@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "7,99",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "product-net-cont": {
+            "neto-količina": "228g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1645,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "78,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "387,00 ",
+            "Total Carbohydrate": "96,00 g",
+            "Salt": "0,07 g"
+        }
+    },
+    "product-priceperunit": "24,08 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/lizike-v-sopku-chupa-chups-19-x-12-g/p/401468",
+    "product-price": "5,49",
+    "title": "LIZIKE, V ŠOPKU, CHUPA CHUPS, 19 X 12 G",
+    "description": "LIZIKE V ŠOPKU CHUP.228G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/401468/dt_main.jpg",
+    "teaser-text": "LIZIKE V ŠOPKU CHUP.228G"
+}

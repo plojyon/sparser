@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,26",
+    "product-priceperunit": "10,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SVINJSKI DUNAJSKI ZREZEK SPAR GOURMET, 120G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana"
+        },
+        "opis": "Polpečen zrezek.Ob dunajskem zrezku priporočamo pečen krompirček in grško solato.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "14,00 g",
+            "Prehranske vlaknine": "1,80 g",
+            "Total Fat": "12,00 g",
+            "Protein": "15,00 g",
+            "kJ": "988,00 ",
+            "Sugar": "0,20 g",
+            "kcal": "237,00 ",
+            "Saturated fat": "3,20 g"
+        }
+    },
+    "description": "SPAR GOUR.ZREZ.SVIN.120G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,26",
+    "teaser-text": "SPAR GOUR.ZREZ.SVIN.120G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/svinjski-dunajski-zrezek-spar-gourmet-120g/p/477330",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/477330/dt_main.jpg"
+}

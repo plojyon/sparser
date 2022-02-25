@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "0,95",
+    "product-priceperunit": "0,63 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAPITEK, LIMONADA, FRUC, 1,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 12,00 mg."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite. Servirajte ohlajeno."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ne izpostavljajte direktni sončni svetlobi."
+        },
+        "opis": "Proizvod je negazirana brezalkoholna pijača z limoninim in pomarančnim sokom ter dodanim C vitaminom. Za slajenje je uporabljen zgolj sladkor. Sadni delež najmanj: 7 %.Pijača je brez konzervansov, umetnih barvil in umetnih sladil. Stabilnost proizvoda, ki zagotavlja rok trajanja več mesecev, je dosežena s toplotno obdelavo pred polnjenjem. Polnjenje je aseptično.",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, limonin sok iz zgoščenega soka 4,50 %, pomarančni sok iz zgoščenega soka 2,50 %, kislina (citronska kislina), zgoščeni izvleček limone, vitamin c, naravna aroma, stabilizator (guar gumi), živilo za obarvanje (izvleček žafranike in limone), antioksidant (alfa tokoferol)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "9,20 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "156,00 ",
+            "Sugar": "8,00 g",
+            "kcal": "37,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPITEK FRUC LIMON.1,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,95",
+    "teaser-text": "NAPITEK FRUC LIMON.1,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/napitek-limonada-fruc-15-l/p/507740",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507740/dt_main.jpg"
+}

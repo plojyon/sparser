@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "11,98 €/l",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR OLJE BUČNO 0,5L",
+    "teaser-text": "SPAR OLJE BUČNO 0,5L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 33,60 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "99,90 g",
+            "Saturated fat": "13,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "Salt": "2,67 g",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "opis": "100 % jedilno nerafinirano bučno olje.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR BUČNO OLJE -100% jedilno nerafinirano bučno olje",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura / room temperature"
+        }
+    },
+    "url": "https://www.spar.si/online/bucno-olje-spar-05l/p/364700",
+    "product-insteadofprice": "5,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364700/dt_main.jpg",
+    "title": "BUČNO OLJE SPAR, 0,5L",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

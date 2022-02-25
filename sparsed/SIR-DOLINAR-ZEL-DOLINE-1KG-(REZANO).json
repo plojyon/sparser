@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "12,32",
+    "product-priceperunit": "12,32 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR DOLINAR ZEL. DOLINE, 1KG, (REZANO)",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,40 g",
+            "Total Carbohydrate": "1,30 g",
+            "Total Fat": "25,70 g",
+            "Protein": "28,20 g",
+            "kJ": "1452,00 ",
+            "Sugar": "1,30 g",
+            "kcal": "349,00 ",
+            "Saturated fat": "17,40 g"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 959,00 mg."
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "description": "Sir Dolinar Zelene doli",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "12,32",
+    "teaser-text": "Sir Dolinar Zelene doli",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-dolinar-zel-doline-1kg-rezano/p/488385",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/488385/dt_main.jpg"
+}

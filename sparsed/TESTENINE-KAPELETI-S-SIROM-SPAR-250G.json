@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "2,70 g",
+            "Total Carbohydrate": "52,40 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "1217,00 ",
+            "Protein": "13,30 g",
+            "kcal": "287,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Spar Kapeleti s sirom 250 g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "Sveže polnjene testenine.",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/testenine-kapeleti-s-sirom-spar-250g/p/201460",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/201460/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-insteadofprice": "1,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "teaser-text": "SPAR KAPELETI SIR.250G",
+    "product-stock-status": "",
+    "title": "TESTENINE KAPELETI S SIROM, SPAR, 250G",
+    "product-priceperunit": "4,76 €/kg",
+    "description": "SPAR KAPELETI SIR.250G"
+}

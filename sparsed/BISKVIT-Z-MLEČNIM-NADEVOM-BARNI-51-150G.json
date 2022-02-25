@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,75",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fin pekovski izdelek. Mehki biskvit z mlečnim nadevom (28%).",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1655,00 ",
+            "Saturated fat": "2,20 g",
+            "Protein": "6,10 g",
+            "Sugar": "29,00 g",
+            "Total Fat": "15,00 g",
+            "kcal": "394,00 ",
+            "Total Carbohydrate": "58,00 g",
+            "Salt": "0,83 g"
+        }
+    },
+    "product-priceperunit": "9,27 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/biskvit-z-mlecnim-nadevom-barni-51-150g/p/395958",
+    "product-price": "1,39",
+    "title": "BISKVIT Z MLEČNIM NADEVOM, BARNI, 5/1, 150G",
+    "description": "PECIVO BARNI M.150G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395958/dt_main.jpg",
+    "teaser-text": "PECIVO BARNI M.150G"
+}

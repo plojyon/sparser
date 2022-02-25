@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "10,36 g",
+            "Total Carbohydrate": "19,74 g",
+            "Sugar": "18,55 g",
+            "Salt": "0,00 g",
+            "kJ": "1307,00 ",
+            "Protein": "0,00 g",
+            "kcal": "318,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Rdeča ostra mleta začimbna paprika",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "sestavine": "mleta paprika 100,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mleta-paprika-horgoska-ostra-podravka-100g/p/270035",
+    "product-price": "1,65",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/270035/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,65",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PAPRIKA HORGOŠKA 100G",
+    "product-stock-status": "",
+    "title": "MLETA PAPRIKA HORGOŠKA, OSTRA, PODRAVKA, 100G",
+    "product-priceperunit": "16,50 €/kg",
+    "description": "PAPRIKA HORGOŠKA 100G"
+}

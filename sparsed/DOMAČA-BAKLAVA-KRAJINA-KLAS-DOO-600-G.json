@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "BAKLAVE DOMAČE 600G",
+    "description": "BAKLAVE DOMAČE 600G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "600g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1682,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "40,70 g",
+            "Total Carbohydrate": "64,50 g",
+            "Total Fat": "13,90 g",
+            "kcal": "400,50 ",
+            "Prehranske vlaknine": "0,70 g",
+            "Saturated fat": "1,00 g",
+            "Protein": "4,70 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, OREHI."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "title": "DOMAČA BAKLAVA, KRAJINA KLAS D.O.O., 600 G",
+    "url": "https://www.spar.si/online/domaca-baklava-krajina-klas-doo-600-g/p/403868",
+    "isOnPromotion": "false",
+    "product-priceperunit": "10,48 €/kg",
+    "product-insteadofprice": "6,29",
+    "product-stock-status": "",
+    "product-price": "6,29",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/403868/dt_main.jpg"
+}

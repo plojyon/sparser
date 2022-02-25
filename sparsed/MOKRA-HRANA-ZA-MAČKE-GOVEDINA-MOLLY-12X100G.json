@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "2,24 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MOKRA HRANA ZA MAČKE GOVEDINA MOLLY, 12X100G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Popolna krmna mešanica za odrasle mačke. Pripravljeno za uporabo.6 x koščki piščančjega mesa v omaki - kuhano v pari.6 x koščki govedine v omaki - kuhano v pari.",
+        "product-net-cont": {
+            "neto-količina": "1,2kg"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Mačko hranite s hrano sobne temperature. Hrana je obstojna brez hlajenja."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "MOLLY MULTIPAK 12x100G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "MOLLY MULTIPAK 12x100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mokra-hrana-za-macke-govedina-molly-12x100g/p/451120",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451120/dt_main.jpg"
+}

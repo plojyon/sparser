@@ -1,0 +1,30 @@
+{
+    "product-priceperunit": "1,15 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB JABOLKA ZELENA 2KG",
+    "teaser-text": "SB JABOLKA ZELENA 2KG",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SB jabolka zelena 2kg",
+        "trade-group": {
+            "razred": "1"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "2kg"
+        },
+        "contact-information": {
+            "kontakt:": "Različni dobavitelji"
+        }
+    },
+    "url": "https://www.spar.si/online/jabolka-zelena-s-budget-2kg/p/356990",
+    "product-insteadofprice": "2,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/356990/dt_main.jpg",
+    "title": "JABOLKA ZELENA, S-BUDGET, 2KG",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

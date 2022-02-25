@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "13,55",
+    "product-priceperunit": "13,55 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KRANJSKA KLOBASA, MESARSTVO OBLAK, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pasterizirane mesnine: poltrajna klobasa",
+        "contact-information": {
+            "kontakt:": "Mesarstvo Oblak d.o.o., Industrijska ulica 17, 4224 Žiri"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, slanina, voda, jedilna sol, začimbe, konzervans: natrijev nitrit."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "18,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "18,00 g",
+            "Protein": "19,10 g",
+            "kJ": "999,10 ",
+            "Sugar": "0,00 g",
+            "kcal": "238,00 ",
+            "Saturated fat": "7,10 g"
+        }
+    },
+    "description": "KLOBASA KRANJSKA",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "13,55",
+    "teaser-text": "KLOBASA KRANJSKA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kranjska-klobasa-mesarstvo-oblak-1kg/p/498308",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498308/dt_main.jpg"
+}

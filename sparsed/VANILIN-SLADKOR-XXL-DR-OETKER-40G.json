@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,50",
+    "product-priceperunit": "12,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VANILIN SLADKOR XXL DR. OETKER, 40G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Vanilin sladkor",
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "contact-information": {
+            "kontakt:": "Dr. Oetker, d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, aroma (vanilin)."
+        },
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "99,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1678,00 ",
+            "Sugar": "99,00 g",
+            "kcal": "395,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SLADKOR VANILIN XXL 40G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,50",
+    "teaser-text": "SLADKOR VANILIN XXL 40G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vanilin-sladkor-xxl-dr-oetker-40g/p/499714",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499714/dt_main.jpg"
+}

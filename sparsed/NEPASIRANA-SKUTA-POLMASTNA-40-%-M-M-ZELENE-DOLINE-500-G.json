@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,83",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "602,00 ",
+            "Saturated fat": "6,20 g",
+            "Protein": "9,70 g",
+            "Sugar": "4,40 g",
+            "Total Fat": "9,80 g",
+            "kcal": "144,00 ",
+            "Total Carbohydrate": "4,40 g",
+            "Salt": "0,08 g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "product-priceperunit": "5,66 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/nepasirana-skuta-polmastna-40-m-m-zelene-doline-500-g/p/377197",
+    "product-price": "2,83",
+    "title": "NEPASIRANA SKUTA, POLMASTNA, 40 % M. M., ZELENE DOLINE, 500 G",
+    "description": "SKUTA DOMAČA 40% 500G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377197/dt_main.jpg",
+    "teaser-text": "SKUTA DOMAČA 40% 500G"
+}

@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "4,39",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Bonboniera z kokosovimi pralinami in mandljem v sredini.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "230g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2606,00 ",
+            "Saturated fat": "29,70 g",
+            "Protein": "7,20 g",
+            "Sugar": "33,30 g",
+            "Total Fat": "48,60 g",
+            "kcal": "628,00 ",
+            "Total Carbohydrate": "38,30 g",
+            "Salt": "0,30 g"
+        }
+    },
+    "product-priceperunit": "19,09 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bonboniera-raffaello-ferrero-230g/p/352547",
+    "product-price": "4,39",
+    "title": "BONBONIERA RAFFAELLO, FERRERO, 230G",
+    "description": "BONB.RAFFAELLO 230G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/352547/dt_main.jpg",
+    "teaser-text": "BONB.RAFFAELLO 230G"
+}

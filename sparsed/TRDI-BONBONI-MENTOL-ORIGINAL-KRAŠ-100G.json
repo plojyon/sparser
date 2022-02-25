@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "98,30 g",
+            "Sugar": "85,70 g",
+            "Salt": "0,00 g",
+            "kJ": "1645,00 ",
+            "Protein": "0,00 g",
+            "kcal": "393,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/trdi-bonboni-mentol-original-kras-100g/p/251450",
+    "product-price": "0,72",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/251450/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,72",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BONB.MENTOL100GKRAŠ",
+    "product-stock-status": "",
+    "title": "TRDI BONBONI MENTOL ORIGINAL, KRAŠ, 100G",
+    "product-priceperunit": "7,20 €/kg",
+    "description": "BONB.MENTOL100GKRAŠ"
+}

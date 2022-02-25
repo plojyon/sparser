@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MLEKO MILKI 3,5% 200ML",
+    "description": "MLEKO MILKI 3,5% 200ML",
+    "product-info": {
+        "opis": "Mleko proizvajamo po UHT postopku, ki mleku podaljša obstojnost. Proizvod polnimo pod sterilnimipogoji v sterilno embalažo. Mleko MILKI je polnjeno v 200 ml embalažo s slamico.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "267,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "4,80 g",
+            "Total Carbohydrate": "4,80 g",
+            "Total Fat": "3,50 g",
+            "kcal": "64,00 ",
+            "Saturated fat": "2,40 g",
+            "Protein": "3,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Pomurske mlekarne d.d., Industrijska ulica 10, 9000 Murska Sobota"
+        }
+    },
+    "title": "MLEKO, 3,5%, MILKI, POMURSKE MLEKARNE, 200ML",
+    "url": "https://www.spar.si/online/mleko-35-milki-pomurske-mlekarne-200ml/p/413677",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,10 €/kg",
+    "product-insteadofprice": "0,42",
+    "product-stock-status": "",
+    "product-price": "0,42",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/413677/dt_main.jpg"
+}

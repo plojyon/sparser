@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,60",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "product-net-cont": {
+            "neto-količina": "35g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "security-warning": {},
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1706,00 ",
+            "Saturated fat": "7,50 g",
+            "Prehranske vlaknine": "6,20 g",
+            "Protein": "3,10 g",
+            "Sugar": "61,40 g",
+            "Total Fat": "12,10 g",
+            "kcal": "406,00 ",
+            "Total Carbohydrate": "68,00 g",
+            "Salt": "0,07 g"
+        }
+    },
+    "product-priceperunit": "44,00 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sadni-koscki-s-temno-cokolado-malina-na-35-g/p/464575",
+    "product-price": "1,54",
+    "title": "SADNI KOŠČKI S TEMNO ČOKOLADO, MALINA, N.A!, 35 G",
+    "description": "SUHE MAL.TEM.ČOK.35G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/464575/dt_main.jpg",
+    "teaser-text": "SUHE MAL.TEM.ČOK.35G"
+}

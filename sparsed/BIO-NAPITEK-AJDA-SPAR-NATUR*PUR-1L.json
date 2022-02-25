@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-napitek-ajda-spar-naturpur-1l/p/570805",
+    "title": "BIO NAPITEK AJDA, SPAR NATUR*PUR, 1L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "voda, ajda* 13%, sončnično olje*, nejodirana morska sol, *iz ekološke pridelave."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "5,60 g",
+            "Total Carbohydrate": "8,40 g",
+            "Prehranske vlaknine": "0,70 g",
+            "Saturated fat": "0,20 g",
+            "Protein": "1,60 g",
+            "Total Fat": "1,10 g",
+            "kcal": "51,00 ",
+            "Salt": "0,10 g",
+            "kJ": "216,00 "
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "1,99 €/l",
+    "teaser-text": "SPAR NP AJDOV NAPITEK 1L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR NP AJDOV NAPITEK 1L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/570805/dt_main.jpg",
+    "product-brand": ""
+}

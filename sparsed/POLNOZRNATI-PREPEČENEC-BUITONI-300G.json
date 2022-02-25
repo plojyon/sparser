@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,60 g",
+            "Salt": "1,00 g",
+            "Total Fat": "5,70 g",
+            "Total Carbohydrate": "69,50 g",
+            "Sugar": "6,00 g",
+            "Prehranske vlaknine": "7,20 g",
+            "kJ": "1659,00 ",
+            "Protein": "12,30 g",
+            "kcal": "393,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PREPEČENEC S POLNOZRNATO PŠENIČNO MOKO",
+        "contact-information": {
+            "kontakt:": "JADRAN DOM D.O.O."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/polnozrnati-prepecenec-buitoni-300g/p/129687",
+    "product-price": "2,28",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/129687/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,28",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PREPEČENEC POLNOZRNAT",
+    "product-stock-status": "",
+    "title": "POLNOZRNATI PREPEČENEC, BUITONI, 300G",
+    "product-priceperunit": "7,60 €/kg",
+    "description": "PREPEČENEC POLNOZRNAT"
+}

@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "4,09",
+    "product-priceperunit": "8,92 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "KLOBASA ZA ŽAR Z MOZZARELLO MESO KAMNIK, 380G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Klobasa za žar z mozzarello Anton 380g",
+        "contact-information": {
+            "kontakt:": "MESO KAMNIK d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "380g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "30,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,35 g",
+            "Total Carbohydrate": "1,60 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "23,10 g",
+            "Protein": "11,80 g",
+            "kJ": "1077,00 ",
+            "Sugar": "0,60 g",
+            "kcal": "260,00 ",
+            "Saturated fat": "10,30 g"
+        }
+    },
+    "description": "KLOBASA Z MOZZARELO 380G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "3,39",
+    "teaser-text": "KLOBASA Z MOZZARELO 380G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/klobasa-za-zar-z-mozzarello-meso-kamnik-380g/p/507047",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507047/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,59",
+    "product-priceperunit": "6,36 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLADKOR V PRAHU, WIENER ZUCKER, 250G, MLINČEK",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Wiener Zucker sladkor v prahu z mlinom",
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "contact-information": {
+            "kontakt:": "Agragold trgovina d.o.o., Letališka cesta 16, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "100,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1700,00 ",
+            "Sugar": "100,00 g",
+            "kcal": "400,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SLADKOR V PRAHU 250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,59",
+    "teaser-text": "SLADKOR V PRAHU 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladkor-v-prahu-wiener-zucker-250g-mlincek/p/502107",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502107/dt_main.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "12,00 g",
+            "Salt": "3,00 g",
+            "Total Fat": "24,00 g",
+            "Total Carbohydrate": "52,00 g",
+            "Sugar": "0,00 g",
+            "Prehranske vlaknine": "1,00 g",
+            "kJ": "1929,00 ",
+            "Protein": "8,30 g",
+            "kcal": "461,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR POKOVKA ZA PRIPRAVO V MIKROVALOVNI PEČICI, SOLJENA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Pokovka s soljo za pripravo v mikrovalovni pečici.",
+        "base-information": {
+            "neto-količina-plod:": "300G"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pokovka-spar-31-300g/p/253756",
+    "product-price": "0,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/253756/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR POP CO.Z.MI.PE.300G",
+    "product-stock-status": "",
+    "title": "POKOVKA SPAR, 3/1, 300G",
+    "product-priceperunit": "2,97 €/kg",
+    "description": "SPAR POP CO.Z.MI.PE.300G"
+}

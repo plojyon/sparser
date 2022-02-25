@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Total Fat": "0,20 g",
+            "Total Carbohydrate": "95,00 g",
+            "Sugar": "78,00 g",
+            "Salt": "0,12 g",
+            "kJ": "1646,00 ",
+            "Protein": "0,00 g",
+            "kcal": "387,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "12g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/lizika-jabolko-chupa-chups-12g/p/260984",
+    "product-price": "0,21",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/260984/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,21",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "LIZIKA CHUPA CHUPS 12 G",
+    "product-stock-status": "",
+    "title": "LIZIKA JABOLKO, CHUPA CHUPS, 12G",
+    "product-priceperunit": "17,50 €/kg",
+    "description": "LIZIKA CHUPA CHUPS 12 G"
+}

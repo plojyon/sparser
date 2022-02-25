@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "18,31 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "BON.BELG.ŠKOLJK.65G",
+    "teaser-text": "BON.BELG.ŠKOLJK.65G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "BIMO d.o.o., Savska loka 21b, 4000 Kranj"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "32,90 g",
+            "Saturated fat": "19,70 g",
+            "Total Carbohydrate": "55,90 g",
+            "kJ": "2249,00 ",
+            "Protein": "3,30 g",
+            "Salt": "0,09 g",
+            "Sugar": "55,60 g",
+            "kcal": "539,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČOKOLADNI BONBONI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "65g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/cokoladne-praline-skoljke-the-belgian-65g/p/359436",
+    "product-insteadofprice": "1,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/359436/dt_main.jpg",
+    "title": "ČOKOLADNE PRALINE ŠKOLJKE, THE BELGIAN, 65G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,38 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "4,20 g",
+            "Total Fat": "6,20 g",
+            "Total Carbohydrate": "15,00 g",
+            "Sugar": "12,60 g",
+            "Salt": "0,10 g",
+            "kJ": "525,00 ",
+            "Protein": "2,10 g",
+            "kcal": "125,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/smetanov-desert-visnja-zelene-doline-150g/p/238842",
+    "product-price": "0,83",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/238842/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "0,83",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "JOGURTOVA SMETANA 150G",
+    "product-stock-status": "",
+    "title": "SMETANOV DESERT VIŠNJA ZELENE DOLINE, 150G",
+    "product-priceperunit": "5,53 €/kg",
+    "description": "JOGURTOVA SMETANA 150G"
+}

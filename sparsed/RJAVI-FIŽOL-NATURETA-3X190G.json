@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "5,56 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "FIŽOL RJAVI 3X190G",
+    "teaser-text": "FIŽOL RJAVI 3X190G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "base-information": {
+            "neto-količina-plod:": "360G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,50 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "12,10 g",
+            "kJ": "386,00 ",
+            "Protein": "8,50 g",
+            "Salt": "1,10 g",
+            "Sugar": "0,60 g",
+            "kcal": "92,00 ",
+            "Prehranske vlaknine": "8,80 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kuhan rjavi fižol v nalivu",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "570g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/rjavi-fizol-natureta-3x190g/p/373524",
+    "product-insteadofprice": "3,17",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/373524/dt_main.jpg",
+    "title": "RJAVI FIŽOL, NATURETA, 3X190G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,17",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

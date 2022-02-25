@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "32,25 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "PLOŠČICA BANANA 40G",
+    "teaser-text": "PLOŠČICA BANANA 40G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "security-warning": {},
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "9,30 g",
+            "Saturated fat": "5,90 g",
+            "Total Carbohydrate": "73,00 g",
+            "kJ": "1679,00 ",
+            "Protein": "5,00 g",
+            "Salt": "0,60 g",
+            "Sugar": "38,00 g",
+            "kcal": "398,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, JAJCA (V SLEDOVIH), RIBE (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), SEZAM (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/energijska-ploscica-banana-high-enegy-isostar-40-g/p/372440",
+    "product-insteadofprice": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/372440/dt_main.jpg",
+    "title": "ENERGIJSKA PLOŠČICA BANANA, HIGH ENEGY, ISOSTAR, 40 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

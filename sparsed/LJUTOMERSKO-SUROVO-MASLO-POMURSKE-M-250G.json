@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "11,96 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "LJUTOMERSKO SUROVO MASLO POMURSKE M., 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "opis": "Ljutomersko surovo maslo je proizvedeno iz fermentirane smetane, je posebno maslo specifičnegaokusa.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "0,70 g",
+            "Total Fat": "83,00 g",
+            "Protein": "0,50 g",
+            "kJ": "3120,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "760,00 ",
+            "Saturated fat": "56,00 g"
+        }
+    },
+    "description": "MASLO LJUTOMERSKO 250G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "MASLO LJUTOMERSKO 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ljutomersko-surovo-maslo-pomurske-m-250g/p/44475",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/44475/dt_main.jpg"
+}

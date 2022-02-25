@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "MLEKO ALPSKO 1,6% VIT 1L",
+    "description": "MLEKO ALPSKO 1,6% VIT 1L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ALPSKO ML. Z VIT.IN MIN. 1L TBA EDGE",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "192,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "4,70 g",
+            "Total Carbohydrate": "4,70 g",
+            "Total Fat": "1,50 g",
+            "kcal": "46,00 ",
+            "Saturated fat": "0,90 g",
+            "Protein": "3,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        }
+    },
+    "title": "ALPSKO MLEKO VITAMINI IN MINERALI 1,5% M.M., LJUBLJANSKE ML., 1L",
+    "url": "https://www.spar.si/online/alpsko-mleko-vitamini-in-minerali-15-mm-ljubljanske-ml-1l/p/432804",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,58 €/l",
+    "product-insteadofprice": "1,58",
+    "product-stock-status": "",
+    "product-price": "1,58",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/432804/dt_main.jpg"
+}

@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "7,48 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "ČILI Z MESOM CHILI CON CARNE SPAR FEINE KÜCHE, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priprava v ponvi: čili damo v vročo ponev, dodamo 2 žlici vode in pri srednji temperaturi med večkratnim mešanjem segrevamo ca. 2-3 minute. Priprava v mikrovalovni pečici (600 W): folijo večkrat prebodemo z vilicami. Zaprto posodo segrevamo ca. 4-5 minut. Pustimo na kratko počivati, odstranimo folijo in postrežemo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Čili z mesom",
+        "opis": "Čili z mesom.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "7,60 g",
+            "Prehranske vlaknine": "2,60 g",
+            "Total Fat": "3,70 g",
+            "Protein": "6,10 g",
+            "kJ": "405,00 ",
+            "Sugar": "2,80 g",
+            "kcal": "97,00 ",
+            "Saturated fat": "1,20 g"
+        }
+    },
+    "description": "SPAR FK CHILI CON C 400G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "SPAR FK CHILI CON C 400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cili-z-mesom-chili-con-carne-spar-feine-kche-400g/p/489365",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489365/dt_main.jpg"
+}

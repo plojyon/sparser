@@ -1,0 +1,49 @@
+{
+    "product-priceperunit": "7,84 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "ŠUNKARICA XXL 700G",
+    "teaser-text": "ŠUNKARICA XXL 700G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "11,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Celjske mesnine d.d, Cesta v Trnovlje 17, 3000 Celje."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ovitek ni užiten."
+        },
+        "opis": "Šunkarica je grobo mleta klobasa iz svinjskega mesa z vidnimi kosi slanine.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "10,10 g",
+            "Saturated fat": "4,10 g",
+            "Total Carbohydrate": "0,90 g",
+            "kJ": "615,00 ",
+            "Protein": "13,30 g",
+            "Salt": "2,75 g",
+            "Sugar": "0,20 g",
+            "kcal": "144,00 "
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso 80,70 %, slanina 10,00 %, voda 5,00 %, sol s konzervansom (natrijev nitrit) 1,80 %, začimbna mešanica in dodatki: začimbe, arome, dekstroza, stabilizatorja ( E407a, E451), antioksidant E316, ojačevalec arome E621 2,50 %."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "700g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek se olupi in nareže, uživa se hladen."
+        }
+    },
+    "url": "https://www.spar.si/online/sunkarica-z-dezele-700g-xxl/p/372665",
+    "product-insteadofprice": "5,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/372665/dt_main.jpg",
+    "title": "ŠUNKARICA, Z´ DEŽELE, 700G, XXL",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,49",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,31 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PEN.VINO RAD.BISER 0,75L",
+    "description": "PEN.VINO RAD.BISER 0,75L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,00 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "contact-information": {
+            "kontakt:": "Radgonske gorice d.d., Jurkovičeva 5, 9250 Gornja Radgona, Slovenija, T: 00 386 2 564 85 10, F: 00 386 2 561 10 39"
+        }
+    },
+    "title": "PENEČE VINO RADGONSKI BISER, 0,75L",
+    "url": "https://www.spar.si/online/penece-vino-radgonski-biser-075l/p/41887",
+    "isOnPromotion": "false",
+    "product-priceperunit": "4,65 €/l",
+    "product-insteadofprice": "3,49",
+    "product-stock-status": "",
+    "product-price": "3,49",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41887/dt_main.jpg"
+}

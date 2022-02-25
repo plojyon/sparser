@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sodium Laureth Sulfate Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Glycereth-2 Cocoate, Coco-Glucoside, Parfum, Sodium Chloride, Styrene/Acrylates Copolymer, Citric Acid, Triclosan, Disodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Alpha-Isomethyl lonone, Benzyl Salicylate, Butylphenyl Methylpropional, Coumarin, Linalool, CI 42051."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Tekoče milo za umivanje rok."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "5,92 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoce-milo-antibatterico-borotalco-250ml/p/446529",
+    "product-price": "1,48",
+    "title": "TEKOČE MILO ANTIBATTERICO BOROTALCO, 250ML",
+    "description": "MILO TEKOČE BOROTALCO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446529/dt_main.jpg",
+    "teaser-text": "MILO TEKOČE BOROTALCO"
+}

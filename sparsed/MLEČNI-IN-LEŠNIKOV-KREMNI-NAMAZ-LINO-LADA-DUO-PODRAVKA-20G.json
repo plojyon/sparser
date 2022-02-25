@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,31",
+    "product-priceperunit": "15,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MLEČNI IN LEŠNIKOV KREMNI NAMAZ LINO LADA DUO, PODRAVKA, 20G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mešanica mlečnega (50%) in lešnikovega (50%) kremnega namaza.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "20g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "57,00 g",
+            "Total Fat": "31,00 g",
+            "Protein": "7,00 g",
+            "kJ": "2255,00 ",
+            "Sugar": "57,00 g",
+            "kcal": "540,00 ",
+            "Saturated fat": "7,00 g"
+        }
+    },
+    "description": "LINO LADA DUO 20G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,31",
+    "teaser-text": "LINO LADA DUO 20G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mlecni-in-lesnikov-kremni-namaz-lino-lada-duo-podravka-20g/p/467636",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/467636/dt_main.jpg"
+}

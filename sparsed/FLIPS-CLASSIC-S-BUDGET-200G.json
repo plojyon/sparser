@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "3,15 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB FLIPS ARAŠIDOV 200G",
+    "teaser-text": "SB FLIPS ARAŠIDOV 200G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "25,00 g",
+            "Saturated fat": "3,70 g",
+            "Total Carbohydrate": "44,00 g",
+            "kJ": "1909,00 ",
+            "Protein": "12,00 g",
+            "Salt": "1,80 g",
+            "Sugar": "2,90 g",
+            "kcal": "457,00 ",
+            "Prehranske vlaknine": "4,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Prigrizek iz koruze in arašidov.",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI, GLUTEN (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/flips-classic-s-budget-200g/p/364964",
+    "product-insteadofprice": "0,63",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364964/dt_main.jpg",
+    "title": "FLIPS CLASSIC S-BUDGET, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,63",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "14,00 g",
+            "Salt": "1,20 g",
+            "Total Fat": "35,00 g",
+            "Total Carbohydrate": "1,80 g",
+            "Sugar": "1,80 g",
+            "Prehranske vlaknine": "0,50 g",
+            "kJ": "1516,00 ",
+            "Protein": "11,00 g",
+            "kcal": "367,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GOSJA PAŠTETA  80 G",
+        "contact-information": {
+            "kontakt:": "AL PONTE, d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, ZELENA, GORČIČNO SEME."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gosja-pasteta-jensens-80g/p/17358",
+    "product-price": "2,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/17358/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PAŠTETA GOS.A S TART.80G",
+    "product-stock-status": "",
+    "title": "GOSJA PAŠTETA, JENSEN´S, 80G",
+    "product-priceperunit": "31,13 €/kg",
+    "description": "PAŠTETA GOS.A S TART.80G"
+}

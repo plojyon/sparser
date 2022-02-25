@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NAP. CAPRI SON.MUL0,2",
+    "description": "NAP. CAPRI SON.MUL0,2",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "187,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "11,00 g",
+            "Total Carbohydrate": "11,00 g",
+            "Total Fat": "0,50 g",
+            "kcal": "44,00 ",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,50 g"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, limonin sok (5 %), pomarančni sok (3,7 %), jabolčni sok (1,6 %), sok grenivke (0,8 %), ananasov sok (0,2 %), bananin sok (0,4 %), kivi sok (0,2 %), pasijonki sok (0,1 %), vitamin c, niacin, vitamin e, vitamin b6, vitamin b1, biotin, vitamin b12, naravna aroma."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 1,80 mg, Vitamin C 15,00 mg, Vitamin B1 (Tiamin) 0,17 mg, Vitamin B3 (Niacin) 2,40 mg, Vitamin B6 0,21 mg, Vitamin B12 0,38 mikrogr. Vitamin H (Biotin) 7,50 mikrogr."
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "title": "NAPITEK MULTI VITAMIN, CAPRI-SONNE, 200ML",
+    "url": "https://www.spar.si/online/napitek-multi-vitamin-capri-sonne-200ml/p/393512",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,25 €/l",
+    "product-insteadofprice": "0,45",
+    "product-stock-status": "",
+    "product-price": "0,45",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/393512/dt_main.jpg"
+}

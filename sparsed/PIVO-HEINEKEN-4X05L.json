@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,05 g",
+            "Total Fat": "0,05 g",
+            "Total Carbohydrate": "2,70 g",
+            "Sugar": "0,01 g",
+            "Salt": "0,04 g",
+            "kJ": "176,00 ",
+            "Protein": "0,50 g",
+            "kcal": "42,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pasterizirano svetlo pivo, alk. 5,0 vol. %",
+        "opis": "Heineken je osvežilno premium lager pivo (vsebnost alkohola: 5,0 vol. %). Zvarjeno je iz 100% naravnih sestavin (ječmen, voda in hmelj). V času zorjenja originalne A Heineken kvasovke pripomorejo k končnemu karakterju piva, za katerega je značilen uravnotežen okus in nežne sadne arome. Gerard A.Heineken je začel pivo variti že leta 1873. Danes, štiri generacije kasneje pa družinska kakovost še vedno omogoča, da potrošniki iz 192 držav sveta še vedno uživajo ob pitju piva Heineken.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,00 vol. %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pivo-heineken-4x05l/p/244752",
+    "product-price": "5,16",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/244752/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "5,16",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PIVO HEINEKEN 4X0,5L",
+    "product-stock-status": "",
+    "title": "PIVO HEINEKEN, 4X0,5L",
+    "product-priceperunit": "2,58 €/l",
+    "description": "PIVO HEINEKEN 4X0,5L"
+}

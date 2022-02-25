@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,54",
+    "product-priceperunit": "2,70 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SOK POMARANČA, SUPERIOR, FRUCTAL, 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "10,00 g",
+            "Prehranske vlaknine": "0,30 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,70 g",
+            "kJ": "195,00 ",
+            "Sugar": "8,80 g",
+            "kcal": "46,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "iz zgoščenega pomarančnega soka 100,00 %."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "SOK POMARANČA 100%0,2L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,54",
+    "teaser-text": "SOK POMARANČA 100%0,2L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sok-pomaranca-superior-fructal-200ml/p/457823",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457823/dt_main.jpg"
+}

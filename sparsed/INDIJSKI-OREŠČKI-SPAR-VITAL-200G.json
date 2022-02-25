@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "15,95 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL IND.OREŠ.200G",
+    "teaser-text": "SPAR VITAL IND.OREŠ.200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B1 (Tiamin) 0,60 mg, Vitamin B2 (Riboflavin) 0,30 mg, 0,40 mg, Vitamin M (Folna kislina) 67,00 mikrogr. Fosfor 375,00 mg, Magnezij 270,00 mg, Železo 2,80 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "42,00 g",
+            "Saturated fat": "8,50 g",
+            "Total Carbohydrate": "31,00 g",
+            "kJ": "2410,00 ",
+            "Protein": "18,00 g",
+            "Salt": "0,03 g",
+            "Sugar": "9,10 g",
+            "kcal": "580,00 ",
+            "Prehranske vlaknine": "2,90 g"
+        },
+        "opis": "Visoka vsebnost vitamina B1, magnezija in folne kisline. Raznolika in uravnotežena prehrana, gibanje in zdrav življenjski slog so pomembni za zdravje.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "INDIJSKI OREŠČKI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "INDIJSKI OREŠČKI, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/indijski-orescki-spar-vital-200g/p/384563",
+    "product-insteadofprice": "3,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384563/dt_main.jpg",
+    "title": "INDIJSKI OREŠČKI, SPAR VITAL, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

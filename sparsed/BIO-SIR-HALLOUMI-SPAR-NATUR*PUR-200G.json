@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "3,49",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-sir-halloumi-spar-naturpur-200g/p/587571",
+    "title": "BIO SIR HALLOUMI, SPAR NATUR*PUR, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,49",
+    "product-info": {
+        "opis": "/",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,00 g",
+            "Total Carbohydrate": "2,00 g",
+            "Saturated fat": "17,00 g",
+            "Protein": "22,00 g",
+            "Total Fat": "24,00 g",
+            "kcal": "312,00 ",
+            "Salt": "2,60 g",
+            "kJ": "1296,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO POLTRDI SIR iz pasteriziranega kravjega, kozjega in ovčjega mleka z meto, najmanj 43% maščobe v suhi snovi, iz ekološke pridelave",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Sir lahko uživamo narezan ali nariban. Za peko ga narežemo na 1 cm debele rezine, premažemo z oljčnim oljem in iz obeh strani zlatorjavo zapečemo v ponvi ali v pečici."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "17,45 €/kg",
+    "teaser-text": "SPAR BIO HALLOUMI 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR BIO HALLOUMI 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/587571/dt_main.jpg",
+    "product-brand": ""
+}

@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "139,98",
+    "product-priceperunit": "31,11 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "WHISKEY, JAMESON, 4,5 L + STOJALO",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "4,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Pernod Ricard Slovenija d.o.o., Vurnikova 2, 1000 Ljubljana, www.pernod-ricard-slovenia.com, www.wise-drinking.com"
+        }
+    },
+    "description": "WHISKY JAMESON+ST.4,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "139,98",
+    "teaser-text": "WHISKY JAMESON+ST.4,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/whiskey-jameson-45-l-stojalo/p/457956",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457956/dt_main.jpg"
+}

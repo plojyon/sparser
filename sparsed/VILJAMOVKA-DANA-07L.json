@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "teaser-text": "VILJAMOVKA DANA SET 0,7L",
+    "description": "VILJAMOVKA DANA SET 0,7L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "VILJAMOVKA DANA SET 0,7L",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura / room temperature"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "916,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "221,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "DANA d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "VILJAMOVKA DANA, 0,7L",
+    "url": "https://www.spar.si/online/viljamovka-dana-07l/p/398814",
+    "isOnPromotion": "true",
+    "product-priceperunit": "24,77 €/l",
+    "product-insteadofprice": "21,68",
+    "product-stock-status": "",
+    "product-price": "17,34",
+    "product-brand": "",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/398814/dt_main.jpg"
+}

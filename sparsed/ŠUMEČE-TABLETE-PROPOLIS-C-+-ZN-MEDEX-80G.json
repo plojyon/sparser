@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "",
+    "product-insteadofprice": "5,99",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 500,00 mg, Cink 10,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "sestavine": "sredstvi za uravnavanje kislosti (citronska kislina, natrijev hidrogenkarbonat), vitamin c (l- askorbinska kislina), sredstvo za povečanje prostornine (sorbitol), izvleček propolisa (stabilizator: gumi arabikum, sladkor, sredstvo proti sprijemanju: silicijev dioksid), aroma, sladilo (steviol glikozidi), cinkov sulfat, barvilo (karoteni)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova cesta 49A, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "74,88 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sumece-tablete-propolis-c-zn-medex-80g/p/556046",
+    "product-price": "5,99",
+    "title": "ŠUMEČE TABLETE PROPOLIS C + ZN, MEDEX, 80G",
+    "description": "TABLETE ŠUM.PROPOLIS 80G",
+    "isOnPromotion": "false",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/556046/dt_main.jpg",
+    "teaser-text": "TABLETE ŠUM.PROPOLIS 80G"
+}

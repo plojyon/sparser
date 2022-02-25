@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "20,53 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "BON.MENTOS SADNI 38G",
+    "teaser-text": "BON.MENTOS SADNI 38G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,60 g",
+            "Saturated fat": "1,60 g",
+            "Total Carbohydrate": "91,60 g",
+            "kJ": "1631,00 ",
+            "Protein": "40,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "63,90 g",
+            "kcal": "390,00 "
+        },
+        "opis": "Žvečljivi bonboni Mentos z različnimi okusi sadja, z naravnimi barvili.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "ŽVEČLJIVI BONBONI S SADNIM OKUSOM",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "38g"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, glukozni sirup, hidrogenirano rastlinsko olje, eksiton kislina, sadna kislina, rižev škrob, želirno sredstvo, e414, e418, aroma, emulgator, sredstvo za glaziranje, barve."
+        }
+    },
+    "url": "https://www.spar.si/online/sadni-bonboni-fruit-mentos-38g/p/36543",
+    "product-insteadofprice": "0,78",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/36543/dt_main.jpg",
+    "title": "SADNI BONBONI FRUIT, MENTOS, 38G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,78",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

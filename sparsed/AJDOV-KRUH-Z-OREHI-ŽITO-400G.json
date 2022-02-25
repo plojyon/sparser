@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KRUH AJDOV Z OREHI 400G",
+    "description": "KRUH AJDOV Z OREHI 400G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1299,00 ",
+            "Salt": "1,10 g",
+            "Sugar": "4,70 g",
+            "Total Carbohydrate": "34,40 g",
+            "Total Fat": "13,20 g",
+            "kcal": "310,00 ",
+            "Saturated fat": "1,90 g",
+            "Protein": "10,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, OREHI, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana, Slovenija"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek"
+    },
+    "title": "AJDOV KRUH Z OREHI ŽITO, 400G",
+    "url": "https://www.spar.si/online/ajdov-kruh-z-orehi-zito-400g/p/422108",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,48 €/kg",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-price": "2,19",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/422108/dt_main.jpg"
+}

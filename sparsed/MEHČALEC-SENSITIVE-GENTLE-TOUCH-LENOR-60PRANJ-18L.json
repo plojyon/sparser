@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,28",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1,8l"
+        },
+        "security-warning": {},
+        "ingredient-information": {},
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "Orbico d.o.o., Verovškova ulica 72, 1000 Ljubljana, Slovenija"
+        }
+    },
+    "product-priceperunit": "2,93 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mehcalec-sensitive-gentle-touch-lenor-60pranj-18l/p/523390",
+    "product-price": "5,28",
+    "title": "MEHČALEC SENSITIVE GENTLE TOUCH, LENOR, 60PRANJ, 1,8L",
+    "description": "MEHČALEC LENOR 1,8L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/523390/dt_main.jpg",
+    "teaser-text": "MEHČALEC LENOR 1,8L"
+}

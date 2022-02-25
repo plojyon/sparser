@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,75",
+    "product-priceperunit": "9,21 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "POLNOZRNATA GORČICA, NATURETA, 190 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,18 g",
+            "Total Carbohydrate": "9,00 g",
+            "Prehranske vlaknine": "4,30 g",
+            "Total Fat": "10,10 g",
+            "Protein": "2,00 g",
+            "kJ": "612,00 ",
+            "Sugar": "9,00 g",
+            "kcal": "147,00 ",
+            "Saturated fat": "0,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "190g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "GORČICA POLNOZRNATA 190G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,75",
+    "teaser-text": "GORČICA POLNOZRNATA 190G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/polnozrnata-gorcica-natureta-190-g/p/447321",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/447321/dt_main.jpg"
+}

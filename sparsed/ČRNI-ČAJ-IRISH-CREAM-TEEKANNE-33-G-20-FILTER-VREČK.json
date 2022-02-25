@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "40,30 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "ČAJ ČR. IR.CREAM 33G",
+    "teaser-text": "ČAJ ČR. IR.CREAM 33G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,30 g",
+            "kJ": "8,00 ",
+            "Protein": "0,20 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,30 g",
+            "kcal": "2,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "črni čaj 90,00 %, aroma irish cream 10,00 %."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "33g"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/crni-caj-irish-cream-teekanne-33-g-20-filter-vreck/p/376844",
+    "product-insteadofprice": "1,57",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376844/dt_main.jpg",
+    "title": "ČRNI ČAJ, IRISH CREAM, TEEKANNE, 33 G, 20 FILTER VREČK",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,33",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

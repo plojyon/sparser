@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "2,29",
+    "product-priceperunit": "20,82 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "INSTANT KAVOVINA BIANKA CLASSIC, FRANCK, 110G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vzemite 2-3 žličke (približno 6g) Bianke in po želji dodajte sladkor ali sladilo. Zmešajte z malo vroče vode. Med mešanjem dolijte toplo mleko (200ml)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "LOMAS d.o.o., Kardeljeva ploščad 11a, SI-1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "110g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "73,00 g",
+            "Prehranske vlaknine": "15,00 g",
+            "Total Fat": "0,10 g",
+            "Protein": "4,00 g",
+            "kJ": "340,00 ",
+            "Sugar": "20,00 g",
+            "kcal": "1436,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "INST.KAVOVINA BIANKA110G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,29",
+    "teaser-text": "INST.KAVOVINA BIANKA110G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/instant-kavovina-bianka-classic-franck-110g/p/500567",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/500567/dt_main.jpg"
+}

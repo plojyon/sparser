@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "15,95 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "PRSI PIŠČ.V OVOJU 200G",
+    "teaser-text": "PRSI PIŠČ.V OVOJU 200G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "2,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj, d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "2,00 g",
+            "Saturated fat": "0,80 g",
+            "Total Carbohydrate": "2,00 g",
+            "kJ": "418,00 ",
+            "Protein": "18,00 g",
+            "Salt": "1,80 g",
+            "Sugar": "2,00 g",
+            "kcal": "99,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PRSI PIŠČANČJE V OVOJU 200G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "sestavine": "meso piščančjih prsi 77,00 %, voda, škrob, sol, dekstroza, prehranske vlaknine, stabilizatorja: natrijev difosfat (e450), karagenan (e407), začimbe, antioksidant: natrijev askorbat (e301), ekstrakti začimb, konzervans: natrijev nitrit (e250)."
+        }
+    },
+    "url": "https://www.spar.si/online/piscancje-prsi-v-ovoju-slimfit-perutnina-ptuj-200g/p/361089",
+    "product-insteadofprice": "3,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361089/dt_main.jpg",
+    "title": "PIŠČANČJE PRSI V OVOJU SLIM&FIT, PERUTNINA PTUJ, 200G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

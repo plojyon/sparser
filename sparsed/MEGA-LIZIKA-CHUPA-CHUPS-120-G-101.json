@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "64,08 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "LIZIKA MEGA 120G",
+    "teaser-text": "LIZIKA MEGA 120G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "96,00 g",
+            "kJ": "1645,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,07 g",
+            "Sugar": "78,00 g",
+            "kcal": "387,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, glukozni sirup, sadna kaša (jabolko, češnja, malina, ananas, limeta, limona, jagoda, breskev, banana, pomaranča, borovnice, črni ribez, mango, lubenica, kivi) 3,00 %, kisline (mlečna kislina, jabolčna kislina in citronska kislina), arome, barvila ( E100, E160c, E162)."
+        }
+    },
+    "url": "https://www.spar.si/online/mega-lizika-chupa-chups-120-g-101/p/380243",
+    "product-insteadofprice": "7,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/380243/dt_main.jpg",
+    "title": "MEGA LIZIKA, CHUPA CHUPS, 120 G, 10/1",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "7,69",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

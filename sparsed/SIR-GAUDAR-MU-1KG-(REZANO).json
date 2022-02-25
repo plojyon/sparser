@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "18,60 g",
+            "Total Fat": "24,50 g",
+            "Total Carbohydrate": "0,10 g",
+            "Sugar": "0,10 g",
+            "Salt": "1,40 g",
+            "kJ": "1281,00 ",
+            "Protein": "22,00 g",
+            "kcal": "309,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU SIR GAUDAR",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sir-gaudar-mu-1kg-rezano/p/262056",
+    "product-price": "9,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/262056/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "9,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "Sir Gaudar LM",
+    "product-stock-status": "",
+    "title": "SIR GAUDAR MU, 1KG, (REZANO)",
+    "product-priceperunit": "9,89 €/kg",
+    "description": "Sir Gaudar LM"
+}

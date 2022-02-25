@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NAP.ALO.VERA PL.240ML",
+    "description": "NAP.ALO.VERA PL.240ML",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,24l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda 66,50 %, aloe vera 24,00 %, sladkor 8,80 %, aroma grozdja 0,01 %, sredstvo za uravnavanje kislosti: citronska kislina 0,01 %, kalcijev laktat 0,01 %, natrijev citrat 0,01 %, askorbinska kislina antioksidant 0,20 %, želirno sredstvo: gelanski gumi 0,01 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "155,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "8,80 g",
+            "Total Carbohydrate": "8,80 g",
+            "Total Fat": "0,00 g",
+            "kcal": "37,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "BCA d.o.o., Hribernikova ulica 2, 1000 Ljubljana"
+        }
+    },
+    "title": "PIJAČA ALOE VERA Z OKUSOM GROZDJA, LOTTE, 240 ML",
+    "url": "https://www.spar.si/online/pijaca-aloe-vera-z-okusom-grozdja-lotte-240-ml/p/387686",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,63 €/l",
+    "product-insteadofprice": "0,63",
+    "product-stock-status": "",
+    "product-price": "0,63",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/387686/dt_main.jpg"
+}

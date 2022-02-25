@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "0,00 g",
+            "Total Fat": "0,03 g",
+            "Total Carbohydrate": "10,70 g",
+            "Sugar": "10,00 g",
+            "Prehranske vlaknine": "0,50 g",
+            "kJ": "188,00 ",
+            "Protein": "0,30 g",
+            "kcal": "44,00 "
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "opis": "Proizvod je kašast nektar iz marelic in jabolk, namenjen za dojenčke in male otroke. Proizvod je pripravljen v skladu z zahtevami, določenimi v Pravilniku o žitnih kašicah ter hrani za dojenčke in majhne otroke, UL RS 25/2009 ter ustrezni EU zakonodaji (Uredba 609/2013, Direktiva 2006/125).Proizvod je primeren za otroke po dopolnjenem 4. mesecu.Proizvod se deklarira kot ´Brez glutena´ in je zato primeren tudi za otroke, ki trpijo za celiakijo.",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 25,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,13l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, marelična kaša 30,00 %, jabolčni sok iz zgoščenega soka 20,00 %, sladkor, limonin sok iz zgoščenega soka, vitamin c."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/nektar-marelica-in-jabolko-frutek-125ml/p/171648",
+    "product-price": "0,65",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/171648/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,65",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "FRUTEK MARELICA 125ML",
+    "product-stock-status": "",
+    "title": "NEKTAR MARELICA IN JABOLKO FRUTEK, 125ML",
+    "product-priceperunit": "5,20 €/l",
+    "description": "FRUTEK MARELICA 125ML"
+}

@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,59",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/pijaca-fruity-morning-juice-bar-rauch-033l/p/606209",
+    "title": "PIJAČA FRUITY MORNING JUICE BAR, RAUCH, 0,33L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,59",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ATLANTIC TRADE D.O.O., LJUBLJANA"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "11,00 g",
+            "Total Carbohydrate": "11,40 g",
+            "Prehranske vlaknine": "1,10 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,70 g",
+            "Total Fat": "0,50 g",
+            "kcal": "55,00 ",
+            "Salt": "0,01 g",
+            "kJ": "231,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "OSVEŽILNA NEGAZIRANA BREZALKOHOLNA PIJAČA iz več vrst sadja in zelenjave z vitamini in vlakninam.",
+        "ingredient-information": {
+            "sestavine": "pomarančni sok, ananasov sok, sok belega grozdja, bananina kaša, korenčkova kaša, ovsena vlakna, vitamin (c,d)."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 0,75 mikrogr. Vitamin C 12,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "product-priceperunit": "4,82 €/l",
+    "teaser-text": "SOK JUICE B.FRUITY 0,33L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SOK JUICE B.FRUITY 0,33L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/606209/dt_main.jpg",
+    "product-brand": ""
+}

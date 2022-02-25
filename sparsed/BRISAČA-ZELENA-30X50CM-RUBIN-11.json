@@ -1,0 +1,29 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "opis": "Bombažna brisača, mehka in vpojna, primerna za sušenje v sušilnem stroju.",
+        "trade-group": {
+            "material": "bombaž"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-priceperunit": "0,99 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/brisaca-zelena-30x50cm-rubin-11/p/539423",
+    "product-price": "0,99",
+    "title": "BRISAČA ZELENA 30X50CM, RUBIN, 1/1",
+    "description": "RU BRISAČA 30X50,22256",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/539423/dt_main.jpg",
+    "teaser-text": "RU BRISAČA 30X50,22256"
+}

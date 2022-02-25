@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,80 g",
+            "Total Fat": "3,30 g",
+            "Total Carbohydrate": "75,50 g",
+            "Sugar": "2,40 g",
+            "Salt": "0,49 g",
+            "kJ": "1640,00 ",
+            "Protein": "13,40 g",
+            "kcal": "392,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "DOMAČI JUŠNI REZANCI, sušene jajčne testenine",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Izdelani so s posebnim proizvodnim postopkom, kot da bi zvil palačinko iz testa in rezal rezance. Sestavine so vrhunske, sveža jajca iz Slovenije, razbita tik pred pripravo testa in kvalitetna pšenična durum moka.",
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "PEKARNA BAŠKOVČ D.O.O."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/domaci-jusni-rezanci-testenine-baskovc-350g/p/214064",
+    "product-price": "2,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/214064/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "REZANCI JUŠNI DOM.350G",
+    "product-stock-status": "",
+    "title": "DOMAČI JUŠNI REZANCI, TESTENINE BAŠKOVČ, 350G",
+    "product-priceperunit": "6,54 €/kg",
+    "description": "REZANCI JUŠNI DOM.350G"
+}

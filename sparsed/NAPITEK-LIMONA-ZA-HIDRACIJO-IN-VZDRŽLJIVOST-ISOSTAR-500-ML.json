@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "2,90 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ISOSTAR 500ML LIMONA",
+    "teaser-text": "ISOSTAR 500ML LIMONA",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Uporabljati kot dopolnilo k raznoliki, uravnovešeni prehrani in zdravemu življenjskemu slogu"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "6,90 g",
+            "kJ": "123,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,12 g",
+            "Sugar": "6,00 g",
+            "kcal": "29,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, saharoza, glukozni sirup, regulator kislosti: citronska kislina, maltodekstrin, naravna aroma limone z drugimi naravnimi aromami, natrijev citrat, kalcijev fosfat, magnezijev karbonat, natrijev klorid, kalijev klorid, stabilizator: e307, vitamin b1."
+        }
+    },
+    "url": "https://www.spar.si/online/napitek-limona-za-hidracijo-in-vzdrzljivost-isostar-500-ml/p/371736",
+    "product-insteadofprice": "1,45",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/371736/dt_main.jpg",
+    "title": "NAPITEK LIMONA, ZA HIDRACIJO IN VZDRŽLJIVOST, ISOSTAR, 500 ML",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,45",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

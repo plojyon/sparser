@@ -1,0 +1,48 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,60 g",
+            "Salt": "1,00 g",
+            "Total Fat": "13,00 g",
+            "Total Carbohydrate": "3,90 g",
+            "Sugar": "3,70 g",
+            "Prehranske vlaknine": "0,80 g",
+            "kJ": "785,00 ",
+            "Protein": "13,00 g",
+            "kcal": "189,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ATLANTSKI SLED V PARADIŽNIKOVI OMAKI.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "Ulovljeno v morju. Ribolovno območje: Severovzhodni Atlantik FAO 27- Severno morje. Ribolovno orodje: vlečne mreže, obkroževalne in dvižne mreže.",
+        "base-information": {
+            "neto-količina-plod:": "120G"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "trade-group": {
+            "latinsko-ime": "Clupea harengus"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/atlantski-sled-v-paradiznikovi-omaki-spar-200g/p/21365",
+    "product-price": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/21365/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR SLANIK V PAR.OM 200",
+    "product-stock-status": "",
+    "title": "ATLANTSKI SLED V PARADIŽNIKOVI OMAKI SPAR, 200G",
+    "product-priceperunit": "4,95 €/kg",
+    "description": "SPAR SLANIK V PAR.OM 200"
+}

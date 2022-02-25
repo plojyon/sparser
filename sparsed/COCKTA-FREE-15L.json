@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,10 g",
+            "Total Carbohydrate": "0,20 g",
+            "Sugar": "0,20 g",
+            "Salt": "0,05 g",
+            "kJ": "6,00 ",
+            "Protein": "0,10 g",
+            "kcal": "1,40 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Gazirana brezalkoholna pijača s sladili.",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, ogljikov dioksid min. 2 g/l, mešanica rastlinskih ekstraktov 0,3 %, kislina (citronska kislina), barvilo (e150d), sredstvo za uravnavanje kislosti (trinatrijev citrat), sladila (natrijev ciklamat, natrijev saharin, acesulfam k, aspartam*), konzervans (natrijev benzoat), naravne arome."
+        },
+        "contact-information": {
+            "kontakt:": "ATLANTIC TRADE D.O.O., LJUBLJANA"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cockta-free-15l/p/564856",
+    "product-price": "1,35",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/564856/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "1,35",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "COCKTA FREE PET 1,5 L",
+    "product-stock-status": "",
+    "title": "COCKTA FREE, 1,5L",
+    "product-priceperunit": "0,90 €/l",
+    "description": "COCKTA FREE PET 1,5 L"
+}

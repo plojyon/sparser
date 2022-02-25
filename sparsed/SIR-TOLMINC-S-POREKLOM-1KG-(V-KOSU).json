@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "15,66",
+    "product-priceperunit": "15,66 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR TOLMINC S POREKLOM, 1KG, (V KOSU)",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,23 g",
+            "Total Carbohydrate": "2,30 g",
+            "Total Fat": "32,20 g",
+            "Protein": "25,30 g",
+            "kJ": "1660,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "400,00 ",
+            "Saturated fat": "22,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Planika d.o.o., Gregorčičeva 32, 5222 Kobarid"
+        }
+    },
+    "description": "Sir Tolminc s poreklom",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "15,66",
+    "teaser-text": "Sir Tolminc s poreklom",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-tolminc-s-poreklom-1kg-v-kosu/p/484900",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/484900/dt_main.jpg"
+}

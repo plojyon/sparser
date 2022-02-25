@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,15",
+    "product-priceperunit": "0,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNA PIJAČA JABOLKO, FRUPI, 2L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "OSVEŽILNA NEGAZIRANA BREZALKOHOLNA PIJAČA IZ ZGOŠČENEGA JABOLČNEGA SOKA S SLADKORJEM IN SLADILOM. SADNI DELEŽ: 25%.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Vital Mestinje, d.o.o., Stranje 7a, 3241 Podplat, Slovenija"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, jabolčni sok iz zgoščenega jabolčnega soka 25,00 %, sladkor, glukozni-fruktozni sirup, kislina (citronska kislina), aroma, antoksidant (askorbinska kislina), barvilo (amonijev sulfitni karamel), sladilo (steviol glikozidi)."
+        },
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "5,40 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,50 g",
+            "kJ": "91,00 ",
+            "Sugar": "5,10 g",
+            "kcal": "21,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPITEK FRUPI JABO.2L BK",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,15",
+    "teaser-text": "NAPITEK FRUPI JABO.2L BK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadna-pijaca-jabolko-frupi-2l/p/512363",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512363/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "5,39",
+    "product-priceperunit": "26,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA ČOKOLADNE KROGLICE LEŠNIK, LINDOR, LINDT, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje mandlje."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,21 g",
+            "Total Carbohydrate": "42,00 g",
+            "Total Fat": "48,00 g",
+            "Protein": "5,10 g",
+            "kJ": "2604,00 ",
+            "Sugar": "40,00 g",
+            "kcal": "627,00 ",
+            "Saturated fat": "35,00 g"
+        }
+    },
+    "description": "PRALIN.LINDOR LEŠN.200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,39",
+    "teaser-text": "PRALIN.LINDOR LEŠN.200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-cokoladne-kroglice-lesnik-lindor-lindt-200g/p/485556",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/485556/dt_main.jpg"
+}

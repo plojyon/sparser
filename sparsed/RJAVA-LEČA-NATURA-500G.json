@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rjava-leca-natura-500g/p/227717",
+    "product-price": "3,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/227717/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "LEČA RJAVA 0.5KG NATURA",
+    "product-stock-status": "",
+    "title": "RJAVA LEČA, NATURA, 500G",
+    "product-priceperunit": "7,78 €/kg",
+    "description": "LEČA RJAVA 0.5KG NATURA"
+}

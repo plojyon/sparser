@@ -1,0 +1,37 @@
+{
+    "product-insteadofprice": "1,26",
+    "product-priceperunit": "2,52 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SVETLO PIVO ORIGINAL BUDVAR, BUDWEISER, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BUDWEISER BUDVAR. PASTERIZIRANO SVETLO PIVO",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "security-warning": {
+            "varnostna-opozorila": "Živilo ni primerno za otroke."
+        },
+        "opis": "Originalno češko svetlo pivo Budweiser Budvar v pločevinki, 5,0 %vol. alkohola.",
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,00 vol. %"
+        }
+    },
+    "description": "PIVO BUDWEIS.PL.0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,26",
+    "teaser-text": "PIVO BUDWEIS.PL.0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/svetlo-pivo-original-budvar-budweiser-05l/p/471482",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471482/dt_main.jpg"
+}

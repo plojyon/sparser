@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "1,19",
+    "product-priceperunit": "1,98 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "title": "JOGURTNI NAPITEK JAGODA SPAR VITAL, 6X100G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 1,50 mikrogr. Vitamin E 4,80 mg, Vitamin C 32,00 mg, 0,70 mg."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Spijte dnevno 1 stekleničko (100 g)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jogurtov napitek z jagodno kašo, z vitamini D, E, C in B6. Visoka vsebnost vitamina D, nizka vsebnost maščob.",
+        "opis": "Vsebuje minimalno 300 milijonov kultur na plastenko.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "600g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "11,00 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "0,90 g",
+            "Protein": "3,00 g",
+            "kJ": "279,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "66,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "SPAR VITAL ACTIPL 6X100G",
+    "product-promotionBadges": "Odlična kakovost",
+    "product-brand": "",
+    "product-price": "1,19",
+    "teaser-text": "SPAR VITAL ACTIPL 6X100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jogurtni-napitek-jagoda-spar-vital-6x100g/p/439397",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/439397/dt_main.jpg"
+}

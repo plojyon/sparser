@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PREBRANEC 400G",
+    "description": "PREBRANEC 400G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebino pločevinke spraznite v primerno posodo. Segrevajte na zmernem ognju in medtem neprestano mešajte."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "250,00 ",
+            "Salt": "1,00 g",
+            "Sugar": "4,30 g",
+            "Total Carbohydrate": "18,00 g",
+            "Total Fat": "2,30 g",
+            "kcal": "59,00 ",
+            "Saturated fat": "0,30 g",
+            "Protein": "5,40 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "title": "PREBRANEC, PODRAVKA, 400G",
+    "url": "https://www.spar.si/online/prebranec-podravka-400g/p/397209",
+    "isOnPromotion": "false",
+    "product-priceperunit": "4,48 €/kg",
+    "product-insteadofprice": "1,79",
+    "product-stock-status": "",
+    "product-price": "1,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/397209/dt_main.jpg"
+}

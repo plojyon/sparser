@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "16,57",
+    "product-priceperunit": "22,09 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, MODRI PINOT, BARRIQUE, PERŠOLJA, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "13,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO MODRI PINOT 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "16,57",
+    "teaser-text": "VINO MODRI PINOT 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-modri-pinot-barrique-persolja-075-l/p/451839",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451839/dt_main.jpg"
+}

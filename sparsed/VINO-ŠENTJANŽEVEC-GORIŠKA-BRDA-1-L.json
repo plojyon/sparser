@@ -1,0 +1,49 @@
+{
+    "product-insteadofprice": "3,29",
+    "product-priceperunit": "3,29 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO ŠENTJANŽEVEC, GORIŠKA BRDA, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Temperatura postrežbe: 8-10 °C."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Šentjanževec, polsuho kakovostno vino zgp Goriška brda",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "security-warning": {
+            "varnostna-opozorila": "Vsebuje sulfit."
+        },
+        "contact-information": {
+            "kontakt:": "Vinska klet Goriška Brda z.o.o., Zadružna cesta 9, 5212 Dobrovo"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,00 vol. %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "1,39 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "309,80 ",
+            "Sugar": "1,39 g",
+            "kcal": "74,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "VINO ŠENTJANŽEVEC 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,29",
+    "teaser-text": "VINO ŠENTJANŽEVEC 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-sentjanzevec-goriska-brda-1-l/p/459554",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/459554/dt_main.jpg"
+}

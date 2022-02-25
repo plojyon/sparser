@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.MERCI KAVA SM.100GBK",
+    "description": "ČOK.MERCI KAVA SM.100GBK",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNA ČOKOLADA KAVA IN SMETANA, MERCI, 100G",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2333,00 ",
+            "Salt": "0,31 g",
+            "Sugar": "50,70 g",
+            "Total Carbohydrate": "51,20 g",
+            "Total Fat": "35,50 g",
+            "kcal": "560,00 ",
+            "Saturated fat": "21,70 g",
+            "Protein": "8,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o, Tehnološki park 18, 1000 Ljubljana"
+        }
+    },
+    "title": "MLEČNA ČOKOLADA KAVA IN SMETANA, MERCI, 100G",
+    "url": "https://www.spar.si/online/mlecna-cokolada-kava-in-smetana-merci-100g/p/425220",
+    "isOnPromotion": "false",
+    "product-priceperunit": "17,90 €/kg",
+    "product-insteadofprice": "1,79",
+    "product-stock-status": "",
+    "product-price": "1,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/425220/dt_main.jpg"
+}

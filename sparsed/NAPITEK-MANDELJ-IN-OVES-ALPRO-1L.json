@@ -1,0 +1,48 @@
+{
+    "product-promotionBadges": "Vegan",
+    "product-insteadofprice": "2,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "Vegan"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "opis": "Napitek oves mandelj z dodanim kalcijem in vitamini.",
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 0,75 mikrogr. Vitamin E 1,80 mg, Vitamin B2 (Riboflavin) 0,21 mg, Vitamin B12 0,38 mikrogr. Kalcij 120,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Napitek oves mandelj Alpro, 1L",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MANDLJI, OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "98,00 ",
+            "Saturated fat": "0,10 g",
+            "Prehranske vlaknine": "1,50 g",
+            "Protein": "0,40 g",
+            "Sugar": "1,80 g",
+            "Total Fat": "1,00 g",
+            "kcal": "23,00 ",
+            "Total Carbohydrate": "2,40 g",
+            "Salt": "0,11 g"
+        }
+    },
+    "product-priceperunit": "1,99 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/napitek-mandelj-in-oves-alpro-1l/p/538038",
+    "product-price": "1,99",
+    "title": "NAPITEK MANDELJ IN OVES, ALPRO, 1L",
+    "description": "NAPITEK ALPRO OVES MAN1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/538038/dt_main.jpg",
+    "teaser-text": "NAPITEK ALPRO OVES MAN1L"
+}

@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,37",
+    "product-priceperunit": "2,11 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "PUDING, VANILIJA S SMETANO, LIEGEOIS, ZOTT, 175 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,15 g",
+            "Total Carbohydrate": "15,70 g",
+            "Total Fat": "2,40 g",
+            "Protein": "0,80 g",
+            "kJ": "371,00 ",
+            "Sugar": "12,40 g",
+            "kcal": "88,00 ",
+            "Saturated fat": "2,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        }
+    },
+    "description": "PUDING LIEGEOIS 175G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,37",
+    "teaser-text": "PUDING LIEGEOIS 175G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/puding-vanilija-s-smetano-liegeois-zott-175-g/p/505419",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505419/dt_main.jpg"
+}

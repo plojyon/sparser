@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "7,38",
+    "product-priceperunit": "9,84 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, TERAN, COLJA, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO TERAN COLJA 0,75 L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,38",
+    "teaser-text": "VINO TERAN COLJA 0,75 L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-teran-colja-075-l/p/468141",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468141/dt_main.jpg"
+}

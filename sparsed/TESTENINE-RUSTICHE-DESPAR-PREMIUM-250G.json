@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "1,59",
+    "product-priceperunit": "6,36 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TESTENINE RUSTICHE DESPAR PREMIUM, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Čas kuhanja: 6-7 minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "TAGLIATELLE RUSTICHE- SUŠENE JAJČNE TESTENINE",
+        "opis": "Sušene jajčne testenine.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,16 g",
+            "Total Carbohydrate": "67,00 g",
+            "Prehranske vlaknine": "3,90 g",
+            "Total Fat": "5,10 g",
+            "Protein": "15,00 g",
+            "kJ": "1614,00 ",
+            "Sugar": "2,50 g",
+            "kcal": "382,00 ",
+            "Saturated fat": "1,60 g"
+        }
+    },
+    "description": "DS. PR. TEST. TAGLI.250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,59",
+    "teaser-text": "DS. PR. TEST. TAGLI.250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/testenine-rustiche-despar-premium-250g/p/513650",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513650/dt_main.jpg"
+}

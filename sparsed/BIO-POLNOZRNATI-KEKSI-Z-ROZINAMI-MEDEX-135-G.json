@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "2,89",
+    "product-priceperunit": "20,64 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO POLNOZRNATI KEKSI Z ROZINAMI, MEDEX, 135 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "62,00 g",
+            "Prehranske vlaknine": "6,90 g",
+            "Total Fat": "16,00 g",
+            "Protein": "8,10 g",
+            "kJ": "1839,00 ",
+            "Sugar": "23,00 g",
+            "kcal": "439,00 ",
+            "Saturated fat": "3,50 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Bio polnozrnati keksi z rozinami so naraven in slasten izdelek, ki je odličen že sam naravnost iz škatle. Odlično se poda h kavi, čaju in drugim napitkom. Lahko ga uporabite tudi kot osnovo pri pripravi pit ali tort."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sledove jajc, mleka, soje, volčjega boba in oreščkov."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "MEDEX KEKSI ROZINE 135G",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "2,89",
+    "teaser-text": "MEDEX KEKSI ROZINE 135G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-polnozrnati-keksi-z-rozinami-medex-135-g/p/505426",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505426/dt_main.jpg"
+}

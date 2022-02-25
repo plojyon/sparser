@@ -1,0 +1,30 @@
+{
+    "product-insteadofprice": "1,45",
+    "product-priceperunit": "120,83 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "LUŠTREK, NAREZANI, KOTÁNYI, 12G",
+    "product-stock-status": "",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "KOTÁNYI d.o.o., Tržaška cesta 132, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "12g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Luštrek, narezani, sušeni"
+    },
+    "description": "LUŠTREK NAREZANI 12G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,45",
+    "teaser-text": "LUŠTREK NAREZANI 12G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/lustrek-narezani-kotnyi-12g/p/509999",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509999/dt_main.jpg"
+}

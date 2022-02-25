@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "11,60 g",
+            "Total Fat": "29,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Sugar": "0,20 g",
+            "Salt": "1,20 g",
+            "kJ": "1243,00 ",
+            "Protein": "9,00 g",
+            "kcal": "301,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Čajna pašteta - dodane mlečne beljakovine",
+        "contact-information": {
+            "kontakt:": "Gavrilović M.G.P. d.o.o., Vojkova 5, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cajna-pasteta-gavrilovi-50g/p/108918",
+    "product-price": "0,68",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/108918/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,68",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PAŠTETA ČAJNA 50G",
+    "product-stock-status": "",
+    "title": "ČAJNA PAŠTETA, GAVRILOVIĆ, 50G",
+    "product-priceperunit": "13,60 €/kg",
+    "description": "PAŠTETA ČAJNA 50G"
+}

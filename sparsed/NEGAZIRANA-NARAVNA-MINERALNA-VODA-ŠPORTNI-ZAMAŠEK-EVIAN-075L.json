@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,23",
+    "product-priceperunit": "1,64 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NEGAZIRANA NARAVNA MINERALNA VODA, ŠPORTNI ZAMAŠEK, EVIAN, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Naravna mineralna voda brez ogljikovega dioksida.",
+        "opis": "Naravna mineralna voda Evian izvira iz osrčja francoskih Alp. Na svoji 15-letni poti skozi naravni filter ledenikov pridobi edinstveno uravnoteženo mineralno sestavo in hkrati ohrani nizko vsebnost natrija. Prisotna je v več kot 140 državah po svetu.Družba Radenska je od leta 2016 distributer naravne mineralne vode Evian v Sloveniji.",
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        },
+        "ingredient-information": {
+            "sestavine": "naravna mineralna voda."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "VODA EVIAN 0,75L BK",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,23",
+    "teaser-text": "VODA EVIAN 0,75L BK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/negazirana-naravna-mineralna-voda-sportni-zamasek-evian-075l/p/490250",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490250/dt_main.jpg"
+}

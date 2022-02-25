@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BONBONI MAMBA 106G",
+    "description": "BONBONI MAMBA 106G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONI MAMBA, STORCK, 106G",
+        "ingredient-information": {
+            "sestavine": "glukozni sirup, sladkor, palmina maščoba, sredstvo za ohranjanje vlage: sorbitol sirup, modificiran škrob, kislina: citronska kislina, arome, barvilni koncentrat črnega korenja, sirup iz karamelnega sladkorja, emulgator e435, barvilni izvleček kurkume, antioksidant: alfa tokoferol."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "106g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1644,00 ",
+            "Salt": "0,02 g",
+            "Sugar": "49,10 g",
+            "Total Carbohydrate": "85,40 g",
+            "Total Fat": "5,40 g",
+            "kcal": "388,00 ",
+            "Saturated fat": "3,00 g",
+            "Protein": "0,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        }
+    },
+    "title": "BONBONI MAMBA, STORCK, 106G",
+    "url": "https://www.spar.si/online/bonboni-mamba-storck-106g/p/433491",
+    "isOnPromotion": "false",
+    "product-priceperunit": "7,92 €/kg",
+    "product-insteadofprice": "0,84",
+    "product-stock-status": "",
+    "product-price": "0,84",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/433491/dt_main.jpg"
+}

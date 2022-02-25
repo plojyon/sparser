@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,19",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/smetanov-puding-vanilija-spar-500g/p/589464",
+    "title": "SMETANOV PUDING VANILIJA, SPAR, 500G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,19",
+    "product-info": {
+        "opis": "/",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SMETANOV PUDING Z BURBONSKO VANILIJO",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "12,00 g",
+            "Total Carbohydrate": "15,00 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "5,70 g",
+            "Protein": "2,90 g",
+            "Total Fat": "9,00 g",
+            "kcal": "151,00 ",
+            "Salt": "0,22 g",
+            "kJ": "629,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-priceperunit": "2,38 €/kg",
+    "teaser-text": "SPAR PUDING VANILIJA",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR PUDING VANILIJA",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/589464/dt_main.jpg",
+    "product-brand": ""
+}

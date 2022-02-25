@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "0,98 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR DOLGOZRNATI RIŽ 1KG",
+    "teaser-text": "SPAR DOLGOZRNATI RIŽ 1KG",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,20 g",
+            "Saturated fat": "0,30 g",
+            "Total Carbohydrate": "77,00 g",
+            "kJ": "1487,00 ",
+            "Protein": "7,50 g",
+            "Salt": "0,01 g",
+            "Sugar": "0,30 g",
+            "kcal": "350,00 ",
+            "Prehranske vlaknine": "1,00 g"
+        },
+        "opis": "Dolgozrnati riž je sorta riža, ki se ne razkuha in je odlične kakovosti.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR Dolgozrnat beli riž",
+        "ingredient-information": {
+            "sestavine": "dolgozrnati beli riž."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/dolgozrnati-beli-riz-spar-1kg/p/370247",
+    "product-insteadofprice": "0,98",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370247/dt_main.jpg",
+    "title": "DOLGOZRNATI BELI RIŽ SPAR, 1KG",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,98",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

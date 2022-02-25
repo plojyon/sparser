@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-priceperunit": "7,73 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "PIŠČANČJA PAŠTETA, ROŽLE, 75G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "ROŽLE PIŠČANČJA PAŠTETA 75g, sterilizirana mesnina",
+        "opis": "Piščančja pašteta ROŽLE je lahek in zdrav perutninski namaz, sestavljen iz kakovostnega piščančjega mesa, z malo maščob ter posebne kombinacije dišavnic.",
+        "contact-information": {
+            "kontakt:": "Osem d.o.o., Čopova ulica 28, 9000 Murska Sobota"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "75g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,60 g",
+            "Total Carbohydrate": "2,60 g",
+            "Total Fat": "16,00 g",
+            "Protein": "9,70 g",
+            "kJ": "801,00 ",
+            "Sugar": "0,90 g",
+            "kcal": "193,00 ",
+            "Saturated fat": "4,00 g"
+        }
+    },
+    "description": "PAŠTETA PIŠČANČJA 75G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,58",
+    "teaser-text": "PAŠTETA PIŠČANČJA 75G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/piscancja-pasteta-rozle-75g/p/506224",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506224/dt_main.jpg"
+}

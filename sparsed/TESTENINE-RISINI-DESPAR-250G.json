@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "0,75",
+    "product-priceperunit": "3,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TESTENINE RISINI, DESPAR, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Testenine damo v vrelo mesno ali zelenjavno juho (na 1 liter juhe 100 g testenin) in kuhamo 5 minut. Občasno premešamo in takoj postrežemo"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SUŠENE JAJČNE TESTENINE ZA JUHO",
+        "opis": "Sušene jajčne testenine za juho.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,08 g",
+            "Total Carbohydrate": "68,00 g",
+            "Prehranske vlaknine": "2,80 g",
+            "Total Fat": "3,40 g",
+            "Protein": "13,00 g",
+            "kJ": "1532,00 ",
+            "Sugar": "2,70 g",
+            "kcal": "362,00 ",
+            "Saturated fat": "1,10 g"
+        }
+    },
+    "description": "DESPAR RISINI 250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,75",
+    "teaser-text": "DESPAR RISINI 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/testenine-risini-despar-250g/p/492520",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/492520/dt_main.jpg"
+}

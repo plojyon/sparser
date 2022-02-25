@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "13,27 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR EDAMEC, RIBANI BREZ LAKTOZE, MINUS L, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 950,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Naribani ementalec brez laktoze*, 45% maščobe v suhi snovi. Naravno brez laktoze.",
+        "opis": "Vsebnost laktoze: <0,1 g/ 100 g.DE BY 13136 EG",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "MLEKO, sol, starter kulture, mikrobiološko sirilo."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "27,00 g",
+            "Protein": "28,00 g",
+            "kJ": "1477,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "355,00 ",
+            "Saturated fat": "21,00 g"
+        }
+    },
+    "description": "SIR EMENTALEC MinusL 150",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "SIR EMENTALEC MinusL 150",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-edamec-ribani-brez-laktoze-minus-l-150g/p/490331",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490331/dt_main.jpg"
+}

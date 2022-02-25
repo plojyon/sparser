@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "Sir Landana olive parad",
+    "description": "Sir Landana olive parad",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1553,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "31,30 g",
+            "kcal": "375,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "23,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 750,00 mg."
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "title": "SIR LANDANA OLIVE PARAD., 1KG, KOS",
+    "url": "https://www.spar.si/online/sir-landana-olive-parad-1kg-kos/p/412911",
+    "isOnPromotion": "false",
+    "product-priceperunit": "20,85 €/kg",
+    "product-insteadofprice": "20,85",
+    "product-stock-status": "",
+    "product-price": "20,85",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/412911/dt_main.jpg"
+}

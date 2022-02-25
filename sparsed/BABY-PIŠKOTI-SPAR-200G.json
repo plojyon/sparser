@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,80 g",
+            "Salt": "0,25 g",
+            "Total Fat": "3,00 g",
+            "Total Carbohydrate": "76,00 g",
+            "Sugar": "40,00 g",
+            "Prehranske vlaknine": "1,70 g",
+            "kJ": "1553,00 ",
+            "Protein": "8,00 g",
+            "kcal": "366,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH)."
+        },
+        "opis": "Pecivo iz biskvitnega testa.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/baby-piskoti-spar-200g/p/249944",
+    "product-price": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/249944/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR PIŠKOTI BABY 200G",
+    "product-stock-status": "",
+    "title": "BABY PIŠKOTI SPAR, 200G",
+    "product-priceperunit": "4,95 €/kg",
+    "description": "SPAR PIŠKOTI BABY 200G"
+}

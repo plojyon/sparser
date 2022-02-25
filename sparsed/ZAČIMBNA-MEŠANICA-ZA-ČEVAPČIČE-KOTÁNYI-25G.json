@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,79",
+    "product-priceperunit": "31,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ZAČIMBNA MEŠANICA ZA ČEVAPČIČE, KOTÁNYI, 25G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Čevapčiči, začimbna mešanica",
+        "opis": "Skrivnost okusnih čevapčičev se skriva v dobrem mesu in skrbno pripravljeni mešanici začimb. Poper in česen sta ključni sestavini za dobro znani in nezamenljivi...",
+        "contact-information": {
+            "kontakt:": "Kotányi d.o.o., Tržaška 132, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "25g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "63,20 g",
+            "Total Carbohydrate": "22,00 g",
+            "Total Fat": "0,70 g",
+            "Protein": "4,80 g",
+            "kJ": "512,00 ",
+            "Sugar": "14,00 g",
+            "kcal": "122,00 ",
+            "Saturated fat": "0,20 g"
+        }
+    },
+    "description": "MEŠ.ZAČ. ZA ČEVAP. 25G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,79",
+    "teaser-text": "MEŠ.ZAČ. ZA ČEVAP. 25G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zacimbna-mesanica-za-cevapcice-kotnyi-25g/p/488463",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/488463/dt_main.jpg"
+}

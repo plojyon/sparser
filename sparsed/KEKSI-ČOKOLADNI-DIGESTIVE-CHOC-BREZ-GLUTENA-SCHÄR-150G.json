@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KEKSI BR. GLUT.D.CH.150G",
+    "description": "KEKSI BR. GLUT.D.CH.150G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2144,00 ",
+            "Salt": "0,75 g",
+            "Sugar": "34,00 g",
+            "Total Carbohydrate": "64,00 g",
+            "Total Fat": "24,00 g",
+            "kcal": "512,00 ",
+            "Prehranske vlaknine": "6,70 g",
+            "Saturated fat": "13,00 g",
+            "Protein": "6,70 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, VOLČJI BOB."
+        },
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "KEKSI ČOKOLADNI DIGESTIVE CHOC BREZ GLUTENA, SCHÄR, 150G",
+    "url": "https://www.spar.si/online/keksi-cokoladni-digestive-choc-brez-glutena-schr-150g/p/409236",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,93 €/kg",
+    "product-insteadofprice": "2,99",
+    "product-stock-status": "",
+    "product-price": "2,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/409236/dt_main.jpg"
+}

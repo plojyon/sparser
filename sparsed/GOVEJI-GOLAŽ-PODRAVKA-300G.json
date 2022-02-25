@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "GOLAŽ GOVEJI 300G",
+    "description": "GOLAŽ GOVEJI 300G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Goveji golaž je gotova jed, ki jo pred serviranjem pogrejemo na zmernem ognju. Lahko se servira z različnimi prilogami (krompir, riž, testenine)."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GOVEJI GOLAŽ. Sterilizirana mesnina.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "470,00 ",
+            "Salt": "1,50 g",
+            "Sugar": "1,40 g",
+            "Total Carbohydrate": "1,80 g",
+            "Total Fat": "6,90 g",
+            "kcal": "112,00 ",
+            "Saturated fat": "3,40 g",
+            "Protein": "11,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "GOVEJI GOLAŽ, PODRAVKA, 300G",
+    "url": "https://www.spar.si/online/goveji-golaz-podravka-300g/p/397204",
+    "isOnPromotion": "false",
+    "product-priceperunit": "9,93 €/kg",
+    "product-insteadofprice": "2,98",
+    "product-stock-status": "",
+    "product-price": "2,98",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/397204/dt_main.jpg"
+}

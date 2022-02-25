@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,39",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Lomas d.o.o., Kardeljeva ploščad 11a, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MEŠANICA PRAŽENE MLETE KAVE",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "8,95 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mleta-kava-jubilarna-franck-200g/p/291163",
+    "product-price": "1,79",
+    "title": "MLETA KAVA JUBILARNA, FRANCK, 200G",
+    "description": "KAVA ML.JUBILARNA 200G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/291163/dt_main.jpg",
+    "teaser-text": "KAVA ML.JUBILARNA 200G"
+}

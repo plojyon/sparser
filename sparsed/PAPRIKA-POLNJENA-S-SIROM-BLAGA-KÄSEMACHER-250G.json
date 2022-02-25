@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "16,28 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "PAPRIKA POLNJEN.SIR.250G",
+    "teaser-text": "PAPRIKA POLNJEN.SIR.250G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "160G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "16,00 g",
+            "Saturated fat": "5,70 g",
+            "Total Carbohydrate": "18,00 g",
+            "kJ": "984,00 ",
+            "Protein": "4,40 g",
+            "Salt": "0,43 g",
+            "Sugar": "16,00 g",
+            "kcal": "236,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PAPRIKA BLAGA POLNJENA S SVEŽIM SIROM NETO: 250G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/paprika-polnjena-s-sirom-blaga-ksemacher-250g/p/361298",
+    "product-insteadofprice": "4,07",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361298/dt_main.jpg",
+    "title": "PAPRIKA POLNJENA S SIROM, BLAGA, KÄSEMACHER, 250G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,07",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

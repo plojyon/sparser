@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-priceperunit": "1,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TOAST KRUH PŠENIČNI BELI, S-BUDGET, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "41,00 g",
+            "Prehranske vlaknine": "3,00 g",
+            "Total Fat": "1,40 g",
+            "Protein": "7,70 g",
+            "kJ": "904,00 ",
+            "Sugar": "3,50 g",
+            "kcal": "213,00 ",
+            "Saturated fat": "0,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana"
+        }
+    },
+    "description": "SB TOAST 500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,69",
+    "teaser-text": "SB TOAST 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/toast-kruh-psenicni-beli-s-budget-500g/p/476155",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/476155/dt_main.jpg"
+}

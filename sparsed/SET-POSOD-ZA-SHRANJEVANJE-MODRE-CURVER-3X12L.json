@@ -1,0 +1,25 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "4,49",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "3kos"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-priceperunit": "1,50 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/set-posod-za-shranjevanje-modre-curver-3x12l/p/532956",
+    "product-price": "4,49",
+    "title": "SET POSOD ZA SHRANJEVANJE MODRE, CURVER, 3X1,2L",
+    "description": "CURVER SET POSOD ZA SHR.",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/532956/dt_main.jpg",
+    "teaser-text": "CURVER SET POSOD ZA SHR."
+}

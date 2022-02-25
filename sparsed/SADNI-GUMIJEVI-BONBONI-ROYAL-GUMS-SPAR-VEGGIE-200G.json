@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "4,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNI GUMIJEVI BONBONI ROYAL GUMS, SPAR VEGGIE, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,05 g",
+            "Total Carbohydrate": "81,00 g",
+            "Total Fat": "0,20 g",
+            "Protein": "0,10 g",
+            "kJ": "1407,00 ",
+            "Sugar": "55,00 g",
+            "kcal": "331,00 ",
+            "Saturated fat": "0,10 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "SPAR VEGGIE BOMBONI 200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "SPAR VEGGIE BOMBONI 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadni-gumijevi-bonboni-royal-gums-spar-veggie-200g/p/504915",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/504915/dt_main.jpg"
+}

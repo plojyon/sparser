@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BRAN DOMAČ BADELI 1L BK",
+    "description": "BRAN DOMAČ BADELI 1L BK",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "35,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        }
+    },
+    "title": "DOMAČI BRANDY, BADEL, 1L",
+    "url": "https://www.spar.si/online/domaci-brandy-badel-1l/p/40320",
+    "isOnPromotion": "false",
+    "product-priceperunit": "13,98 €/l",
+    "product-insteadofprice": "13,98",
+    "product-stock-status": "",
+    "product-price": "13,98",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40320/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,69",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Panvita MIR d.d., Ljutomerska 28a, 9250 Gornja Radgona"
+        },
+        "product-net-cont": {
+            "neto-količina": "480g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "LESKOVAČKE PLESKAVICE 480g",
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "25,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1002,00 ",
+            "Saturated fat": "7,60 g",
+            "Protein": "18,90 g",
+            "Sugar": "0,60 g",
+            "Total Fat": "18,40 g",
+            "kcal": "242,00 ",
+            "Total Carbohydrate": "0,60 g",
+            "Salt": "1,80 g"
+        }
+    },
+    "product-priceperunit": "11,85 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/leskovacke-pleskavice-ave-grill-480g/p/429703",
+    "product-price": "5,69",
+    "title": "LESKOVAČKE PLESKAVICE, AVE GRILL, 480G",
+    "description": "PLESKAVICA LESKOVAČ.AVE",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/429703/dt_main.jpg",
+    "teaser-text": "PLESKAVICA LESKOVAČ.AVE"
+}

@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ŽITNA PL. RDEČE S. 23,5G",
+    "description": "ŽITNA PL. RDEČE S. 23,5G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "23,5g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sledove soje in mleka."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1567,00 ",
+            "Salt": "0,92 g",
+            "Sugar": "25,90 g",
+            "Total Carbohydrate": "69,20 g",
+            "Total Fat": "7,00 g",
+            "kcal": "375,00 ",
+            "Prehranske vlaknine": "5,20 g",
+            "Saturated fat": "3,30 g",
+            "Protein": "5,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj"
+        }
+    },
+    "title": "ŽITNA PLOŠČICA STRAWBERRY FITNESS BAR, NESTLÉ, 23,5G",
+    "url": "https://www.spar.si/online/zitna-ploscica-strawberry-fitness-bar-nestl-235g/p/396218",
+    "isOnPromotion": "false",
+    "product-priceperunit": "20,00 €/kg",
+    "product-insteadofprice": "0,48",
+    "product-stock-status": "",
+    "product-price": "0,48",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/396218/dt_main.jpg"
+}

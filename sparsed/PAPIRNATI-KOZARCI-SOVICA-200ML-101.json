@@ -1,0 +1,27 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "0,10 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PAPIRNATI KOZARCI SOVICA, 200ML, 10/1",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "PAPIRNATI KOZARCI, 0,2 L, SOVICA, 10/1",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "10kos"
+        },
+        "contact-information": {}
+    },
+    "description": "KOZARCI PAPIR 10/1",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "KOZARCI PAPIR 10/1",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/papirnati-kozarci-sovica-200ml-101/p/510280",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/510280/dt_main.jpg"
+}

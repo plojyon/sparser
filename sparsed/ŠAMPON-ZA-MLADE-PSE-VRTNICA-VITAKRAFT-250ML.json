@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,29",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Šampon ni primeren za ljudi!"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "Vitakraft Hobby program d.o.o."
+        }
+    },
+    "product-priceperunit": "9,56 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sampon-za-mlade-pse-vrtnica-vitakraft-250ml/p/541799",
+    "product-price": "2,39",
+    "title": "ŠAMPON ZA MLADE PSE VRTNICA, VITAKRAFT, 250ML",
+    "description": "ŠAM.ZA PSE VITAKR.250ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/541799/dt_main.jpg",
+    "teaser-text": "ŠAM.ZA PSE VITAKR.250ML"
+}

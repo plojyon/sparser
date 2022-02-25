@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "NAMAZ EMMENTALER 125G",
+    "description": "NAMAZ EMMENTALER 125G",
+    "product-info": {
+        "opis": "President topljeni sir je sladkasto mandljevega okusa karakterističen za ementaler. Obogati razne jedi in omake, prav tako tudi sendviče in prigrizke.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "base-information": {
+            "neto-količina-plod:": "125G"
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1155,00 ",
+            "Salt": "2,40 g",
+            "Sugar": "1,50 g",
+            "Total Carbohydrate": "1,50 g",
+            "Total Fat": "25,00 g",
+            "kcal": "279,00 ",
+            "Saturated fat": "18,00 g",
+            "Protein": "12,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        }
+    },
+    "title": "TOPLJENI SIRNI NAMAZ CREME D´EMMENTAL, PRESIDENT, 125G",
+    "url": "https://www.spar.si/online/topljeni-sirni-namaz-creme-demmental-president-125g/p/390473",
+    "isOnPromotion": "false",
+    "product-priceperunit": "18,80 €/kg",
+    "product-insteadofprice": "2,35",
+    "product-stock-status": "",
+    "product-price": "2,35",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/390473/dt_main.jpg"
+}

@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-priceperunit": "3,23 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PARADIŽNIKOVA OMAKA Z RICOTTO DESPAR, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "7,80 g",
+            "Prehranske vlaknine": "0,90 g",
+            "Total Fat": "6,50 g",
+            "Protein": "3,80 g",
+            "kJ": "445,00 ",
+            "Sugar": "4,80 g",
+            "kcal": "107,00 ",
+            "Saturated fat": "1,60 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, INDIJSKI OREŠČKI."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Omako segrevamo v ponvi pri srednji temperaturi. dodamo kuhane testenine in na hitro segrejemo pri višji temperaturi. Omako lahko tudi segrejemo v vroči vodi ali mikrovalovni pečici (prej odstranimo pokrov) in jo zlijemo neposredno na testenine."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "DESPAR OMAKA RICOTT.400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,29",
+    "teaser-text": "DESPAR OMAKA RICOTT.400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/paradiznikova-omaka-z-ricotto-despar-400g/p/513802",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513802/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "OLJE OLJČNO GEA 1L",
+    "description": "OLJE OLJČNO GEA 1L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "jedilno ekstra deviško oljčno olje 100,00 %."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 26,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3700,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "16,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "EKSTRA DEVIŠKO OLJČNO OLJE, AVANTGARDE, GEA, 1 L",
+    "url": "https://www.spar.si/online/ekstra-devisko-oljcno-olje-avantgarde-gea-1-l/p/410901",
+    "isOnPromotion": "false",
+    "product-priceperunit": "11,59 €/l",
+    "product-insteadofprice": "11,59",
+    "product-stock-status": "",
+    "product-price": "11,59",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/410901/dt_main.jpg"
+}

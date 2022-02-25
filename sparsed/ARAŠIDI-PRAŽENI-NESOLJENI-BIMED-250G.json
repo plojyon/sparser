@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,86",
+    "product-priceperunit": "7,44 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ARAŠIDI PRAŽENI, NESOLJENI, BIMED, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ARAŠIDI SUHO PRAŽENI, NESOLJENI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Mednarodni prehod 8, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI, GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "16,00 g",
+            "Total Fat": "49,00 g",
+            "Protein": "27,00 g",
+            "kJ": "2374,00 ",
+            "Sugar": "4,00 g",
+            "kcal": "567,00 ",
+            "Saturated fat": "6,80 g"
+        }
+    },
+    "description": "ARAŠIDI PRAŽ.NES.250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,86",
+    "teaser-text": "ARAŠIDI PRAŽ.NES.250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/arasidi-prazeni-nesoljeni-bimed-250g/p/512918",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512918/dt_main.jpg"
+}

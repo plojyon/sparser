@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "7,12 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR TORTILLA ČIPS 125G",
+    "teaser-text": "SPAR TORTILLA ČIPS 125G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "26,00 g",
+            "Saturated fat": "2,60 g",
+            "Total Carbohydrate": "59,00 g",
+            "kJ": "2099,00 ",
+            "Protein": "6,00 g",
+            "Salt": "1,60 g",
+            "Sugar": "1,50 g",
+            "kcal": "502,00 ",
+            "Prehranske vlaknine": "4,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Koruzni prigrizek z okusom sira.",
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/koruzni-tortilja-cips-sir-spar-125g/p/368723",
+    "product-insteadofprice": "0,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368723/dt_main.jpg",
+    "title": "KORUZNI TORTILJA ČIPS SIR SPAR, 125G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,89",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "11,90 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SIRUP SODASTR.TONIC 0,5L",
+    "teaser-text": "SIRUP SODASTR.TONIC 0,5L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "BOGART D.O.O."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "3,20 g",
+            "kJ": "60,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,06 g",
+            "Sugar": "3,20 g",
+            "kcal": "14,40 "
+        },
+        "opis": "Manj kalorij v primerjavi z originalnimi gaziranimi pijačami. Vsebuje sladkor in sladila. S 500ml sirupa lahko pripravite 12litrov osvežilne gazirane pijače.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Koncentrat za pripravo osvežilnih gaziranih pijač, z okusom Tonika.",
+        "ingredient-information": {
+            "sestavine": "sladkor, voda, citronska kislina, arome (vključno s kininom), sredstvo za uravnavanje kislosti (natrijev citrat), sladila (ciklamska kislina in njene na in ca soli, acesulfam k, sukraloza), konzervans (kalijev sorbat)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo dobro pretresite. Postrezite sveže. Za najboljše rezultate uporabite hladno vodo.Sodastream plastenko do oznake napolnite z mrzlo vodo in jo gazirajte. Notranji del zamaška do oznake napolnite s sirupom. Počasi vlijte v nagnjeno plastenko, jo zaprite in rahlo pretresite. Uživajte!"
+        }
+    },
+    "url": "https://www.spar.si/online/sirup-z-okusom-tonika-sodastream-05l/p/383357",
+    "product-insteadofprice": "5,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/383357/dt_main.jpg",
+    "title": "SIRUP Z OKUSOM TONIKA, SODASTREAM, 0,5L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,95",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

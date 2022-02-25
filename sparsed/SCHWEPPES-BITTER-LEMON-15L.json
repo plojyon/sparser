@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,45",
+    "product-priceperunit": "0,97 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SCHWEPPES BITTER LEMON, 1,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna brezalkoholna gazirana pijača z okusom limone. S sladkorjem in sladiloma.",
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, fruktozni-glukozni sirup, limonin sok iz zgoščenega limoninega soka 2,00 %, ogljikov dioksid, kislina: citronska kislina, naravne arome (vključno s kininom), sredstvo za uravnavanje kislosti: natrijevi citrati, konzervans: kalijev sorbat, stabilizatorja: e 1450, e 445, sladili: acesulfam k in natrijev saharin, antioksidant: askorbinska kislina, barvilo: karoteni."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "7,60 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "136,00 ",
+            "Sugar": "7,60 g",
+            "kcal": "32,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SCHWEPPES BITTER LEM.1.5",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,45",
+    "teaser-text": "SCHWEPPES BITTER LEM.1.5",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/schweppes-bitter-lemon-15l/p/48312",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48312/dt_main.jpg"
+}

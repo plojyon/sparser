@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "0,98",
+    "product-priceperunit": "7,84 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR MOZZARELLA, CVET, EKOLAT, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,60 g",
+            "Total Carbohydrate": "0,70 g",
+            "Total Fat": "19,00 g",
+            "Protein": "19,00 g",
+            "kJ": "1038,00 ",
+            "Sugar": "0,70 g",
+            "kcal": "250,00 ",
+            "Saturated fat": "14,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Fama d.o.o. Vipava, Goriška cesta 13, 5271 Vipava"
+        }
+    },
+    "description": "SIR MOZZARELLA CVET 125G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,98",
+    "teaser-text": "SIR MOZZARELLA CVET 125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-mozzarella-cvet-ekolat-125g/p/507785",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507785/dt_main.jpg"
+}

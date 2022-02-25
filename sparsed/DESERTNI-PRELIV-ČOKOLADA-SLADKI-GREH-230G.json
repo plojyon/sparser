@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,20 g",
+            "Total Fat": "2,80 g",
+            "Total Carbohydrate": "57,70 g",
+            "Sugar": "51,60 g",
+            "Salt": "0,25 g",
+            "kJ": "1158,00 ",
+            "Protein": "3,40 g",
+            "kcal": "273,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Desertni preliv s čokolado",
+        "opis": "Desertni preliv s čokolado.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "230g"
+        },
+        "contact-information": {
+            "kontakt:": "Mercator-Emba d.d., Tržaška cesta 2C, 1370 Logatec"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/desertni-preliv-cokolada-sladki-greh-230g/p/182172",
+    "product-price": "2,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/182172/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,88",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PRELIV ČOKOLADA 230G",
+    "product-stock-status": "",
+    "title": "DESERTNI PRELIV ČOKOLADA, SLADKI GREH, 230G",
+    "product-priceperunit": "12,52 €/kg",
+    "description": "PRELIV ČOKOLADA 230G"
+}

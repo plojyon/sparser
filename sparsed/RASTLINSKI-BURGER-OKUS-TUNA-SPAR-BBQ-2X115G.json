@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/rastlinski-burger-okus-tuna-spar-bbq-2x115g/p/584258",
+    "title": "RASTLINSKI BURGER OKUS TUNA SPAR BBQ, 2X115G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,23kos"
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,00 g",
+            "Total Carbohydrate": "7,00 g",
+            "Prehranske vlaknine": "4,30 g",
+            "Saturated fat": "2,10 g",
+            "Protein": "14,00 g",
+            "Total Fat": "18,00 g",
+            "kcal": "251,00 ",
+            "Salt": "1,36 g",
+            "kJ": "1042,00 "
+        }
+    },
+    "product-priceperunit": "17,35 €/Pieces",
+    "teaser-text": "SP BBQ BURGER R.TUN 230G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SP BBQ BURGER R.TUN 230G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/584258/dt_main.jpg",
+    "product-brand": ""
+}

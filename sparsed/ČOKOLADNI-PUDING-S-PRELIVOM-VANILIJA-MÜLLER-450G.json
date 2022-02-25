@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,57",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/cokoladni-puding-s-prelivom-vanilija-mller-450g/p/73560",
+    "title": "ČOKOLADNI PUDING S PRELIVOM VANILIJA, MÜLLER, 450G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,57",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "contact-information": {
+            "kontakt:": "Er marketing d.o.o., Ulica Gradnikove brigade 11, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "15,50 g",
+            "Total Carbohydrate": "17,90 g",
+            "Saturated fat": "1,60 g",
+            "Protein": "2,80 g",
+            "Total Fat": "2,40 g",
+            "kcal": "106,00 ",
+            "Salt": "0,19 g",
+            "kJ": "446,00 "
+        }
+    },
+    "product-priceperunit": "3,49 €/kg",
+    "teaser-text": "PUDING ČOKOLADA 450G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PUDING ČOKOLADA 450G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/73560/dt_main.jpg",
+    "product-brand": ""
+}

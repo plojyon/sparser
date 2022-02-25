@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "OMAK.BOLONJS.OSNOVA.400G",
+    "description": "OMAK.BOLONJS.OSNOVA.400G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Navodila za pripravo bolognese omake: na maslu popecite 200 g mletega mesa (ovčetina, govedina ali svinjina). Ko je meso temeljito pečeno, dodajte omako in 20 minut kuhajte pri zmerni temperaturi. Pripravljeno omako potresite po kuhanih Barilla testeninah, posujte s parmezanom in servirajte. Količina zadostuje za pripravo 4-ih porcij."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "218,00 ",
+            "Salt": "1,00 g",
+            "Sugar": "4,00 g",
+            "Total Carbohydrate": "5,30 g",
+            "Total Fat": "2,50 g",
+            "kcal": "52,00 ",
+            "Prehranske vlaknine": "1,70 g",
+            "Saturated fat": "0,20 g",
+            "Protein": "1,30 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "contact-information": {
+            "kontakt:": "Barilla Adriatik d.o.o., Tržaška cesta 315, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "PARADIŽNIKOVA OMAKA BOLOGNESE, BARILLA, 400G",
+    "url": "https://www.spar.si/online/paradiznikova-omaka-bolognese-barilla-400g/p/428386",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,88 €/kg",
+    "product-insteadofprice": "2,35",
+    "product-stock-status": "",
+    "product-price": "2,35",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/428386/dt_main.jpg"
+}

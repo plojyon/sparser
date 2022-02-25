@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "10,64 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "ZASEKA V ČREVU 140G",
+    "teaser-text": "ZASEKA V ČREVU 140G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "77,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Franz Krainer d.o.o., Tržaška cesta 53, 2000 Maribor"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "77,00 g",
+            "Saturated fat": "30,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "kJ": "2943,00 ",
+            "Protein": "5,00 g",
+            "Salt": "2,20 g",
+            "Sugar": "0,50 g",
+            "kcal": "701,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ŠTAJERSKA ZASEKA 140G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "ingredient-information": {
+            "sestavine": "slanina 81,00 %, svinsko meso 16,00 %, kuhinjska sol, začimbe, izvlečki začimb, sladkor, antioksidant e301, konzervans e250 e252."
+        }
+    },
+    "url": "https://www.spar.si/online/stajerska-zaseka-v-crevu-franz-krainer-140-g/p/384836",
+    "product-insteadofprice": "1,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384836/dt_main.jpg",
+    "title": "ŠTAJERSKA ZASEKA, V ČREVU, FRANZ KRAINER, 140 G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,49",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,19",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "opis": "Prašek za pripravo pudinga z okusom sladke smetane; s 1/2 litra (500 ml) mleka, za približno 552 g pudinga (4 porcije).",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "DR. OETKER d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Prašek za pripravo pudinga z okusom sladke smetane.",
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "408,00 ",
+            "Saturated fat": "0,90 g",
+            "Protein": "3,10 g",
+            "Sugar": "12,00 g",
+            "Total Fat": "1,40 g",
+            "kcal": "96,00 ",
+            "Total Carbohydrate": "18,00 g",
+            "Salt": "0,16 g"
+        }
+    },
+    "product-priceperunit": "7,42 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/puding-smetana-dr-oetker-3x40g/p/183346",
+    "product-price": "0,89",
+    "title": "PUDING SMETANA, DR. OETKER, 3X40G",
+    "description": "PUDING SMETANA 3PAK",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/183346/dt_main.jpg",
+    "teaser-text": "PUDING SMETANA 3PAK"
+}

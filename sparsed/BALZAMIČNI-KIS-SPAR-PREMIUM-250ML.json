@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "DESPAR PR.KIS BAL.250ML",
+    "description": "DESPAR PR.KIS BAL.250ML",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ACETO BALSAMICO DI MODENA I.G.P",
+        "opis": "Balzamični kis iz Modene ZGO, staran, 6 % kislosti.",
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "base-information": {
+            "neto-količina-plod:": "250ML"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1311,00 ",
+            "Salt": "0,50 g",
+            "Sugar": "71,00 g",
+            "Total Carbohydrate": "71,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "308,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "BALZAMIČNI KIS SPAR PREMIUM, 250ML",
+    "url": "https://www.spar.si/online/balzamicni-kis-spar-premium-250ml/p/393681",
+    "isOnPromotion": "false",
+    "product-priceperunit": "29,32 €/l",
+    "product-insteadofprice": "7,33",
+    "product-stock-status": "",
+    "product-price": "7,33",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/393681/dt_main.jpg"
+}

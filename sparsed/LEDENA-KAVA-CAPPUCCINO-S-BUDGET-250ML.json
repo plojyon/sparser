@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "SB LEDENA KAVA CAPP 250M",
+    "description": "SB LEDENA KAVA CAPP 250M",
+    "product-info": {
+        "opis": "Kavni napitek z delno posnetega mleka s kavo arabica.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "270,00 ",
+            "Salt": "0,20 g",
+            "Sugar": "9,60 g",
+            "Total Carbohydrate": "9,70 g",
+            "Total Fat": "1,30 g",
+            "kcal": "64,00 ",
+            "Prehranske vlaknine": "0,30 g",
+            "Saturated fat": "0,80 g",
+            "Protein": "3,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "LEDENA KAVA CAPPUCCINO, S-BUDGET, 250ML",
+    "url": "https://www.spar.si/online/ledena-kava-cappuccino-s-budget-250ml/p/410461",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,20 €/l",
+    "product-insteadofprice": "0,55",
+    "product-stock-status": "",
+    "product-price": "0,55",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/410461/dt_main.jpg"
+}

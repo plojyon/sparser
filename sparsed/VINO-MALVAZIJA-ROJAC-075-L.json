@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "10,19",
+    "product-priceperunit": "13,59 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, MALVAZIJA, ROJAC, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "13,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO MALVAZIJA RO.0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "10,19",
+    "teaser-text": "VINO MALVAZIJA RO.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-malvazija-rojac-075-l/p/468116",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468116/dt_main.jpg"
+}

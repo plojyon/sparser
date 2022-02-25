@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "3,59",
+    "product-priceperunit": "11,43 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PAPRIKE POLNJENE S SIROM/KAPRAMI S.A.TOS, 314ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Odprto hraniti v hladilniku."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "FIN-TUN d.o.o., Perovo 55, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "314g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,05 g",
+            "Total Carbohydrate": "6,97 g",
+            "Prehranske vlaknine": "3,81 g",
+            "Total Fat": "7,60 g",
+            "Protein": "4,87 g",
+            "kJ": "513,00 ",
+            "Sugar": "5,11 g",
+            "kcal": "123,00 ",
+            "Saturated fat": "3,57 g"
+        }
+    },
+    "description": "PAPR.POL.SIR.KAP.314ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,59",
+    "teaser-text": "PAPR.POL.SIR.KAP.314ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/paprike-polnjene-s-siromkaprami-satos-314ml/p/513396",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513396/dt_main.jpg"
+}

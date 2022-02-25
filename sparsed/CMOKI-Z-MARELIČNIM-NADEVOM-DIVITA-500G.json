@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "5,70 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "CMOKI Z MAREL.NADEV.500G",
+    "teaser-text": "CMOKI Z MAREL.NADEV.500G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "MLINOTEST Živilska industrija d.d., Tovarniška cesta 14, 5270 Ajdovščina"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "6,30 g",
+            "Saturated fat": "3,10 g",
+            "Total Carbohydrate": "28,50 g",
+            "kJ": "820,00 ",
+            "Protein": "3,70 g",
+            "Salt": "0,40 g",
+            "Sugar": "7,10 g",
+            "kcal": "195,00 ",
+            "Prehranske vlaknine": "4,90 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Divita Cmoki z mareličnim nadevom 500 g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, ŽVEPLOV DIOKSID IN SULFITI, SOJA (V SLEDOVIH), OREH (V SLEDOVIH), gorčično seme (v sledovih)."
+        }
+    },
+    "url": "https://www.spar.si/online/cmoki-z-marelicnim-nadevom-divita-500g/p/386365",
+    "product-insteadofprice": "2,85",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/386365/dt_main.jpg",
+    "title": "CMOKI Z MARELIČNIM NADEVOM, DIVITA, 500G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,85",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

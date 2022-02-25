@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "4,69",
+    "product-priceperunit": "22,12 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "title": "FILETI SLANIH INČUNOV SPAR PREMIUM, 212G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "115G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "\n\t\t\t\ttehnično-ime-izdelka": "FILETI SLANIH INČUNOV V DEVIŠKEM OLJĆNEM OLJU 46 %",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "212g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Engraulis encrasicolus"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "10,30 g",
+            "Protein": "19,80 g",
+            "kJ": "721,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "173,00 ",
+            "Saturated fat": "1,40 g"
+        }
+    },
+    "description": "SPAR PREMIUM INČUNI 212G",
+    "product-promotionBadges": "Odlična kakovost",
+    "product-brand": "",
+    "product-price": "4,69",
+    "teaser-text": "SPAR PREMIUM INČUNI 212G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/fileti-slanih-incunov-spar-premium-212g/p/439655",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/439655/dt_main.jpg"
+}

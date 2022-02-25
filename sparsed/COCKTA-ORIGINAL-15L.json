@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,35",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "COCKTA ORIGINAL, 1,5L",
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, ogljikov dioksid (min. 2 g/l), mešanica rastlinskih ekstraktov, kislina (citronska kislina), barvilo (e150d), arome, konzervans (natrijev benzoat)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "177,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,10 g",
+            "Sugar": "10,00 g",
+            "Total Fat": "0,10 g",
+            "kcal": "42,00 ",
+            "Total Carbohydrate": "10,40 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "0,90 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cockta-original-15l/p/17490",
+    "product-price": "1,35",
+    "title": "COCKTA ORIGINAL, 1,5L",
+    "description": "COCKTA PET 1,5L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/17490/dt_main.jpg",
+    "teaser-text": "COCKTA PET 1,5L"
+}

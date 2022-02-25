@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Salt": "2,00 g",
+            "Total Fat": "0,20 g",
+            "Total Carbohydrate": "12,00 g",
+            "Sugar": "8,00 g",
+            "Prehranske vlaknine": "1,00 g",
+            "kJ": "235,00 ",
+            "Protein": "0,90 g",
+            "kcal": "55,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "315g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/omaka-salsa-pekoca-spar-315g/p/253811",
+    "product-price": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/253811/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR SALSA HOT 315G",
+    "product-stock-status": "",
+    "title": "OMAKA SALSA PEKOČA SPAR, 315G",
+    "product-priceperunit": "4,10 €/kg",
+    "description": "SPAR SALSA HOT 315G"
+}

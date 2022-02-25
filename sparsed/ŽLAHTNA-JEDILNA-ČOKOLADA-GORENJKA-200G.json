@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "14,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ŽLAHTNA JEDILNA ČOKOLADA, GORENJKA, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Žlahtna temna čokolada s 70% kakavovih delov",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "47,00 g",
+            "Total Fat": "40,00 g",
+            "Protein": "9,70 g",
+            "kJ": "2444,00 ",
+            "Sugar": "27,00 g",
+            "kcal": "587,00 ",
+            "Saturated fat": "24,00 g"
+        }
+    },
+    "description": "ČOK. JED. ŽLAHT. 200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "ČOK. JED. ŽLAHT. 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zlahtna-jedilna-cokolada-gorenjka-200g/p/506728",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506728/dt_main.jpg"
+}

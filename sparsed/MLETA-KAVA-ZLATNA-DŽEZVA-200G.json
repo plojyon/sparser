@@ -1,0 +1,36 @@
+{
+    "product-insteadofprice": "1,82",
+    "product-priceperunit": "9,10 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MLETA KAVA ZLATNA DŽEZVA, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLETA KAVA ZLATNA DŽEZVA, 200G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Digit, d.o.o., Pod brezami 7, 1218 Komenda"
+        },
+        "ingredient-information": {
+            "sestavine": "mešanica pražene kave 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Carbohydrate": "28,50 g",
+            "kcal": "287,00 ",
+            "Total Fat": "15,40 g",
+            "Protein": "10,70 g"
+        }
+    },
+    "description": "KAVA ZLATNA DŽEZVA 200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,82",
+    "teaser-text": "KAVA ZLATNA DŽEZVA 200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mleta-kava-zlatna-dzezva-200g/p/485612",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/485612/dt_main.jpg"
+}

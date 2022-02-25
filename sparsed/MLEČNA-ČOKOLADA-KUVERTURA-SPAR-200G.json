@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "5,95 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR KUVERTURA MLEČ.200G",
+    "teaser-text": "SPAR KUVERTURA MLEČ.200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "32,00 g",
+            "Saturated fat": "19,00 g",
+            "Total Carbohydrate": "49,00 g",
+            "kJ": "2214,00 ",
+            "Protein": "6,90 g",
+            "Salt": "0,13 g",
+            "Sugar": "43,00 g",
+            "kcal": "531,00 ",
+            "Prehranske vlaknine": "9,90 g"
+        },
+        "opis": "Mlečna čokolada za prelive, dekoracijo in peko. Kakavovi deli: najmanj 39%.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNA ČOKOLADA ZA PRELIVE, DEKORACIJO IN PEKO",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/mlecna-cokolada-kuvertura-spar-200g/p/381326",
+    "product-insteadofprice": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381326/dt_main.jpg",
+    "title": "MLEČNA ČOKOLADA KUVERTURA SPAR, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

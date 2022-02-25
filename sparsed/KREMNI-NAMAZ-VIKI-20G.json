@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "13,50 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "VIKI DVOBARVNI 20G",
+    "teaser-text": "VIKI DVOBARVNI 20G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "37,60 g",
+            "Saturated fat": "4,80 g",
+            "Total Carbohydrate": "55,80 g",
+            "kJ": "2430,00 ",
+            "Protein": "3,50 g",
+            "Salt": "0,20 g",
+            "Sugar": "52,40 g",
+            "kcal": "580,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Petlja d.o.o., Ob Dravi 3a, 2250 Ptuj"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "20g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/kremni-namaz-viki-20g/p/366904",
+    "product-insteadofprice": "0,27",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/366904/dt_main.jpg",
+    "title": "KREMNI NAMAZ VIKI, 20G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,27",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,64",
+    "product-priceperunit": "2,67 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "NAVADNI PROBIOTIČNI JOGURT 1,5% LCA, ZELENE D., 240G, XXL",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "240G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "jogurt z 1,5 % m. m. s prehransko vlaknino",
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "240g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "5,40 g",
+            "Prehranske vlaknine": "2,00 g",
+            "Total Fat": "1,50 g",
+            "Protein": "4,40 g",
+            "kJ": "238,00 ",
+            "Sugar": "5,10 g",
+            "kcal": "57,00 ",
+            "Saturated fat": "1,00 g"
+        }
+    },
+    "description": "JOGURT LCA 1,5% XXL 240G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,64",
+    "teaser-text": "JOGURT LCA 1,5% XXL 240G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/navadni-probioticni-jogurt-15-lca-zelene-d-240g-xxl/p/438666",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/438666/dt_main.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,79",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sodium Laureth Sulfate, Sodium chloride, Parfum, Glycerin, PPG-12, Cocamide MEA, Citric acid, Sodium benzoate, Alpha-Isomethyl Ionone, Coumarin, Limonene, Linalool, CI 17200, CI 42090."
+        },
+        "opis": "Osvežilen gel za prhanje Axe Excite z vonjem po kokosu in črnem popru.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "11,16 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gel-za-prhanje-excite-axe-250ml/p/403215",
+    "product-price": "2,79",
+    "title": "GEL ZA PRHANJE EXCITE, AXE, 250ML",
+    "description": "GEL TUŠ AXE 250ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/403215/dt_main.jpg",
+    "teaser-text": "GEL TUŠ AXE 250ML"
+}

@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,65",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/napitek-breskev-in-zeleni-caj-firefly-330ml/p/605467",
+    "title": "NAPITEK BRESKEV IN ZELENI ČAJ, FIREFLY, 330ML",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,65",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "TIPTRADE D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "6,50 g",
+            "Total Carbohydrate": "7,00 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,50 g",
+            "Total Fat": "0,50 g",
+            "kcal": "30,60 ",
+            "Salt": "0,01 g",
+            "kJ": "130,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "NAPITEK BRESKEV ZELENI ČAJ 330ML FIREFLY",
+        "ingredient-information": {
+            "sestavine": "voda, sadni sok iz koncentrata belega grozdja, breskve, rdečega grozdja limone, rastlinski izvlečki yerba mate, kola nut, naravna aroma zelenega čaja, rožmarina, naravne arome."
+        },
+        "base-information": {
+            "neto-količina-plod:": "L"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "product-priceperunit": "5,00 €/l",
+    "teaser-text": "NAP.FIREFLY BRESKEV0,33L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "NAP.FIREFLY BRESKEV0,33L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/605467/dt_main.jpg",
+    "product-brand": ""
+}

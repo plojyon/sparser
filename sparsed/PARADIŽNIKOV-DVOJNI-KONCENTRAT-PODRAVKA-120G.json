@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,85",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Paradižnikov dvojni koncentrat 28-30% suhe snovi.",
+        "ingredient-information": {
+            "sestavine": "paradižniki 99,60 %, kuhinjska sol."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "351,00 ",
+            "Saturated fat": "0,00 g",
+            "Prehranske vlaknine": "4,70 g",
+            "Protein": "4,60 g",
+            "Sugar": "16,00 g",
+            "Total Fat": "0,20 g",
+            "kcal": "84,00 ",
+            "Total Carbohydrate": "16,00 g",
+            "Salt": "0,48 g"
+        }
+    },
+    "product-priceperunit": "7,08 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/paradiznikov-dvojni-koncentrat-podravka-120g/p/41681",
+    "product-price": "0,85",
+    "title": "PARADIŽNIKOV DVOJNI KONCENTRAT, PODRAVKA, 120G",
+    "description": "PARAD.DVOJNI KON.120G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41681/dt_main.jpg",
+    "teaser-text": "PARAD.DVOJNI KON.120G"
+}

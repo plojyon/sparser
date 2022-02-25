@@ -1,0 +1,48 @@
+{
+    "product-priceperunit": "5,89 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB TUNA PIKANT 185G",
+    "teaser-text": "SB TUNA PIKANT 185G",
+    "product-info": {
+        "trade-group": {
+            "latinsko-ime": "Katsuwonus pelamis"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "185G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "3,50 g",
+            "Saturated fat": "1,50 g",
+            "Total Carbohydrate": "7,00 g",
+            "kJ": "525,00 ",
+            "Protein": "16,00 g",
+            "Salt": "0,90 g",
+            "Sugar": "5,00 g",
+            "kcal": "125,00 ",
+            "Prehranske vlaknine": "0,50 g"
+        },
+        "opis": "Kosi tunine v pikantni paradižnikovi omaki z zelenjavno prilogo.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kosi tunine v pikantni paradižnikovi omaki z zelenjavno prilogo.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "185g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE, SOJA."
+        }
+    },
+    "url": "https://www.spar.si/online/tuna-v-paradiznikovi-omaki-pikant-s-budget-185g/p/371253",
+    "product-insteadofprice": "1,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/371253/dt_main.jpg",
+    "title": "TUNA V PARADIŽNIKOVI OMAKI PIKANT, S-BUDGET, 185G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

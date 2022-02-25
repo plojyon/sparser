@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "1,67 €/kg",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR JOGURT NAV 3,2%180G",
+    "teaser-text": "SPAR JOGURT NAV 3,2%180G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "3,20 g",
+            "Saturated fat": "2,10 g",
+            "Total Carbohydrate": "4,30 g",
+            "kJ": "248,00 ",
+            "Protein": "3,30 g",
+            "Salt": "0,13 g",
+            "Sugar": "4,30 g",
+            "kcal": "59,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/navadni-jogurt-32-spar-180g/p/368766",
+    "product-insteadofprice": "0,30",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368766/dt_main.jpg",
+    "title": "NAVADNI JOGURT 3,2%, SPAR, 180G",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,30",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

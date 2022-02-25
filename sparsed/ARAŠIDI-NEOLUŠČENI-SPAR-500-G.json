@@ -1,0 +1,47 @@
+{
+    "product-priceperunit": "3,68 €/kg",
+    "product-promotionBadges": "Izdelek v promociji",
+    "isOnPromotion": "true",
+    "description": "SPAR NEOLU.ARAŠIDI 500G",
+    "teaser-text": "SPAR NEOLU.ARAŠIDI 500G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "50,00 g",
+            "Saturated fat": "7,10 g",
+            "Total Carbohydrate": "11,00 g",
+            "kJ": "2539,00 ",
+            "Protein": "26,00 g",
+            "Salt": "0,35 g",
+            "Sugar": "4,00 g",
+            "kcal": "613,00 ",
+            "Prehranske vlaknine": "7,50 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ARAŠIDI NEOLUŠČENI PRAŽENI 500 G SPAR",
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za neposredno uporabo."
+        }
+    },
+    "url": "https://www.spar.si/online/arasidi-neolusceni-spar-500-g/p/370718",
+    "product-insteadofprice": "2,05",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370718/dt_main.jpg",
+    "title": "ARAŠIDI, NEOLUŠČENI, SPAR, 500 G",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,84",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

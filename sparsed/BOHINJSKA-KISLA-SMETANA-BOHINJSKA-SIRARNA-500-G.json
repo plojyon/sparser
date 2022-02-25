@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,42",
+    "product-priceperunit": "4,84 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "BOHINJSKA KISLA SMETANA, BOHINJSKA SIRARNA, 500 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "2,60 g",
+            "Total Fat": "29,40 g",
+            "Protein": "1,90 g",
+            "kJ": "1164,00 ",
+            "Sugar": "2,60 g",
+            "kcal": "283,00 ",
+            "Saturated fat": "18,80 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "SMETANA BOH KISLA 500G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,42",
+    "teaser-text": "SMETANA BOH KISLA 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bohinjska-kisla-smetana-bohinjska-sirarna-500-g/p/444589",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/444589/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "4,92 €/l",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR SMETANA SLAD. 250ML",
+    "teaser-text": "SPAR SMETANA SLAD. 250ML",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "34,90 g",
+            "Saturated fat": "19,90 g",
+            "Total Carbohydrate": "3,00 g",
+            "kJ": "1402,00 ",
+            "Protein": "2,00 g",
+            "Salt": "0,08 g",
+            "Sugar": "3,00 g",
+            "kcal": "334,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sladka smetana s 35% mlečne maščobe, pasterizirana pri visoki temperaturi.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/sladka-smetana-35-mm-spar-250ml/p/379416",
+    "product-insteadofprice": "1,23",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/379416/dt_main.jpg",
+    "title": "SLADKA SMETANA, 35% M.M., SPAR, 250ML",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,23",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

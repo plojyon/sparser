@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "37,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MEŠANICA SUHIH GOB Z JURČKI DESPAR, 80G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "80G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek je pred uporabo potrebno toplotno obdelati. Gobe namakamo v vroči vodi ca. 20 minut. Nato jih s stiskanjem odcedimo in skuhamo po želji."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MEŠANICA SUHIH GOB, Z JURČKI",
+        "opis": "Povprečna hranilna vrednost na 100g:Energijska vrednost :1336KJ/317kaclMaščobe: 2,9god tega nasičene maščobe: 1Ogljikovi hidrati: 43god tega sladkorji: 43gPrehranske vlaknine: 14gBeljakovine: 22gSol: 0,21g",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "suhe gojene gobe v spremenljivih deležih: ostrigar (pleurotus ostreatus), šitake (lentinus edodes), šampinjoni (agaricus bisporus), suhi gobani (boletus edulis) 10,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,21 g",
+            "Total Carbohydrate": "43,30 g",
+            "Prehranske vlaknine": "14,10 g",
+            "Total Fat": "2,90 g",
+            "Protein": "22,30 g",
+            "kJ": "1336,00 ",
+            "Sugar": "43,30 g",
+            "kcal": "317,00 ",
+            "Saturated fat": "1,00 g"
+        }
+    },
+    "description": "DESPAR GOBE SUHE MEŠ 80G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "DESPAR GOBE SUHE MEŠ 80G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mesanica-suhih-gob-z-jurcki-despar-80g/p/486528",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486528/dt_main.jpg"
+}

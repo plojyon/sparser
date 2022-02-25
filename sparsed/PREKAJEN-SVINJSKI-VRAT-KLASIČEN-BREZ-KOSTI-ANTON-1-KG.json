@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "15,49",
+    "product-priceperunit": "15,49 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "PREKAJEN SVINJSKI VRAT, KLASIČEN, BREZ KOSTI, ANTON, 1 KG",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Klasično prekajen vrat Anton",
+        "contact-information": {
+            "kontakt:": "Meso Kamnik d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso 98,00 %, naravne začimbe, konzervans: natrijev nitrit."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "20,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,37 g",
+            "Total Carbohydrate": "0,10 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "19,70 g",
+            "Protein": "18,50 g",
+            "kJ": "1042,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "251,00 ",
+            "Saturated fat": "8,50 g"
+        }
+    },
+    "description": "VRAT PREKAJEN",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "15,49",
+    "teaser-text": "VRAT PREKAJEN",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/prekajen-svinjski-vrat-klasicen-brez-kosti-anton-1-kg/p/481164",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481164/dt_main.jpg"
+}

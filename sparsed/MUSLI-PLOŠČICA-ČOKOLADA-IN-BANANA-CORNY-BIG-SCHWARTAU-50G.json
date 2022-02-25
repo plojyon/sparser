@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "10,20 g",
+            "Total Fat": "14,90 g",
+            "Total Carbohydrate": "68,70 g",
+            "Sugar": "34,10 g",
+            "Salt": "0,47 g",
+            "kJ": "1842,00 ",
+            "Protein": "5,70 g",
+            "kcal": "438,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MUSLI PLOŠČICA ČOKOLADA IN BANANA CORNY BIG, 50G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Bila je ena prvih in še danes najbolj priljubljena. Kombinacija okusnih kosov banan, poštene mlečne čokolade in mueslija. Corny Big je pravi del okusa in energije za vaše aktivno življenje.",
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI, MLEKO, LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/musli-ploscica-cokolada-in-banana-corny-big-schwartau-50g/p/224247",
+    "product-price": "0,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/224247/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,69",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PLOŠČICA ČOKO&BANA. 50G",
+    "product-stock-status": "",
+    "title": "MUSLI PLOŠČICA ČOKOLADA IN BANANA CORNY BIG, SCHWARTAU, 50G",
+    "product-priceperunit": "13,80 €/kg",
+    "description": "PLOŠČICA ČOKO&BANA. 50G"
+}

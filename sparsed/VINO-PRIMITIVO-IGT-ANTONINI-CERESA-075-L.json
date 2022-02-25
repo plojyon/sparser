@@ -1,0 +1,35 @@
+{
+    "product-insteadofprice": "4,73",
+    "product-priceperunit": "6,31 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, PRIMITIVO IGT, ANTONINI CERESA, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Živilo ni primerno za otroke."
+        },
+        "opis": null,
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        }
+    },
+    "description": "VINO PRIMITIVO 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,73",
+    "teaser-text": "VINO PRIMITIVO 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-primitivo-igt-antonini-ceresa-075-l/p/479670",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/479670/dt_main.jpg"
+}

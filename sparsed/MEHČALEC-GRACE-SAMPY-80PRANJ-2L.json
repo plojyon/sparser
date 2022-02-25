@@ -1,0 +1,33 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,18",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Hraniti zunaj dosega otrok. Če je potreben zdravniški nasvet, mora biti na voljo posoda ali etiketa proizvoda. PRI STIKU Z OČMI: Previdno izpirati z vodo nekaj minut. Če draženje oči ne preneha: poiščite zdravniško pomoč/oskrbo."
+        },
+        "opis": "Koncentrirani mehčalec za perilo. Perilu zagotavlja mehkobo, dolgotrajen in prijeten vonj, olajša likanje in deluje antistatično.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Dodati pred zadnjim izpiranjem perila po navodilu. Ne nanašajte neposredno na perilo."
+        },
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "ingredient-information": {
+            "sestavine": "5-15% kationske površinsko aktivne snovi; Benzisothiazolinone, Methylisothiazolinone, parfum, Butylphenyl Methylpropional. Vsebuje Benzyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes. Lahko povzroči alergijski odziv."
+        }
+    },
+    "product-priceperunit": "2,59 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mehcalec-grace-sampy-80pranj-2l/p/527024",
+    "product-price": "5,18",
+    "title": "MEHČALEC GRACE, SAMPY, 80PRANJ, 2L",
+    "description": "MEHČALEC SAMPY GRACE 2L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/527024/dt_main.jpg",
+    "teaser-text": "MEHČALEC SAMPY GRACE 2L"
+}

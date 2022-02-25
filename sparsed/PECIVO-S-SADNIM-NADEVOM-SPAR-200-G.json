@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,70",
+    "product-priceperunit": "3,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PECIVO S SADNIM NADEVOM, SPAR, 200 G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Kakavovi deli v čokoladi: najmanj 46%.",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,12 g",
+            "Total Carbohydrate": "70,00 g",
+            "Prehranske vlaknine": "1,10 g",
+            "Total Fat": "6,90 g",
+            "Protein": "7,70 g",
+            "kJ": "1592,00 ",
+            "Sugar": "48,00 g",
+            "kcal": "377,00 ",
+            "Saturated fat": "3,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "description": "SPAR KEKSI POL.ZVEZ.200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,70",
+    "teaser-text": "SPAR KEKSI POL.ZVEZ.200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pecivo-s-sadnim-nadevom-spar-200-g/p/437703",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/437703/dt_main.jpg"
+}

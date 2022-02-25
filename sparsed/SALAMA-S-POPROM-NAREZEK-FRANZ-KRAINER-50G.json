@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,69",
+    "product-priceperunit": "33,80 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SALAMA S POPROM, NAREZEK, FRANZ KRAINER, 50G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SALAMA S POPROM 50G",
+        "contact-information": {
+            "kontakt:": "Franz Krainer d.o.o., Tržaška cesta 53, 2000 Maribor"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "51,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,30 g",
+            "Total Carbohydrate": "1,20 g",
+            "Total Fat": "51,00 g",
+            "Protein": "22,00 g",
+            "kJ": "2297,00 ",
+            "Sugar": "0,80 g",
+            "kcal": "547,00 ",
+            "Saturated fat": "20,00 g"
+        }
+    },
+    "description": "SALAMA S POPROM 50G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,69",
+    "teaser-text": "SALAMA S POPROM 50G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/salama-s-poprom-narezek-franz-krainer-50g/p/463840",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/463840/dt_main.jpg"
+}

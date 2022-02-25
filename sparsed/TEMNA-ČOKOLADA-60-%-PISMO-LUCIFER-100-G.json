@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,69",
+    "product-priceperunit": "36,90 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TEMNA ČOKOLADA, 60 %, PISMO, LUCIFER, 100 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "43,10 g",
+            "Prehranske vlaknine": "9,80 g",
+            "Total Fat": "35,00 g",
+            "Protein": "6,90 g",
+            "kJ": "2238,00 ",
+            "Sugar": "38,50 g",
+            "kcal": "535,00 ",
+            "Saturated fat": "21,40 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Luci d.o.o., Šaleška cesta 19a, 3320 Velenje"
+        }
+    },
+    "description": "ČOK.TEMNA PISMO 100G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,69",
+    "teaser-text": "ČOK.TEMNA PISMO 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/temna-cokolada-60-pismo-lucifer-100-g/p/500005",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/500005/dt_main.jpg"
+}

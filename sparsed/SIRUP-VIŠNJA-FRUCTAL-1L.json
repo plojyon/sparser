@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SIRUP VIŠNJA 1L FRUCTAL",
+    "description": "SIRUP VIŠNJA 1L FRUCTAL",
+    "product-info": {
+        "instruction-for-use": {},
+        "security-warning": {
+            "varnostna-opozorila": "Ne izpostavljajte direktni sončni svetlobi."
+        },
+        "opis": "Proizvod je sadni sirup izdelan iz zgoščenega soka višenj z dodatkom sladkorjev, citronske kisline in arome. Skupni delež sadja v proizvodu znaša 32%. Proizvod je brez konzervansov, umetnih barvil, sladil in umetnih arom. Proizvod je namenjen za pripravo pijače, primerne za odžejanje.  Pijača je osvežilna, prijetnega okusa po višnjah.",
+        "ingredient-information": {
+            "sestavine": "glukozno fruktozni sirup, sladkor, višnjev sok iz zgoščenega soka 32,00 %, citronska kislina, aroma."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1349,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "78,40 g",
+            "Total Carbohydrate": "79,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "317,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "title": "SIRUP VIŠNJA FRUCTAL, 1L",
+    "url": "https://www.spar.si/online/sirup-visnja-fructal-1l/p/42071",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,54 €/kos",
+    "product-insteadofprice": "3,54",
+    "product-stock-status": "",
+    "product-price": "3,54",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42071/dt_main.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "0,00 g",
+            "Total Fat": "0,10 g",
+            "Total Carbohydrate": "17,50 g",
+            "Sugar": "17,50 g",
+            "Prehranske vlaknine": "1,00 g",
+            "kJ": "314,00 ",
+            "Protein": "0,30 g",
+            "kcal": "74,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SLADEK MEŠANI SADNI KOMPOT.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "/",
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "product-net-cont": {
+            "neto-količina": "822g"
+        },
+        "ingredient-information": {
+            "sestavine": "sadje v spremenljivem deležu (breskve, hruške, ananas, grozdje, češnje(obarvane z barvilom E127)), voda, glukozni-fruktozni sirup, sladkor, sredstvo za uravnavanje kislosti: citronska kislina."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kompot-mesano-sadje-valfrutta-822g/p/221852",
+    "product-price": "2,36",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/221852/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,36",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KOMPOT MEŠ SADJE VALFR.",
+    "product-stock-status": "",
+    "title": "KOMPOT MEŠANO SADJE VALFRUTTA, 822G",
+    "product-priceperunit": "2,87 €/kg",
+    "description": "KOMPOT MEŠ SADJE VALFR."
+}

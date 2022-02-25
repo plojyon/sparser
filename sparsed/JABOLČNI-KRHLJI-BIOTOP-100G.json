@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Salt": "0,24 g",
+            "Total Fat": "0,30 g",
+            "Total Carbohydrate": "64,00 g",
+            "Sugar": "57,00 g",
+            "Prehranske vlaknine": "9,10 g",
+            "kJ": "1215,00 ",
+            "Protein": "1,20 g",
+            "kcal": "287,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "Mediacor d.o.o., Obrtniška ulica 9, 3240 Šmarje pri Jelšah"
+        },
+        "ingredient-information": {
+            "sestavine": "jabolčni krhlji, olupljeni 100,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jabolcni-krhlji-biotop-100g/p/266196",
+    "product-price": "2,14",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/266196/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,14",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KRHLJI JABOLČNI 100G",
+    "product-stock-status": "",
+    "title": "JABOLČNI KRHLJI BIOTOP, 100G",
+    "product-priceperunit": "21,40 €/kg",
+    "description": "KRHLJI JABOLČNI 100G"
+}

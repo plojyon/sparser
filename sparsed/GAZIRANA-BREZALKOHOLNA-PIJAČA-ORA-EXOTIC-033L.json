@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,52",
+    "product-priceperunit": "1,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA, ORA EXOTIC, 0,33L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača s sokom pomaranče, limone, banane, pasijonke in ananasa",
+        "opis": "Osvežilna gazirana brezalkoholna pijača s sokom pomaranče, limone, banane, pasijonke in ananasa.",
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        },
+        "ingredient-information": {
+            "sestavine": "naravna mineralna voda, sladkor, sok pomaranče (1 %), limone (0,2 %), banane (0,1 %), pasijonke (0,1 %) in ananasa (0,1 %) iz zgoščenega soka, ogljikov dioksid, kislina: citronska kislina, emulgator: gumi arabikum, stabilizator: glicerolni estri lesnih smol, antioksidant: askorbinska kislina, konzervans: kalijev sorbat, barvilo: karoteni, aroma."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "10,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "173,00 ",
+            "Sugar": "9,90 g",
+            "kcal": "41,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "ORA EKSOTIK PLOČ. 0.33L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,52",
+    "teaser-text": "ORA EKSOTIK PLOČ. 0.33L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-ora-exotic-033l/p/489329",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489329/dt_main.jpg"
+}

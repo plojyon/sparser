@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "8,22",
+    "product-priceperunit": "10,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PENEČE VINO MUŠKAT, ASTORIA, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "7,00 vol. %"
+        },
+        "security-warning": {}
+    },
+    "description": "PEN.VI.ASTORIA MOSC.0,75",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "8,22",
+    "teaser-text": "PEN.VI.ASTORIA MOSC.0,75",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/penece-vino-muskat-astoria-075l/p/512650",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512650/dt_main.jpg"
+}

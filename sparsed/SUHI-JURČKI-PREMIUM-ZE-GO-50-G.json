@@ -1,0 +1,29 @@
+{
+    "product-insteadofprice": "5,69",
+    "product-priceperunit": "113,80 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SUHI JURČKI, PREMIUM, ZE-GO, 50 G",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "ingredient-information": {
+            "sestavine": "jurčki."
+        },
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "ZE-GO d.o.o., Drenov grič 186, 1360 Vrhnika, Slovenija"
+        }
+    },
+    "description": "JURČKI SUHI PREMIUM 50G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,69",
+    "teaser-text": "JURČKI SUHI PREMIUM 50G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/suhi-jurcki-premium-ze-go-50-g/p/481314",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481314/dt_main.jpg"
+}

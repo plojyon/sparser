@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,57",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Kuhajte v vreli in rahlo osoljeni vodi 5 minut."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "VALJANI ŠPINAČNI REZANCI. Sušene testenine z dodatkom špinače.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1485,00 ",
+            "Saturated fat": "0,30 g",
+            "Prehranske vlaknine": "3,80 g",
+            "Protein": "14,00 g",
+            "Sugar": "3,20 g",
+            "Total Fat": "1,20 g",
+            "kcal": "350,00 ",
+            "Total Carbohydrate": "69,00 g",
+            "Salt": "0,02 g"
+        }
+    },
+    "product-priceperunit": "6,43 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/valjani-spinacni-rezanci-zlato-polje-400g/p/43594",
+    "product-price": "2,57",
+    "title": "VALJANI ŠPINAČNI REZANCI, ZLATO POLJE, 400G",
+    "description": "REZANCI ŠPINA. 400G Z.P.",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/43594/dt_main.jpg",
+    "teaser-text": "REZANCI ŠPINA. 400G Z.P."
+}

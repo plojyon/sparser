@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/beef-jerky-original-jack-links-25g/p/579861",
+    "title": "BEEF JERKY ORIGINAL, JACK LINK´S, 25G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "trade-group": {
+            "vrsta-mesa": "goveje meso"
+        },
+        "product-net-cont": {
+            "neto-količina": "25g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BEEF JERKY ORIGINAL, JACK LINK´S, 25G",
+        "contact-information": {
+            "kontakt:": "Digit d.o.o., Pod brezami 7, 1218 Komenda"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "16,50 g",
+            "Total Carbohydrate": "18,80 g",
+            "Saturated fat": "1,80 g",
+            "Protein": "41,00 g",
+            "Total Fat": "4,00 g",
+            "kcal": "275,00 ",
+            "Salt": "5,60 g",
+            "kJ": "1165,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "79,60 €/kg",
+    "teaser-text": "BEEF JERKY ORIGINAL 25 G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BEEF JERKY ORIGINAL 25 G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/579861/dt_main.jpg",
+    "product-brand": ""
+}

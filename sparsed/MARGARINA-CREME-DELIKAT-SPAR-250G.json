@@ -1,0 +1,36 @@
+{
+    "product-insteadofprice": "0,56",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/margarina-creme-delikat-spar-250g/p/539451",
+    "title": "MARGARINA CREME DELIKAT, SPAR, 250G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,56",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "rastlinske maščobe (palma), voda, rastljinska olja (repica, sončica v spremenljivih deležih), emulgatroji: mono in digliceridi maščobnih kislin, lecitin, citrati estri mono in digliceridov maščobnih kislin, jedilna sol 0,2%, konzervans: kalijev sorbat, kislina: citronska kislina, barvilo: karoteni, aroma, vitamin a, vitamin d."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Saturated fat": "31,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "70,00 g",
+            "kcal": "630,00 ",
+            "Salt": "0,15 g",
+            "kJ": "2590,00 "
+        }
+    },
+    "product-priceperunit": "2,24 €/kg",
+    "teaser-text": "SPAR MARGARINA 250G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR MARGARINA 250G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/539451/dt_main.jpg",
+    "product-brand": ""
+}

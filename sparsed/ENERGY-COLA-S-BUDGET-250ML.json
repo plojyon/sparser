@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB ENERG.NAP. COLA 0,25L",
+    "description": "SB ENERG.NAP. COLA 0,25L",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Pijača ni primerna za otroke, nosečnice in osebe občutljive na kofein. Zaradi visoke vsebnosti kofeina jo uživajte v omejenih količinah. Pijače ne mešajte z alkoholom in ne uživajte ob intenzivni športni dejavnosti."
+        },
+        "opis": "Energy cola. Gazirana, aromatizirana pijača z okusom Kole. Visoka vsebnost kofeina (26 mg /100 ml).",
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, ogljikov dioksid, tavrin 0,40 %, sredstvo za uravnavanje kislosti: natrijev citrat, kislini: citronska kislina, fosforna kislina, izvleček guarane 0,15 %, barvilo: amonijev sulfitni karamel, aroma: kofein 0,03 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "205,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "11,40 g",
+            "Total Carbohydrate": "11,40 g",
+            "Total Fat": "0,00 g",
+            "kcal": "48,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "title": "ENERGY COLA S-BUDGET, 250ML",
+    "url": "https://www.spar.si/online/energy-cola-s-budget-250ml/p/390624",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,56 €/l",
+    "product-insteadofprice": "0,39",
+    "product-stock-status": "",
+    "product-price": "0,39",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/390624/dt_main.jpg"
+}

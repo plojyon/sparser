@@ -1,0 +1,49 @@
+{
+    "product-priceperunit": "9,08 €/kg",
+    "product-promotionBadges": "BIO Certifikat",
+    "isOnPromotion": "false",
+    "description": "FRUTEK BIO KAŠA 120G",
+    "teaser-text": "FRUTEK BIO KAŠA 120G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 25,00 mg."
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "opis": "Proizvod je BIO otroška hrana iz jabolk in korenčka, namenjena za dojenčke in male otroke. Sadna in zelenjavna surovina izhaja iz ekološke pridelave. Pridelava ekoloških surovin kot tudi izdelava BIO končnega proizvoda je strogo kontrolirana s strani nadzornega organa, akreditiranega v EU in vpisanega v EU register nadzornih organov za ekološko pridelavo in predelavo. Proizvod je brez dodanih sladkorjev. Vsebuje naravno prisotne sladkorje. Sladek okus izvira iz naravno prisotnega sladkorja v jabolkih in korenčku. Proizvod je pripravljen v skladu z zahtevami, določenimi v Pravilniku o žitnih kašicah ter hrani za dojenčke in majhne otroke, UL RS 25/2009 ter ustrezni EU zakonodaji (Uredba 609/2013, Direktiva 2006/125). Proizvod je pripravljen tudi v skladu z Uredbo Sveta (ES), št. 834/2007 o ekološki pridelavi in označevanju ekoloških proizvodov in razveljavitvi Uredbe (EGS) št. 20091/91.Proizvod je primeren za otroke po dopolnjenem 4. mesecu.Proizvod se deklarira kot ´Brez glutena´ in je zato primeren tudi za otroke, ki trpijo za celiakijo.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,01 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "11,90 g",
+            "kJ": "216,00 ",
+            "Protein": "0,02 g",
+            "Salt": "0,02 g",
+            "Sugar": "10,80 g",
+            "kcal": "51,00 ",
+            "Prehranske vlaknine": "1,30 g"
+        },
+        "ingredient-information": {
+            "sestavine": "jabolčna kaša in jabolčni sok iz zgoščenega soka iz ekološke pridelave 62,00 %, korenčkova kaša iz ekološke pridelave 37,00 %, limonin sok iz zgoščenega soka iz ekološke pridelave, vitamin c."
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Kozarček odprite, premešajte in nahranite otroka."
+        }
+    },
+    "url": "https://www.spar.si/online/bio-kasica-jabolko-in-korenje-frutek-120-g/p/384567",
+    "product-insteadofprice": "1,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384567/dt_main.jpg",
+    "title": "BIO KAŠICA JABOLKO IN KORENJE, FRUTEK, 120 G",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

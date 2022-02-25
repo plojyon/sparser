@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "9,50 g",
+            "Sugar": "9,10 g",
+            "Salt": "0,00 g",
+            "kJ": "160,00 ",
+            "Protein": "0,00 g",
+            "kcal": "38,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača s sokom pomaranče.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Osvežilna brezalkoholna pijača iz izvirske vode s 3 % pomarančnega soka in naravnimi barvili.",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "naravna mineralna voda, sladkor, sok pomaranče iz zgoščenega soka 3,00 %, ogljikov dioksid, kislina: citronska kislina, koncentrirani izvleček pomaranče, antioksidant: askorbinska kislina, konzervans: kalijev sorbat, stabilizator: guar gumi, barvilo: beta karoten, naravna aroma."
+        },
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-pomaranca-ora-original-15l/p/168609",
+    "product-price": "1,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/168609/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,09",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ORA 1.5L RADENSKA",
+    "product-stock-status": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA POMARANČA, ORA ORIGINAL, 1,5L",
+    "product-priceperunit": "0,73 €/l",
+    "description": "ORA 1.5L RADENSKA"
+}

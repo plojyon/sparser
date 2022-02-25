@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "21,00 g",
+            "Salt": "0,37 g",
+            "Total Fat": "37,00 g",
+            "Total Carbohydrate": "52,00 g",
+            "Sugar": "51,00 g",
+            "Prehranske vlaknine": "1,30 g",
+            "kJ": "2371,00 ",
+            "Protein": "6,10 g",
+            "kcal": "569,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pralineji iz mlečne čokolade z alpskim mlekom z jagodovim polnilom (37%).",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "110g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bonboniera-i-love-milka-polnilo-visnja-milka-110g/p/571754",
+    "product-price": "1,61",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/571754/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "2,49",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "BON.I LOVE MILKA 110G",
+    "product-stock-status": "",
+    "title": "BONBONIERA I LOVE MILKA POLNILO VIŠNJA, MILKA, 110G",
+    "product-priceperunit": "14,64 €/kg",
+    "description": "BON.I LOVE MILKA 110G"
+}

@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,00 g",
+            "Total Fat": "5,00 g",
+            "Total Carbohydrate": "14,00 g",
+            "Sugar": "1,00 g",
+            "Salt": "0,25 g",
+            "kJ": "576,00 ",
+            "Protein": "8,00 g",
+            "kcal": "138,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MY FIT Kus kus z govejimi trakci in zelenjavo 300g",
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "contact-information": {
+            "kontakt:": "K-NORMA, proizvodnja živil d.o.o."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), RAKI (V SLEDOVIH), JAJCA (V SLEDOVIH), RIBE (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH), MEHKUŽCI (V SLEDOVIH)"
+        },
+        "trade-group": {
+            "vrsta-mesa": "goveje meso"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kus-kus-z-govejimi-trakci-in-zelenjavo-my-fit-kitchen-300g/p/607172",
+    "product-price": "3,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/607172/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "3,99",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "KUS KUS GOVEJI TRAK.300G",
+    "product-stock-status": "",
+    "title": "KUS KUS Z GOVEJIMI TRAKCI IN ZELENJAVO, MY FIT KITCHEN, 300G",
+    "product-priceperunit": "10,63 €/kg",
+    "description": "KUS KUS GOVEJI TRAK.300G"
+}

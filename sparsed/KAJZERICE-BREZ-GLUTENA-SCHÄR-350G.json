@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "13,57 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KAJZERICA 350G BREZ GLU",
+    "teaser-text": "KAJZERICA 350G BREZ GLU",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "3,60 g",
+            "Saturated fat": "0,50 g",
+            "Total Carbohydrate": "47,00 g",
+            "kJ": "1036,00 ",
+            "Protein": "3,50 g",
+            "Salt": "1,30 g",
+            "Sugar": "0,80 g",
+            "kcal": "245,00 ",
+            "Prehranske vlaknine": "5,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        }
+    },
+    "url": "https://www.spar.si/online/kajzerice-brez-glutena-schr-350g/p/379500",
+    "product-insteadofprice": "4,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/379500/dt_main.jpg",
+    "title": "KAJZERICE BREZ GLUTENA, SCHÄR, 350G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,75",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

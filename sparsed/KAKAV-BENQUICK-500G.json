@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,60 g",
+            "Total Fat": "2,60 g",
+            "Total Carbohydrate": "77,00 g",
+            "Sugar": "74,70 g",
+            "Salt": "0,17 g",
+            "kJ": "1565,00 ",
+            "Protein": "5,60 g",
+            "kcal": "370,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Instant oslajen manj masten kakav",
+        "contact-information": {
+            "kontakt:": "MERCATOR - EMBA d.d."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kakav-benquick-500g/p/191873",
+    "product-price": "3,41",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/191873/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,41",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KAKAV BENQUICK 500G",
+    "product-stock-status": "",
+    "title": "KAKAV BENQUICK, 500G",
+    "product-priceperunit": "6,82 €/kg",
+    "description": "KAKAV BENQUICK 500G"
+}

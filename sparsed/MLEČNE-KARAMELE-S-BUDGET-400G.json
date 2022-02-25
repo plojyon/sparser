@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,48",
+    "product-priceperunit": "3,70 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MLEČNE KARAMELE S-BUDGET, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNE KARAMELE",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "78,00 g",
+            "Total Fat": "7,00 g",
+            "Protein": "3,30 g",
+            "kJ": "1641,00 ",
+            "Sugar": "68,00 g",
+            "kcal": "388,00 ",
+            "Saturated fat": "5,20 g"
+        }
+    },
+    "description": "SB KARAMELE MLEČNE 400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,48",
+    "teaser-text": "SB KARAMELE MLEČNE 400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mlecne-karamele-s-budget-400g/p/451275",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451275/dt_main.jpg"
+}

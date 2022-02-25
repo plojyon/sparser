@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KAVOVINA KNEIPP 250G",
+    "description": "KAVOVINA KNEIPP 250G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLETI SLADNI KAVNI NADOMESTEK",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1526,00 ",
+            "Salt": "0,40 g",
+            "Sugar": "1,00 g",
+            "Total Carbohydrate": "70,10 g",
+            "Total Fat": "1,60 g",
+            "kcal": "361,00 ",
+            "Prehranske vlaknine": "11,50 g",
+            "Saturated fat": "0,50 g",
+            "Protein": "10,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "Lomas d.o.o., Kardeljeva ploščad 11a, 1000 Ljubljana"
+        }
+    },
+    "title": "KAVOVINA KNEIPP, FRANCK, 250G",
+    "url": "https://www.spar.si/online/kavovina-kneipp-franck-250g/p/41139",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,76 €/kg",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-price": "2,19",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41139/dt_main.jpg"
+}

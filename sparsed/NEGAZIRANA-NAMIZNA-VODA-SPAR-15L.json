@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/negazirana-namizna-voda-spar-15l/p/272830",
+    "product-price": "0,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/272830/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-insteadofprice": "0,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "teaser-text": "SPAR VODA NAMIZNA 1.5L",
+    "product-stock-status": "",
+    "title": "NEGAZIRANA NAMIZNA VODA SPAR, 1,5L",
+    "product-priceperunit": "0,19 €/l",
+    "description": "SPAR VODA NAMIZNA 1.5L"
+}

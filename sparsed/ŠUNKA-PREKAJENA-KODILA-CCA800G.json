@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "ŠUNKA PREKAJENA KODILA",
+    "description": "ŠUNKA PREKAJENA KODILA",
+    "product-info": {
+        "ingredient-information": {
+            "sestavine": "svinjsko stegno brez kosti, kuhinjska sol, začimbe, konzervans: na-natrijev nitrit."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "766,00 ",
+            "Salt": "2,24 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "1,20 g",
+            "Total Fat": "10,00 g",
+            "kcal": "183,00 ",
+            "Saturated fat": "3,63 g",
+            "Protein": "22,10 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "10,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Kodila d.o.o., Markišavci 44, 9000 Murska Sobota"
+        }
+    },
+    "title": "ŠUNKA PREKAJENA KODILA, CCA.800G",
+    "url": "https://www.spar.si/online/sunka-prekajena-kodila-cca800g/p/396553",
+    "isOnPromotion": "false",
+    "product-priceperunit": "20,49 €/kg",
+    "product-insteadofprice": "20,49",
+    "product-stock-status": "",
+    "product-price": "20,49",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/396553/dt_main.jpg"
+}

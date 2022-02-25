@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "5,69",
+    "product-priceperunit": "1,90 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SVETLO PIVO GÖSSER, 6X0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Svetlo pivo 5,2%",
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,20 vol. %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "2,35 g",
+            "Total Fat": "0,05 g",
+            "Protein": "0,50 g",
+            "kJ": "161,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "39,00 ",
+            "Saturated fat": "0,05 g"
+        }
+    },
+    "description": "PIVO GOSSER 6X0,5L PL.",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,69",
+    "teaser-text": "PIVO GOSSER 6X0,5L PL.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/svetlo-pivo-gsser-6x05l/p/486737",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486737/dt_main.jpg"
+}

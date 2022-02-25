@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,98",
+    "product-priceperunit": "11,92 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR MOZZARELLA BELLA NAPOLI, MU CUISINE, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU CUISINE MOZZARELLA BELLA NAPOLI 250G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne d,o,o,, Tolstojeva 63, Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,30 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "18,00 g",
+            "Protein": "17,00 g",
+            "kJ": "972,00 ",
+            "Sugar": "1,00 g",
+            "kcal": "234,00 ",
+            "Saturated fat": "11,20 g"
+        }
+    },
+    "description": "SIR MOZZARELLA 250G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,98",
+    "teaser-text": "SIR MOZZARELLA 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-mozzarella-bella-napoli-mu-cuisine-250g/p/50003",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/50003/dt_main.jpg"
+}

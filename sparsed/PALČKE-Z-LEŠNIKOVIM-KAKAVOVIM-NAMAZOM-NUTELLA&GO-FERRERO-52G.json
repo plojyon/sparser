@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "30,38 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "NUTELLA & GO FERRERO 52G",
+    "teaser-text": "NUTELLA & GO FERRERO 52G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "26,00 g",
+            "Saturated fat": "9,40 g",
+            "Total Carbohydrate": "61,80 g",
+            "kJ": "2160,00 ",
+            "Protein": "7,10 g",
+            "Salt": "0,65 g",
+            "Sugar": "43,70 g",
+            "kcal": "516,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "HRUSTLJAVE PRESTINE PALČKE Z Lešnikovim kakavovim namazom.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "52g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, LEŠNIKI, SOJA (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/palcke-z-lesnikovim-kakavovim-namazom-nutellago-ferrero-52g/p/384853",
+    "product-insteadofprice": "1,58",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384853/dt_main.jpg",
+    "title": "PALČKE Z LEŠNIKOVIM KAKAVOVIM NAMAZOM NUTELLA&GO, FERRERO, 52G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,58",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

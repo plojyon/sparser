@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "9,00 g",
+            "Total Fat": "13,00 g",
+            "Total Carbohydrate": "4,00 g",
+            "Sugar": "4,00 g",
+            "Salt": "0,50 g",
+            "kJ": "685,00 ",
+            "Protein": "8,00 g",
+            "kcal": "165,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SKUTA RICOTTA GALBANI, 250G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Ricotta je svež, tradicionalen italijanski sir. Zaradi lahke in delikatne teksture ter blagega, sladkega okusa, se ricotta odlično kombinira s številnimi italijanskimi jedmi, namazi, omakami in sladicami.",
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 300,00 mg, Fosfor 200,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/skuta-ricotta-galbani-250g/p/212570",
+    "product-price": "1,18",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/212570/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-insteadofprice": "1,39",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Trajno znižano",
+    "teaser-text": "SKUTA RICOTTA GALB 250G",
+    "product-stock-status": "",
+    "title": "SKUTA RICOTTA, GALBANI, 250G",
+    "product-priceperunit": "4,72 €/kg",
+    "description": "SKUTA RICOTTA GALB 250G"
+}

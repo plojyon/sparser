@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "6,99",
+    "product-priceperunit": "12,42 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "BIO SLADOLED BOROVNICA LUCKY BERRY, INDY&PIPPA, 450ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,13 g",
+            "Total Carbohydrate": "28,00 g",
+            "Total Fat": "8,50 g",
+            "Protein": "0,50 g",
+            "kJ": "793,00 ",
+            "Sugar": "14,00 g",
+            "kcal": "189,00 ",
+            "Saturated fat": "6,50 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO SLADOLED BOROVNICA",
+        "contact-information": {
+            "kontakt:": "INDY & PIPPA D.O.O."
+        },
+        "ingredient-information": {
+            "alergeni": "LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,45l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SLADOL.EKO BOROVN.450ML",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "5,59",
+    "teaser-text": "SLADOL.EKO BOROVN.450ML",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/bio-sladoled-borovnica-lucky-berry-indypippa-450ml/p/451362",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451362/dt_main.jpg"
+}

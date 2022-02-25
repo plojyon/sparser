@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Slovenija Moja Dežela",
+    "product-insteadofprice": "1,69",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kislo zelje tradicionalni postopek kisanja.",
+        "ingredient-information": {
+            "sestavine": "kislo zelje 86,00 %, jedilna sol 2,00 %, zeljnica 12,00 %."
+        },
+        "trade-group": {
+            "razred": "1"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "62,00 ",
+            "Saturated fat": "0,20 g",
+            "Prehranske vlaknine": "3,40 g",
+            "Protein": "0,60 g",
+            "Sugar": "0,50 g",
+            "Total Fat": "0,20 g",
+            "kcal": "15,00 ",
+            "Total Carbohydrate": "1,00 g",
+            "Salt": "1,00 g"
+        }
+    },
+    "product-priceperunit": "1,69 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kislo-zelje-spar-1kg/p/339633",
+    "product-price": "1,69",
+    "title": "KISLO ZELJE, SPAR, 1KG",
+    "description": "SPAR ZELJE KISLO 1KG",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h4e/h8d/8928116375582/smd-badge-listing.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/339633/dt_main.jpg",
+    "teaser-text": "SPAR ZELJE KISLO 1KG"
+}

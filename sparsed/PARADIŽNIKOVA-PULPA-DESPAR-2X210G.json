@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "DESPAR PARAD.KAŠA.2X210G",
+    "description": "DESPAR PARAD.KAŠA.2X210G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "420g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "132,00 ",
+            "Salt": "0,50 g",
+            "Sugar": "4,20 g",
+            "Total Carbohydrate": "5,80 g",
+            "Total Fat": "0,00 g",
+            "kcal": "31,00 ",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,30 g"
+        },
+        "ingredient-information": {
+            "sestavine": "olupljeni narezani paradižniki v koščkih 60,00 %, paradižnikov sok, sol."
+        },
+        "base-information": {
+            "neto-količina-plod:": "252G"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "PARADIŽNIKOVA PULPA DESPAR, 2X210G",
+    "url": "https://www.spar.si/online/paradiznikova-pulpa-despar-2x210g/p/426233",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,50 €/kg",
+    "product-insteadofprice": "1,05",
+    "product-stock-status": "",
+    "product-price": "1,05",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/426233/dt_main.jpg"
+}

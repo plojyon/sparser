@@ -1,0 +1,23 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "99,00",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "opis": "pokončni in ročni sesalnik, baterija: LI-ION 18,5 V, HEPA filter, baterijska tehnologija"
+    },
+    "product-priceperunit": "69,00 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pokoncni-sesalnik-2v1-li-ion-simpex/p/552906",
+    "product-price": "69,00",
+    "title": "POKONČNI SESALNIK 2V1 LI ION, SIMPEX",
+    "description": "SI SES.POK.2V1Li ION",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/552906/dt_main.jpg",
+    "teaser-text": "SI SES.POK.2V1Li ION"
+}

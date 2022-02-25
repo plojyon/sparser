@@ -1,0 +1,34 @@
+{
+    "product-insteadofprice": "5,69",
+    "product-priceperunit": "7,59 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, CABERNET SAUVIGNON, KLEN´ART, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Servirati na sobni temperaturi."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Ahac d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "VINO CAB.-SAUVIG.0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,69",
+    "teaser-text": "VINO CAB.-SAUVIG.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-cabernet-sauvignon-klenart-075-l/p/472843",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472843/dt_main.jpg"
+}

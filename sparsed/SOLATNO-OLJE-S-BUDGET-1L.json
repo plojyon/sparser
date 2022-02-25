@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "2,39 €/l",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SB OLJE SOLATNO PET 1L",
+    "teaser-text": "SB OLJE SOLATNO PET 1L",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "99,90 g",
+            "Saturated fat": "9,60 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "37000,00 ",
+            "Protein": "1,00 g",
+            "Salt": "0,01 g",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "opis": "Mešanica rafiniranega jedilnega rastlinskega in jedilnega nerafiniranega bučnega olja.",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/solatno-olje-s-budget-1l/p/375805",
+    "product-insteadofprice": "2,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/375805/dt_main.jpg",
+    "title": "SOLATNO OLJE, S-BUDGET, 1L",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "2,99 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "JUŠNA ZELENJAVA SPAR, CCA. 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ZELENA."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "razred": "1"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "description": "SPAR JUŠNA ZELENJAVA",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "SPAR JUŠNA ZELENJAVA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jusna-zelenjava-spar-cca-500g/p/459465",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/459465/dt_main.jpg"
+}

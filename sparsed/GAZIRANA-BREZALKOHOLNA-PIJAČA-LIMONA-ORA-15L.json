@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,16",
+    "product-priceperunit": "0,77 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA LIMONA, ORA, 1,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača s sokom limone.",
+        "opis": "Osvežilna brezalkoholna pijača iz izvirske vode in s 3 % limoninega soka ter naravnimi barvili.",
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        },
+        "ingredient-information": {
+            "sestavine": "naravna mineralna voda, sladkor, sok limone iz zgoščenega soka 3,00 %, ogljikov dioksid, kislina: citronska kislina, antioksidant: askorbinska kislina, konzervans: kalijev sorbat, stabilizator: gumi iz zrn rožičevca, koncentrat limone in žafranike, naravna aroma."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "9,50 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "167,00 ",
+            "Sugar": "9,50 g",
+            "kcal": "39,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "ORA LEMON 1.5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,16",
+    "teaser-text": "ORA LEMON 1.5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-limona-ora-15l/p/478489",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/478489/dt_main.jpg"
+}

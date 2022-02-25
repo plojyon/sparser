@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,45",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "4kos"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "ni relevantno"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic Trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "0,65 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/britvice-sensitive-bic-3-41/p/303629",
+    "product-price": "2,59",
+    "title": "BRITVICE SENSITIVE, BIC 3, 4/1",
+    "description": "BRIVNIK BIC 3 SENSITIVE",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/303629/dt_main.jpg",
+    "teaser-text": "BRIVNIK BIC 3 SENSITIVE"
+}

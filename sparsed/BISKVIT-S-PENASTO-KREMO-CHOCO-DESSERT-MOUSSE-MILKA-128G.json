@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BISKVIT MILKA CHOCO 128G",
+    "description": "BISKVIT MILKA CHOCO 128G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "FIN PEKOVSKI IZDELEK. MEHKI BISKVIT S PENASTO KREMO Z OKUSOM ČOKOLADE (46%) OBLIT Z MLEČNO ČOKOLADO Z ALPSKIM MLEKOM (20%).",
+        "opis": "Mlečna čokolada vsebuje najmanj 30 % kakavovih delov.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1580,00 ",
+            "Salt": "0,25 g",
+            "Sugar": "51,50 g",
+            "Total Carbohydrate": "69,50 g",
+            "Total Fat": "8,40 g",
+            "kcal": "375,00 ",
+            "Saturated fat": "4,00 g",
+            "Protein": "4,40 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "128g"
+        },
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "BISKVIT S PENASTO KREMO CHOCO DESSERT MOUSSE, MILKA, 128G",
+    "url": "https://www.spar.si/online/biskvit-s-penasto-kremo-choco-dessert-mousse-milka-128g/p/392558",
+    "isOnPromotion": "false",
+    "product-priceperunit": "9,14 €/kg",
+    "product-insteadofprice": "1,17",
+    "product-stock-status": "",
+    "product-price": "1,17",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/392558/dt_main.jpg"
+}

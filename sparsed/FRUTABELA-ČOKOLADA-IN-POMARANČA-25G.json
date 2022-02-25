@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,56",
+    "product-priceperunit": "22,40 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "FRUTABELA ČOKOLADA IN POMARANČA, 25G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Proizvod je tri-plastna sadno žitna rezina poloblita z brezsladkornim čokoladnim (minimalno 52 % kakavovih delov - temna čokolada) oblivom. Sadna sredica z okusom pomaranče je obdana z zgornjo in spodnjo plastjo čokoladnih kosmičev. Rezina je poloblita z brezsladkornim čokoladnim oblivom. Vsebnost sadja je najmanj 55 %.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, MANDLJI, ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "25g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,14 g",
+            "Total Carbohydrate": "66,00 g",
+            "Prehranske vlaknine": "5,40 g",
+            "Total Fat": "11,70 g",
+            "Protein": "5,60 g",
+            "kJ": "1692,00 ",
+            "Sugar": "21,30 g",
+            "kcal": "402,00 ",
+            "Saturated fat": "7,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "REZINA FRUT.ČOK.POM.25G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,56",
+    "teaser-text": "REZINA FRUT.ČOK.POM.25G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/frutabela-cokolada-in-pomaranca-25g/p/490979",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490979/dt_main.jpg"
+}

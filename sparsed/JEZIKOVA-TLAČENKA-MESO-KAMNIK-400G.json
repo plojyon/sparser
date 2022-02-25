@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "11,23 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "TLAČENKA JEZIKOVA 400G",
+    "teaser-text": "TLAČENKA JEZIKOVA 400G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "10,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Meso Kamnik d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "opis": "Blandetinasta klobasa.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "5,20 g",
+            "Saturated fat": "2,20 g",
+            "Total Carbohydrate": "0,10 g",
+            "kJ": "505,00 ",
+            "Protein": "18,50 g",
+            "Salt": "1,58 g",
+            "Sugar": "0,10 g",
+            "kcal": "120,00 ",
+            "Prehranske vlaknine": "1,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjski jeziki 85,00 %, voda, jedilna želatina (iz govejih kož), sol, začimbe, konzervans: natrijev nitrit."
+        }
+    },
+    "url": "https://www.spar.si/online/jezikova-tlacenka-meso-kamnik-400g/p/385368",
+    "product-insteadofprice": "4,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/385368/dt_main.jpg",
+    "title": "JEZIKOVA TLAČENKA MESO KAMNIK, 400G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,49",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

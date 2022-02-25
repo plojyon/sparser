@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,95",
+    "product-priceperunit": "11,88 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČOKOLADNI ROGLJIČ SPAR PREMIUM, 1/1, 80G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR PREMIUM ROGLJIČ S ČOKOLADNIM-LEŠNIKOVIM POLNILOM 80G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,79 g",
+            "Total Carbohydrate": "42,80 g",
+            "Prehranske vlaknine": "2,40 g",
+            "Total Fat": "21,70 g",
+            "Protein": "7,00 g",
+            "kJ": "1655,00 ",
+            "Sugar": "17,40 g",
+            "kcal": "395,00 ",
+            "Saturated fat": "10,40 g"
+        }
+    },
+    "description": "SPAR PREMIUM ROGLJIČ.ČOK",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,95",
+    "teaser-text": "SPAR PREMIUM ROGLJIČ.ČOK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cokoladni-rogljic-spar-premium-11-80g/p/486164",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486164/dt_main.jpg"
+}

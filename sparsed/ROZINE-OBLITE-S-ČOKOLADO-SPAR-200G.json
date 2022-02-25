@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "6,05 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR ROZINE V ČOK.200G",
+    "teaser-text": "SPAR ROZINE V ČOK.200G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "16,00 g",
+            "Saturated fat": "9,70 g",
+            "Total Carbohydrate": "63,00 g",
+            "kJ": "1775,00 ",
+            "Protein": "4,90 g",
+            "Salt": "0,20 g",
+            "Sugar": "63,00 g",
+            "kcal": "423,00 ",
+            "Prehranske vlaknine": "3,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Rozine (44%) v mlečni čokoladi (kakavovi deli: najmanj 30%).",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/rozine-oblite-s-cokolado-spar-200g/p/383983",
+    "product-insteadofprice": "1,21",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/383983/dt_main.jpg",
+    "title": "ROZINE OBLITE S ČOKOLADO SPAR, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,21",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

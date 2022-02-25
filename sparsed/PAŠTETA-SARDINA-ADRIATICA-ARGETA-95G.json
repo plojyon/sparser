@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "1,37",
+    "product-priceperunit": "14,42 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PAŠTETA SARDINA ADRIATICA, ARGETA, 95G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Odprt izdelek hranite na hladnem in uporabite v enem dnevu."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SARDELNA PAŠTETA S PARADIŽNIKOM 95 G brez aditivov",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "security-warning": {
+            "varnostna-opozorila": "Če je embalaža napihnjena ali predrta, izdelek ni uporaben."
+        },
+        "opis": "Skrbno izbrane sardele s paradižnikom in naravnimi začimbami.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE, SOJA, MLEKO, ZELENA."
+        },
+        "product-net-cont": {
+            "neto-količina": "95g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "4,00 g",
+            "Total Fat": "29,00 g",
+            "Protein": "11,00 g",
+            "kJ": "1328,00 ",
+            "Sugar": "0,90 g",
+            "kcal": "321,00 ",
+            "Saturated fat": "3,30 g"
+        }
+    },
+    "description": "PAŠTETA SARDINA 95G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,37",
+    "teaser-text": "PAŠTETA SARDINA 95G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pasteta-sardina-adriatica-argeta-95g/p/500550",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/500550/dt_main.jpg"
+}

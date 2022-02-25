@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,49",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1026,00 ",
+            "Saturated fat": "0,40 g",
+            "Prehranske vlaknine": "4,30 g",
+            "Protein": "8,10 g",
+            "Sugar": "2,30 g",
+            "Total Fat": "2,30 g",
+            "kcal": "243,00 ",
+            "Total Carbohydrate": "45,20 g",
+            "Salt": "1,29 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-priceperunit": "1,99 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/matjazev-hlebec-temni-pekarna-spar-1kg/p/368490",
+    "product-price": "1,99",
+    "title": "MATJAŽEV HLEBEC TEMNI PEKARNA SPAR, 1KG",
+    "description": "HLEBEC MATJAŽEV 1 KG",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368490/dt_main.jpg",
+    "teaser-text": "HLEBEC MATJAŽEV 1 KG"
+}

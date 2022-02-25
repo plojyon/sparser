@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "1,30 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB NAPITEK POMARANČA 0,2",
+    "teaser-text": "SB NAPITEK POMARANČA 0,2",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Pijača s pomarančnim sokom s sladkorjem in sladili. Sadni delež: 12%.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "6,30 g",
+            "kJ": "113,00 ",
+            "Protein": "0,10 g",
+            "Salt": "0,00 g",
+            "Sugar": "6,30 g",
+            "kcal": "27,00 ",
+            "Prehranske vlaknine": "0,10 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, pomarančni sok iz zgoščenega soka, glukozni fruktozni sirup, kislina: citronska kislina, aroma, sladili: aspartam (vsebuje vir fenilalanina) acesulfam k, barvilo: beta karoten."
+        }
+    },
+    "url": "https://www.spar.si/online/sok-pomaranca-s-budget-200ml/p/378379",
+    "product-insteadofprice": "0,26",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378379/dt_main.jpg",
+    "title": "SOK POMARANČA S-BUDGET, 200ML",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,26",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

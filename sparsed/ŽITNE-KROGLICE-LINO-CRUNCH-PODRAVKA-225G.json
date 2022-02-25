@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "10,00 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KOSMIČI CRUNCH LINO 225G",
+    "teaser-text": "KOSMIČI CRUNCH LINO 225G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "3,60 g",
+            "Saturated fat": "1,50 g",
+            "Total Carbohydrate": "75,00 g",
+            "kJ": "1618,00 ",
+            "Protein": "9,50 g",
+            "Salt": "0,63 g",
+            "Sugar": "24,00 g",
+            "kcal": "382,00 ",
+            "Prehranske vlaknine": "6,00 g"
+        },
+        "opis": "EKSTRUDIRANE ŽITNE KROGLICE Z OKUSOM ČOKOLADE - Vir vlaknin, Vir 8 vitaminov, železa in kalcija.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "EKSTRUDIRANE ŽITNE KROGLICE Z OKUSOM ČOKOLADE",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "product-net-cont": {
+            "neto-količina": "225g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "V 30g izdelka dodajte 125ml mleka."
+        }
+    },
+    "url": "https://www.spar.si/online/zitne-kroglice-lino-crunch-podravka-225g/p/380998",
+    "product-insteadofprice": "2,25",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/380998/dt_main.jpg",
+    "title": "ŽITNE KROGLICE LINO CRUNCH, PODRAVKA, 225G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,25",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

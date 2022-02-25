@@ -1,0 +1,30 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,69",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "ingredient-information": {},
+        "opis": "NIVEA dezodorant Fresh Natural sprej za ženske nudi do 48-urno zaščito pred neprijetnim vonjem z nežnim, svežim vonjem ter dolgotrajen občutek svežine in zaščite. Uravnotežena sestava predstavlja optimalno kombinacijo blage nege NIVEA in naravne svežine skozi ves dan, dezodorant pa hkrati učinkovito preprečuje posledice čezmernega potenja. Ne vsebuje barvil ali konzervansov. Dermatološko je dokazano, da koža izdelek dobro prenaša.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek razpršite na razdalji 15 cm proti pazduham. Ne nanašajte na poškodovano kožo. Pustite, da se nanos posuši."
+        },
+        "contact-information": {
+            "kontakt:": "Beiersdorf d.o.o, Letališka 32, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "17,20 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/deo-sprej-fresh-natural-nivea-150ml/p/236117",
+    "product-price": "2,58",
+    "title": "DEO SPREJ FRESH NATURAL, NIVEA, 150ML",
+    "description": "DEO SPREJ NIVEA 150ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/236117/dt_main.jpg",
+    "teaser-text": "DEO SPREJ NIVEA 150ML"
+}

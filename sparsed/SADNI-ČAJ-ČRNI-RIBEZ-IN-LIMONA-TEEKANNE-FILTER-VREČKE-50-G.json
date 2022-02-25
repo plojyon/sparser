@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "40,40 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČAJ ČRNI RIBEZ-LIMON 50G",
+    "teaser-text": "ČAJ ČRNI RIBEZ-LIMON 50G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,30 g",
+            "kJ": "8,00 ",
+            "Protein": "0,20 g",
+            "Salt": "0,01 g",
+            "Sugar": "0,20 g",
+            "kcal": "2,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "hibiskus, šipek, jabolko, listi sladke robidnice, aroma limone, bezgove jagode, črni ribez, aroma črnega ribeza, limonina lupina."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/sadni-caj-crni-ribez-in-limona-teekanne-filter-vrecke-50-g/p/376835",
+    "product-insteadofprice": "2,02",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376835/dt_main.jpg",
+    "title": "SADNI ČAJ, ČRNI RIBEZ IN LIMONA, TEEKANNE, FILTER VREČKE, 50 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,02",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

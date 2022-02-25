@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,60 g",
+            "Salt": "0,00 g",
+            "Total Fat": "0,80 g",
+            "Total Carbohydrate": "79,70 g",
+            "Sugar": "0,00 g",
+            "Prehranske vlaknine": "1,30 g",
+            "kJ": "1517,00 ",
+            "Protein": "7,20 g",
+            "kcal": "357,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RIŽEVI REZANCI 5MM",
+        "contact-information": {
+            "kontakt:": "ASIANA d.o.o., Šmartinska cesta 152, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "sestavine": "riževa moka 96,00 %, voda 4,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rizevi-rezanci-tas-400g/p/171635",
+    "product-price": "3,25",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/171635/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,25",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "REZANCI RIŽEVI 400G 5MM",
+    "product-stock-status": "",
+    "title": "RIŽEVI REZANCI, TAS, 400G",
+    "product-priceperunit": "8,13 €/kg",
+    "description": "REZANCI RIŽEVI 400G 5MM"
+}

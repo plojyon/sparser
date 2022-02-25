@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,68",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 120,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "351,00 ",
+            "Saturated fat": "1,20 g",
+            "Protein": "4,00 g",
+            "Sugar": "10,20 g",
+            "Total Fat": "2,20 g",
+            "kcal": "83,00 ",
+            "Total Carbohydrate": "11,70 g",
+            "Salt": "0,28 g"
+        }
+    },
+    "product-priceperunit": "2,05 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-napitek-s-cokolado-in-lesniki-monte-drink-zott-200ml/p/304433",
+    "product-price": "0,41",
+    "title": "MLEČNI NAPITEK S ČOKOLADO IN LEŠNIKI MONTE DRINK, ZOTT, 200ML",
+    "description": "NAPITEK MONTE DRINK 200M",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/304433/dt_main.jpg",
+    "teaser-text": "NAPITEK MONTE DRINK 200M"
+}

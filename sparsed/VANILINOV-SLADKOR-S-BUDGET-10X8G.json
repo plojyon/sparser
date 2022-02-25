@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB VAN.SLADKOR 10X8G",
+    "description": "SB VAN.SLADKOR 10X8G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "VANILINOV SLADKOR",
+        "opis": "1 vrečka zadostuje za 500 g moke, pri kolačih in pecivu ali za 500 ml mleka pri sladicah in napitkih.",
+        "ingredient-information": {
+            "sestavine": "sladkor, aroma: vanilin."
+        },
+        "base-information": {
+            "neto-količina-plod:": "80G"
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1683,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "99,00 g",
+            "Total Carbohydrate": "99,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "396,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "VANILINOV SLADKOR S-BUDGET, 10X8G",
+    "url": "https://www.spar.si/online/vanilinov-sladkor-s-budget-10x8g/p/432650",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,75 €/kg",
+    "product-insteadofprice": "0,30",
+    "product-stock-status": "",
+    "product-price": "0,30",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/432650/dt_main.jpg"
+}

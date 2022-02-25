@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "33,22 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "FILETI INČUNOV V OLJČNEM OLJU ZVITI DESPAR, 90G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "14,50 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "11,00 g",
+            "Protein": "27,00 g",
+            "kJ": "855,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "204,00 ",
+            "Saturated fat": "1,60 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "50G"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "90g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "description": "DESPAR FILETI INČUNA 90G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "DESPAR FILETI INČUNA 90G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/fileti-incunov-v-oljcnem-olju-zviti-despar-90g/p/489770",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489770/dt_main.jpg"
+}

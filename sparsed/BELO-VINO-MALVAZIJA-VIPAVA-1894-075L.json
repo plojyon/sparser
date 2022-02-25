@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "3,99",
+    "product-priceperunit": "5,32 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BELO VINO MALVAZIJA, VIPAVA 1894, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "KAKOVOSTNO SUHO BELO VINO ZGP",
+        "contact-information": {
+            "kontakt:": "VIPAVA 1894 D.O.O."
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        }
+    },
+    "description": "VINO MALVAZ.VIP.0,75L BK",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,99",
+    "teaser-text": "VINO MALVAZ.VIP.0,75L BK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/belo-vino-malvazija-vipava-1894-075l/p/467610",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/467610/dt_main.jpg"
+}

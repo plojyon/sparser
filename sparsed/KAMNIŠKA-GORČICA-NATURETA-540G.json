@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,30 g",
+            "Salt": "2,33 g",
+            "Total Fat": "5,40 g",
+            "Total Carbohydrate": "2,40 g",
+            "Sugar": "2,40 g",
+            "Prehranske vlaknine": "4,80 g",
+            "kJ": "379,00 ",
+            "Protein": "5,90 g",
+            "kcal": "91,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kamniška gorčica",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "540g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kamniska-gorcica-natureta-540g/p/267132",
+    "product-price": "2,08",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/267132/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,08",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "GORČICA 540G NATURETA",
+    "product-stock-status": "",
+    "title": "KAMNIŠKA GORČICA, NATURETA, 540G",
+    "product-priceperunit": "3,85 €/kg",
+    "description": "GORČICA 540G NATURETA"
+}

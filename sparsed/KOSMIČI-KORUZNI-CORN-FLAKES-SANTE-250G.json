@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,35",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "url": "https://www.spar.si/online/kosmici-koruzni-corn-flakes-sante-250g/p/516471",
+    "title": "KOSMIČI KORUZNI CORN FLAKES, SANTE, 250G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "true",
+    "product-price": "1,14",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "BIMO d.o.o., Savska loka 21b, 4000 Kranj"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "7,60 g",
+            "Total Carbohydrate": "77,80 g",
+            "Prehranske vlaknine": "9,60 g",
+            "Saturated fat": "0,23 g",
+            "Protein": "8,10 g",
+            "Total Fat": "0,70 g",
+            "kcal": "371,00 ",
+            "Salt": "2,00 g",
+            "kJ": "1570,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "KORUZNI KOSMIČI, ekstrudirani izdelek",
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Fosfor 129,00 mg, Železo 3,00 mg, Mangan 0,40 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "product-priceperunit": "4,56 €/kg",
+    "teaser-text": "KOSMIČI KORUZNI 250G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "KOSMIČI KORUZNI 250G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/516471/dt_main.jpg",
+    "product-brand": ""
+}

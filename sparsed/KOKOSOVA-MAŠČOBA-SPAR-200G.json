@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,79",
+    "product-priceperunit": "8,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "title": "KOKOSOVA MAŠČOBA SPAR, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Delno hidrogenirana rafinirana kokosova maščoba",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "rafinat kokosovega olja in trden rafinat kokosovega olja 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "92,00 g"
+        }
+    },
+    "description": "SPAR KOKOSOVA MAŠČ.200G",
+    "product-promotionBadges": "Odlična kakovost",
+    "product-brand": "",
+    "product-price": "1,79",
+    "teaser-text": "SPAR KOKOSOVA MAŠČ.200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kokosova-mascoba-spar-200g/p/461963",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/461963/dt_main.jpg"
+}

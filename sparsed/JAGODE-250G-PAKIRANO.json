@@ -1,0 +1,25 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "trade-group": {
+            "razred": "1"
+        }
+    },
+    "product-priceperunit": "7,96 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jagode-250g-pakirano/p/183676",
+    "product-price": "1,99",
+    "title": "JAGODE, 250G, PAKIRANO",
+    "description": "JAGODE PAK. 250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/183676/dt_main.jpg",
+    "teaser-text": "JAGODE PAK. 250G"
+}

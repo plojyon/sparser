@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "FANTA ORANGE 0,33L PL.",
+    "description": "FANTA ORANGE 0,33L PL.",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača z okusom pomaranče.",
+        "ingredient-information": {
+            "sestavine": "voda, fruktozno-glukozni sirup, pomarančni sok iz zgoščenega pomarančnega soka 3,00 %, izvleček citrusov, ogljikov dioksid, kislina (citronska kislina), naravna aroma pomaranče z drugimi naravnimi aromami, antioksidant (askorbinska kislina), stabilizator (guar gumi), barvilo (karoteni)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "165,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "9,50 g",
+            "Total Carbohydrate": "9,50 g",
+            "Total Fat": "0,00 g",
+            "kcal": "39,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        }
+    },
+    "title": "FANTA ORANGE, 330ML",
+    "url": "https://www.spar.si/online/fanta-orange-330ml/p/433509",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,97 €/l",
+    "product-insteadofprice": "0,65",
+    "product-stock-status": "",
+    "product-price": "0,65",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/433509/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "31,50 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "POSTRV DIMLJENA 100G",
+    "teaser-text": "POSTRV DIMLJENA 100G",
+    "product-info": {
+        "trade-group": {
+            "latinsko-ime": "oncorhynchus mzkiss"
+        },
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 3c, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "6,61 g",
+            "Saturated fat": "1,10 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "619,00 ",
+            "Protein": "20,77 g",
+            "Salt": "52,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "148,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "FILE DIMLJENE POSTRVI S KOŽO 100G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        }
+    },
+    "url": "https://www.spar.si/online/dimljena-postrv-s-kozo-kulmerfisch-100g/p/375232",
+    "product-insteadofprice": "3,15",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/375232/dt_main.jpg",
+    "title": "DIMLJENA POSTRV S KOŽO KULMERFISCH, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,15",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

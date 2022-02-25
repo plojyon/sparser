@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,77",
+    "product-priceperunit": "14,75 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OMAKA JAPONSKI TERIYAKI, SHAN´SHI, 120G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,80 g",
+            "Total Carbohydrate": "23,00 g",
+            "Total Fat": "0,40 g",
+            "Protein": "1,10 g",
+            "kJ": "426,00 ",
+            "Sugar": "18,00 g",
+            "kcal": "100,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, SEZAM, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Predlog za pripravo: 300 g mesa in zelenjave popražimo v voku. Dodamo terijaki omako in nekaj časa pokuhamo. Serviramo z rižem."
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, 1231 Ljubljana"
+        }
+    },
+    "description": "TERIYAKI OMAKA 120G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,77",
+    "teaser-text": "TERIYAKI OMAKA 120G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/omaka-japonski-teriyaki-shanshi-120g/p/450741",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/450741/dt_main.jpg"
+}

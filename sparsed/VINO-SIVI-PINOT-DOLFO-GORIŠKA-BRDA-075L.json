@@ -1,0 +1,34 @@
+{
+    "product-insteadofprice": "10,99",
+    "product-priceperunit": "14,65 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO SIVI PINOT, DOLFO, GORIŠKA BRDA, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "DOLFO SIVI PINOT",
+        "opis": "Vse komponente vina so lepo uravnovešene in se enakovredno izkažejo v prijetnem, uglajenem pookusu. Na nosu ima fine, čiste vonjave po sladkih jabolkih, kutini in olupkih rdeče grenivke. Pridelano je iz 100% Sivega Pinota. Trgatev grozdja je ročna v začetku septembra. Maceracija poteka 3 ure, fermentacija je nadzorovana pri konstantni temperaturi. Vino 1 leto zori na finih drožeh.",
+        "contact-information": {
+            "kontakt:": "MARKO SKOČAJ - NOSILEC DOPOLNILNE DEJAVNOSTI NA KMETIJI"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "13,00 vol. %"
+        }
+    },
+    "description": "VINO SIVI PI.DOLFO 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "10,99",
+    "teaser-text": "VINO SIVI PI.DOLFO 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-sivi-pinot-dolfo-goriska-brda-075l/p/48164",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48164/dt_main.jpg"
+}

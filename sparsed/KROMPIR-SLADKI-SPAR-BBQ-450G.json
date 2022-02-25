@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "3,15",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "url": "https://www.spar.si/online/krompir-sladki-spar-bbq-450g/p/567983",
+    "title": "KROMPIR SLADKI SPAR BBQ, 450G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,15",
+    "product-info": {
+        "opis": "/",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "14,00 g",
+            "Total Carbohydrate": "24,00 g",
+            "Prehranske vlaknine": "3,40 g",
+            "Saturated fat": "0,60 g",
+            "Protein": "2,00 g",
+            "Total Fat": "5,70 g",
+            "kcal": "162,00 ",
+            "Salt": "0,25 g",
+            "kJ": "680,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ZAČINJEN KROMPIRČEK IZ SLADKEGA KROMPIRJA, hitro zamrznjen.",
+        "ingredient-information": {
+            "sestavine": "sladki krompir 86 %, sončnično olje, riževa moka, koruzna moka, modificiran škrob, dekstrin, nejodirana sol, sredstvi za vzhajanje: difosfati, natrijevi karbonati, stabilizator: ksantan gumi, začimbni ekstrakti (paprika, kurkuma)."
+        },
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek"
+    },
+    "product-priceperunit": "7,00 €/kg",
+    "teaser-text": "SPAR KROMPIR SLADKI BBQ",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR KROMPIR SLADKI BBQ",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/567983/dt_main.jpg",
+    "product-brand": ""
+}

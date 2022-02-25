@@ -1,0 +1,31 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VINO S.PINOT M.SIMČ0,75L",
+    "description": "VINO S.PINOT M.SIMČ0,75L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "13,50 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "contact-information": {
+            "kontakt:": "Dopolnilna dejavnost na kmetiji"
+        }
+    },
+    "title": "VINO SIVI PINOT, SIMČIČ, 0,75L",
+    "url": "https://www.spar.si/online/vino-sivi-pinot-simcic-075l/p/419694",
+    "isOnPromotion": "false",
+    "product-priceperunit": "18,65 €/l",
+    "product-insteadofprice": "13,99",
+    "product-stock-status": "",
+    "product-price": "13,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/419694/dt_main.jpg"
+}

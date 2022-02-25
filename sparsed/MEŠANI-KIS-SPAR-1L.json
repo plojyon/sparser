@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "0,69 €/l",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR KIS MEŠANI 1L",
+    "teaser-text": "SPAR KIS MEŠANI 1L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,42 g",
+            "kJ": "39,77 ",
+            "Protein": "0,00 g",
+            "Salt": "4,00 g",
+            "Sugar": "0,42 g",
+            "kcal": "9,50 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mešani kis iz razredčenega vinskega kisa,sadnega jabolčnega kisa in alkoholnega kisa.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/mesani-kis-spar-1l/p/360734",
+    "product-insteadofprice": "0,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/360734/dt_main.jpg",
+    "title": "MEŠANI KIS, SPAR, 1L",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,69",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,93",
+    "product-priceperunit": "1,64 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "title": "PROBIOTIČNI JOGURT NARAVNI, EGO, 1000G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "EGO NARAVNI 1000G TT",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "4,60 g",
+            "Total Fat": "1,30 g",
+            "Protein": "3,80 g",
+            "kJ": "191,00 ",
+            "Sugar": "4,60 g",
+            "kcal": "45,00 ",
+            "Saturated fat": "1,10 g"
+        }
+    },
+    "description": "JOGURT EGO NAVADNI 1L",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "product-price": "1,64",
+    "teaser-text": "JOGURT EGO NAVADNI 1L",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/probioticni-jogurt-naravni-ego-1000g/p/499295",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499295/dt_main.jpg"
+}

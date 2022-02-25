@@ -1,0 +1,37 @@
+{
+    "product-priceperunit": "13,10 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "BONB.KROG.MOZART 297G",
+    "teaser-text": "BONB.KROG.MOZART 297G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "27,50 g",
+            "Saturated fat": "11,10 g",
+            "Total Carbohydrate": "58,30 g",
+            "kJ": "2135,00 ",
+            "Protein": "5,70 g",
+            "Salt": "0,05 g",
+            "Sugar": "54,30 g",
+            "kcal": "508,00 ",
+            "Prehranske vlaknine": "3,40 g"
+        },
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "297g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, MANDLJI."
+        }
+    },
+    "url": "https://www.spar.si/online/mozartove-kroglice-victor-schmid-297g/p/357842",
+    "product-insteadofprice": "3,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/357842/dt_main.jpg",
+    "title": "MOZARTOVE KROGLICE VICTOR SCHMID, 297G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,89",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

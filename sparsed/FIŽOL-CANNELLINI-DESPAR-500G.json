@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,40 g",
+            "Salt": "0,05 g",
+            "Total Fat": "1,70 g",
+            "Total Carbohydrate": "44,00 g",
+            "Sugar": "4,00 g",
+            "Prehranske vlaknine": "17,00 g",
+            "kJ": "1336,00 ",
+            "Protein": "23,00 g",
+            "kcal": "317,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "instruction-for-use": {},
+        "opis": "Povprečna hranilna vrednost na 100g:- Energijska vrednost: 1336 kJ/ 317 kcal- Maščobe: 1,7g- Od tega nasičene maščobe: 0,4g- Ogljikovi hidrati: 44g- Od tega sladkorji: 4g- Prehranske vlaknine: 17g- Beljakovine: 23g- Sol: 0,05g",
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/fizol-cannellini-despar-500g/p/147364",
+    "product-price": "1,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/147364/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "DESPAR FIŽOL CANELLINI",
+    "product-stock-status": "",
+    "title": "FIŽOL CANNELLINI DESPAR, 500G",
+    "product-priceperunit": "3,50 €/kg",
+    "description": "DESPAR FIŽOL CANELLINI"
+}

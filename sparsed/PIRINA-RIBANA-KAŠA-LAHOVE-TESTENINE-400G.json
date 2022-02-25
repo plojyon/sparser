@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "6,73 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIRINA RIBANA KAŠA, LAHOVE TESTENINE, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pirine testenine",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Suzana Lah s.p., Mladinska ul. 19, 2314 Zgornja Polskava"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "75,00 g",
+            "Total Fat": "1,30 g",
+            "Protein": "11,50 g",
+            "kJ": "1529,00 ",
+            "Sugar": "2,50 g",
+            "kcal": "360,00 ",
+            "Saturated fat": "0,27 g"
+        }
+    },
+    "description": "KAŠA RIBANA PIRINA 400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "KAŠA RIBANA PIRINA 400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pirina-ribana-kasa-lahove-testenine-400g/p/469435",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/469435/dt_main.jpg"
+}

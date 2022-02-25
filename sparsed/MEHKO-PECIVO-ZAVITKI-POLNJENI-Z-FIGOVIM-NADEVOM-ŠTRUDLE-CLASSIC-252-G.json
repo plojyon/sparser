@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,05",
+    "product-priceperunit": "4,17 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MEHKO PECIVO, ZAVITKI POLNJENI Z FIGOVIM NADEVOM, ŠTRUDLE CLASSIC, 252 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,37 g",
+            "Total Carbohydrate": "70,60 g",
+            "Prehranske vlaknine": "2,20 g",
+            "Total Fat": "6,20 g",
+            "Protein": "5,10 g",
+            "kJ": "1533,00 ",
+            "Sugar": "47,80 g",
+            "kcal": "362,90 ",
+            "Saturated fat": "2,80 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "252g"
+        },
+        "contact-information": {
+            "kontakt:": "Petlja d. o. o., Ob dravi 3a, 2250 Ptuj"
+        }
+    },
+    "description": "BISK.PEC.ŠTRUD.SMOK.252G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,05",
+    "teaser-text": "BISK.PEC.ŠTRUD.SMOK.252G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mehko-pecivo-zavitki-polnjeni-z-figovim-nadevom-strudle-classic-252-g/p/462664",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/462664/dt_main.jpg"
+}

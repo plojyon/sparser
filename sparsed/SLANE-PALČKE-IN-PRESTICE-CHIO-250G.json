@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,00 g",
+            "Total Fat": "3,80 g",
+            "Total Carbohydrate": "71,00 g",
+            "Sugar": "1,10 g",
+            "Salt": "5,70 g",
+            "kJ": "1576,00 ",
+            "Protein": "11,00 g",
+            "kcal": "372,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Slano pecivo: palčke in prestice",
+        "contact-information": {
+            "kontakt:": "Intersnack, d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/slane-palcke-in-prestice-chio-250g/p/252982",
+    "product-price": "1,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/252982/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,69",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PECIV.SL.PALČ.PREST.250G",
+    "product-stock-status": "",
+    "title": "SLANE PALČKE IN PRESTICE, CHIO, 250G",
+    "product-priceperunit": "6,76 €/kg",
+    "description": "PECIV.SL.PALČ.PREST.250G"
+}

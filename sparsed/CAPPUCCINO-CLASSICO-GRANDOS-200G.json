@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "10,00 g",
+            "Salt": "1,00 g",
+            "Total Fat": "11,00 g",
+            "Total Carbohydrate": "72,00 g",
+            "Sugar": "51,00 g",
+            "Prehranske vlaknine": "3,40 g",
+            "kJ": "1806,00 ",
+            "Protein": "8,70 g",
+            "kcal": "429,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Instant mešanica za pripravo kavnega napitka.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "3-4 kavne žličke (12,5 g) prelijte z vročo, ne vrelo vodo (150 ml), dobro premešajte in vaš Grandos Cappuccino Classico je pripravljen."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cappuccino-classico-grandos-200g/p/109880",
+    "product-price": "3,13",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/109880/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,13",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "CAPP.CLAS.GRANDOS 200G",
+    "product-stock-status": "",
+    "title": "CAPPUCCINO CLASSICO, GRANDOS, 200G",
+    "product-priceperunit": "15,65 €/kg",
+    "description": "CAPP.CLAS.GRANDOS 200G"
+}

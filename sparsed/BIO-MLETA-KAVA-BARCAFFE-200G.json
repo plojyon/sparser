@@ -1,0 +1,31 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "teaser-text": "KAVA BARCAFFE BIO 200G",
+    "description": "KAVA BARCAFFE BIO 200G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "ingredient-information": {
+            "sestavine": "mešanica mlete pražene kave iz ekološke pridelave 100,00 %."
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "BIO MLETA KAVA BARCAFFE, 200G",
+    "url": "https://www.spar.si/online/bio-mleta-kava-barcaffe-200g/p/434252",
+    "isOnPromotion": "false",
+    "product-priceperunit": "26,45 €/l",
+    "product-insteadofprice": "5,29",
+    "product-stock-status": "",
+    "product-price": "5,29",
+    "product-brand": "",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/434252/dt_main.jpg"
+}

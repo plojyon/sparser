@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,58",
+    "product-priceperunit": "5,77 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "MAJONEZA, GEA, 620 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GEA majoneza",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, ZELENA, GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "620g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,90 g",
+            "Total Carbohydrate": "4,40 g",
+            "Total Fat": "77,30 g",
+            "Protein": "1,00 g",
+            "kJ": "2695,00 ",
+            "Sugar": "3,00 g",
+            "kcal": "655,00 ",
+            "Saturated fat": "9,60 g"
+        }
+    },
+    "description": "MAJONEZA GEA 620G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "3,58",
+    "teaser-text": "MAJONEZA GEA 620G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/majoneza-gea-620-g/p/468416",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468416/dt_main.jpg"
+}

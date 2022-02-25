@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "2,82 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KUMARICE 670G PODRAVKA",
+    "teaser-text": "KUMARICE 670G PODRAVKA",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "370G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,26 g",
+            "Saturated fat": "0,07 g",
+            "Total Carbohydrate": "2,90 g",
+            "kJ": "67,00 ",
+            "Protein": "1,20 g",
+            "Salt": "0,90 g",
+            "Sugar": "1,90 g",
+            "kcal": "16,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pasterizirane kumarice",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "670g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        }
+    },
+    "url": "https://www.spar.si/online/delikatesne-kumarice-podravka-670g/p/364120",
+    "product-insteadofprice": "1,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364120/dt_main.jpg",
+    "title": "DELIKATESNE KUMARICE, PODRAVKA, 670G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,89",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

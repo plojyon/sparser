@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "9,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO OVSENA KREMA ZA KUHANJE, ISOLA BIO, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,16 g",
+            "Total Carbohydrate": "11,00 g",
+            "Prehranske vlaknine": "1,50 g",
+            "Total Fat": "10,00 g",
+            "Protein": "1,00 g",
+            "kJ": "586,00 ",
+            "Sugar": "3,00 g",
+            "kcal": "141,00 ",
+            "Saturated fat": "1,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bio ovsena krema za kuhanje.",
+        "contact-information": {
+            "kontakt:": "Sonital d.o.o., Cesta Ljubljanske brigade 9 A, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "KREMA ZA KUH.OVES 200ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "KREMA ZA KUH.OVES 200ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-ovsena-krema-za-kuhanje-isola-bio-1-l/p/508776",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/508776/dt_main.jpg"
+}

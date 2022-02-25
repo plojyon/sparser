@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,89",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,3l"
+        },
+        "ingredient-information": {},
+        "contact-information": {
+            "kontakt:": "Lomas d.o.o, Kardeljeva ploščad 11a, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "4,63 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoce-milo-almond-palmolive-300ml/p/200305",
+    "product-price": "1,39",
+    "title": "TEKOČE MILO ALMOND PALMOLIVE, 300ML",
+    "description": "MILO TEK.PALM.300ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/200305/dt_main.jpg",
+    "teaser-text": "MILO TEK.PALM.300ML"
+}

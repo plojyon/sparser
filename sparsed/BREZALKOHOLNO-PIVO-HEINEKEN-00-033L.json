@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "opis": "Lepo uravnoteženo brezalkoholno pivo iz izbranih naravnih sestavin: voda, ječmen, slad in hmeljni ekstrakt, ki ima osvežujočo sadno noto ter nežnen sladni okus.Narejen je s pomočjo dvostopenjskega postopka varjenja in fermentacija z uporabo edinstvenega A-kvasa družbe Heineken, kjer s popolnoma naravnim postopkom izločimo alkohol.Pivovarski mojster s postopkom mešanja piva ustvari sadni okus z blagimi sladnimi notami in tako nastane novi Heineken 0.0.Heineken 0.0 pivo je izvrstna izotonična pijača, ki napolni telo z mikroelementi in hranili, po telesnem in psihičnem naporu.",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "90,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,40 g",
+            "Sugar": "1,30 g",
+            "Total Fat": "0,10 g",
+            "kcal": "21,00 ",
+            "Total Carbohydrate": "4,80 g",
+            "Salt": "0,01 g"
+        },
+        "contact-information": {
+            "kontakt:": "PIVOVARNA LAŠKO UNION D.O.O., Pivovarniška ulica 2, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "2,33 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/brezalkoholno-pivo-heineken-00-033l/p/552507",
+    "product-price": "0,77",
+    "title": "BREZALKOHOLNO PIVO HEINEKEN 0.0, 0,33L",
+    "description": "PIVO HEINEK.0,0% PL0,33L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/552507/dt_main.jpg",
+    "teaser-text": "PIVO HEINEK.0,0% PL0,33L"
+}

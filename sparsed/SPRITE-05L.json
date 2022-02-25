@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "1,58 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPRITE 0.5L PET",
+    "teaser-text": "SPRITE 0.5L PET",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "10,60 g",
+            "kJ": "187,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "10,60 g",
+            "kcal": "44,00 "
+        },
+        "opis": "Ob nakupu 12 kos, izdelke prejmete v vezu.",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, fruktozno-glukozni sirup, ogljikov dioksid, citronska kislina, naravni aromi limone in limete, sredstvo za uravnavanje kislosti (natrijevi citrati)."
+        }
+    },
+    "url": "https://www.spar.si/online/sprite-05l/p/37287",
+    "product-insteadofprice": "0,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/37287/dt_main.jpg",
+    "title": "SPRITE, 0,5L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

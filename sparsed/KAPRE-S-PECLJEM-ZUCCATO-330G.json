@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "5,81",
+    "product-priceperunit": "17,61 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KAPRE S PECLJEM, ZUCCATO, 330G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "190G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "KAPRE S PECLJEM V VINSKEM KISU",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "kapre s pecljem, voda, vinski kis, sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,80 g",
+            "Total Carbohydrate": "4,30 g",
+            "Total Fat": "0,40 g",
+            "Protein": "1,50 g",
+            "kJ": "128,00 ",
+            "Sugar": "0,40 g",
+            "kcal": "30,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "KAPRE S PECLJEM 330G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,81",
+    "teaser-text": "KAPRE S PECLJEM 330G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kapre-s-pecljem-zuccato-330g/p/472194",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472194/dt_main.jpg"
+}

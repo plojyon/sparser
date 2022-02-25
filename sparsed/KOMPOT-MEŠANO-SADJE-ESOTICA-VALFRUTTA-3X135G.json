@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KOMP.MEŠ.SAD.ESOT.3X135",
+    "description": "KOMP.MEŠ.SAD.ESOT.3X135",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MEŠANI SADNI KOMPOT S SOKOM MARACUJE 3X 135g VALFRUTTA",
+        "opis": "/",
+        "ingredient-information": {
+            "sestavine": "sadje (ananas, papaja, guava in/ali mango) 63,00 %, sok maracuje 2,00 %, voda, sladkor, regulator kislosti: citronska kislina, antioksidant: l-askorbinska kislina."
+        },
+        "base-information": {
+            "neto-količina-plod:": "405G"
+        },
+        "product-net-cont": {
+            "neto-količina": "405g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "282,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "15,00 g",
+            "Total Carbohydrate": "15,00 g",
+            "Total Fat": "0,10 g",
+            "kcal": "67,00 ",
+            "Prehranske vlaknine": "2,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,40 g"
+        },
+        "contact-information": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "KOMPOT MEŠANO SADJE ESOTICA, VALFRUTTA, 3X135G",
+    "url": "https://www.spar.si/online/kompot-mesano-sadje-esotica-valfrutta-3x135g/p/403754",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,35 €/kg",
+    "product-insteadofprice": "2,57",
+    "product-stock-status": "",
+    "product-price": "2,57",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/403754/dt_main.jpg"
+}

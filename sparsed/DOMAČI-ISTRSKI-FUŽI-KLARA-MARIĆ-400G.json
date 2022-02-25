@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "FUŽI DOMAČI ISTRS.400G",
+    "description": "FUŽI DOMAČI ISTRS.400G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1612,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "3,85 g",
+            "Total Carbohydrate": "74,18 g",
+            "Total Fat": "3,20 g",
+            "kcal": "380,00 ",
+            "Saturated fat": "0,81 g",
+            "Protein": "13,69 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA."
+        },
+        "contact-information": {
+            "kontakt:": "Petlja d.o.o., Ob Dravi 3a, 2250 Ptuj"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "DOMAČI ISTRSKI FUŽI, KLARA MARIĆ, 400G",
+    "url": "https://www.spar.si/online/domaci-istrski-fuzi-klara-mari-400g/p/390499",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,23 €/kg",
+    "product-insteadofprice": "3,29",
+    "product-stock-status": "",
+    "product-price": "3,29",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/390499/dt_main.jpg"
+}

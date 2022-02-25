@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,78",
+    "product-priceperunit": "9,75 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MLEČNA ČOKOLADA DORINA, KRAŠ, 80G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,25 g",
+            "Total Carbohydrate": "54,20 g",
+            "Prehranske vlaknine": "2,02 g",
+            "Total Fat": "32,90 g",
+            "Protein": "6,40 g",
+            "kJ": "2395,00 ",
+            "Sugar": "51,50 g",
+            "kcal": "570,00 ",
+            "Saturated fat": "20,90 g"
+        }
+    },
+    "description": "ČOK.MLEČ.DORINA 80G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,78",
+    "teaser-text": "ČOK.MLEČ.DORINA 80G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mlecna-cokolada-dorina-kras-80g/p/460281",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/460281/dt_main.jpg"
+}

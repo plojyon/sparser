@@ -1,0 +1,34 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "teaser-text": "VINO REFOŠK CLASS.0,75L",
+    "description": "VINO REFOŠK CLASS.0,75L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "contact-information": {
+            "kontakt:": "Petlja d.o.o., Ob Dravi 3a, 2250 Ptuj"
+        }
+    },
+    "title": "BIO RDEČE VINO REFOŠK CLASSIC, RODICA, 0,75L",
+    "url": "https://www.spar.si/online/bio-rdece-vino-refosk-classic-rodica-075l/p/402090",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,19 €/l",
+    "product-insteadofprice": "11,39",
+    "product-stock-status": "",
+    "product-price": "11,39",
+    "product-brand": "",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/402090/dt_main.jpg"
+}

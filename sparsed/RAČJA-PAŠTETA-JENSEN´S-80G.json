@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "12,80 g",
+            "Salt": "1,20 g",
+            "Total Fat": "32,00 g",
+            "Total Carbohydrate": "1,80 g",
+            "Sugar": "1,80 g",
+            "Prehranske vlaknine": "0,40 g",
+            "kJ": "1405,00 ",
+            "Protein": "11,00 g",
+            "kcal": "340,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RAČJA PAŠTETA 80G",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, ZELENA, GORČIČNO SEME."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/racja-pasteta-jensens-80g/p/17366",
+    "product-price": "2,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/17366/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PAŠTETA RAČ.JETRNA 80G",
+    "product-stock-status": "",
+    "title": "RAČJA PAŠTETA, JENSEN´S, 80G",
+    "product-priceperunit": "31,13 €/kg",
+    "description": "PAŠTETA RAČ.JETRNA 80G"
+}

@@ -1,0 +1,42 @@
+{
+    "product-priceperunit": "15,72 €/l",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL BUČNO OLJ 0,5",
+    "teaser-text": "SPAR VITAL BUČNO OLJ 0,5",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 52,80 mg."
+        },
+        "opis": "Nerafinirano 100 % bučno olje.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "99,60 g",
+            "Saturated fat": "16,80 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "3685,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "896,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "bučno olje 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/bucno-olje-spar-vital-05l/p/378110",
+    "product-insteadofprice": "7,86",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378110/dt_main.jpg",
+    "title": "BUČNO OLJE SPAR VITAL, 0,5L",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "7,86",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

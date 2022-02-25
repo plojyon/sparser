@@ -1,0 +1,32 @@
+{
+    "product-priceperunit": "3,19 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "VINO SOAVE 0,75L",
+    "teaser-text": "VINO SOAVE 0,75L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "11,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI - 1000 Ljubljana"
+        },
+        "opis": "Suho belo vino.",
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/vino-soave-monte-del-sole-075-l/p/371541",
+    "product-insteadofprice": "2,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/371541/dt_main.jpg",
+    "title": "VINO, SOAVE, MONTE DEL SOLE, 0,75 L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

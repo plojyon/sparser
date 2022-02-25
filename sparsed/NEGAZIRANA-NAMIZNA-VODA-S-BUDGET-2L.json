@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "0,10 €/l",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SB VODA NAMIZNA 2L",
+    "teaser-text": "SB VODA NAMIZNA 2L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "2L"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "NEGAZIRANA NAMIZNA VODA, S-BUDGET, 2L",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura / room temperature"
+        }
+    },
+    "url": "https://www.spar.si/online/negazirana-namizna-voda-s-budget-2l/p/379291",
+    "product-insteadofprice": "0,20",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/379291/dt_main.jpg",
+    "title": "NEGAZIRANA NAMIZNA VODA, S-BUDGET, 2L",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,20",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

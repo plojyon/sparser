@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,30 g",
+            "Salt": "0,04 g",
+            "Total Fat": "1,30 g",
+            "Total Carbohydrate": "77,30 g",
+            "Sugar": "0,10 g",
+            "Prehranske vlaknine": "1,30 g",
+            "kJ": "1522,00 ",
+            "Protein": "8,80 g",
+            "kcal": "359,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RIŽ BASMATI - vakumsko pakiranje v škatli.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "Vakumsko pakiranje v škatli.",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/riz-basmati-scotti-500g/p/210103",
+    "product-price": "2,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/210103/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "RIŽ BASMATI 500G",
+    "product-stock-status": "",
+    "title": "RIŽ BASMATI SCOTTI, 500G",
+    "product-priceperunit": "5,50 €/kg",
+    "description": "RIŽ BASMATI 500G"
+}

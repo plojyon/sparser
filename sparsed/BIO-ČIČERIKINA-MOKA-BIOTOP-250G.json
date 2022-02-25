@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,90 g",
+            "Salt": "0,01 g",
+            "Total Fat": "5,90 g",
+            "Total Carbohydrate": "44,30 g",
+            "Sugar": "2,40 g",
+            "Prehranske vlaknine": "15,50 g",
+            "kJ": "1451,00 ",
+            "Protein": "18,60 g",
+            "kcal": "346,00 "
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "contact-information": {
+            "kontakt:": "Mediacor d.o.o., Obrtniška ulica 9, 3240 Šmarje pri Jelšah"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-cicerikina-moka-biotop-250g/p/266194",
+    "product-price": "1,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/266194/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "1,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "BIO MOKA ČIČERIKINA 250G",
+    "product-stock-status": "",
+    "title": "BIO ČIČERIKINA MOKA BIOTOP, 250G",
+    "product-priceperunit": "7,00 €/kg",
+    "description": "BIO MOKA ČIČERIKINA 250G"
+}

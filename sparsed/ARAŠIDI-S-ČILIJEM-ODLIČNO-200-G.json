@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "1,49",
+    "product-priceperunit": "7,45 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ARAŠIDI S ČILIJEM, ODLIČNO, 200 G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za neposredno uporabo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Arašidi s čilijem 200 g Tasty",
+        "contact-information": {
+            "kontakt:": "Hrib d.o.o, Večje Brdo 8, 3224 Dobje pri Planini, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI, SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,27 g",
+            "Total Carbohydrate": "12,20 g",
+            "Total Fat": "45,50 g",
+            "Protein": "24,00 g",
+            "kJ": "2383,00 ",
+            "Sugar": "6,00 g",
+            "kcal": "575,00 ",
+            "Saturated fat": "6,60 g"
+        }
+    },
+    "description": "ARAŠIDI S ČILIJEM 200GBK",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,49",
+    "teaser-text": "ARAŠIDI S ČILIJEM 200GBK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/arasidi-s-cilijem-odlicno-200-g/p/496611",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/496611/dt_main.jpg"
+}

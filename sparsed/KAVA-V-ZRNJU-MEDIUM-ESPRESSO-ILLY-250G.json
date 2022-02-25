@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "8,22",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Izdelek je pakiran v zaščitni atmosferi. Previdno in počasi dvignite odpiralni obroček, da se tlak v pločevinki izenači."
+        },
+        "opis": "Vsebina: kava v zrnju, normalno pražena, 100 % Arabica Vsebnost kofeina: manj kot 0,05 % Neto količina kave: 250 g Pločevinka iz aluminija. Proizvedeno v It...",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "sestavine": "kava arabica 100,00 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "32,00 ",
+            "Saturated fat": "0,06 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Protein": "0,20 g",
+            "Sugar": "0,01 g",
+            "Total Fat": "0,10 g",
+            "kcal": "8,00 ",
+            "Total Carbohydrate": "1,20 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "32,88 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kava-v-zrnju-medium-espresso-illy-250g/p/442031",
+    "product-price": "8,22",
+    "title": "KAVA V ZRNJU MEDIUM ESPRESSO ILLY, 250G",
+    "description": "KAVA ESPRESSO ILLY250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/442031/dt_main.jpg",
+    "teaser-text": "KAVA ESPRESSO ILLY250G"
+}

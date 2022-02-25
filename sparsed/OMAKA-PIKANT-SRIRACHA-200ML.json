@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "20,95 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OMAKA PIKANT 200ML",
+    "teaser-text": "OMAKA PIKANT 200ML",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "2,10 g",
+            "Saturated fat": "0,50 g",
+            "Total Carbohydrate": "35,00 g",
+            "kJ": "752,00 ",
+            "Protein": "2,20 g",
+            "Salt": "9,10 g",
+            "Sugar": "35,00 g",
+            "kcal": "178,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "čili 70,00 %, voda, sladkor, sol, ojačevalec arome: E621, stabilizator: E415, konzervans: E202, sredstvo za uravnavanje kislosti: E260, E330."
+        }
+    },
+    "url": "https://www.spar.si/online/omaka-pikant-sriracha-200ml/p/357610",
+    "product-insteadofprice": "4,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/357610/dt_main.jpg",
+    "title": "OMAKA PIKANT SRIRACHA, 200ML",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

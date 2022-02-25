@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "7,99",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SIR EDAMEC SPAR, 1KG, (REZANO)",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1297,00 ",
+            "Saturated fat": "15,90 g",
+            "Protein": "25,00 g",
+            "Sugar": "0,10 g",
+            "Total Fat": "23,00 g",
+            "kcal": "312,00 ",
+            "Total Carbohydrate": "0,10 g",
+            "Salt": "1,80 g"
+        }
+    },
+    "product-priceperunit": "5,99 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sir-edamec-spar-1kg-rezano/p/250682",
+    "product-price": "5,99",
+    "title": "SIR EDAMEC SPAR, 1KG, (REZANO)",
+    "description": "SPAR Sir Edamec",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/250682/dt_main.jpg",
+    "teaser-text": "SPAR Sir Edamec"
+}

@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "5,58",
+    "product-priceperunit": "7,44 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, CABERNET SAUVIGNON, STOBI, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "13,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO CABER.SAUV.0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,58",
+    "teaser-text": "VINO CABER.SAUV.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-cabernet-sauvignon-stobi-075-l/p/456227",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/456227/dt_main.jpg"
+}

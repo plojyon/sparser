@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "10,07 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "POLŽI LEŠNIK 2+1 GRATIS",
+    "teaser-text": "POLŽI LEŠNIK 2+1 GRATIS",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "19,00 g",
+            "Saturated fat": "5,90 g",
+            "Total Carbohydrate": "49,00 g",
+            "kJ": "1679,00 ",
+            "Protein": "7,40 g",
+            "Salt": "0,70 g",
+            "Sugar": "22,00 g",
+            "kcal": "401,00 ",
+            "Prehranske vlaknine": "2,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, MANDLJI."
+        }
+    },
+    "url": "https://www.spar.si/online/fino-masleno-pecivo-lesnikovi-polzki-lz-300-g-2-1-gratis/p/381236",
+    "product-insteadofprice": "3,02",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381236/dt_main.jpg",
+    "title": "FINO MASLENO PECIVO, LEŠNIKOVI POLŽKI, ÖLZ, 300 G, 2 + 1 GRATIS",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,02",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/cappuccino-irish-cream-spar-200g/p/603151",
+    "title": "CAPPUCCINO IRISH CREAM, SPAR, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "54,00 g",
+            "Total Carbohydrate": "76,00 g",
+            "Saturated fat": "13,00 g",
+            "Protein": "5,70 g",
+            "Total Fat": "13,00 g",
+            "kcal": "445,00 ",
+            "Salt": "0,47 g",
+            "kJ": "1877,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "INSTANT MEŠANICA V PRAHU ZA KAVNI NAPITEK Z OKUSOM IRISH CREAM-a",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priprava: 2-3 žličke (14 g) instant mešanice damo v skodelico. Prelijemo s 150 ml vroče (ne vrele) vode in premešamo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-priceperunit": "9,95 €/kg",
+    "teaser-text": "SPAR CAPP.IRISH CR. 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR CAPP.IRISH CR. 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/603151/dt_main.jpg",
+    "product-brand": ""
+}

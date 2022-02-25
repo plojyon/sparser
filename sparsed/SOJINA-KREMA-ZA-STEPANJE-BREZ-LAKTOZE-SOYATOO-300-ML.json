@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,79",
+    "product-priceperunit": "9,30 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SOJINA KREMA ZA STEPANJE, BREZ LAKTOZE, SOYATOO, 300 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "12,10 g",
+            "Prehranske vlaknine": "0,30 g",
+            "Total Fat": "12,20 g",
+            "Protein": "1,20 g",
+            "kJ": "680,00 ",
+            "Sugar": "9,00 g",
+            "kcal": "164,00 ",
+            "Saturated fat": "10,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,3l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "KREMA ZA ST.SOJINA 300ML",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,79",
+    "teaser-text": "KREMA ZA ST.SOJINA 300ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sojina-krema-za-stepanje-brez-laktoze-soyatoo-300-ml/p/446863",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446863/dt_main.jpg"
+}

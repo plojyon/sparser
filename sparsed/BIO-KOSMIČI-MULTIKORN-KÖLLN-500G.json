@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,00 g",
+            "Salt": "0,01 g",
+            "Total Fat": "4,70 g",
+            "Total Carbohydrate": "60,30 g",
+            "Sugar": "2,10 g",
+            "Prehranske vlaknine": "11,30 g",
+            "kJ": "1478,00 ",
+            "Protein": "11,10 g",
+            "kcal": "351,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B1 (Tiamin) 0,38 mg, Fosfor 411,00 mg, Magnezij 132,00 mg, Železo 3,10 mg, Cink 2,80 mg."
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-kosmici-multikorn-klln-500g/p/250050",
+    "product-price": "3,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/250050/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "3,59",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "BIO KOSMIČI MULTIK. 500G",
+    "product-stock-status": "",
+    "title": "BIO KOSMIČI MULTIKORN, KÖLLN, 500G",
+    "product-priceperunit": "7,18 €/kg",
+    "description": "BIO KOSMIČI MULTIK. 500G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "11,95",
+    "product-priceperunit": "23,90 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KONOPLJINO OLJE, HLADNO STISKANO, TOVARNA OLJA GEA, 0,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GEA konopljino olje jedilno hladno stiskano",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "jedilno hladno stiskano konopljino olje 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "9,00 g"
+        }
+    },
+    "description": "OLJE KONOPLJINO GEA 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "11,95",
+    "teaser-text": "OLJE KONOPLJINO GEA 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/konopljino-olje-hladno-stiskano-tovarna-olja-gea-05-l/p/472648",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472648/dt_main.jpg"
+}

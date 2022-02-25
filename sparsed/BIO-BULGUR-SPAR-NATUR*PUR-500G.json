@@ -1,0 +1,37 @@
+{
+    "product-priceperunit": "2,36 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "SPAR BIO BULGUR 500G",
+    "teaser-text": "SPAR BIO BULGUR 500G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "opis": "Bulgur je kuhana, sušena in grobo mleta durum pšenica v obliki zdroba. Je dobro prebavljiv in hitro pripravljen. Uporabimo ga v sladicah, kot jušno zakuho ali kot prilogo k ribam in mesu.Povprečna hranilna vrednost na 100g:Energijska vrednost 1633 kJ/ 385 kcalMaščobe 1,4 god tega nasičene maščobe 0,1gOgljikovi hidrati 78god tega sladkorji 0,2gPrehranske vlaknine 6,8gBeljakovine 12gSol 0,01g",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bio bulgur iz durum pšenice iz ekološke pridelave.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Bulgur kuhamo v dvojni količini vrele vode ca. 15 minut."
+        }
+    },
+    "url": "https://www.spar.si/online/bio-bulgur-spar-naturpur-500g/p/384269",
+    "product-insteadofprice": "1,32",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384269/dt_main.jpg",
+    "title": "BIO BULGUR, SPAR NATUR*PUR, 500G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,18",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

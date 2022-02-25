@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "1,90 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB AJVAR NEPEKOČI 680G",
+    "teaser-text": "SB AJVAR NEPEKOČI 680G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "2,60 g",
+            "Saturated fat": "0,80 g",
+            "Total Carbohydrate": "14,80 g",
+            "kJ": "402,00 ",
+            "Protein": "2,60 g",
+            "Salt": "1,10 g",
+            "Sugar": "0,70 g",
+            "kcal": "95,00 ",
+            "Prehranske vlaknine": "1,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "680g"
+        },
+        "ingredient-information": {
+            "sestavine": "rdeča paprika 82,00 %, jajčevec 12,00 %, jedilno rafinirano sončnično olje, sladkor, jedilna sol, pekoča paprika, česen, kis."
+        }
+    },
+    "url": "https://www.spar.si/online/ajvar-nepekoci-s-budget-680-g/p/374560",
+    "product-insteadofprice": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374560/dt_main.jpg",
+    "title": "AJVAR, NEPEKOČI, S-BUDGET, 680 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

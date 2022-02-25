@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "CAPPUCCINO VANILI.200GTZ",
+    "description": "CAPPUCCINO VANILI.200GTZ",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za skodelico napitka vzeti 3-4 žličke cappuccina, preliti z vročo (ne vrelo) vodo in premešati."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1840,00 ",
+            "Salt": "0,70 g",
+            "Sugar": "57,00 g",
+            "Total Carbohydrate": "76,00 g",
+            "Total Fat": "12,00 g",
+            "kcal": "436,00 ",
+            "Saturated fat": "12,00 g",
+            "Protein": "6,80 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "contact-information": {
+            "kontakt:": "LOMAS d.o.o., Kardeljeva ploščad 11a , SI-1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "CAPPUCCINO VANILIJA, FRANCK, 200G",
+    "url": "https://www.spar.si/online/cappuccino-vanilija-franck-200g/p/411655",
+    "isOnPromotion": "true",
+    "product-priceperunit": "8,45 €/kg",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-price": "1,69",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411655/dt_main.jpg"
+}

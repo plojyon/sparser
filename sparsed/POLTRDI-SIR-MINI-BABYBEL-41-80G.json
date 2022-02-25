@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "24,88 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SIR MINI BABYBEL 80G",
+    "teaser-text": "SIR MINI BABYBEL 80G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "24,00 g",
+            "Saturated fat": "16,00 g",
+            "Total Carbohydrate": "0,10 g",
+            "kJ": "1260,00 ",
+            "Protein": "22,00 g",
+            "Salt": "1,90 g",
+            "Sugar": "0,10 g",
+            "kcal": "304,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Hmezad Trgovina Žalec d.o.o., Arja vas 103, 3301 Petrovče"
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/poltrdi-sir-mini-babybel-41-80g/p/360143",
+    "product-insteadofprice": "1,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/360143/dt_main.jpg",
+    "title": "POLTRDI SIR MINI BABYBEL, 4/1, 80G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

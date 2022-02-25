@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-desert-oves-my-love-my-life-400g/p/605606",
+    "title": "BIO DESERT OVES, MY LOVE MY LIFE, 400G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Port d.o.o., Letališka cesta 32, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO DESERT OVES, MYLOVE-MYLIFE, 400G",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,70 g",
+            "Total Carbohydrate": "12,00 g",
+            "Saturated fat": "2,50 g",
+            "Protein": "0,80 g",
+            "Total Fat": "3,10 g",
+            "kcal": "80,00 ",
+            "Salt": "0,10 g",
+            "kJ": "337,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "4,98 €/kg",
+    "teaser-text": "BIO DESERT OVES 400G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BIO DESERT OVES 400G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/605606/dt_main.jpg",
+    "product-brand": ""
+}

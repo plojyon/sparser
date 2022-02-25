@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "12,50",
+    "product-priceperunit": "12,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR MOZZARELLA PALADIN, 1KG, KOS",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "1,70 g",
+            "Total Fat": "20,00 g",
+            "Protein": "19,00 g",
+            "kJ": "1102,00 ",
+            "Sugar": "1,70 g",
+            "kcal": "265,00 ",
+            "Saturated fat": "13,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Hmezad Trgovina Žalec d.o.o., Arja vas 103, 3301 Petrovče"
+        }
+    },
+    "description": "Sir Mozzarella 1kg",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "12,50",
+    "teaser-text": "Sir Mozzarella 1kg",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-mozzarella-paladin-1kg-kos/p/464389",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/464389/dt_main.jpg"
+}

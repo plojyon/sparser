@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,88",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje gluten."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        },
+        "product-net-cont": {
+            "neto-količina": "320g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE, GLUTEN (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "761,00 ",
+            "Saturated fat": "1,70 g",
+            "Protein": "9,00 g",
+            "Sugar": "2,00 g",
+            "Total Fat": "13,00 g",
+            "kcal": "183,00 ",
+            "Total Carbohydrate": "6,50 g",
+            "Salt": "1,50 g"
+        }
+    },
+    "product-priceperunit": "18,38 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tuna-s-koruzo-insalatissime-rio-mare-2x160g/p/272953",
+    "product-price": "5,88",
+    "title": "TUNA S KORUZO INSALATISSIME RIO MARE, 2X160G",
+    "description": "TUNA INSAL.KORU. 2x160G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/272953/dt_main.jpg",
+    "teaser-text": "TUNA INSAL.KORU. 2x160G"
+}

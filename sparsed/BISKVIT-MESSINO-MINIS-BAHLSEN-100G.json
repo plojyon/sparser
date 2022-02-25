@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "8,20 g",
+            "Salt": "0,11 g",
+            "Total Fat": "15,00 g",
+            "Total Carbohydrate": "64,00 g",
+            "Sugar": "48,00 g",
+            "Prehranske vlaknine": "2,30 g",
+            "kJ": "1728,00 ",
+            "Protein": "3,80 g",
+            "kcal": "411,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "security-warning": {
+            "varnostna-opozorila": "Na proizvodni liniji v predelavi tudi soja."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/biskvit-messino-minis-bahlsen-100g/p/135143",
+    "product-price": "1,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/135143/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,59",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BISKVIT ČOK.POM.ZEL.100G",
+    "product-stock-status": "",
+    "title": "BISKVIT MESSINO MINIS, BAHLSEN, 100G",
+    "product-priceperunit": "15,90 €/kg",
+    "description": "BISKVIT ČOK.POM.ZEL.100G"
+}

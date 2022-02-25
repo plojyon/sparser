@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,00 g",
+            "Total Fat": "1,50 g",
+            "Total Carbohydrate": "3,80 g",
+            "Sugar": "2,40 g",
+            "Salt": "0,04 g",
+            "kJ": "175,00 ",
+            "Protein": "3,20 g",
+            "kcal": "42,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kefir iz pasteriziranega mleka z 1,5% m.m.",
+        "opis": "Kefir krepko, krepki suhec je bele do belo rumene barve, gosto tekoč in ima penasto konsistenco, odvzet mu je del mlečne maščobe. Ima prijeten aromatičen vonj, značilen za kefir in značilen rahlo rezek in osvežujoč okus.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "contact-information": {
+            "kontakt:": "Kele & Kele d.o.o., Laze 22 a, 1370 Logatec"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresi."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kefir-15mml-krepki-suhec-krepko-750g/p/148615",
+    "product-price": "2,18",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/148615/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "2,18",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "KEFIR KREPKO 750G 1,5%",
+    "product-stock-status": "",
+    "title": "KEFIR 1,5%M.ML KREPKI SUHEC, KREPKO, 750G",
+    "product-priceperunit": "2,91 €/kg",
+    "description": "KEFIR KREPKO 750G 1,5%"
+}

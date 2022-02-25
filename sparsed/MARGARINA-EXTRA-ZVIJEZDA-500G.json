@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,78",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Delikatesna margarina extra",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3005,00 ",
+            "Saturated fat": "40,00 g",
+            "Protein": "0,50 g",
+            "Sugar": "0,70 g",
+            "Total Fat": "80,00 g",
+            "kcal": "725,00 ",
+            "Total Carbohydrate": "0,70 g",
+            "Salt": "0,40 g"
+        }
+    },
+    "product-priceperunit": "3,56 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/margarina-extra-zvijezda-500g/p/516680",
+    "product-price": "1,78",
+    "title": "MARGARINA EXTRA, ZVIJEZDA, 500G",
+    "description": "MARGARINA ZVIJEZDA 500G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/516680/dt_main.jpg",
+    "teaser-text": "MARGARINA ZVIJEZDA 500G"
+}

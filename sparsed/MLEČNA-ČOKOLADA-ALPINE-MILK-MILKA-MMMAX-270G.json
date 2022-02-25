@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,95",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Mlečna čokolada vsebuje najmanj 30% kakavovih delov.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "270g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z alpskim mlekom.",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2213,00 ",
+            "Saturated fat": "18,00 g",
+            "Prehranske vlaknine": "1,80 g",
+            "Protein": "6,30 g",
+            "Sugar": "58,00 g",
+            "Total Fat": "29,00 g",
+            "kcal": "530,00 ",
+            "Total Carbohydrate": "59,00 g",
+            "Salt": "0,37 g"
+        }
+    },
+    "product-priceperunit": "10,93 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecna-cokolada-alpine-milk-milka-mmmax-270g/p/536617",
+    "product-price": "2,95",
+    "title": "MLEČNA ČOKOLADA ALPINE MILK, MILKA MMMAX, 270G",
+    "description": "ČOKOLADA MILKA MLEČ.270G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/536617/dt_main.jpg",
+    "teaser-text": "ČOKOLADA MILKA MLEČ.270G"
+}

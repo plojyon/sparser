@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,89",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,3l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sodium C12-13 Pareth Sulfate (*A) / Sodium Laureth Sulfate (*B), Sodium Chloride, Cocamidopropyl Betaine, Cocamide MEA, Parfum, Sodium Salicylate, Glycol Distearate, Sodium, Benzoate, Polyquaternium-7, Styrene/Acrylates Copolymer, Tetrasodium EDTA, Citric Acid, Laureth-4, Lactose, Lactis Serum Proteinum, Mel, Amyl Cinnamal, Benzyl Benzoate, Hexyl, Cinnamal, CI 19140, CI 16255"
+        },
+        "contact-information": {
+            "kontakt:": "Lomas d.o.o, Kardeljeva ploščad 11a, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "4,63 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoce-milo-mlekomed-palmolive-300ml/p/200309",
+    "product-price": "1,39",
+    "title": "TEKOČE MILO MLEKO&MED PALMOLIVE, 300ML",
+    "description": "MILO TEK.PALMOL.300ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/200309/dt_main.jpg",
+    "teaser-text": "MILO TEK.PALMOL.300ML"
+}

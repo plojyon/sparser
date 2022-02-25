@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "17,00 g",
+            "Total Fat": "32,00 g",
+            "Total Carbohydrate": "54,00 g",
+            "Sugar": "53,00 g",
+            "Salt": "0,34 g",
+            "kJ": "2267,00 ",
+            "Protein": "7,10 g",
+            "kcal": "543,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z alpskim mlekom z lomljenimi lešniki.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Mlečna čokolada vsebuje najmanj 30% kakavovih delov.",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cokolada-drobljeni-lesnik-milka-100g/p/13555",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/13555/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČOK.MILKA DROB.LEŠN 100G",
+    "product-stock-status": "",
+    "title": "ČOKOLADA DROBLJENI LEŠNIK, MILKA, 100G",
+    "product-priceperunit": "11,90 €/kg",
+    "description": "ČOK.MILKA DROB.LEŠN 100G"
+}

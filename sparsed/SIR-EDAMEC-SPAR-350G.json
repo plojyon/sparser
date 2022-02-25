@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,89",
+    "product-priceperunit": "11,11 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR EDAMEC, SPAR, 350G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,70 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "23,00 g",
+            "Protein": "26,00 g",
+            "kJ": "1295,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "311,00 ",
+            "Saturated fat": "14,60 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "description": "SPAR SIR EDAMEC 350G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,89",
+    "teaser-text": "SPAR SIR EDAMEC 350G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-edamec-spar-350g/p/442179",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/442179/dt_main.jpg"
+}

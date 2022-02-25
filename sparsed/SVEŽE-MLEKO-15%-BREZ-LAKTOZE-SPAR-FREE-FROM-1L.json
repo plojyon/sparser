@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,17",
+    "product-priceperunit": "1,17 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SVEŽE MLEKO 1,5% BREZ LAKTOZE SPAR FREE FROM, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 120,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR free from Pol posneto mleko z 1,5% mlečne maščobe brez laktoze. Pasterizirano, s podaljšano trajnostjo. Vsebuje 57% manj maščobe kot polnomastno mleko s 3,5% maščobe.",
+        "opis": "*Laktose/Lactose < 0,01g/100mlAT 20130 EG",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "POL POSNETO MLEKO Z 1,5% MLEČNE MAŠČOBE BREZ LAKTOZE."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,13 g",
+            "Total Carbohydrate": "4,80 g",
+            "Total Fat": "1,50 g",
+            "Protein": "3,50 g",
+            "kJ": "197,00 ",
+            "Sugar": "4,80 g",
+            "kcal": "47,00 ",
+            "Saturated fat": "1,10 g"
+        }
+    },
+    "description": "SPAR FREE MLEKO 1,5% 1L",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,17",
+    "teaser-text": "SPAR FREE MLEKO 1,5% 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sveze-mleko-15-brez-laktoze-spar-free-from-1l/p/465233",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/465233/dt_main.jpg"
+}

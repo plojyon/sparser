@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "7,10",
+    "product-priceperunit": "7,10 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SKUTA ALBUMINSKA BARONICA, CCA. 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,60 g",
+            "Total Carbohydrate": "4,40 g",
+            "Total Fat": "3,70 g",
+            "Protein": "9,60 g",
+            "kJ": "376,00 ",
+            "Sugar": "2,50 g",
+            "kcal": "90,00 ",
+            "Saturated fat": "2,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "description": "SKUTA ALBUMINSKA VP",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "7,10",
+    "teaser-text": "SKUTA ALBUMINSKA VP",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/skuta-albuminska-baronica-cca-400g/p/468460",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468460/dt_main.jpg"
+}

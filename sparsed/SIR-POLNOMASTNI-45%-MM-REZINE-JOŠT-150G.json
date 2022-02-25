@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "16,53 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SIR JOŠT REZINE 150G",
+    "teaser-text": "SIR JOŠT REZINE 150G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "24,50 g",
+            "Saturated fat": "18,60 g",
+            "Total Carbohydrate": "0,10 g",
+            "kJ": "1280,00 ",
+            "Protein": "22,00 g",
+            "Salt": "1,40 g",
+            "Sugar": "0,10 g",
+            "kcal": "306,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PRESIDENT JOŠT SIR 45% REZINE 150 G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/sir-polnomastni-45-mm-rezine-jost-150g/p/365422",
+    "product-insteadofprice": "2,48",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/365422/dt_main.jpg",
+    "title": "SIR POLNOMASTNI 45% M.M., REZINE, JOŠT, 150G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,48",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

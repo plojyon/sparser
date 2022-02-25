@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "3,89",
+    "product-priceperunit": "1,30 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIVO PREMIUM SCHANKBIER PITTINGER, 6X0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "4,20 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "PIVO PITTING.SHCA.6X0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,89",
+    "teaser-text": "PIVO PITTING.SHCA.6X0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pivo-premium-schankbier-pittinger-6x05l/p/508632",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/508632/dt_main.jpg"
+}

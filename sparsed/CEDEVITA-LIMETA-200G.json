@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "7,95 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "NAP.INST.CED.LIMETA 200G",
+    "teaser-text": "NAP.INST.CED.LIMETA 200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "87,00 g",
+            "kJ": "1576,00 ",
+            "Protein": "0,00 g",
+            "Salt": "2,10 g",
+            "Sugar": "87,00 g",
+            "kcal": "370,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "INSTANT NAPITEK, LIMETA, CEDEVITA, 200G",
+        "ingredient-information": {
+            "sestavine": "sladkor, kislini: jabolčna in citronska kislina, sredstvo za uravnavanje kislosti: natrijev bikarbonat, naravna aroma limete, askorbinska kislina, alfa-tokoferil acetat, nikotinamid, sredstvo za zgostitev: e414, kalcijev pantotenat, barvilo: e141, tiamin mononitrat, natrijev riboflavin-5-fosfat."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "2 žlici (19 g) zrnc raztopite v 250 ml hladne vode."
+        }
+    },
+    "url": "https://www.spar.si/online/cedevita-limeta-200g/p/367602",
+    "product-insteadofprice": "1,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/367602/dt_main.jpg",
+    "title": "CEDEVITA LIMETA, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,59",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

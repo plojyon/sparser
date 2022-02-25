@@ -1,0 +1,46 @@
+{
+    "product-priceperunit": "29,48 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "TUNA FILE V O.OLJU 115G",
+    "teaser-text": "TUNA FILE V O.OLJU 115G",
+    "product-info": {
+        "trade-group": {
+            "latinsko-ime": "Thunnus albacares"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "81G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "26,00 g",
+            "Saturated fat": "3,30 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "1319,00 ",
+            "Protein": "21,00 g",
+            "Salt": "0,40 g",
+            "Sugar": "0,00 g",
+            "kcal": "318,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Tun fileti v oljčnem olju",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "115g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        }
+    },
+    "url": "https://www.spar.si/online/file-tune-v-oljcnem-olju-eva-115g/p/363101",
+    "product-insteadofprice": "3,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363101/dt_main.jpg",
+    "title": "FILE TUNE V OLJČNEM OLJU, EVA, 115G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

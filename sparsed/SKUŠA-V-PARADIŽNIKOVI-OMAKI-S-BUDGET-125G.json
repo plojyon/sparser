@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "7,92 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SKUŠA V PARADIŽNIKOVI OMAKI, S-BUDGET, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "80G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "FILETI SKUŠE BREZ KOŽE IN KOSTI V PARADIŽNIKOVI OMAKI.",
+        "opis": "Fileti skuše brez kože in kosti v paradižnikovi omaki.Ujeto v morju v vlečnimi mrežami, FAO 27-SV Atlantik.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Scomber scombrus"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,70 g",
+            "Total Carbohydrate": "2,00 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "12,00 g",
+            "Protein": "13,00 g",
+            "kJ": "692,00 ",
+            "Sugar": "2,00 g",
+            "kcal": "166,00 ",
+            "Saturated fat": "1,20 g"
+        }
+    },
+    "description": "SB SKUŠA V PAR.OMAK.125G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "SB SKUŠA V PAR.OMAK.125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/skusa-v-paradiznikovi-omaki-s-budget-125g/p/453898",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/453898/dt_main.jpg"
+}

@@ -1,0 +1,30 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,29",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLETA KAVA CLASSIC, BARCAFFE, 375G",
+        "ingredient-information": {
+            "sestavine": "mešanica mlete pražene kave."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "11,25 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mleta-kava-classic-barcaffe-375g/p/411989",
+    "product-price": "4,22",
+    "title": "MLETA KAVA CLASSIC, BARCAFFE, 375G",
+    "description": "KAVA ML. BARCAFFE 375G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411989/dt_main.jpg",
+    "teaser-text": "KAVA ML. BARCAFFE 375G"
+}

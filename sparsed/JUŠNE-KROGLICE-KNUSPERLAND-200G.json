@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "16,80 g",
+            "Total Fat": "35,00 g",
+            "Total Carbohydrate": "50,00 g",
+            "Sugar": "2,00 g",
+            "Salt": "0,90 g",
+            "kJ": "2313,00 ",
+            "Protein": "8,00 g",
+            "kcal": "555,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jusne-kroglice-knusperland-200g/p/269741",
+    "product-price": "0,74",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/269741/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,74",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KROGLICE JUŠNE 200G",
+    "product-stock-status": "",
+    "title": "JUŠNE KROGLICE KNUSPERLAND, 200G",
+    "product-priceperunit": "3,70 €/kg",
+    "description": "KROGLICE JUŠNE 200G"
+}

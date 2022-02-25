@@ -1,0 +1,28 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "2,99 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h3b/h64/9829227331614/tehtnica-ikona-123x80.jpg",
+    "title": "KOKOS, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "razred": "1"
+        },
+        "contact-information": {
+            "kontakt:": "Različni dobavitelji"
+        }
+    },
+    "description": "KOKOSOV OREH",
+    "product-promotionBadges": "Tehtan izdelek",
+    "product-brand": "",
+    "product-price": "2,99",
+    "teaser-text": "KOKOSOV OREH",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kokos-1kg/p/48227",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48227/dt_main.jpg"
+}

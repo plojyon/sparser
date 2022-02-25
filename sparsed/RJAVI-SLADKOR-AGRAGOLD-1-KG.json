@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "SLADKOR RJAVI 1KG",
+    "description": "SLADKOR RJAVI 1KG",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Agragold Demerara nerafinirani trsni sladkor",
+        "ingredient-information": {
+            "sestavine": "sladkor 100,00 %."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1700,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "100,00 g",
+            "Total Carbohydrate": "100,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "400,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "RJAVI SLADKOR, AGRAGOLD, 1 KG",
+    "url": "https://www.spar.si/online/rjavi-sladkor-agragold-1-kg/p/414347",
+    "isOnPromotion": "true",
+    "product-priceperunit": "2,11 €/kg",
+    "product-insteadofprice": "2,49",
+    "product-stock-status": "",
+    "product-price": "2,11",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/414347/dt_main.jpg"
+}

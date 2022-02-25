@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "10,09",
+    "product-priceperunit": "14,41 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VODKA CLASSIC, KEGLEVICH, 0,7L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "VODKA, CLASSIC, KEGLEVICH, 0,7L",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "38,00 vol. %"
+        }
+    },
+    "description": "VODKA KEGLEVICH 0.7L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "10,09",
+    "teaser-text": "VODKA KEGLEVICH 0.7L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vodka-classic-keglevich-07l/p/464919",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/464919/dt_main.jpg"
+}

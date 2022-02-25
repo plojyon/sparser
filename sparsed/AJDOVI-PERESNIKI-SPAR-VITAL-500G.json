@@ -1,0 +1,48 @@
+{
+    "product-priceperunit": "2,70 €/kg",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL PERESNIK.500G",
+    "teaser-text": "SPAR VITAL PERESNIK.500G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 5,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "2,70 g",
+            "Saturated fat": "0,50 g",
+            "Total Carbohydrate": "70,20 g",
+            "kJ": "1532,00 ",
+            "Protein": "11,20 g",
+            "Salt": "0,00 g",
+            "Sugar": "1,00 g",
+            "kcal": "362,00 ",
+            "Prehranske vlaknine": "6,00 g"
+        },
+        "opis": "Sušene testenine z dodanim vitaminom E.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Spar Vital ajdovi peresnikiSušene testenine z dodanim vitaminom E",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Testenine kuhamo v zadostni količini osoljene vode ca. 9 minut. Medtem jih večkrat premešamo. Kuhane testenine odcedimo in postrežemo z izbrano omako."
+        }
+    },
+    "url": "https://www.spar.si/online/ajdovi-peresniki-spar-vital-500g/p/385217",
+    "product-insteadofprice": "1,35",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/385217/dt_main.jpg",
+    "title": "AJDOVI PERESNIKI, SPAR VITAL, 500G",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,35",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

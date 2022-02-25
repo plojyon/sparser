@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-veganski-jajcni-nadomestek-spar-veggie-200g/p/598649",
+    "title": "BIO VEGANSKI JAJČNI NADOMESTEK, SPAR VEGGIE, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,99",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "3,10 g",
+            "Total Carbohydrate": "49,00 g",
+            "Prehranske vlaknine": "11,00 g",
+            "Saturated fat": "0,70 g",
+            "Protein": "19,00 g",
+            "Total Fat": "5,70 g",
+            "kcal": "345,00 ",
+            "Salt": "0,01 g",
+            "kJ": "1455,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO VEGANSKI JAJČNI NADOMESTEK, iz ekološke pridelave (Kmetijstvo EU/ izven EU, AT-BIO-301). Rastlinski jajčni nadomestek nevtralnega okusa, na osnovi koruzne moke.",
+        "ingredient-information": {
+            "alergeni": "VOLČJI BOB."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Pozor: ni primerno za pripravo samostojnih jajčnih jedi, kot so umešana jajca ali jajca na oko."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priprava: 1 čajno žličko (5 g) nadomestka zmešamo s 50 ml vode (ustreza 1 jajcu) in naprej pripravimo po receptu."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "14,95 €/kg",
+    "teaser-text": "SPAR VEGGIE NAD.JAJC200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR VEGGIE NAD.JAJC200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/598649/dt_main.jpg",
+    "product-brand": ""
+}

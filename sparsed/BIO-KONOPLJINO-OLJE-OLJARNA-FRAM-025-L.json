@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "6,63",
+    "product-priceperunit": "26,52 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO KONOPLJINO OLJE, OLJARNA FRAM, 0,25 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "92,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3443,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "820,00 ",
+            "Saturated fat": "8,00 g"
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "bio konopljino olje 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "OLJE BIO KONOPLJINO 0,25",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "6,63",
+    "teaser-text": "OLJE BIO KONOPLJINO 0,25",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-konopljino-olje-oljarna-fram-025-l/p/482908",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/482908/dt_main.jpg"
+}

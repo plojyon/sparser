@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "242,84 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KONJAK HENNESSY XO 0,7L",
+    "teaser-text": "KONJAK HENNESSY XO 0,7L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "ingredient-information": {
+            "sestavine": "konjak."
+        }
+    },
+    "url": "https://www.spar.si/online/konjak-hennessy-xo-07-l/p/374738",
+    "product-insteadofprice": "169,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374738/dt_main.jpg",
+    "title": "KONJAK, HENNESSY X.O, 0,7 L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "169,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

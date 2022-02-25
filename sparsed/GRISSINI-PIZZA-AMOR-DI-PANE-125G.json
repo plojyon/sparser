@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,94",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/grissini-pizza-amor-di-pane-125g/p/567805",
+    "title": "GRISSINI PIZZA, AMOR DI PANE, 125G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,94",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,30 g",
+            "Total Carbohydrate": "68,80 g",
+            "Prehranske vlaknine": "4,40 g",
+            "Saturated fat": "1,40 g",
+            "Protein": "11,50 g",
+            "Total Fat": "9,50 g",
+            "kcal": "1748,00 ",
+            "Salt": "2,50 g",
+            "kJ": "415,00 "
+        }
+    },
+    "product-priceperunit": "7,52 €/kg",
+    "teaser-text": "GRISSINI PIZZA",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "GRISSINI PIZZA",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/567805/dt_main.jpg",
+    "product-brand": ""
+}

@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "8,39 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ŠAMPINJONI REZ.SLAN.280G",
+    "teaser-text": "ŠAMPINJONI REZ.SLAN.280G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ahac d.o.o., Stopče 31, 3231 Grobelno, Slovenija, EU"
+        },
+        "base-information": {
+            "neto-količina-plod:": "170G"
+        },
+        "opis": "V slani raztopini.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,40 g",
+            "Saturated fat": "0,06 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "74,00 ",
+            "Protein": "2,40 g",
+            "Salt": "1,95 g",
+            "Sugar": "0,00 g",
+            "kcal": "18,00 ",
+            "Prehranske vlaknine": "2,30 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/sampinjoni-rezani-droga-280g/p/375274",
+    "product-insteadofprice": "2,35",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/375274/dt_main.jpg",
+    "title": "ŠAMPINJONI REZANI DROGA, 280G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,35",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

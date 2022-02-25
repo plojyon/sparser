@@ -1,0 +1,46 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "7,69",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Vinska klet Goriška Brda z.o.o., Zadružna cesta 9, 5212 Dobrovo"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Peneči muškat, peneče vino aromatičnih sort, sladko.",
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Vsebuje sulfit."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "330,10 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "6,74 g",
+            "Total Fat": "0,00 g",
+            "kcal": "79,00 ",
+            "Total Carbohydrate": "6,74 g",
+            "Salt": "0,00 g"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "9,00 vol. %"
+        }
+    },
+    "product-priceperunit": "7,17 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/penina-peneci-muskat-goriska-brda-075-l/p/490818",
+    "product-price": "5,38",
+    "title": "PENINA, PENEČI MUŠKAT, GORIŠKA BRDA, 0,75 L",
+    "description": "PEN.V.MUŠKAT BRDA 0,75L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490818/dt_main.jpg",
+    "teaser-text": "PEN.V.MUŠKAT BRDA 0,75L"
+}

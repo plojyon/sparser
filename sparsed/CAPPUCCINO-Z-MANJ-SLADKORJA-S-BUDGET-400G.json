@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB CAPPUCCINO 400G",
+    "description": "SB CAPPUCCINO 400G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Navodila za pripravo: 3-4 zvrhane žličke praška (10 g) damo v skodelico, dodamo 150 ml vroče (ne vrele) vode in premešamo."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "INSTANT KAVNA MEŠANICA ZA PRIPRAVO CAPPUCCINA",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1747,00 ",
+            "Salt": "0,52 g",
+            "Sugar": "28,00 g",
+            "Total Carbohydrate": "62,00 g",
+            "Total Fat": "15,00 g",
+            "kcal": "416,00 ",
+            "Prehranske vlaknine": "0,30 g",
+            "Saturated fat": "15,00 g",
+            "Protein": "10,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "CAPPUCCINO Z MANJ SLADKORJA, S-BUDGET, 400G",
+    "url": "https://www.spar.si/online/cappuccino-z-manj-sladkorja-s-budget-400g/p/424703",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,18 €/kg",
+    "product-insteadofprice": "2,07",
+    "product-stock-status": "",
+    "product-price": "2,07",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/424703/dt_main.jpg"
+}

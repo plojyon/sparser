@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "OLJE OLJČNO DIOKLE 750ML",
+    "description": "OLJE OLJČNO DIOKLE 750ML",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "DIOKLECIJAN OLJČNO OLJE DEVIŠKO EKSTRA VIŠJE KATEGORIJE HLADNO STISTKANO",
+        "ingredient-information": {
+            "sestavine": "ekstra deviško oljčno olje."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3760,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "99,90 g",
+            "kcal": "897,00 ",
+            "Saturated fat": "14,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        }
+    },
+    "title": "EKSTRA DEVIŠKO OLJČNO OLJE, DIOKLECIJAN, 0,75 L",
+    "url": "https://www.spar.si/online/ekstra-devisko-oljcno-olje-dioklecijan-075-l/p/415166",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,28 €/l",
+    "product-insteadofprice": "11,46",
+    "product-stock-status": "",
+    "product-price": "11,46",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/415166/dt_main.jpg"
+}

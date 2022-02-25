@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,63",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU SIRNI NAMAZ S TUNO 140 G LJ",
+        "ingredient-information": {
+            "alergeni": "RIBE, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1127,00 ",
+            "Saturated fat": "15,90 g",
+            "Protein": "8,50 g",
+            "Sugar": "3,10 g",
+            "Total Fat": "25,00 g",
+            "kcal": "273,00 ",
+            "Total Carbohydrate": "3,40 g",
+            "Salt": "0,80 g"
+        }
+    },
+    "product-priceperunit": "7,79 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sirni-namaz-s-tuno-mu-140g/p/261701",
+    "product-price": "1,09",
+    "title": "SIRNI NAMAZ S TUNO, MU, 140G",
+    "description": "NAMAZ SIRNI TUNO 140G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/261701/dt_main.jpg",
+    "teaser-text": "NAMAZ SIRNI TUNO 140G"
+}

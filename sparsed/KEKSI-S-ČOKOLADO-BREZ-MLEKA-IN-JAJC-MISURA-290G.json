@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "3,09",
+    "product-priceperunit": "10,66 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KEKSI S ČOKOLADO BREZ MLEKA IN JAJC, MISURA, 290G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MISURA KEKSI BREZ JAJC IN MLEKA S KOŠČKI ČOKOLADE 290 G",
+        "opis": "Krhki piškoti z medom, brez mleka in jajc.",
+        "contact-information": {
+            "kontakt:": "ORBICO d.o.o., Verovškova 72, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "290g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,50 g",
+            "Total Carbohydrate": "68,00 g",
+            "Total Fat": "19,00 g",
+            "Protein": "7,10 g",
+            "kJ": "2004,00 ",
+            "Sugar": "26,00 g",
+            "kcal": "477,00 ",
+            "Saturated fat": "3,80 g"
+        }
+    },
+    "description": "MISURA KEKSI S ČOKO.290G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,09",
+    "teaser-text": "MISURA KEKSI S ČOKO.290G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/keksi-s-cokolado-brez-mleka-in-jajc-misura-290g/p/505967",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505967/dt_main.jpg"
+}

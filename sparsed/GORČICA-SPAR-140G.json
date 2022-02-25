@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "0,41",
+    "product-priceperunit": "2,93 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "title": "GORČICA SPAR, 140G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,30 g",
+            "Total Carbohydrate": "2,40 g",
+            "Prehranske vlaknine": "4,80 g",
+            "Total Fat": "5,40 g",
+            "Protein": "5,90 g",
+            "kJ": "379,00 ",
+            "Sugar": "2,40 g",
+            "kcal": "91,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "description": "SPAR GORČICA 140G",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-brand": "",
+    "product-price": "0,41",
+    "teaser-text": "SPAR GORČICA 140G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gorcica-spar-140g/p/444432",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/444432/dt_main.jpg"
+}

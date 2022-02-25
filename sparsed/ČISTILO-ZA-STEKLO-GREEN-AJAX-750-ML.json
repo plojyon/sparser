@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko povzroči draženje oči. Hraniti izven dosega otrok."
+        },
+        "ingredient-information": {
+            "sestavine": "Parfum, Lactic acid."
+        },
+        "contact-information": {
+            "kontakt:": "Lomas d.o.o, Kardeljeva ploščad 11a, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "2,92 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cistilo-za-steklo-green-ajax-750-ml/p/449073",
+    "product-price": "2,19",
+    "title": "ČISTILO ZA STEKLO, GREEN, AJAX, 750 ML",
+    "description": "ČISTILO AJAX 750ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/449073/dt_main.jpg",
+    "teaser-text": "ČISTILO AJAX 750ML"
+}

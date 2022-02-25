@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,95",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pšenični zdrob. Žitna kašica.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1464,00 ",
+            "Saturated fat": "0,27 g",
+            "Prehranske vlaknine": "2,60 g",
+            "Protein": "10,10 g",
+            "Sugar": "2,40 g",
+            "Total Fat": "1,00 g",
+            "kcal": "345,00 ",
+            "Total Carbohydrate": "72,60 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "3,80 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/psenicni-zdrob-bebe-hitra-priprava-zlato-polje-250g/p/42691",
+    "product-price": "0,95",
+    "title": "PŠENIČNI ZDROB BEBE HITRA PRIPRAVA, ZLATO POLJE, 250G",
+    "description": "ZDROB BEBE PŠEN.250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42691/dt_main.jpg",
+    "teaser-text": "ZDROB BEBE PŠEN.250G"
+}

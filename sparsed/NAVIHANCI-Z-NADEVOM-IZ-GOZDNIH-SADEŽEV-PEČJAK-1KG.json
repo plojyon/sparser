@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "7,10 g",
+            "Salt": "0,70 g",
+            "Total Fat": "13,80 g",
+            "Total Carbohydrate": "41,20 g",
+            "Sugar": "14,60 g",
+            "Prehranske vlaknine": "2,30 g",
+            "kJ": "1313,00 ",
+            "Protein": "4,90 g",
+            "kcal": "313,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Navihančki z nadevom gozdni sadeži, Hitro zamrznjeni izdelek iz kvašenega listnatega testa z nadevom, ki ga je treba termično obdelati po navodilih proizvajalca.",
+        "contact-information": {
+            "kontakt:": "Pekarna Pečjak d.o.o., Dolenjska cesta 442, 1291 Škofljica"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/navihanci-z-nadevom-iz-gozdnih-sadezev-pecjak-1kg/p/253391",
+    "product-price": "9,13",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/253391/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "9,13",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "NAVIHANČKI GOZ.SAD. 1KG",
+    "product-stock-status": "",
+    "title": "NAVIHANCI Z NADEVOM IZ GOZDNIH SADEŽEV, PEČJAK, 1KG",
+    "product-priceperunit": "9,13 €/kg",
+    "description": "NAVIHANČKI GOZ.SAD. 1KG"
+}

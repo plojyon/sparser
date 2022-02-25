@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "FANTA SHOKATA 0,5L",
+    "description": "FANTA SHOKATA 0,5L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "voda, fruktozno-glukozni sirup, limonin sok iz zgoščenega limoninega soka 3,00 %, ogljikov dioksid, citronska kislina, natrijevi citrati, arome (vključno z aromo bezga), kalijev sorbat, stabilizatorja (e414, e445), antioksidant (askorbinska kislina)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "185,00 ",
+            "Salt": "0,05 g",
+            "Sugar": "10,50 g",
+            "Total Carbohydrate": "10,50 g",
+            "Total Fat": "0,00 g",
+            "kcal": "43,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        }
+    },
+    "title": "FANTA SHOKATA, 500ML",
+    "url": "https://www.spar.si/online/fanta-shokata-500ml/p/435549",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,58 €/l",
+    "product-insteadofprice": "0,79",
+    "product-stock-status": "",
+    "product-price": "0,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/435549/dt_main.jpg"
+}

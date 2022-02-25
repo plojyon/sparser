@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,36",
+    "product-priceperunit": "0,72 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GAZIRANA MINERALNA VODA, TEMPEL, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "GAZIRANA MINERALNA VODA TEMPEL, 0,5L",
+        "opis": "Gazirana mineralna voda tempel z veliko osebnostjo magnezija.",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "voda 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "VODA TEMPEL 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,36",
+    "teaser-text": "VODA TEMPEL 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gazirana-mineralna-voda-tempel-05l/p/498387",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498387/dt_main.jpg"
+}

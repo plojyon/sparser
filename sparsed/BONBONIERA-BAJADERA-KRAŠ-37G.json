@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "27,30 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "BONBONIERA BAJADERA 37G",
+    "teaser-text": "BONBONIERA BAJADERA 37G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "33,30 g",
+            "Saturated fat": "10,80 g",
+            "Total Carbohydrate": "59,63 g",
+            "kJ": "2280,00 ",
+            "Protein": "5,80 g",
+            "Salt": "0,00 g",
+            "Sugar": "54,90 g",
+            "kcal": "545,00 ",
+            "Prehranske vlaknine": "4,33 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Lešnikov-mandljev nugatni izdelek.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "37g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, LEŠNIKI, MANDLJI, MLEKO (V SLEDOVIH), OREH (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/bonboniera-bajadera-kras-37g/p/386778",
+    "product-insteadofprice": "1,01",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/386778/dt_main.jpg",
+    "title": "BONBONIERA BAJADERA, KRAŠ, 37G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,01",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

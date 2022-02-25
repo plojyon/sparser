@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "1,10 g",
+            "Total Fat": "0,20 g",
+            "Total Carbohydrate": "1,30 g",
+            "Sugar": "1,20 g",
+            "Prehranske vlaknine": "1,10 g",
+            "kJ": "59,00 ",
+            "Protein": "1,20 g",
+            "kcal": "14,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "160G"
+        },
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/delikatesne-kumarice-spar-280g/p/168247",
+    "product-price": "0,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/168247/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-insteadofprice": "0,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "teaser-text": "SPAR KUMARICE DEL.280G",
+    "product-stock-status": "",
+    "title": "DELIKATESNE KUMARICE SPAR, 280G",
+    "product-priceperunit": "3,18 €/kg",
+    "description": "SPAR KUMARICE DEL.280G"
+}

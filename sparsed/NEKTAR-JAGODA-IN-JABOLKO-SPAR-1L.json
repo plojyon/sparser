@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "0,86",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "opis": "Sadni nektar iz jagod in jabolk iz jagodne kaše ter zgoščenega jabolčnega soka. Sadni delež najmanj 45 %.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR JAGODA & JABOLKO NEKTAR - Sadni nektar iz jagod in jabolk iz jagodne in jabolčne kaše ter zgoščenega jabolčnega soka",
+        "ingredient-information": {
+            "sestavine": "voda, jagodna kaša 23,00 %, jabolčna kaša 13,00 %, jabolčni sok 9,00 %, sladkor, sok črnega korena, kislina (citronska kislina)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "190,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "11,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "45,00 ",
+            "Total Carbohydrate": "11,20 g",
+            "Salt": "0,01 g"
+        }
+    },
+    "product-priceperunit": "0,86 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/nektar-jagoda-in-jabolko-spar-1l/p/502319",
+    "product-price": "0,86",
+    "title": "NEKTAR JAGODA IN JABOLKO SPAR, 1L",
+    "description": "SPAR NEKTAR JAGODA 1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502319/dt_main.jpg",
+    "teaser-text": "SPAR NEKTAR JAGODA 1L"
+}

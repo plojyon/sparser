@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "3,85",
+    "product-priceperunit": "2,33 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "title": "SLADOLED 4 YOU, SPAR, 1650ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "900G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Sladoled z okusom višnje, sladoled z okusom čokolade, sladoled z okusom vanilije, sladoled z okusom bele čokolade, z višnjevim prelivom in koščki kakavovega preliva.",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,65l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "28,00 g",
+            "Total Fat": "6,20 g",
+            "Protein": "2,50 g",
+            "kJ": "752,00 ",
+            "Sugar": "25,00 g",
+            "kcal": "179,00 ",
+            "Saturated fat": "4,80 g"
+        }
+    },
+    "description": "SLAD.SPAR 4YOU ČOK.BE.ČO",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-brand": "",
+    "product-price": "3,85",
+    "teaser-text": "SLAD.SPAR 4YOU ČOK.BE.ČO",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladoled-4-you-spar-1650ml/p/511766",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/511766/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,06",
+    "product-priceperunit": "0,34 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "JAJCA BREZ GSO, M, DOMAČIJA ŠRUBAR, MEJA ŠENTJUR, 6/1",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "JAJCA Z DOMAČIJE BREZ GSO 6/1 min.318g",
+        "contact-information": {
+            "kontakt:": "MEJA ŠENTJUR D.D., Cesta Leona Dobrotinška 3, 3230 Šentjur"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA."
+        },
+        "product-net-cont": {
+            "neto-količina": "6kos"
+        },
+        "trade-group": {
+            "način-pridelave": "2 - Talna reja"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,35 g",
+            "Total Carbohydrate": "0,80 g",
+            "Total Fat": "9,90 g",
+            "Protein": "12,60 g",
+            "kJ": "594,00 ",
+            "Sugar": "0,80 g",
+            "kcal": "143,00 ",
+            "Saturated fat": "2,60 g"
+        }
+    },
+    "description": "JAJCA M 6/1",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,06",
+    "teaser-text": "JAJCA M 6/1",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jajca-brez-gso-m-domacija-srubar-meja-sentjur-61/p/498433",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498433/dt_main.jpg"
+}

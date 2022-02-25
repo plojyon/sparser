@@ -1,0 +1,49 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "83,00 g",
+            "Sugar": "73,00 g",
+            "Salt": "2,00 g",
+            "kJ": "1496,00 ",
+            "Protein": "0,00 g",
+            "kcal": "353,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Zrnca za pripravo vitaminskega napitka z okusom tropskih sadežev. Prehransko dopolnilo.",
+        "security-warning": {
+            "varnostna-opozorila": "Priporočena dnevna količina za odrasle in otroke nad 10 let je 2 napitka, za otroke pod 10 let pa 1 napitek. Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom!"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 32,00 mg, Vitamin C 210,00 mg, Vitamin B1 (Tiamin) 2,90 mg, Vitamin B2 (Riboflavin) 3,70 mg, Vitamin B3 (Niacin) 42,00 mg, Vitamin B6 3,70 mg, Vitamin M (Folna kislina) 526,00 mikrogr. Vitamin B12 6,60 mikrogr. Vitamin H (Biotin) 132,00 mikrogr. Vitamin B5 (Pantotenska kislina) 16,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "contact-information": {
+            "kontakt:": "RADENSKA D.O.O., BORAČEVA 37, 9252 RADENCI"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, maltodekstrin, koncentrat manga v prahu 4,20 %, koncentrat banane v prahu 0,40 %, koncentrat ananasa v prahu 0,20 %, kislina (citronska kislina), sredstvo za uravnavanje kislosti (natrijevi karbonati), sredstvo za zgostitev (gumi arabikum), naravne arome, vitamini (l- askorbinska kislina, nikotinamid, d-alfa-tokoferil acetat, kalcijev d-pantotenat, riboflavin, piridoksin hidroklorid, tiamin mononitrat, pteroilmonoglutaminska kislina, d- biotin, cianokobalamin)), barvilo (karoteni)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "2 žlici (19 g) raztopite v 250 mL hladne vode, premešajte in napitek je pripravljen. Zrnca vedno zajemajte s suho žlico. Po uporabi dobro zaprite embalažo."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zrnca-za-pripravo-vitaminskega-napitka-oraketa-exotic-800g/p/585887",
+    "product-price": "3,45",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/585887/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "4,62",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "NAP.INST.ORAKETA 800G",
+    "product-stock-status": "",
+    "title": "ZRNCA ZA PRIPRAVO VITAMINSKEGA NAPITKA, ORAKETA EXOTIC, 800G",
+    "product-priceperunit": "4,31 €/kg",
+    "description": "NAP.INST.ORAKETA 800G"
+}

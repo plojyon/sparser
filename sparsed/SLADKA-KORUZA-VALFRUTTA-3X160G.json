@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,40 g",
+            "Salt": "0,80 g",
+            "Total Fat": "1,80 g",
+            "Total Carbohydrate": "12,20 g",
+            "Sugar": "6,30 g",
+            "Prehranske vlaknine": "3,90 g",
+            "kJ": "349,00 ",
+            "Protein": "2,60 g",
+            "kcal": "83,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "V SOPARI KUHANO, STERELIZIRANO ZRNJE KORUZE.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "opis": "/",
+        "base-information": {
+            "neto-količina-plod:": "140G"
+        },
+        "product-net-cont": {
+            "neto-količina": "480g"
+        },
+        "ingredient-information": {
+            "sestavine": "koruza, voda, jedilna sol."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sladka-koruza-valfrutta-3x160g/p/179620",
+    "product-price": "2,17",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/179620/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,17",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KORUZA SLADKA 3X160G",
+    "product-stock-status": "",
+    "title": "SLADKA KORUZA VALFRUTTA, 3X160G",
+    "product-priceperunit": "4,52 €/kg",
+    "description": "KORUZA SLADKA 3X160G"
+}

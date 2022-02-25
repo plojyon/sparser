@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,90 g",
+            "Total Fat": "1,10 g",
+            "Total Carbohydrate": "4,50 g",
+            "Sugar": "3,00 g",
+            "Salt": "0,10 g",
+            "kJ": "178,00 ",
+            "Protein": "3,30 g",
+            "kcal": "42,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kislo-mleko-11-planika-500g/p/147699",
+    "product-price": "1,34",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/147699/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "1,34",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "MLEKO KISLO PLANI 500G",
+    "product-stock-status": "",
+    "title": "KISLO MLEKO 1,1%, PLANIKA, 500G",
+    "product-priceperunit": "2,68 €/kg",
+    "description": "MLEKO KISLO PLANI 500G"
+}

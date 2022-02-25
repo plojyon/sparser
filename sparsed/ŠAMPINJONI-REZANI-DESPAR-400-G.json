@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "3,13 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "DESPAR ŠAMP.REZ. 400G",
+    "teaser-text": "DESPAR ŠAMP.REZ. 400G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "210G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,80 g",
+            "kJ": "87,00 ",
+            "Protein": "2,70 g",
+            "Salt": "0,70 g",
+            "Sugar": "0,00 g",
+            "kcal": "21,00 ",
+            "Prehranske vlaknine": "3,10 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "sestavine": "šampinjoni, voda, jedilna sol, sredstvo za uravnavanje kislosti: citronska kislina, antioksidant: askorbinska kislina."
+        }
+    },
+    "url": "https://www.spar.si/online/sampinjoni-rezani-despar-400-g/p/370845",
+    "product-insteadofprice": "1,25",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370845/dt_main.jpg",
+    "title": "ŠAMPINJONI, REZANI, DESPAR, 400 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,25",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,03",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "opis": "Instant mešanica za pripravo 8-10 palačink.Potrebno je dodati 450 ml mleka.",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "DR. OETKER d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "215g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Instant mešanica za pripravo 8 - 10 palačink.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "703,00 ",
+            "Saturated fat": "1,20 g",
+            "Protein": "6,10 g",
+            "Sugar": "5,80 g",
+            "Total Fat": "3,70 g",
+            "kcal": "167,00 ",
+            "Total Carbohydrate": "26,00 g",
+            "Salt": "0,41 g"
+        }
+    },
+    "product-priceperunit": "7,53 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zmes-za-palacinke-dr-oetker-215g/p/240766",
+    "product-price": "1,62",
+    "title": "ZMES ZA PALAČINKE, DR. OETKER, 215G",
+    "description": "ZMES ZA PALAČINKE 215G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/240766/dt_main.jpg",
+    "teaser-text": "ZMES ZA PALAČINKE 215G"
+}

@@ -1,0 +1,48 @@
+{
+    "product-priceperunit": "10,76 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "DŽEM MALINA 330G#",
+    "teaser-text": "DŽEM MALINA 330G#",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Prekomerno uživanje sorbitola ima lahko odvajalni učinek."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,01 g",
+            "Total Carbohydrate": "55,00 g",
+            "kJ": "600,00 ",
+            "Protein": "0,70 g",
+            "Salt": "0,01 g",
+            "Sugar": "3,00 g",
+            "kcal": "144,00 ",
+            "Prehranske vlaknine": "1,40 g"
+        },
+        "opis": "Z Malinovim namazom D´arbo Reform s sladilom sladkorja ne boste več pogrešali, časi, ko ste se morali zadovoljiti z manj dobrimi stvarmi, pa so preteklost. Izdelan je po starem družinskem receptu, iz skrbno izbranega in predelanega sadja, ki ga kuhajo v posebnih vakuumskih posodah, da ohrani vitamine in aromo. Izdelek vsebuje le naravno prisotne sladkorje v sadju in ga zato priporočamo vsem, ki želite zmanjšati količino sladkorja v svoji prehrani, a doživeti poln okus in aromo sadja.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MALINOV NAMAZ S SLADILOM D´ARBO 330 G",
+        "ingredient-information": {
+            "sestavine": "sladilo: sorbitolni sirup, maline, želirno sredstvo: pektin, sredstvo uravnavanje kislosti: citronska kislina."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Malinov namaz D´arbo Reform s sladilom je primeren za zajtrk ali katerikoli drug obrok, saj ga lahko uporabljate kot namaz na kruhu, pecivu, palačinkah ali ga dodate tortam, drugim sladicam in jedem."
+        }
+    },
+    "url": "https://www.spar.si/online/malinov-namaz-s-sladilom-darbo-reform-330g/p/357525",
+    "product-insteadofprice": "3,55",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/357525/dt_main.jpg",
+    "title": "MALINOV NAMAZ S SLADILOM, D´ARBO REFORM, 330G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,55",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

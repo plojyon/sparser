@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "19,70 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SIR GRANA PADANO 100G",
+    "teaser-text": "SIR GRANA PADANO 100G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "28,40 g",
+            "Saturated fat": "17,70 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "1612,00 ",
+            "Protein": "33,00 g",
+            "Salt": "1,60 g",
+            "Sugar": "0,00 g",
+            "kcal": "388,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/sir-trdi-polmastni-32-mm-grana-padano-zanetti-100g/p/374702",
+    "product-insteadofprice": "1,97",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374702/dt_main.jpg",
+    "title": "SIR TRDI POLMASTNI, 32% M.M., GRANA PADANO, ZANETTI, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,97",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

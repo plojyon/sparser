@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,37",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje mleko, arašide in oreške."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1589,00 ",
+            "Saturated fat": "0,60 g",
+            "Prehranske vlaknine": "7,40 g",
+            "Protein": "9,00 g",
+            "Sugar": "24,80 g",
+            "Total Fat": "2,90 g",
+            "kcal": "380,00 ",
+            "Total Carbohydrate": "74,70 g",
+            "Salt": "1,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj"
+        }
+    },
+    "product-priceperunit": "8,99 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kosmici-z-medom-honey-cheerios-nestl-375g/p/491665",
+    "product-price": "3,37",
+    "title": "KOSMIČI Z MEDOM HONEY CHEERIOS, NESTLÉ, 375G",
+    "description": "KOSMIČI Z MEDOM 375G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491665/dt_main.jpg",
+    "teaser-text": "KOSMIČI Z MEDOM 375G"
+}

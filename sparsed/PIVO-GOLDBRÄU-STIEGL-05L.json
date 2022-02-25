@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "1,35",
+    "product-priceperunit": "2,70 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIVO GOLDBRÄU STIEGL, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,10 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        }
+    },
+    "description": "PIVO STIEGL GOLDBRÄU0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,35",
+    "teaser-text": "PIVO STIEGL GOLDBRÄU0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pivo-goldbru-stiegl-05l/p/471371",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471371/dt_main.jpg"
+}

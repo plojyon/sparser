@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Total Fat": "1,00 g",
+            "Total Carbohydrate": "86,00 g",
+            "Sugar": "80,00 g",
+            "Salt": "0,00 g",
+            "kJ": "1532,00 ",
+            "Protein": "1,00 g",
+            "kcal": "361,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Vitergin pomaranča, sadni bombon z vitamini.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "opis": "Vsebujejo glukozo in pet pomembnih vitaminov: C, PP, B6, B2, B1. Nadomestijo porabljeno energijo in spodbujajo delovanje obrambnih mehanizmov v telesu. Vitergin priporočamo za dodatno moč in energijo pri fizičnih naporih, za premagovanje utrujenosti in hitrejše okrevanje po bolezni.",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 333,00 mg, Vitamin B1 (Tiamin) 4,60 mg, Vitamin B2 (Riboflavin) 5,80 mg, Vitamin B3 (Niacin) 66,50 mg, Vitamin B6 5,80 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "24g"
+        },
+        "ingredient-information": {
+            "sestavine": "dekstroza 86,00 %, koruzni škrob, polivinilpirolidon (stabilizator), smukec, citronska kislina (kislina), magnezijev stearat (sredstvo proti sprijemanju), aroma, sadje v prahu 0,50 %, vitamini."
+        },
+        "contact-information": {
+            "kontakt:": "ILIRIJA d.o.o., Tržaška cesta 40, 1001 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sadni-bonboni-pomaranca-vitergin-24g/p/153975",
+    "product-price": "0,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/153975/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BONBONI POMARANČA 24G",
+    "product-stock-status": "",
+    "title": "SADNI BONBONI POMARANČA, VITERGIN, 24G",
+    "product-priceperunit": "31,25 €/kg",
+    "description": "BONBONI POMARANČA 24G"
+}

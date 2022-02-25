@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NAPITEK MARELICA DANA1,5",
+    "description": "NAPITEK MARELICA DANA1,5",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA MARELICA POMARANČA JABOLKO - negazirana brezalkoholna pijača iz marelic, pomaranč in jabolk. Sadni delež: min. 25%.",
+        "ingredient-information": {
+            "sestavine": "voda, marelična kaša 12,00 %, pomarančni sok iz zgoščenega soka, sladkor, jabolčna kaša 4,00 %, kislina (citronska kislina), aroma, antioksidant (askorbinska kislina)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "179,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "10,20 g",
+            "Total Carbohydrate": "10,50 g",
+            "Total Fat": "0,00 g",
+            "kcal": "42,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Dana d.o.o., Glavna cesta 34, 8233 Mirna"
+        }
+    },
+    "title": "NAPITEK, MARELICA, DANA, 1,5 L",
+    "url": "https://www.spar.si/online/napitek-marelica-dana-15-l/p/415801",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,03 €/l",
+    "product-insteadofprice": "1,55",
+    "product-stock-status": "",
+    "product-price": "1,55",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/415801/dt_main.jpg"
+}

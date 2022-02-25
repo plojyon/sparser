@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NAP. YIPPY MULTI.0,33L",
+    "description": "NAP. YIPPY MULTI.0,33L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIJAČA Z OKUSOM POMARANČE, KORENJA IN LIMONE, YIPPY, RAUCH, 0,33 L",
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, zgoščeni sadni sokovi, citronska kislina, kalcijev citrat, vitamini, aroma."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "172,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "9,90 g",
+            "Total Carbohydrate": "9,90 g",
+            "Total Fat": "0,10 g",
+            "kcal": "41,00 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "SADNA PIJAČA MULTI YIPPY, RAUCH, 0,33L",
+    "url": "https://www.spar.si/online/sadna-pijaca-multi-yippy-rauch-033l/p/409394",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,88 €/l",
+    "product-insteadofprice": "0,95",
+    "product-stock-status": "",
+    "product-price": "0,95",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/409394/dt_main.jpg"
+}

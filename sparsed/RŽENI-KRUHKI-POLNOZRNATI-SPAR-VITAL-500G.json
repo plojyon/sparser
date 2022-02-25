@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "2,96 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL KRUH RŽ OVES",
+    "teaser-text": "SPAR VITAL KRUH RŽ OVES",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "3,60 g",
+            "Saturated fat": "0,50 g",
+            "Total Carbohydrate": "33,00 g",
+            "kJ": "881,00 ",
+            "Protein": "6,00 g",
+            "Salt": "1,30 g",
+            "Sugar": "4,10 g",
+            "kcal": "209,00 ",
+            "Prehranske vlaknine": "9,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Polnozrnati kruh z ovsom in sončničnimi semeni. Narezan na rezine. Zelo okusen tudi hrustljavo popečen. Visoka vsebnost prehranske vlaknine. Vir kalcija. Vir magnezija.",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/rzeni-kruhki-polnozrnati-spar-vital-500g/p/363422",
+    "product-insteadofprice": "1,48",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363422/dt_main.jpg",
+    "title": "RŽENI KRUHKI POLNOZRNATI SPAR VITAL, 500G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,48",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

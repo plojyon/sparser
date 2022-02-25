@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,19",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,05l"
+        },
+        "ingredient-information": {},
+        "opis": "NIVEA Men Dezodorant Antiperspirant Fresh Active roll-on za moške z 48-urno učinkovito zaščito kožo osveži in zagotavlja zanesljivo zaščito pred potenjem. Njegova uravnotežena sestava predstavlja optimalno kombinacijo blage nege NIVEA in naravne svežine. Formula združuje morske izvlečke, ki zagotavljajo dolgotrajno svežino in svež moški vonj.Ne vsebuje barvil in konzervansov. Dermatološko je dokazano, da koža izdelek dobro prenaša.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek enakomerno nanesite in pustite, da se posuši, preden se oblečete. Ne nanašajte na razdraženo ali poškodovano kožo. Pustite, da se popolnoma posuši."
+        },
+        "contact-information": {}
+    },
+    "product-priceperunit": "44,60 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/moski-deo-roll-on-fresh-active-nivea-men-50ml/p/242946",
+    "product-price": "2,23",
+    "title": "MOŠKI DEO ROLL ON FRESH ACTIVE, NIVEA MEN, 50ML",
+    "description": "DEO ROLL ON NIVEA",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/242946/dt_main.jpg",
+    "teaser-text": "DEO ROLL ON NIVEA"
+}

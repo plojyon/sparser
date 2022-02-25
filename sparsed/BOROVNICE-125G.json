@@ -1,0 +1,25 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,79",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "trade-group": {
+            "razred": "1"
+        }
+    },
+    "product-priceperunit": "9,52 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/borovnice-125g/p/394255",
+    "product-price": "1,19",
+    "title": "BOROVNICE, 125G",
+    "description": "BOROVNICE 125G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/394255/dt_main.jpg",
+    "teaser-text": "BOROVNICE 125G"
+}

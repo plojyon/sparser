@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VINO BELOKRANJEC 1L",
+    "description": "VINO BELOKRANJEC 1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,00 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "256,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,19 g",
+            "Total Carbohydrate": "0,19 g",
+            "Total Fat": "0,00 g",
+            "kcal": "61,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "VINO BELOKRANJEC KZ METLIKA, 1L",
+    "url": "https://www.spar.si/online/vino-belokranjec-kz-metlika-1l/p/42394",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,69 €/l",
+    "product-insteadofprice": "3,69",
+    "product-stock-status": "",
+    "product-price": "3,69",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42394/dt_main.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "33,30 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OREŠČKI MAKADAM.100G",
+    "teaser-text": "OREŠČKI MAKADAM.100G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Ulica 9. septembra 237a, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 0,70 mg, Vitamin B1 (Tiamin) 0,71 mg, Vitamin B2 (Riboflavin) 0,09 mg, Vitamin B3 (Niacin) 2,27 mg, Vitamin B6 0,36 mg, Kalij 363,00 mg, Kalcij 70,00 mg, Fosfor 198,00 mg, Magnezij 118,00 mg, Železo 2,65 mg, Cink 1,29 mg, Baker 0,57 mg, Mangan 3,04 mg, Selen 3,60 mikrogr."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "76,00 g",
+            "Saturated fat": "12,00 g",
+            "Total Carbohydrate": "13,00 g",
+            "kJ": "2978,00 ",
+            "Protein": "8,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "4,50 g",
+            "kcal": "720,00 ",
+            "Prehranske vlaknine": "8,50 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MAKADAMIJA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MAKADAMIJA, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/makadamija-bimed-100g/p/364490",
+    "product-insteadofprice": "3,33",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/364490/dt_main.jpg",
+    "title": "MAKADAMIJA, BIMED, 100G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,33",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

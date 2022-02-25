@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,50 g",
+            "Total Fat": "2,30 g",
+            "Total Carbohydrate": "21,70 g",
+            "Sugar": "17,80 g",
+            "Salt": "0,13 g",
+            "kJ": "498,00 ",
+            "Protein": "2,50 g",
+            "kcal": "118,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Zdrobov puding s 23 % češnjevega preliva",
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zdrobov-puding-vanilija-in-cesnjev-preliv-mller-450g/p/196703",
+    "product-price": "1,57",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/196703/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "1,57",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "PUDING GRES ČEŠNJ 450G",
+    "product-stock-status": "",
+    "title": "ZDROBOV PUDING VANILIJA IN ČEŠNJEV PRELIV, MÜLLER, 450G",
+    "product-priceperunit": "3,49 €/kg",
+    "description": "PUDING GRES ČEŠNJ 450G"
+}

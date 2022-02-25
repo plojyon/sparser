@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "20,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "HRANITI IZVEN DOSEGA OTROK"
+        },
+        "ingredient-information": {
+            "sestavine": "5-15 % anionske površinsko aktivne snovi< 5 % neionske površinsko aktivne snovi, milo, fosfonati. Nadaljnje sestavine encimi, sredstva za optično beljenje, parfumi, Limonene, Butylphenyl methylpropional, Hexyl cinnamal, Amyl cinnamal, Geraniol, Linalool, konzervansi, Benzisothiazolinone, Methylisothiazolinone."
+        },
+        "contact-information": {
+            "kontakt:": "HENKEL SLOVENIJA D.O.O., INDUSTRIJSKA CESTA 23, 2000 MARIBOR"
+        }
+    },
+    "product-priceperunit": "4,16 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/power-gel-freshness-by-silan-persil-60pranj-3l/p/550813",
+    "product-price": "12,48",
+    "title": "POWER GEL FRESHNESS BY SILAN, PERSIL, 60PRANJ, 3L",
+    "description": "GEL PERSIL FRESHNESS 3L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/550813/dt_main.jpg",
+    "teaser-text": "GEL PERSIL FRESHNESS 3L"
+}

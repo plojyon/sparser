@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "GORČICA 700G THOMY",
+    "description": "GORČICA 700G THOMY",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GORČICA",
+        "opis": "Brez glutena.",
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "base-information": {
+            "neto-količina-plod:": "700L"
+        },
+        "product-net-cont": {
+            "neto-količina": "700g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "446,00 ",
+            "Salt": "3,58 g",
+            "Sugar": "2,00 g",
+            "Total Carbohydrate": "5,00 g",
+            "Total Fat": "6,00 g",
+            "kcal": "107,00 ",
+            "Prehranske vlaknine": "3,10 g",
+            "Saturated fat": "0,20 g",
+            "Protein": "5,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "GORČICA V KOZARCU THOMY, 700G",
+    "url": "https://www.spar.si/online/gorcica-v-kozarcu-thomy-700g/p/40837",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,99 €/kg",
+    "product-insteadofprice": "2,79",
+    "product-stock-status": "",
+    "product-price": "2,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40837/dt_main.jpg"
+}

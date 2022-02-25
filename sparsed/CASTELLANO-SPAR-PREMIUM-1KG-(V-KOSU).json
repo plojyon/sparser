@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "teaser-text": "SPAR PREMIUM Sir",
+    "description": "SPAR PREMIUM Sir",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "opis": "Ovčji sir.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1757,00 ",
+            "Salt": "1,50 g",
+            "Sugar": "1,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "36,00 g",
+            "kcal": "424,00 ",
+            "Saturated fat": "25,20 g",
+            "Protein": "24,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "title": "CASTELLANO SPAR PREMIUM, 1KG, (V KOSU)",
+    "url": "https://www.spar.si/online/castellano-spar-premium-1kg-v-kosu/p/423155",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,81 €/kg",
+    "product-insteadofprice": "19,81",
+    "product-stock-status": "",
+    "product-price": "19,81",
+    "product-brand": "",
+    "product-promotionBadges": "Odlična kakovost",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/423155/dt_main.jpg"
+}

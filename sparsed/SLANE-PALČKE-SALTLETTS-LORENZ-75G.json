@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,60 g",
+            "Salt": "4,40 g",
+            "Total Fat": "5,80 g",
+            "Total Carbohydrate": "71,00 g",
+            "Sugar": "3,00 g",
+            "Prehranske vlaknine": "4,20 g",
+            "kJ": "1659,00 ",
+            "Protein": "12,00 g",
+            "kcal": "393,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sezamova semena."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "75g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/slane-palcke-saltletts-lorenz-75g/p/256596",
+    "product-price": "0,52",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/256596/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,52",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PALČKE SLANE 75G SALTLET",
+    "product-stock-status": "",
+    "title": "SLANE PALČKE SALTLETTS, LORENZ, 75G",
+    "product-priceperunit": "6,93 €/kg",
+    "description": "PALČKE SLANE 75G SALTLET"
+}

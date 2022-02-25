@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,59",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1868,00 ",
+            "Saturated fat": "14,00 g",
+            "Protein": "6,00 g",
+            "Sugar": "18,00 g",
+            "Total Fat": "28,00 g",
+            "kcal": "448,00 ",
+            "Total Carbohydrate": "42,00 g",
+            "Salt": "0,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "7,38 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rogljic-kakav-in-vanilija-double-max-7days-80g/p/425110",
+    "product-price": "0,59",
+    "title": "ROGLJIČ KAKAV IN VANILIJA DOUBLE MAX, 7DAYS, 80G",
+    "description": "ROGLJ.7DAY´S VAN.KAK.80G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/425110/dt_main.jpg",
+    "teaser-text": "ROGLJ.7DAY´S VAN.KAK.80G"
+}

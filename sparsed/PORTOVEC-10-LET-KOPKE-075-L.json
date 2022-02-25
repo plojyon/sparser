@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "26,18",
+    "product-priceperunit": "34,91 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PORTOVEC, 10 LET, KOPKE, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "20,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "PORTOVEC KOPKE 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "26,18",
+    "teaser-text": "PORTOVEC KOPKE 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/portovec-10-let-kopke-075-l/p/481968",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481968/dt_main.jpg"
+}

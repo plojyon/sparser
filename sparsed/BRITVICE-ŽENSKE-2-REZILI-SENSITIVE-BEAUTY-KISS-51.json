@@ -1,0 +1,29 @@
+{
+    "product-priceperunit": "0,15 €/kos",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "BEAUTY KISS BRIVNIK 5/1",
+    "teaser-text": "BEAUTY KISS BRIVNIK 5/1",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Z dvojnim rezilom in širokim ročajem omogoča zelo nežno in varno britje. Dodatek vitamina E in aloe vere ohranja vlažnost kože.",
+        "product-net-cont": {
+            "neto-količina": "5kos"
+        },
+        "ingredient-information": {
+            "sestavine": "Styrena/butadiene copolymer, peg-150, polystyrene, xanthan gum, calcium sulfate, stearic, aloe barbadensis extract, tocopherol, ci-77220."
+        }
+    },
+    "url": "https://www.spar.si/online/britvice-zenske-2-rezili-sensitive-beauty-kiss-51/p/381270",
+    "product-insteadofprice": "0,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381270/dt_main.jpg",
+    "title": "BRITVICE ŽENSKE 2 REZILI SENSITIVE, BEAUTY KISS, 5/1",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,75",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

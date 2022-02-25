@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,19",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, SEZAM, JAJCA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1150,00 ",
+            "Saturated fat": "0,88 g",
+            "Protein": "11,59 g",
+            "Sugar": "1,72 g",
+            "Total Fat": "6,96 g",
+            "kcal": "273,00 ",
+            "Total Carbohydrate": "41,59 g",
+            "Salt": "1,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o, Šmartinska cesta 154, 1000 Ljubljana, Slovenija"
+        }
+    },
+    "product-priceperunit": "4,15 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/stoletni-pirin-kruh-s-chio-zito-650g/p/519127",
+    "product-price": "4,15",
+    "title": "STOLETNI PIRIN KRUH S CHIO ŽITO, 650G",
+    "description": "KRUH STOLE. PIRIN S CHIO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/519127/dt_main.jpg",
+    "teaser-text": "KRUH STOLE. PIRIN S CHIO"
+}

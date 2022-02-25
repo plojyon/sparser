@@ -1,0 +1,51 @@
+{
+    "product-insteadofprice": "0,85",
+    "product-priceperunit": "76,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "BIO POMARANČNA LUPINA, SPAR NATUR*PUR, 10G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "10G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "57,00 g",
+            "Prehranske vlaknine": "13,00 g",
+            "Total Fat": "5,50 g",
+            "Protein": "4,60 g",
+            "kJ": "1355,00 ",
+            "Sugar": "24,00 g",
+            "kcal": "322,00 ",
+            "Saturated fat": "1,60 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebina vrečke ustreza naribani lupini dveh pomaranč in zadostuje za 0,5 l tekočine ali ca. 500 g moke."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO POMARANČNA LUPINA NARIBANA IN LIOFILIZIRANA",
+        "opis": "Naribana in sušena, z dodatkom bio pomarančnega olja. Primerna za izboljšanje okusa sladic, omak in pijač.Povprečna hranilna vrednost na 100g:- Energijska vrednost: 1358 kJ/ 323 kcal- Maščobe: 5,5g- Od tega nasičene maščobe: 1,6g- Ogljikovi hidrati: 57g- Od tega sladkorji: 24g- Prehranske vlaknine: 13g- Beljakovine: 4,6g- Sol: 0,10g",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "pomarančna lupina* 95%, pomarančno olje*, pomarančno olje, *iz ekološke pridelave."
+        },
+        "product-net-cont": {
+            "neto-količina": "10g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SP NP BIO LUPIN.POMA.10G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,76",
+    "teaser-text": "SP NP BIO LUPIN.POMA.10G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/bio-pomarancna-lupina-spar-naturpur-10g/p/496144",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/496144/dt_main.jpg"
+}

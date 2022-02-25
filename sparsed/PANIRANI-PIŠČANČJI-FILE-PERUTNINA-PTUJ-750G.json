@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "10,35",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj, d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "FILE PIŠČANČJI PANIRAN 750G",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "830,00 ",
+            "Saturated fat": "1,40 g",
+            "Protein": "15,10 g",
+            "Sugar": "0,70 g",
+            "Total Fat": "8,20 g",
+            "kcal": "198,00 ",
+            "Total Carbohydrate": "15,20 g",
+            "Salt": "1,00 g"
+        }
+    },
+    "product-priceperunit": "9,59 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/panirani-piscancji-file-perutnina-ptuj-750g/p/308846",
+    "product-price": "7,19",
+    "title": "PANIRANI PIŠČANČJI FILE, PERUTNINA PTUJ, 750G",
+    "description": "FILE PIŠČ.PANIRAN 750G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/308846/dt_main.jpg",
+    "teaser-text": "FILE PIŠČ.PANIRAN 750G"
+}

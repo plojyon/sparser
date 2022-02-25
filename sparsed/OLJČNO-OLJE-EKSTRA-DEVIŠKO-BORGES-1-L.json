@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "9,44",
+    "product-priceperunit": "9,44 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OLJČNO OLJE, EKSTRA DEVIŠKO, BORGES, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Ekstra deviško oljčno olje Borges izdelujemo iz posebej izbranih najkakovostnejših oliv, ki jih gojimo pod mediteranskim soncem, s polnim okusom in aromo.",
+        "ingredient-information": {
+            "sestavine": "olive."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "16,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "OLJE OLJČNO BORGES 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "9,44",
+    "teaser-text": "OLJE OLJČNO BORGES 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/oljcno-olje-ekstra-devisko-borges-1-l/p/513760",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513760/dt_main.jpg"
+}

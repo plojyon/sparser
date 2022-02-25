@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,82",
+    "product-priceperunit": "6,56 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "MAJONEZA HELLMANN˙S, 430ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "HELLMANN´S MAJONEZA - PLASTENKA 404 G",
+        "opis": "Narejeno iz pasteriziranih rumenjakov. Jajca iz dobre vzreje. Ni konzervansov. Vir Omega 3 kisline",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,43l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,50 g",
+            "Total Carbohydrate": "1,40 g",
+            "Total Fat": "79,00 g",
+            "Protein": "1,10 g",
+            "kJ": "2985,00 ",
+            "Sugar": "1,30 g",
+            "kcal": "726,00 ",
+            "Saturated fat": "6,30 g"
+        }
+    },
+    "description": "MAJONEZA HELLMANNS 430ML",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,82",
+    "teaser-text": "MAJONEZA HELLMANNS 430ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/majoneza-hellmanns-430ml/p/475027",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/475027/dt_main.jpg"
+}

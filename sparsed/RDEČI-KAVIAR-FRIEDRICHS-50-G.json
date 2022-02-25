@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "5,99",
+    "product-priceperunit": "119,80 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "RDEČI KAVIAR, FRIEDRICHS, 50 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "KAVIAR IZ IKER POSTRVI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "9,20 g",
+            "Protein": "26,00 g",
+            "kJ": "807,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "193,00 ",
+            "Saturated fat": "3,00 g"
+        }
+    },
+    "description": "KAVIAR RDEČI 50G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "5,99",
+    "teaser-text": "KAVIAR RDEČI 50G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rdeci-kaviar-friedrichs-50-g/p/483205",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/483205/dt_main.jpg"
+}

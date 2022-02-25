@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,13",
+    "product-priceperunit": "11,30 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "RIBANI SIR DESPAR, 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "RIBANI SIR",
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "28,00 g",
+            "Protein": "33,00 g",
+            "kJ": "1597,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "384,00 ",
+            "Saturated fat": "20,00 g"
+        }
+    },
+    "description": "DESPAR SIR MIX 100G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,13",
+    "teaser-text": "DESPAR SIR MIX 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ribani-sir-despar-100g/p/507547",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507547/dt_main.jpg"
+}

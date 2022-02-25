@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "8,79",
+    "product-priceperunit": "13,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "100 % BIO KOKOSOVO OLJE, HLADNO STISKANO, TOVARNA OLJA GEA, 500 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "94,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "GEA BIO kokosovo olje jedilno hladno stiskano, deviško",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "jedilno hladno stiskano kokosovo olje iz ekološke pridelave 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "OLJE BIO KOKOSOVO 500ML",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "6,99",
+    "teaser-text": "OLJE BIO KOKOSOVO 500ML",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/100-bio-kokosovo-olje-hladno-stiskano-tovarna-olja-gea-500-ml/p/494214",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/494214/dt_main.jpg"
+}

@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "12,99",
+    "product-priceperunit": "14,61 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "MEDENA TORTA S KAKAVOM MARLENKA, 800G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,53 g",
+            "Total Carbohydrate": "47,00 g",
+            "Total Fat": "25,00 g",
+            "Protein": "6,10 g",
+            "kJ": "1831,00 ",
+            "Sugar": "35,00 g",
+            "kcal": "437,00 ",
+            "Saturated fat": "14,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH), OREH (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "contact-information": {
+            "kontakt:": "PETLJA D.O.O."
+        }
+    },
+    "description": "TORTA MED.S KAKAVOM",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "11,69",
+    "teaser-text": "TORTA MED.S KAKAVOM",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/medena-torta-s-kakavom-marlenka-800g/p/489101",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489101/dt_main.jpg"
+}

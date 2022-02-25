@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "15,30 g",
+            "Sugar": "15,30 g",
+            "Salt": "0,01 g",
+            "kJ": "271,00 ",
+            "Protein": "0,40 g",
+            "kcal": "65,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ENERGIJSKA PIJAČA. GAZIRAN NAPITEK S TAVRINOM IN KOFEINOM",
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "gazirana voda, saharoza, dekstroza, citronska kislina, tavrin, kofein, vitamini, pantotenska kislina, riboflavin, tiamin, barvila, arome."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/energijski-napitek-shark-4x250ml/p/265331",
+    "product-price": "5,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/265331/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "5,09",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SHARK PL. 4X0.25L",
+    "product-stock-status": "",
+    "title": "ENERGIJSKI NAPITEK SHARK, 4X250ML",
+    "product-priceperunit": "5,09 €/l",
+    "description": "SHARK PL. 4X0.25L"
+}

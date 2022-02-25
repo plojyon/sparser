@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "LIMONIN SOK LIMONI 0,2L",
+    "description": "LIMONIN SOK LIMONI 0,2L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "116,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "2,00 g",
+            "Total Carbohydrate": "2,00 g",
+            "Total Fat": "0,03 g",
+            "kcal": "27,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,40 g"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "title": "LIMONIN SOK, LIMONINO, 200ML",
+    "url": "https://www.spar.si/online/limonin-sok-limonino-200ml/p/402699",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,40 €/l",
+    "product-insteadofprice": "0,68",
+    "product-stock-status": "",
+    "product-price": "0,68",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/402699/dt_main.jpg"
+}

@@ -1,0 +1,32 @@
+{
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "zelena solata, zelje, radič, fižol, koruza, korenje."
+        },
+        "opis": "Sveže pripravljene zelenjavne solate SPAR TO GO že na oko privabijo z raznolikostjo sestavin in pisanimi barvami. So res priročna izbira za malico ali kosilo. Mavrična solata: rdeči fižol, rezano zelje, rezana solata, ribano korenje, rezan radič, koruza;",
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "0,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mavricna-solata-spar-to-go/p/224306",
+    "product-price": "5,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/224306/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h3b/h64/9829227331614/tehtnica-ikona-123x80.jpg",
+    "product-insteadofprice": "5,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Tehtan izdelek",
+    "teaser-text": "Solata mavrična",
+    "product-stock-status": "",
+    "title": "MAVRIČNA SOLATA, SPAR TO GO",
+    "product-priceperunit": "5,99 €/kg",
+    "description": "Solata mavrična"
+}

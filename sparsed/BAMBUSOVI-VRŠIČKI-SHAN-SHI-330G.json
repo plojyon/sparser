@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,29",
+    "product-priceperunit": "6,94 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BAMBUSOVI VRŠIČKI SHAN SHI, 330G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "2,00 g",
+            "Total Fat": "0,10 g",
+            "Protein": "1,00 g",
+            "kJ": "58,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "14,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "ingredient-information": {
+            "sestavine": "bambusovi vršički, voda, sredstvo za uravnavanje kislosti: citronska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, 1231 Ljubljana"
+        }
+    },
+    "description": "VRŠIČKI BAMBUSOVI 330G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,29",
+    "teaser-text": "VRŠIČKI BAMBUSOVI 330G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bambusovi-vrsicki-shan-shi-330g/p/450738",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/450738/dt_main.jpg"
+}

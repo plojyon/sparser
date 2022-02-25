@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "10,49",
+    "product-priceperunit": "13,99 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, REFOŠK, ROJAC, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "14,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO REFOŠK ROJAC 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "10,49",
+    "teaser-text": "VINO REFOŠK ROJAC 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-refosk-rojac-075-l/p/461000",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/461000/dt_main.jpg"
+}

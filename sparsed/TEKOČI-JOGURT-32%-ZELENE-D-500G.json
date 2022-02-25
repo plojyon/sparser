@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "1,32",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/tekoci-jogurt-32-zelene-d-500g/p/517918",
+    "title": "TEKOČI JOGURT 3,2%, ZELENE D., 500G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,32",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,30 g",
+            "Total Carbohydrate": "4,30 g",
+            "Saturated fat": "2,10 g",
+            "Protein": "3,30 g",
+            "Total Fat": "3,20 g",
+            "kcal": "59,00 ",
+            "Salt": "0,10 g",
+            "kJ": "248,00 "
+        }
+    },
+    "product-priceperunit": "2,64 €/kg",
+    "teaser-text": "JOGURT NAVADNI 3,2% 500G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "JOGURT NAVADNI 3,2% 500G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/517918/dt_main.jpg",
+    "product-brand": ""
+}

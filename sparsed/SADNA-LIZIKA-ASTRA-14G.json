@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,25",
+    "product-priceperunit": "17,86 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNA LIZIKA ASTRA, 14G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "98,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,60 g",
+            "kJ": "1660,00 ",
+            "Sugar": "77,00 g",
+            "kcal": "391,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, glukozni sirup, sredstvo za uravnavanje kislosti: citronska kislina, aroma, barvila ( E100, E150a, E141, E160c, E163)."
+        },
+        "product-net-cont": {
+            "neto-količina": "14g"
+        },
+        "contact-information": {
+            "kontakt:": "Baron International d.o.o., Obrežje 4, 1433 Radeče"
+        }
+    },
+    "description": "LIZIKA SADNA 14 G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,25",
+    "teaser-text": "LIZIKA SADNA 14 G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadna-lizika-astra-14g/p/473225",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/473225/dt_main.jpg"
+}

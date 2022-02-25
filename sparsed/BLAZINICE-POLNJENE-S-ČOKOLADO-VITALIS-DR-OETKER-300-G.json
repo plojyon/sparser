@@ -1,0 +1,46 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,09",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za približno 7 porcij v pakiranju."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B1 (Tiamin) 0,20 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hrustljave blazinice (24%) polnjene z nadevom z okusom čokolade v hrustljavih muslijih.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1837,00 ",
+            "Saturated fat": "5,10 g",
+            "Protein": "8,10 g",
+            "Sugar": "28,00 g",
+            "Total Fat": "14,00 g",
+            "kcal": "437,00 ",
+            "Total Carbohydrate": "67,00 g",
+            "Salt": "0,84 g"
+        }
+    },
+    "product-priceperunit": "7,70 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/blazinice-polnjene-s-cokolado-vitalis-dr-oetker-300-g/p/501857",
+    "product-price": "2,31",
+    "title": "BLAZINICE POLNJENE S ČOKOLADO, VITALIS, DR. OETKER, 300 G",
+    "description": "MUSLI POL.BLAZ.ČOK.300G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/501857/dt_main.jpg",
+    "teaser-text": "MUSLI POL.BLAZ.ČOK.300G"
+}

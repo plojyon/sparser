@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Dana d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Ananasov sok iz zgoščenega ananasovega soka. Sadni delež: 100%.",
+        "ingredient-information": {
+            "sestavine": "sok ananasa iz zgoščenega soka ananasa 100,00 %, stabilizator (pektin), antioksidant (askorbinska kislina)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "218,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "12,20 g",
+            "Total Fat": "0,00 g",
+            "kcal": "51,00 ",
+            "Total Carbohydrate": "12,80 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "2,19 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/100-sok-ananas-dana-1l/p/491772",
+    "product-price": "2,19",
+    "title": "100% SOK ANANAS DANA, 1L",
+    "description": "SOK ANANAS 100% 1L",
+    "isOnPromotion": "false",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491772/dt_main.jpg",
+    "teaser-text": "SOK ANANAS 100% 1L"
+}

@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "6,33 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL BELUŠI 330G",
+    "teaser-text": "SPAR VITAL BELUŠI 330G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "205G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "1,80 g",
+            "kJ": "62,00 ",
+            "Protein": "1,20 g",
+            "Salt": "0,75 g",
+            "Sugar": "1,50 g",
+            "kcal": "15,00 ",
+            "Prehranske vlaknine": "1,40 g"
+        },
+        "opis": "Pasterizirani beluši v slanici.Brez dodanega sladkorja- vsebuje naravno prisotne sladkorje.Visoka vsebnost vlaknin.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "PASTERIZIRANI BELUŠI V SLANICI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "ingredient-information": {
+            "sestavine": "beluši, voda, jodirana sol (sol, kalijev jodat), kislina: citronska kislina."
+        }
+    },
+    "url": "https://www.spar.si/online/belusi-spar-vital-330g/p/361216",
+    "product-insteadofprice": "2,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361216/dt_main.jpg",
+    "title": "BELUŠI SPAR VITAL, 330G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

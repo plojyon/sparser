@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,18",
+    "product-priceperunit": "12,72 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SVEŽE JAJČNE TESTENINE, RAVIOLI S 4 SIRI, RANA, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "34,00 g",
+            "Prehranske vlaknine": "3,50 g",
+            "Total Fat": "12,00 g",
+            "Protein": "12,00 g",
+            "kJ": "1255,00 ",
+            "Sugar": "2,60 g",
+            "kcal": "299,00 ",
+            "Saturated fat": "6,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, RAKI (V SLEDOVIH), RIBE (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), MEHKUŽCI (V SLEDOVIH)"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        }
+    },
+    "description": "RAVIOLI SVEŽ.4 SIRI 250G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,18",
+    "teaser-text": "RAVIOLI SVEŽ.4 SIRI 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sveze-jajcne-testenine-ravioli-s-4-siri-rana-250g/p/460788",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/460788/dt_main.jpg"
+}

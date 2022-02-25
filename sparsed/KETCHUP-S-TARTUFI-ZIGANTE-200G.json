@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "4,49",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/ketchup-s-tartufi-zigante-200g/p/561098",
+    "title": "KETCHUP S TARTUFI, ZIGANTE, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "4,49",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Zigante tartufi d.o.o., Vanganelska cesta 8, SI - 6000 Koper"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "17,60 g",
+            "Total Carbohydrate": "21,90 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "1,50 g",
+            "Total Fat": "0,20 g",
+            "kcal": "95,00 ",
+            "Salt": "2,70 g",
+            "kJ": "405,00 "
+        },
+        "ingredient-information": {
+            "sestavine": "voda, dvojni paradižnikov koncentrat, sladkor, jabolčni kis, zgoščevalec: modificiran škrob, črni tartufi."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresi."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "product-priceperunit": "22,45 €/kg",
+    "teaser-text": "KETCHUP S TARTUFI 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "KETCHUP S TARTUFI 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/561098/dt_main.jpg",
+    "product-brand": ""
+}

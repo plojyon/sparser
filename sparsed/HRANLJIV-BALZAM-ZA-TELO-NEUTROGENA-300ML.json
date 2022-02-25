@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,49",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,3l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Glycerin, Paraffinum Liquidum, Petrolatum, Stearyl Alcohol, Isopropyl Palmitate,, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Tocopheryl Acetate, Palmitic Acid, Stearic Acid, Shynthetic Beeswax, Potassium Cetyl Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Acryloyldimethylaurate/VP Copolymer, Disodium EDTA, Sodium Hydroxide, Phenoxyethanol, Methylparaben, Parfum"
+        },
+        "contact-information": {
+            "kontakt:": "Lomas d.o.o., Kardeljeva ploščad 11a, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "13,63 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/hranljiv-balzam-za-telo-neutrogena-300ml/p/428176",
+    "product-price": "4,09",
+    "title": "HRANLJIV BALZAM ZA TELO, NEUTROGENA, 300ML",
+    "description": "BALZ.ZA T.NEUTROGENA",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/428176/dt_main.jpg",
+    "teaser-text": "BALZ.ZA T.NEUTROGENA"
+}

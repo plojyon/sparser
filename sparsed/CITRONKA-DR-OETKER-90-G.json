@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "23,00 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "CITRONKA 90G",
+    "teaser-text": "CITRONKA 90G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "1196,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "276,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dr. Oetker Original Citronka 90g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "90g"
+        },
+        "ingredient-information": {
+            "sestavine": "citronska kislina."
+        }
+    },
+    "url": "https://www.spar.si/online/citronka-dr-oetker-90-g/p/367074",
+    "product-insteadofprice": "2,07",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/367074/dt_main.jpg",
+    "title": "CITRONKA, DR. OETKER, 90 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,07",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

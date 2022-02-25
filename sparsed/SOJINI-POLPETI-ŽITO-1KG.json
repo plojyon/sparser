@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,30 g",
+            "Total Fat": "8,20 g",
+            "Total Carbohydrate": "21,50 g",
+            "Sugar": "2,60 g",
+            "Salt": "1,40 g",
+            "kJ": "822,00 ",
+            "Protein": "9,00 g",
+            "kcal": "196,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SOJINI POLPETI / Hitro zamrznjen paniran izdelek.",
+        "opis": "Paniran izdelek.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "ŽITO d.d. Ljubljana, Šmartinska cesta 154, 1529 Ljubljana, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, ŽVEPLOV DIOKSID IN SULFITI, JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek je potrebno termično obdelati. Zamrznjene polpete cvrete v segretem olju. Čas cvrtja v ponvi je 2-3 minute na vsaki strani, v fritezi 4-5 minut pri 180 °C. Lahko jih pečete tudi v pečici brez dodane maščobe 13-15 minut pri 200 °C, med peko jih enkrat obrnete. Primerni so tudi za pripravo na žaru."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sojini-polpeti-zito-1kg/p/191218",
+    "product-price": "6,57",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/191218/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "6,57",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "POLPETI SOJINI 1KG ZITO",
+    "product-stock-status": "",
+    "title": "SOJINI POLPETI ŽITO, 1KG",
+    "product-priceperunit": "6,57 €/kg",
+    "description": "POLPETI SOJINI 1KG ZITO"
+}

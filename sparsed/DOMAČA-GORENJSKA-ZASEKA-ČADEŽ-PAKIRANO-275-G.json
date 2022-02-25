@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "3,15",
+    "product-priceperunit": "9,64 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "DOMAČA GORENJSKA ZASEKA, ČADEŽ, PAKIRANO, 275 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,29 g",
+            "Total Carbohydrate": "1,40 g",
+            "Total Fat": "74,10 g",
+            "Protein": "16,60 g",
+            "kJ": "3048,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "739,00 ",
+            "Saturated fat": "28,52 g"
+        },
+        "ingredient-information": {
+            "sestavine": "slanina, morska sol, začimbe."
+        },
+        "product-net-cont": {
+            "neto-količina": "275g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "75,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "ČADEŽ d.o.o., Visoko 7g, 4212 Visoko"
+        }
+    },
+    "description": "ZASEKA GORENJSKA 275G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "2,65",
+    "teaser-text": "ZASEKA GORENJSKA 275G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/domaca-gorenjska-zaseka-cadez-pakirano-275-g/p/481138",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481138/dt_main.jpg"
+}

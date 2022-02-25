@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "2,66",
+    "product-priceperunit": "3,55 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OTROŠKA PENINA, BELO GROZDJE, FROZEN, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 0,20 mg."
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        },
+        "opis": "Peneči sadni napitek iz mošta, s sladkorjem in sladilom.",
+        "ingredient-information": {
+            "sestavine": "voda, grozdni sok iz koncentrata, sladkor, ogljikov dioksid, citronska kislina, vitamin c, aroma, kalijev sorbat, karamela."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "2,50 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,10 g",
+            "kJ": "44,00 ",
+            "Sugar": "2,50 g",
+            "kcal": "10,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPITEK FROZEN 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,66",
+    "teaser-text": "NAPITEK FROZEN 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/otroska-penina-belo-grozdje-frozen-075-l/p/502025",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502025/dt_main.jpg"
+}

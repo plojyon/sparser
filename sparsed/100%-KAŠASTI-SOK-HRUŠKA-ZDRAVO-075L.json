@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "2,79",
+    "product-priceperunit": "3,72 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "100% KAŠASTI SOK HRUŠKA ZDRAVO, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "security-warning": {
+            "varnostna-opozorila": "Pred uporabo pretresite."
+        },
+        "opis": "Izdelek ni izdelan iz zgoščenih sokov.",
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        },
+        "ingredient-information": {
+            "sestavine": "hruškova kaša min. 50 %, iztisnjen jabolčni sok max. 50 %, sredstvo za uravnavanje kislosti citronska kislina, askorbinska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,11 g",
+            "Total Carbohydrate": "10,09 g",
+            "Total Fat": "0,09 g",
+            "Protein": "0,32 g",
+            "kJ": "180,00 ",
+            "Sugar": "9,37 g",
+            "kcal": "42,00 ",
+            "Saturated fat": "0,03 g"
+        }
+    },
+    "description": "SOK HRUŠKA 100% 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,79",
+    "teaser-text": "SOK HRUŠKA 100% 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/100-kasasti-sok-hruska-zdravo-075l/p/457478",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457478/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PALČKE ČOK.RDEČ.250G",
+    "description": "PALČKE ČOK.RDEČ.250G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONIERA MERCI RDEČA, STORCK, 250G",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, MANDLJI, JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2346,00 ",
+            "Salt": "0,17 g",
+            "Sugar": "48,00 g",
+            "Total Carbohydrate": "49,90 g",
+            "Total Fat": "36,10 g",
+            "kcal": "563,00 ",
+            "Saturated fat": "19,90 g",
+            "Protein": "7,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        }
+    },
+    "title": "BONBONIERA MERCI RDEČA, STORCK, 250G",
+    "url": "https://www.spar.si/online/bonboniera-merci-rdeca-storck-250g/p/43261",
+    "isOnPromotion": "false",
+    "product-priceperunit": "17,96 €/kg",
+    "product-insteadofprice": "4,49",
+    "product-stock-status": "",
+    "product-price": "4,49",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/43261/dt_main.jpg"
+}

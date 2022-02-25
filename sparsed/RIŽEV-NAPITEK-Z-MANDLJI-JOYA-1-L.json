@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "2,69 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RIŽEV NAPITEK Z MANDLJI, JOYA, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,12 g",
+            "Total Carbohydrate": "5,20 g",
+            "Prehranske vlaknine": "0,40 g",
+            "Total Fat": "0,30 g",
+            "Protein": "0,60 g",
+            "kJ": "150,00 ",
+            "Sugar": "3,80 g",
+            "kcal": "36,00 ",
+            "Saturated fat": "0,80 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MANDLJI, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "description": "NAPITEK RIŽ MAND. 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "NAPITEK RIŽ MAND. 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rizev-napitek-z-mandlji-joya-1-l/p/444711",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/444711/dt_main.jpg"
+}

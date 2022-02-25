@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MOKA T850 MEH.5KG INTES",
+    "description": "MOKA T850 MEH.5KG INTES",
+    "product-info": {
+        "instruction-for-use": {},
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pšenična polbela moka tip 850",
+        "opis": "Tip 850.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1447,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "1,10 g",
+            "Total Carbohydrate": "67,00 g",
+            "Total Fat": "1,30 g",
+            "kcal": "341,00 ",
+            "Saturated fat": "0,20 g",
+            "Protein": "13,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "5kg"
+        },
+        "contact-information": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "PŠENIČNA MOKA, POLBELA TIP850, INTES, 5KG",
+    "url": "https://www.spar.si/online/psenicna-moka-polbela-tip850-intes-5kg/p/41498",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,28 €/kg",
+    "product-insteadofprice": "6,39",
+    "product-stock-status": "",
+    "product-price": "6,39",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41498/dt_main.jpg"
+}

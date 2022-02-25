@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "2,89",
+    "product-priceperunit": "7,23 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TESTENINE PERESNIKI, BREZ GLUTENA, BARILLA, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Čas kuhanja je naveden na embalaži. Priporočamo uporabo 7 g soli na 100 g testenin v 1 l vode."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BREZGLUTENSKE SUŠENE TESTENINE IZ KORUZNE IN RIŽEVE MOKE Neto količina: 400 g. Živilo za ljudi s preobčutljivostjo na gluten.",
+        "opis": "Živilo za ljudi s preobčutljivostjo na gluten.",
+        "contact-information": {
+            "kontakt:": "Barilla Adriatik d.o.o., Tržaška cesta 315, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "koruzna moka iz bele koruze 65,00 %, koruzna moka iz rumene koruze 29,50 %, riževa moka 5,00 %, emulgatorji: mono- in digliceridi maščobnih kislin, voda."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "78,70 g",
+            "Prehranske vlaknine": "1,10 g",
+            "Total Fat": "1,80 g",
+            "Protein": "6,50 g",
+            "kJ": "1524,00 ",
+            "Sugar": "1,20 g",
+            "kcal": "359,00 ",
+            "Saturated fat": "0,30 g"
+        }
+    },
+    "description": "PERESNIKI BREZ GLUT.400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,89",
+    "teaser-text": "PERESNIKI BREZ GLUT.400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/testenine-peresniki-brez-glutena-barilla-400g/p/488962",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/488962/dt_main.jpg"
+}

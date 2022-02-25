@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,30 g",
+            "Total Carbohydrate": "6,00 g",
+            "Sugar": "2,90 g",
+            "Salt": "1,10 g",
+            "kJ": "145,00 ",
+            "Protein": "1,90 g",
+            "kcal": "34,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "product-net-cont": {
+            "neto-količina": "680g"
+        },
+        "ingredient-information": {
+            "sestavine": "šampinjoni 59,00 %, voda, kis, sladkor, jedilna sol, sredstvo za uravnavanje kislosti: citronska kislina, začimbe."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/celi-sampinjoni-v-kisu-spar-680g/p/274299",
+    "product-price": "2,69",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/274299/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,69",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR ŠAMPINJON.CELI 680G",
+    "product-stock-status": "",
+    "title": "CELI ŠAMPINJONI V KISU SPAR, 680G",
+    "product-priceperunit": "3,96 €/kg",
+    "description": "SPAR ŠAMPINJON.CELI 680G"
+}

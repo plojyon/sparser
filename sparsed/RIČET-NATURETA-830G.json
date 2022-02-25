@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,30 g",
+            "Salt": "0,70 g",
+            "Total Fat": "0,80 g",
+            "Total Carbohydrate": "7,30 g",
+            "Sugar": "0,50 g",
+            "Prehranske vlaknine": "2,20 g",
+            "kJ": "189,00 ",
+            "Protein": "4,30 g",
+            "kcal": "45,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Ričet, ješprenova jed",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Jed iz pločevinke pretresite v posodo in pogrejte do vrenja."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "830g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/ricet-natureta-830g/p/263744",
+    "product-price": "3,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/263744/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "RIČET 830G NATURETA",
+    "product-stock-status": "",
+    "title": "RIČET NATURETA, 830G",
+    "product-priceperunit": "3,84 €/kg",
+    "description": "RIČET 830G NATURETA"
+}

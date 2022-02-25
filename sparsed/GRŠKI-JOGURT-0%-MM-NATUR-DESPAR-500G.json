@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/grski-jogurt-0-mm-natur-despar-500g/p/603486",
+    "title": "GRŠKI JOGURT 0% M.M. NATUR, DESPAR, 500G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GRŠKI JOGURT Z 0 % MAŠČOBE",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "5,20 g",
+            "Total Carbohydrate": "5,20 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "9,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "57,00 ",
+            "Salt": "0,20 g",
+            "kJ": "241,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-priceperunit": "3,98 €/kg",
+    "teaser-text": "DESPAR GRŠKI JOG 0% 500G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "DESPAR GRŠKI JOG 0% 500G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/603486/dt_main.jpg",
+    "product-brand": ""
+}

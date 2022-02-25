@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "14,95 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OMAKA DIP SIR 200ML",
+    "teaser-text": "OMAKA DIP SIR 200ML",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Intersnack, d. o. o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "8,60 g",
+            "Saturated fat": "2,60 g",
+            "Total Carbohydrate": "14,50 g",
+            "kJ": "600,00 ",
+            "Protein": "1,80 g",
+            "Salt": "2,00 g",
+            "Sugar": "0,50 g",
+            "kcal": "144,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pikantna sirova omaka",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/pikantna-sirova-omaka-hot-cheese-dip-chio-200ml/p/363666",
+    "product-insteadofprice": "2,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363666/dt_main.jpg",
+    "title": "PIKANTNA SIROVA OMAKA HOT CHEESE DIP!, CHIO, 200ML",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

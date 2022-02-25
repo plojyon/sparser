@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "4,49",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "Delamaris d.o.o., Kal 1, 6257 Pivka"
+        },
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Izola Brand- skuša z zelenjavo",
+        "ingredient-information": {
+            "alergeni": "RIBE, ZELENA, GORČIČNO SEME."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "810,00 ",
+            "Saturated fat": "2,80 g",
+            "Protein": "9,40 g",
+            "Sugar": "2,50 g",
+            "Total Fat": "16,00 g",
+            "kcal": "195,00 ",
+            "Total Carbohydrate": "4,30 g",
+            "Salt": "0,83 g"
+        }
+    },
+    "product-priceperunit": "11,97 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/skusina-cmoka-z-zelenjavo-izola-brand-delamaris-3x125g/p/27406",
+    "product-price": "4,49",
+    "title": "SKUŠINA CMOKA Z ZELENJAVO IZOLA BRAND, DELAMARIS, 3X125G",
+    "description": "SKUŠA IZOLA BRAND 3X125G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/27406/dt_main.jpg",
+    "teaser-text": "SKUŠA IZOLA BRAND 3X125G"
+}

@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ŠAMPIN.KIS CELI 660G",
+    "description": "ŠAMPIN.KIS CELI 660G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ahac d.o.o., Stopče 31, 3231 Grobelno, Slovenija, EU"
+        },
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "product-net-cont": {
+            "neto-količina": "660g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "91,00 ",
+            "Salt": "0,99 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "1,20 g",
+            "Total Fat": "0,30 g",
+            "kcal": "22,00 ",
+            "Prehranske vlaknine": "2,10 g",
+            "Saturated fat": "0,07 g",
+            "Protein": "2,50 g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI (V SLEDOVIH)."
+        }
+    },
+    "title": "CELI ŠAMPINJONI V KISU DROGA, 660G",
+    "url": "https://www.spar.si/online/celi-sampinjoni-v-kisu-droga-660g/p/42849",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,59 €/kg",
+    "product-insteadofprice": "3,69",
+    "product-stock-status": "",
+    "product-price": "3,69",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42849/dt_main.jpg"
+}

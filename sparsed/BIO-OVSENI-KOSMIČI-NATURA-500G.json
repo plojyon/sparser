@@ -1,0 +1,47 @@
+{
+    "product-promotionBadges": "BIO Certifikat",
+    "product-insteadofprice": "2,29",
+    "product-stock-status": "",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Primerni za neposredno uporabo. Lahko jih uživamo z jogurtom ali mlekom ali jih uporabimo pri pripravi različnih pekovskih izdelkov."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1543,00 ",
+            "Saturated fat": "1,40 g",
+            "Prehranske vlaknine": "10,60 g",
+            "Protein": "12,50 g",
+            "Sugar": "0,70 g",
+            "Total Fat": "7,00 g",
+            "kcal": "366,00 ",
+            "Total Carbohydrate": "58,10 g",
+            "Salt": "0,01 g"
+        }
+    },
+    "product-priceperunit": "4,58 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-ovseni-kosmici-natura-500g/p/227706",
+    "product-price": "2,29",
+    "title": "BIO OVSENI KOSMIČI, NATURA, 500G",
+    "description": "BIO KOSMIČI OVS. 0.5KG",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/227706/dt_main.jpg",
+    "teaser-text": "BIO KOSMIČI OVS. 0.5KG"
+}

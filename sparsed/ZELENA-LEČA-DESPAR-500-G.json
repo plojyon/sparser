@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "1,55",
+    "product-priceperunit": "3,10 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ZELENA LEČA DESPAR, 500 G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vzamemo ca. 70 g leče na osebo in jo splaknemo z mrzlo vodo. Namakanje ni potrebno. Lečo damo v posodo z vodo (pol litra vode na 100 g leče). Zavremo in kuhamo na majhnem ognju ca. 20-25 minut. Sol dodamo, ko je leča skoraj kuhana in jo nato odcedimo. V posodi za hitro kuhanje kuhamo ca. 15 minut. Navedeni časi kuhanja so približni."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ZELENA LEČA",
+        "opis": "Povprečna hranilna vrednost na 100g:- Energijska vrednost: 1075 kJ/ 254 kcal- Maščobe: 1,1g- Od tega nasičene maščobe: 0,2g- Ogljikovi hidrati: 34g- Od tega sladkorji: 0,9g- Prehranske vlaknine: 8,0g- Beljakovine: 23g- Sol: 0,03g",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "34,00 g",
+            "Prehranske vlaknine": "8,00 g",
+            "Total Fat": "1,10 g",
+            "Protein": "23,00 g",
+            "kJ": "254,00 ",
+            "Sugar": "0,90 g",
+            "kcal": "1075,00 ",
+            "Saturated fat": "0,20 g"
+        }
+    },
+    "description": "DESPAR LEČA ZELENA 500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,55",
+    "teaser-text": "DESPAR LEČA ZELENA 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zelena-leca-despar-500-g/p/489530",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489530/dt_main.jpg"
+}

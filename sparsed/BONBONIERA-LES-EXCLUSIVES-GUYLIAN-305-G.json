@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "8,99",
+    "product-priceperunit": "29,48 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA, LES EXCLUSIVES, GUYLIAN, 305 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "security-warning": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "305g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,08 g",
+            "Total Carbohydrate": "49,00 g",
+            "Prehranske vlaknine": "2,00 g",
+            "Total Fat": "37,00 g",
+            "Protein": "7,00 g",
+            "kJ": "2344,00 ",
+            "Sugar": "47,00 g",
+            "kcal": "562,70 ",
+            "Saturated fat": "21,00 g"
+        }
+    },
+    "description": "BONB.GUYLIAN EXCL.305G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "8,99",
+    "teaser-text": "BONB.GUYLIAN EXCL.305G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-les-exclusives-guylian-305-g/p/481844",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481844/dt_main.jpg"
+}

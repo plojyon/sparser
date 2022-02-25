@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "9,39 €/l",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "false",
+    "description": "OLJE OLJČNO ZVEZDA 1L",
+    "teaser-text": "OLJE OLJČNO ZVEZDA 1L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 27,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "100,00 g",
+            "Saturated fat": "17,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "900,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "3700,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "ekstra deviško oljčno olje 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/ekstra-devisko-oljcno-olje-zvezda-1l/p/375946",
+    "product-insteadofprice": "9,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/375946/dt_main.jpg",
+    "title": "EKSTRA DEVIŠKO OLJČNO OLJE ZVEZDA, 1L",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "9,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

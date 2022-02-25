@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,84",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-jogurt-5-spar-naturpur-400g/p/592453",
+    "title": "BIO JOGURT 5%, SPAR NATUR*PUR, 400G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,84",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,20 g",
+            "Total Carbohydrate": "4,20 g",
+            "Saturated fat": "3,50 g",
+            "Protein": "3,50 g",
+            "Total Fat": "5,00 g",
+            "kcal": "78,00 ",
+            "Salt": "0,13 g",
+            "kJ": "325,00 "
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "2,10 €/kg",
+    "teaser-text": "SPAR BIO JOGURT 400G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR BIO JOGURT 400G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/592453/dt_main.jpg",
+    "product-brand": ""
+}

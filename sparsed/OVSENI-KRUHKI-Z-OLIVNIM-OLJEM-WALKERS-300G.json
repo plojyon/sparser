@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KRUHKI OVSENI Z OLIV.OLJ",
+    "description": "KRUHKI OVSENI Z OLIV.OLJ",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "453,00 ",
+            "Salt": "1,22 g",
+            "Sugar": "1,20 g",
+            "Total Carbohydrate": "55,60 g",
+            "Total Fat": "18,70 g",
+            "kcal": "1897,00 ",
+            "Prehranske vlaknine": "7,40 g",
+            "Saturated fat": "2,90 g",
+            "Protein": "11,80 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "300G"
+        },
+        "contact-information": {
+            "kontakt:": "GAUS D.O.O. KOLODVORSKA CESTA 2 4000 KRANJ"
+        }
+    },
+    "title": "OVSENI KRUHKI Z OLIVNIM OLJEM, WALKERS, 300G",
+    "url": "https://www.spar.si/online/ovseni-kruhki-z-olivnim-oljem-walkers-300g/p/410281",
+    "isOnPromotion": "false",
+    "product-priceperunit": "10,60 €/kg",
+    "product-insteadofprice": "3,18",
+    "product-stock-status": "",
+    "product-price": "3,18",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/410281/dt_main.jpg"
+}

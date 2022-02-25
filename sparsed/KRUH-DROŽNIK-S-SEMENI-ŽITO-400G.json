@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,61 g",
+            "Total Fat": "4,40 g",
+            "Total Carbohydrate": "42,20 g",
+            "Sugar": "2,90 g",
+            "Salt": "1,10 g",
+            "kJ": "1073,00 ",
+            "Protein": "8,90 g",
+            "kcal": "254,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pšenični mešani kruh.",
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Moskovska ulica 1, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kruh-droznik-s-semeni-zito-400g/p/606719",
+    "product-price": "1,46",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/606719/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "1,83",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "KRUH DROŽNIK S SEM. 400G",
+    "product-stock-status": "",
+    "title": "KRUH DROŽNIK S SEMENI, ŽITO, 400G",
+    "product-priceperunit": "3,65 €/kg",
+    "description": "KRUH DROŽNIK S SEM. 400G"
+}

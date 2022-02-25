@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "2,88",
+    "product-priceperunit": "2,88 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RDEČE VINO, MAKEDONSKO, STOBI, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO MAK.RDEČ.STOB 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,88",
+    "teaser-text": "VINO MAK.RDEČ.STOB 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rdece-vino-makedonsko-stobi-1-l/p/472127",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472127/dt_main.jpg"
+}

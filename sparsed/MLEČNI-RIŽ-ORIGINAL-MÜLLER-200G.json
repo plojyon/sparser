@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,70 g",
+            "Total Fat": "2,60 g",
+            "Total Carbohydrate": "15,90 g",
+            "Sugar": "9,70 g",
+            "Salt": "0,26 g",
+            "kJ": "427,00 ",
+            "Protein": "3,50 g",
+            "kcal": "101,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNI RIŽ RISO MÜLLER 200g navadniMlečni rižev desert",
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-riz-original-mller-200g/p/247674",
+    "product-price": "0,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/247674/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "0,95",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "RIŽ MLEČNI MÜLLER 200G",
+    "product-stock-status": "",
+    "title": "MLEČNI RIŽ ORIGINAL, MÜLLER, 200G",
+    "product-priceperunit": "4,75 €/kg",
+    "description": "RIŽ MLEČNI MÜLLER 200G"
+}

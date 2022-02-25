@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "12,00 g",
+            "Salt": "2,20 g",
+            "Total Fat": "25,00 g",
+            "Total Carbohydrate": "50,00 g",
+            "Sugar": "4,50 g",
+            "Prehranske vlaknine": "5,80 g",
+            "kJ": "2076,00 ",
+            "Protein": "15,00 g",
+            "kcal": "498,10 "
+        },
+        "opis": "Jušne opečene kruhove kocke - Velik užitek z malo truda!",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Enostavno stresite v juho in takoj servirajte."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jusne-kocke-zlati-land-leben-100g/p/119282",
+    "product-price": "0,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/119282/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KOCKE JUŠNE ZLAT.100G",
+    "product-stock-status": "",
+    "title": "JUŠNE KOCKE ZLATI LAND LEBEN, 100G",
+    "product-priceperunit": "8,90 €/kg",
+    "description": "KOCKE JUŠNE ZLAT.100G"
+}

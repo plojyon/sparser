@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "5,35",
+    "product-priceperunit": "8,92 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MESNI RAGU, PODRAVKA, 3X200G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebino pločevinke spraznite v primerno posodo. Grejte na zmerni temperaturi ob neprestanem mešanju ."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MESNI RAGU. Gotova sterilizirana jed.",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "600g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,70 g",
+            "Total Carbohydrate": "4,00 g",
+            "Total Fat": "8,00 g",
+            "Protein": "7,50 g",
+            "kJ": "474,00 ",
+            "Sugar": "3,00 g",
+            "kcal": "115,00 ",
+            "Saturated fat": "3,00 g"
+        }
+    },
+    "description": "RAGU MESNI 3X200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,35",
+    "teaser-text": "RAGU MESNI 3X200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mesni-ragu-podravka-3x200g/p/454032",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/454032/dt_main.jpg"
+}

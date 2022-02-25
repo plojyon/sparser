@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "20,60 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČOK.TEM.POL.ČEŠNJA 150G",
+    "teaser-text": "ČOK.TEM.POL.ČEŠNJA 150G",
+    "product-info": {
+        "contact-information": {},
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sledove lešnikov, mandljev in mleka."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "32,00 g",
+            "Saturated fat": "20,00 g",
+            "Total Carbohydrate": "43,00 g",
+            "kJ": "2087,00 ",
+            "Protein": "6,20 g",
+            "Salt": "0,02 g",
+            "Sugar": "39,00 g",
+            "kcal": "501,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/temna-cokolada-70-visnja-in-cili-lindt-creation-150g/p/373180",
+    "product-insteadofprice": "3,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/373180/dt_main.jpg",
+    "title": "TEMNA ČOKOLADA 70% VIŠNJA IN ČILI, LINDT CREATION, 150G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

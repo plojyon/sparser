@@ -1,0 +1,47 @@
+{
+    "product-priceperunit": "4,36 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "DESPAR JAJČ.REZANCI 250G",
+    "teaser-text": "DESPAR JAJČ.REZANCI 250G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "4,30 g",
+            "Saturated fat": "1,40 g",
+            "Total Carbohydrate": "66,00 g",
+            "kJ": "1549,00 ",
+            "Protein": "15,00 g",
+            "Salt": "0,13 g",
+            "Sugar": "2,70 g",
+            "kcal": "366,00 ",
+            "Prehranske vlaknine": "2,70 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SUŠENE JAJČNE TESTENINE",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Testenine kuhamo 2 minuti (¨al dente¨) v zadostni količini slane vode, vmes jih občasno premešamo."
+        }
+    },
+    "url": "https://www.spar.si/online/ozki-jajcni-rezanci-despar-250g/p/362664",
+    "product-insteadofprice": "1,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/362664/dt_main.jpg",
+    "title": "OZKI JAJČNI REZANCI DESPAR, 250G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

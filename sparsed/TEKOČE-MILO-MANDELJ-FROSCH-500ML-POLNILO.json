@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Vegan",
+    "product-insteadofprice": "2,49",
+    "product-stock-status": "",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "Vegan"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "V skladu z Uredbo (ES) št. 1272/2008 ne predstavlja nevarne snovi ali zmesi."
+        },
+        "opis": "Frosch milo za nego kože z mandljevim mlekom vsebuje dragocene in vlažilne sestavine, ki zagotavljajo optimalno nego in zaščito kože. Vlažilna formula z mandljevim mlekom ščiti vašo kožo pred izsušitvijo vsakič, ko si umijete roke. Milo je pH nevtralno in dermatološko potrjeno.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Odvijte zamašek ter zlijte milo v dekorativno stekleničko - do tri prste pod odprtino steklenice. Vrečko polnila zaprete. Nanesite nekaj mila na roke, z vodo milo spenite, roke umijete kot običajno in jih z vodo splaknite. Nasvet: Pravilno odmerjanje prihrani stroške in varuje okolje."
+        },
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sodium Laureth Sulfate (površinsko aktivna snov), Sodium Chloride, Glycerin (dodatna sestavina), Cocamidopropyl Betaine (površinsko aktivna snov), Glyceryl Oleate, Coco-Glucoside, Olus Oil, Citric Acid (dodatna sestavina), Salicylic Acid, Sodium Benzoate (konzervans), Styrene/Acrylates Copolymer (površinsko aktivna snov), parfum."
+        }
+    },
+    "product-priceperunit": "3,70 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoce-milo-mandelj-frosch-500ml-polnilo/p/427030",
+    "product-price": "1,85",
+    "title": "TEKOČE MILO MANDELJ, FROSCH, 500ML, POLNILO",
+    "description": "MILO TEKOČE FROSCH 500ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/427030/dt_main.jpg",
+    "teaser-text": "MILO TEKOČE FROSCH 500ML"
+}

@@ -1,0 +1,50 @@
+{
+    "product-insteadofprice": "4,98",
+    "product-priceperunit": "4,98 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "PIŠČANČJI HOT DOG BREZ OVOJA, AVE, PANVITA, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Hrenovke položite v hladno vodo in segrevajte do vretja."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIŠČANČJI HOT DOG VP (1kg)",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "security-warning": {
+            "varnostna-opozorila": "Porabiti v treh dneh po odprtju. Lahko vsebuje sledi mleka."
+        },
+        "contact-information": {
+            "kontakt:": "Panvita Mir d.d., Ljutomerska cesta 28a, 9250 Gornja Radgona"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "16,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,00 g",
+            "Total Carbohydrate": "4,10 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "15,40 g",
+            "Protein": "10,10 g",
+            "kJ": "818,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "197,00 ",
+            "Saturated fat": "3,60 g"
+        }
+    },
+    "description": "HOT DOG PIŠČANČJI 1KG",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "4,98",
+    "teaser-text": "HOT DOG PIŠČANČJI 1KG",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/piscancji-hot-dog-brez-ovoja-ave-panvita-1kg/p/440595",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/440595/dt_main.jpg"
+}

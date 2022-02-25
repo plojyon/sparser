@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "12,56 €/l",
+    "product-promotionBadges": "Odlična kakovost",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL OLJE LANENO",
+    "teaser-text": "SPAR VITAL OLJE LANENO",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "100,00 g",
+            "Saturated fat": "11,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "opis": "Hladno stiskano.",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "jedilno hladno stiskano laneno olje 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/laneno-olje-spar-vital-025l/p/372422",
+    "product-insteadofprice": "3,14",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/372422/dt_main.jpg",
+    "title": "LANENO OLJE SPAR VITAL, 0,25L",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,14",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

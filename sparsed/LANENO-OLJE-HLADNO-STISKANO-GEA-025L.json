@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "14,32 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OLJE LANENO GEA 250ML",
+    "teaser-text": "OLJE LANENO GEA 250ML",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "100,00 g",
+            "Saturated fat": "11,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GEA laneno olje jedilno hladno stiskano",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "jedilno hladno stiskano laneno olje 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/laneno-olje-hladno-stiskano-gea-025l/p/366672",
+    "product-insteadofprice": "3,58",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/366672/dt_main.jpg",
+    "title": "LANENO OLJE HLADNO STISKANO GEA, 0,25L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,58",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

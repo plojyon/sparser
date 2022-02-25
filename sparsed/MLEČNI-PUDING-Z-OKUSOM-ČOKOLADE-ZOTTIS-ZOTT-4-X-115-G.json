@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Trajno znižano",
+    "product-insteadofprice": "1,18",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "460g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "365,00 ",
+            "Saturated fat": "0,50 g",
+            "Protein": "1,40 g",
+            "Sugar": "13,50 g",
+            "Total Fat": "0,90 g",
+            "kcal": "86,00 ",
+            "Total Carbohydrate": "17,90 g",
+            "Salt": "0,62 g"
+        },
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        }
+    },
+    "product-priceperunit": "1,54 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-puding-z-okusom-cokolade-zottis-zott-4-x-115-g/p/466225",
+    "product-price": "0,71",
+    "title": "MLEČNI PUDING Z OKUSOM ČOKOLADE, ZOTTIS, ZOTT, 4 X 115 G",
+    "description": "PUDING ZOTTIS ČOK 4X115G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/466225/dt_main.jpg",
+    "teaser-text": "PUDING ZOTTIS ČOK 4X115G"
+}

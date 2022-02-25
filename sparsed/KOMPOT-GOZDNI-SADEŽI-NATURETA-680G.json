@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KOMPOT GOZDNI SADEŽ.680G",
+    "description": "KOMPOT GOZDNI SADEŽ.680G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kompot gozdni sadeži, mešano sadje v sirupu",
+        "ingredient-information": {
+            "sestavine": "sadje (višnje, jagode, ribez, robide), voda, sladkor, kalcijev klorid."
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "product-net-cont": {
+            "neto-količina": "680g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "279,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "16,70 g",
+            "Total Carbohydrate": "17,50 g",
+            "Total Fat": "0,20 g",
+            "kcal": "67,00 ",
+            "Prehranske vlaknine": "1,60 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "title": "KOMPOT GOZDNI SADEŽI, NATURETA, 680G",
+    "url": "https://www.spar.si/online/kompot-gozdni-sadezi-natureta-680g/p/411831",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,25 €/kg",
+    "product-insteadofprice": "3,57",
+    "product-stock-status": "",
+    "product-price": "3,57",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411831/dt_main.jpg"
+}

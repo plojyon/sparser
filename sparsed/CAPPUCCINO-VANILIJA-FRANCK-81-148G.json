@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebino ene vrečke stresite v lonček in dolijte 180 ml vroče (ne vrele) vode in premešajte. in dolijte 180 ml vroče (ne vrele) vode in premešajte."
+        },
+        "contact-information": {
+            "kontakt:": "LOMAS D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "148g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1840,00 ",
+            "Saturated fat": "12,00 g",
+            "Protein": "6,80 g",
+            "Sugar": "57,00 g",
+            "Total Fat": "12,00 g",
+            "kcal": "436,00 ",
+            "Total Carbohydrate": "76,00 g",
+            "Salt": "0,70 g"
+        }
+    },
+    "product-priceperunit": "11,08 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cappuccino-vanilija-franck-81-148g/p/530532",
+    "product-price": "1,64",
+    "title": "CAPPUCCINO VANILIJA, FRANCK, 8/1, 148G",
+    "description": "CAPPUCCINO VANILIJA 148G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/530532/dt_main.jpg",
+    "teaser-text": "CAPPUCCINO VANILIJA 148G"
+}

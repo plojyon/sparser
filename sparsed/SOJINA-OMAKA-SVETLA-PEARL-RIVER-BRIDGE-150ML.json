@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "5,80 g",
+            "Sugar": "4,40 g",
+            "Salt": "18,00 g",
+            "kJ": "209,00 ",
+            "Protein": "5,80 g",
+            "kcal": "50,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "ASIANA d.o.o., Šmartinska cesta 152, Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sojina-omaka-svetla-pearl-river-bridge-150ml/p/116066",
+    "product-price": "1,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/116066/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "OMAKA SOJINA 150ML",
+    "product-stock-status": "",
+    "title": "SOJINA OMAKA SVETLA, PEARL RIVER BRIDGE, 150ML",
+    "product-priceperunit": "9,93 €/l",
+    "description": "OMAKA SOJINA 150ML"
+}

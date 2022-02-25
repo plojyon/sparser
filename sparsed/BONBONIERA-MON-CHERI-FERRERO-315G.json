@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "13,20 g",
+            "Total Fat": "20,30 g",
+            "Total Carbohydrate": "52,80 g",
+            "Sugar": "48,30 g",
+            "Salt": "0,01 g",
+            "kJ": "1902,00 ",
+            "Protein": "3,00 g",
+            "kcal": "455,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONIERA MON CHERI, FERRERO, 315G",
+        "security-warning": {
+            "varnostna-opozorila": "Ni primerno za otroke!"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "315g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bonboniera-mon-cheri-ferrero-315g/p/232188",
+    "product-price": "7,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/232188/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "7,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BONB.MON CHERI T30,315G",
+    "product-stock-status": "",
+    "title": "BONBONIERA MON CHERI, FERRERO, 315G",
+    "product-priceperunit": "23,78 €/kg",
+    "description": "BONB.MON CHERI T30,315G"
+}

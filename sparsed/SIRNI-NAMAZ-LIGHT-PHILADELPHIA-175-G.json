@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,34",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "632,00 ",
+            "Saturated fat": "7,20 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Protein": "7,40 g",
+            "Sugar": "5,10 g",
+            "Total Fat": "11,00 g",
+            "kcal": "152,00 ",
+            "Total Carbohydrate": "5,10 g",
+            "Salt": "0,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "product-priceperunit": "13,37 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sirni-namaz-light-philadelphia-175-g/p/368894",
+    "product-price": "2,34",
+    "title": "SIRNI NAMAZ, LIGHT, PHILADELPHIA, 175 G",
+    "description": "NAMAZ PHILADELPH LIG175",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368894/dt_main.jpg",
+    "teaser-text": "NAMAZ PHILADELPH LIG175"
+}

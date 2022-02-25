@@ -1,0 +1,34 @@
+{
+    "product-insteadofprice": "8,99",
+    "product-priceperunit": "11,99 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO VINO SIVI PINOT, ERZETIČ, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "KOŽELJ, D.O.O."
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "14,00 vol. %"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "VINO SIVI PINOT ER.0,75L",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "8,99",
+    "teaser-text": "VINO SIVI PINOT ER.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-vino-sivi-pinot-erzetic-075l/p/48148",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48148/dt_main.jpg"
+}

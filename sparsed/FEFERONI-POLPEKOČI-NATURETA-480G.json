@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "6,15 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "FEFERONI POLPEKOČI 480G",
+    "teaser-text": "FEFERONI POLPEKOČI 480G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,20 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "2,50 g",
+            "kJ": "96,00 ",
+            "Protein": "1,00 g",
+            "Salt": "1,23 g",
+            "Sugar": "1,50 g",
+            "kcal": "23,00 ",
+            "Prehranske vlaknine": "3,60 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Feferoni polpekoči",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "480g"
+        },
+        "ingredient-information": {
+            "sestavine": "polpekoči feferoni, voda, alkoholni kis, sol, sladkor."
+        }
+    },
+    "url": "https://www.spar.si/online/feferoni-polpekoci-natureta-480g/p/368631",
+    "product-insteadofprice": "2,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368631/dt_main.jpg",
+    "title": "FEFERONI POLPEKOČI, NATURETA, 480G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,95",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,89",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "opis": "Čokolada vsebuje najmanj 35 % kakavovih delov, mlečna čokolada pa najmanj 30 %.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fin pekovski izdelek. Mehki biskvit s koščki mlečne čokolade z alpskim mlekom in čokoladnim polnilom (14%).",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1785,00 ",
+            "Saturated fat": "8,60 g",
+            "Protein": "5,10 g",
+            "Sugar": "29,50 g",
+            "Total Fat": "20,00 g",
+            "kcal": "426,00 ",
+            "Total Carbohydrate": "55,50 g",
+            "Salt": "0,70 g"
+        }
+    },
+    "product-priceperunit": "8,51 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/biskvit-koscki-cokolade-cake-choc-milka-175-g/p/471433",
+    "product-price": "1,49",
+    "title": "BISKVIT, KOŠČKI ČOKOLADE, CAKE & CHOC, MILKA, 175 G",
+    "description": "BISK.PEC.CAKE&CHOC 175G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471433/dt_main.jpg",
+    "teaser-text": "BISK.PEC.CAKE&CHOC 175G"
+}

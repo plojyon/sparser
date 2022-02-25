@@ -1,0 +1,48 @@
+{
+    "product-priceperunit": "5,98 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL MUSLI LE.500G",
+    "teaser-text": "SPAR VITAL MUSLI LE.500G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Fosfor 220,00 mg, Magnezij 110,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "19,00 g",
+            "Saturated fat": "4,60 g",
+            "Total Carbohydrate": "56,00 g",
+            "kJ": "1881,00 ",
+            "Protein": "9,20 g",
+            "Salt": "0,40 g",
+            "Sugar": "16,00 g",
+            "kcal": "449,00 ",
+            "Prehranske vlaknine": "10,00 g"
+        },
+        "opis": "/",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR Vital mešanica oreščkov hrustravlji musli. Visoka vsebnost prehranskih vlaknin in fosforja. Vir magnezija.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, LEŠNIKI, INDIJSKI OREŠČKI, MANDLJI, MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        }
+    },
+    "url": "https://www.spar.si/online/msli-z-orescki-spar-vital-500g/p/361215",
+    "product-insteadofprice": "2,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361215/dt_main.jpg",
+    "title": "MÜSLI Z OREŠČKI SPAR VITAL, 500G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

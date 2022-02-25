@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,05",
+    "product-priceperunit": "6,83 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OMAKA S PARADIŽNIKOM ZA TESTENINE, LUŠT, NATURETA, 290G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Paradižnikova omaka Lušt",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "alergeni": "ZELENA."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,93 g",
+            "Total Carbohydrate": "6,40 g",
+            "Prehranske vlaknine": "1,50 g",
+            "Total Fat": "1,80 g",
+            "Protein": "0,60 g",
+            "kJ": "198,00 ",
+            "Sugar": "5,50 g",
+            "kcal": "47,00 ",
+            "Saturated fat": "0,30 g"
+        }
+    },
+    "description": "OMAKA LUŠT 290G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,05",
+    "teaser-text": "OMAKA LUŠT 290G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/omaka-s-paradiznikom-za-testenine-lust-natureta-290g/p/471230",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471230/dt_main.jpg"
+}

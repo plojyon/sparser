@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "15,98",
+    "product-priceperunit": "31,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KREMNI LIKER, SCHOKO-BANANA, CASALI, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "15,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "MABAT INT d.o.o., Kapele 2, 8258 Kapele, Slovenija"
+        }
+    },
+    "description": "LIKER ČOK.BANANICA 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "15,98",
+    "teaser-text": "LIKER ČOK.BANANICA 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kremni-liker-schoko-banana-casali-05l/p/469442",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/469442/dt_main.jpg"
+}

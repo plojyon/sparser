@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "2,15",
+    "product-priceperunit": "4,22 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLADKA KORUZA, BONDUELLE, 3 X 170 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,40 g",
+            "Total Carbohydrate": "10,80 g",
+            "Prehranske vlaknine": "3,80 g",
+            "Total Fat": "1,90 g",
+            "Protein": "2,90 g",
+            "kJ": "334,00 ",
+            "Sugar": "5,20 g",
+            "kcal": "80,00 ",
+            "Saturated fat": "0,50 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "420G"
+        },
+        "ingredient-information": {
+            "sestavine": "sladka koruza v zrnju, voda, jedilna sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "510g"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "KORUZA 3x170G BONDUELLE",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,15",
+    "teaser-text": "KORUZA 3x170G BONDUELLE",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladka-koruza-bonduelle-3-x-170-g/p/452089",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452089/dt_main.jpg"
+}

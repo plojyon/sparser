@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,77",
+    "product-priceperunit": "7,08 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO SONČNIČNO SEME, BIOTOP, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "12,30 g",
+            "Prehranske vlaknine": "6,30 g",
+            "Total Fat": "49,00 g",
+            "Protein": "26,50 g",
+            "kJ": "2523,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "609,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "MEDIACOR, d.o.o., Obrtniška ulica 9, 3240 Šmarje pri Jelšah"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "BIO SONČNIČNO SEME 250G",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,77",
+    "teaser-text": "BIO SONČNIČNO SEME 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-soncnicno-seme-biotop-250g/p/471833",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471833/dt_main.jpg"
+}

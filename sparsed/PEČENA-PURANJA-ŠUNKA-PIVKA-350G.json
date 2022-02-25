@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "11,89 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "ŠUNKA PURANJA PIVKA 350G",
+    "teaser-text": "ŠUNKA PURANJA PIVKA 350G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "5,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Pivka d.d., Kal 1, 6257 Pivka"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "4,30 g",
+            "Saturated fat": "1,20 g",
+            "Total Carbohydrate": "2,10 g",
+            "kJ": "520,00 ",
+            "Protein": "19,00 g",
+            "Salt": "2,10 g",
+            "Sugar": "0,40 g",
+            "kcal": "124,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Puranja pečena Šunka 350g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "ingredient-information": {
+            "sestavine": "puranje meso 51,00 %, piščančje meso 25,00 %, voda 19,00 %, mešanica začimb in aditivov 5,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/pecena-puranja-sunka-pivka-350g/p/374981",
+    "product-insteadofprice": "4,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374981/dt_main.jpg",
+    "title": "PEČENA PURANJA ŠUNKA, PIVKA, 350G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,16",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

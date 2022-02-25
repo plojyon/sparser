@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "3,45",
+    "product-priceperunit": "3,45 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h3b/h64/9829227331614/tehtnica-ikona-123x80.jpg",
+    "title": "KRUH HRUSTAVC DON DON, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,90 g",
+            "Total Carbohydrate": "45,80 g",
+            "Prehranske vlaknine": "3,10 g",
+            "Total Fat": "2,30 g",
+            "Protein": "7,80 g",
+            "kJ": "1022,00 ",
+            "Sugar": "0,80 g",
+            "kcal": "242,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, JAJCA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH), VOLČJI BOB (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Don don d.o.o., Gasilska cesta 2, 1290 Grosuplje"
+        }
+    },
+    "description": "KRUH HRUSTAVC TEMNI 1KG",
+    "product-promotionBadges": "Tehtan izdelek",
+    "product-brand": "",
+    "product-price": "3,45",
+    "teaser-text": "KRUH HRUSTAVC TEMNI 1KG",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kruh-hrustavc-don-don-1kg/p/505285",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505285/dt_main.jpg"
+}

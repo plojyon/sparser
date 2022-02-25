@@ -1,0 +1,33 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BRANDY XO STOCK, 0,7L",
+    "description": "BRANDY XO STOCK, 0,7L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BRANDY, STOCK XO, 0,7 L",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "BRANDY XO STOCK, 0,7L",
+    "url": "https://www.spar.si/online/brandy-xo-stock-07l/p/412408",
+    "isOnPromotion": "false",
+    "product-priceperunit": "26,99 €/l",
+    "product-insteadofprice": "18,89",
+    "product-stock-status": "",
+    "product-price": "18,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/412408/dt_main.jpg"
+}

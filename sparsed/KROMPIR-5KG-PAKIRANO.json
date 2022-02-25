@@ -1,0 +1,22 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "5kg"
+        }
+    },
+    "product-priceperunit": "0,52 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/krompir-5kg-pakirano/p/434126",
+    "product-price": "2,59",
+    "title": "KROMPIR 5KG, PAKIRANO",
+    "description": "KROMPIR SLO 5KG",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/434126/dt_main.jpg",
+    "teaser-text": "KROMPIR SLO 5KG"
+}

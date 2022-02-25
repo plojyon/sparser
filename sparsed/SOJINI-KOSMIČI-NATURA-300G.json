@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "3,40 g",
+            "Salt": "0,01 g",
+            "Total Fat": "21,30 g",
+            "Total Carbohydrate": "7,30 g",
+            "Sugar": "5,70 g",
+            "Prehranske vlaknine": "17,20 g",
+            "kJ": "1529,00 ",
+            "Protein": "40,00 g",
+            "kcal": "381,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sojini kosmiči",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Primerni za neposredno uporabo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sojini-kosmici-natura-300g/p/227723",
+    "product-price": "1,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/227723/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KOSMIČI SOJINI 300G",
+    "product-stock-status": "",
+    "title": "SOJINI KOSMIČI, NATURA, 300G",
+    "product-priceperunit": "6,63 €/kg",
+    "description": "KOSMIČI SOJINI 300G"
+}

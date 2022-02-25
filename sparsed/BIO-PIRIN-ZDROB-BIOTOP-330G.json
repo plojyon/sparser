@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,50 g",
+            "Salt": "0,01 g",
+            "Total Fat": "3,60 g",
+            "Total Carbohydrate": "63,70 g",
+            "Sugar": "3,90 g",
+            "Prehranske vlaknine": "8,30 g",
+            "kJ": "358,00 ",
+            "Protein": "12,70 g",
+            "kcal": "1501,00 "
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "contact-information": {
+            "kontakt:": "MEDIACOR, d.o.o., Obrtniška ulica 9, 3240 Šmarje pri Jelšah"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-pirin-zdrob-biotop-330g/p/266199",
+    "product-price": "2,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/266199/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "2,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "BIO ZDROB PIRIN 330G",
+    "product-stock-status": "",
+    "title": "BIO PIRIN ZDROB BIOTOP, 330G",
+    "product-priceperunit": "6,94 €/kg",
+    "description": "BIO ZDROB PIRIN 330G"
+}

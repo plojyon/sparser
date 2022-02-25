@@ -1,0 +1,25 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        }
+    },
+    "product-priceperunit": "15,92 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/fileti-skuse-mediteran-delamaris-125g/p/278427",
+    "product-price": "1,99",
+    "title": "FILETI SKUŠE MEDITERAN, DELAMARIS, 125G",
+    "description": "FILETI SKUŠE MEDIT.125G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/278427/dt_main.jpg",
+    "teaser-text": "FILETI SKUŠE MEDIT.125G"
+}

@@ -1,0 +1,45 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,73",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Hitra priprava. Vsebina vrečke zadostuje za 3 obroke.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Med mešanjem stresite ajdove žgance v kozico z vrelo slano vodo, ki ste ji dodali olje ali mast. Na zmernem ognju kuhajte 2 min. Kuhani žganci naj malo postojijo. Z vilicami jih nadrobite v skledo in zabelite z vročimi ocvirki. Obrok za eno osebo: 1 skodelica žgancev (80-90 g), 2-3 skodelice vode(odvisno od tega ali želite pripraviti gostejšo ali redkejšo jed) ter 1 žlica olja."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "AJDOVI ŽGANCI. AJDOV ZDROB. Hitra priprava.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1446,00 ",
+            "Saturated fat": "0,68 g",
+            "Prehranske vlaknine": "9,00 g",
+            "Protein": "13,90 g",
+            "Sugar": "0,96 g",
+            "Total Fat": "3,40 g",
+            "kcal": "342,00 ",
+            "Total Carbohydrate": "59,50 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "6,92 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/ajdovi-zganci-hitra-priprava-zlato-polje-250g/p/42718",
+    "product-price": "1,73",
+    "title": "AJDOVI ŽGANCI HITRA PRIPRAVA, ZLATO POLJE, 250G",
+    "description": "ŽGANCI AJDOVI 250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42718/dt_main.jpg",
+    "teaser-text": "ŽGANCI AJDOVI 250G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "37,75 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "ČAJ BRUSNICA 40G TZ",
+    "teaser-text": "ČAJ BRUSNICA 40G TZ",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČAROBNA BRUSNICA, Aromatiziran zeliščni čaj, okus brusnica",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "ingredient-information": {
+            "sestavine": "cvetovi hibiskusa 50,00 %, plodovi jabolk 20,20 %, listi sladke robide 10,00 %, aroma (brusnica) 10,00 %, kislina: jabolčna kislina 3,80 %, plodovi črnega ribeza 2,00 %, korenine potrošnika 2,00 %, plodovi šipka 1,00 %, plodovi brusnice 1,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/caj-okus-brusnica-filter-1001-cvet-40-g/p/374719",
+    "product-insteadofprice": "1,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374719/dt_main.jpg",
+    "title": "ČAJ OKUS BRUSNICA FILTER, 1001 CVET, 40 G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,51",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

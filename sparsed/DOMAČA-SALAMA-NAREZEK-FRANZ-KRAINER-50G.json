@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,65",
+    "product-priceperunit": "33,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "DOMAČA SALAMA, NAREZEK, FRANZ KRAINER, 50G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SALAMA DOMAČA 50G",
+        "contact-information": {
+            "kontakt:": "Franz Krainer d.o.o., Tržaška cesta 53, 2000 Maribor"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "41,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,50 g",
+            "Total Carbohydrate": "1,50 g",
+            "Total Fat": "41,00 g",
+            "Protein": "19,00 g",
+            "kJ": "1861,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "450,00 ",
+            "Saturated fat": "15,00 g"
+        }
+    },
+    "description": "SALAMA DOMAČA 50 G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,65",
+    "teaser-text": "SALAMA DOMAČA 50 G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domaca-salama-narezek-franz-krainer-50g/p/463834",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/463834/dt_main.jpg"
+}

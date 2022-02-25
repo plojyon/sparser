@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "39,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ŽITNA PLOŠČICA Z VITAMINI BREZ GLUTENA, SCHÄR, 25G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,50 g",
+            "Total Carbohydrate": "59,00 g",
+            "Prehranske vlaknine": "12,00 g",
+            "Total Fat": "13,00 g",
+            "Protein": "7,00 g",
+            "kJ": "1699,00 ",
+            "Sugar": "24,00 g",
+            "kcal": "405,00 ",
+            "Saturated fat": "6,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, MANDLJI, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "25g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        }
+    },
+    "description": "MUSLI PLOŠČ.B.GLUT.25G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "MUSLI PLOŠČ.B.GLUT.25G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zitna-ploscica-z-vitamini-brez-glutena-schr-25g/p/475239",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/475239/dt_main.jpg"
+}

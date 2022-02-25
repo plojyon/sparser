@@ -1,0 +1,49 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "8,79",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Ovitek ni užiten."
+        },
+        "opis": "Suha domača salama je po tradicionalnem štajerskem receptu pripravljena, klasično sušena salama iz svinjine in slanine. Njen vrhunski okus smo dosegli s skrivnostno mešanico domačih začimb, česna ter celega popra.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek se olupi in nareže, uživa se hladen."
+        },
+        "contact-information": {
+            "kontakt:": "Celjske mesnine d.d, Cesta v Trnovlje 17, 3000 Celje."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso 67,00 %, slanina 14,40 %, goveje meso 14,40 %, sol s konzervansom (natrijev nitrit) 2,30 %, začimbna mešanica in dodatki: dekstroza, sladkor, antioksidant E301, arome, ekstrakt kvasa, začimbe 1,90 %."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "33,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1733,00 ",
+            "Saturated fat": "17,00 g",
+            "Protein": "27,00 g",
+            "Sugar": "0,50 g",
+            "Total Fat": "33,00 g",
+            "kcal": "417,00 ",
+            "Total Carbohydrate": "3,10 g",
+            "Salt": "4,30 g"
+        }
+    },
+    "product-priceperunit": "17,58 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/domaca-suha-salama-zdezele-500g/p/401143",
+    "product-price": "8,79",
+    "title": "DOMAČA SUHA SALAMA, Z´DEŽELE, 500G",
+    "description": "SALAMA DOMAČA 500G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/401143/dt_main.jpg",
+    "teaser-text": "SALAMA DOMAČA 500G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,79",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "LOMAS D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "11,16 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mleta-kava-loka-250g/p/280272",
+    "product-price": "2,79",
+    "title": "MLETA KAVA, LOKA, 250G",
+    "description": "KAVA LOKA MLETA 250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/280272/dt_main.jpg",
+    "teaser-text": "KAVA LOKA MLETA 250G"
+}

@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "29,00 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "FANT ZA ČUFTE 60G PODRAV",
+    "teaser-text": "FANT ZA ČUFTE 60G PODRAV",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "2,10 g",
+            "Saturated fat": "0,70 g",
+            "Total Carbohydrate": "56,00 g",
+            "kJ": "1186,00 ",
+            "Protein": "9,20 g",
+            "Salt": "25,50 g",
+            "Sugar": "15,00 g",
+            "kcal": "280,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mešanica za pripravo jedi čufte",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "60g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebino vrečke Fant zmešajte s 100 ml mlačne vode in pustite stati nekaj minut. Mletemu mesu dodajte pripravljen Fant ter dobro zmešajte. Oblikujte čufte in jih skuhajte v pripravljeni paradižnikovi omaki. Če želite pripraviti čufte z rižem, mešanici Fanta in mesa dodajte približno 100 g riža."
+        }
+    },
+    "url": "https://www.spar.si/online/mesanica-za-pripravo-jedi-cufte-fant-podravka-60g/p/385030",
+    "product-insteadofprice": "1,74",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/385030/dt_main.jpg",
+    "title": "MEŠANICA ZA PRIPRAVO JEDI ČUFTE FANT, PODRAVKA, 60G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,74",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

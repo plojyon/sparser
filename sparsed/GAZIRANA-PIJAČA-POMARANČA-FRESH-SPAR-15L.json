@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,50",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, pomarančni sok iz zgoščenega soka 1,00 %, ogljikov dioksid, kislina: citronska kislina, ekstrakt pomaranče, antioksidant: askorbinska kislina, stabilizatorja: gumi arabikum, glicerolni estri lesnih smol, aroma, barvilo: karoteni."
+        },
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "150,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "8,60 g",
+            "Total Fat": "0,00 g",
+            "kcal": "35,00 ",
+            "Total Carbohydrate": "8,60 g",
+            "Salt": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-priceperunit": "0,27 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gazirana-pijaca-pomaranca-fresh-spar-15l/p/374938",
+    "product-price": "0,40",
+    "title": "GAZIRANA PIJAČA POMARANČA FRESH, SPAR, 1,5L",
+    "description": "SPAR FRESH ORANGE 1,5L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374938/dt_main.jpg",
+    "teaser-text": "SPAR FRESH ORANGE 1,5L"
+}

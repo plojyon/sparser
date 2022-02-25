@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,09",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "129g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2384,00 ",
+            "Saturated fat": "17,30 g",
+            "Protein": "8,60 g",
+            "Sugar": "41,20 g",
+            "Total Fat": "37,30 g",
+            "kcal": "572,00 ",
+            "Total Carbohydrate": "49,50 g",
+            "Salt": "0,27 g"
+        }
+    },
+    "product-priceperunit": "16,20 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/vafelj-oblit-z-mlecno-cokolado-kinder-bueno-ferrero-31-129g/p/211777",
+    "product-price": "2,09",
+    "title": "VAFELJ OBLIT Z MLEČNO ČOKOLADO KINDER BUENO, FERRERO, 3/1, 129G",
+    "description": "VAF.KINDER BUE.TR.129G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/211777/dt_main.jpg",
+    "teaser-text": "VAF.KINDER BUE.TR.129G"
+}

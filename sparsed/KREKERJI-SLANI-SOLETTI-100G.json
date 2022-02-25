@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,00 g",
+            "Salt": "2,50 g",
+            "Total Fat": "13,00 g",
+            "Total Carbohydrate": "74,00 g",
+            "Sugar": "2,10 g",
+            "Prehranske vlaknine": "5,10 g",
+            "kJ": "1855,00 ",
+            "Protein": "4,10 g",
+            "kcal": "441,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Krompirjev prigrizek - soljen in pikantno začinjen",
+        "contact-information": {
+            "kontakt:": "Intersnack d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-badges": {
+            "certifikati": "Vegan"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI, GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/krekerji-slani-soletti-100g/p/571507",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/571507/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "product-insteadofprice": "1,59",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Vegan",
+    "teaser-text": "KREK.SLANI SOLETTI 100 G",
+    "product-stock-status": "",
+    "title": "KREKERJI SLANI, SOLETTI, 100G",
+    "product-priceperunit": "11,90 €/kg",
+    "description": "KREK.SLANI SOLETTI 100 G"
+}

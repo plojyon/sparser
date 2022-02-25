@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "13,89",
+    "product-priceperunit": "18,52 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO DIŠEČI TRAMINEC, STEYER, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dišeči traminec polsladko  - STEYER",
+        "contact-information": {
+            "kontakt:": "KOŽELJ d.o.o., Hiša dobrih vin, Moste 54, 1218 Komenda, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        }
+    },
+    "description": "VINO DIŠ.TRAM.ST.0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "13,89",
+    "teaser-text": "VINO DIŠ.TRAM.ST.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-diseci-traminec-steyer-075-l/p/487868",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/487868/dt_main.jpg"
+}

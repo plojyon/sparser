@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "4,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/trdi-sir-parmigiano-reggiano-spar-premium-200g/p/597544",
+    "title": "TRDI SIR PARMIGIANO REGGIANO, SPAR PREMIUM, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "4,99",
+    "product-info": {
+        "opis": "/",
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Saturated fat": "20,00 g",
+            "Protein": "32,00 g",
+            "Total Fat": "30,00 g",
+            "kcal": "402,00 ",
+            "Salt": "1,60 g",
+            "kJ": "1671,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Parmigiano Reggiano ZOP, 32 % maščobe v suhi snovi. Italijanski trdi sir iz surovega mleka, zorjen 30 mesecev.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-priceperunit": "24,95 €/kg",
+    "teaser-text": "DESPAR PREMIUM SIR PARMI",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "DESPAR PREMIUM SIR PARMI",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/597544/dt_main.jpg",
+    "product-brand": ""
+}

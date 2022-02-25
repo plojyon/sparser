@@ -1,0 +1,48 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "teaser-text": "SPAR NP BIO BI.MUSL.375G",
+    "description": "SPAR NP BIO BI.MUSL.375G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bio musli s sadjem (24%) iz ekološke pridelave",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, LEŠNIKI, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1492,00 ",
+            "Salt": "0,11 g",
+            "Sugar": "15,00 g",
+            "Total Carbohydrate": "61,00 g",
+            "Total Fat": "5,70 g",
+            "kcal": "354,00 ",
+            "Prehranske vlaknine": "8,90 g",
+            "Saturated fat": "0,90 g",
+            "Protein": "10,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "BIO MÜSLI SPAR NATUR*PUR, 375G",
+    "url": "https://www.spar.si/online/bio-msli-spar-naturpur-375g/p/412856",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,39 €/kg",
+    "product-insteadofprice": "2,02",
+    "product-stock-status": "",
+    "product-price": "2,02",
+    "product-brand": "",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/412856/dt_main.jpg"
+}

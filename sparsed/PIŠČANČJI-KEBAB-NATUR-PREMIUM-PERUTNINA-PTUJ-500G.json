@@ -1,0 +1,46 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,29",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Čas priprave 8 minut."
+        },
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj, d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Piščančji trakci za v lepinjo, tortiljo ali kot samostojna jed.",
+        "ingredient-information": {
+            "sestavine": "piščančja stegna brez kože in kosti, kuhinjska sol, začimbe, dekstroza, kvasni ekstrakt, ekstrakti in arome začimb."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "8,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "619,00 ",
+            "Saturated fat": "2,40 g",
+            "Protein": "18,00 g",
+            "Sugar": "0,80 g",
+            "Total Fat": "8,00 g",
+            "kcal": "148,00 ",
+            "Total Carbohydrate": "0,80 g",
+            "Salt": "1,50 g"
+        }
+    },
+    "product-priceperunit": "7,94 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancji-kebab-natur-premium-perutnina-ptuj-500g/p/479969",
+    "product-price": "3,97",
+    "title": "PIŠČANČJI KEBAB NATUR PREMIUM, PERUTNINA PTUJ, 500G",
+    "description": "KEBAB PIŠČAN. 500G IK",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/479969/dt_main.jpg",
+    "teaser-text": "KEBAB PIŠČAN. 500G IK"
+}

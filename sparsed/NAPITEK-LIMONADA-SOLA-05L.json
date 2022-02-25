@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "LIMONADA SOLA 0,5L",
+    "description": "LIMONADA SOLA 0,5L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Negazirana brezalkoholna pijača z mešanim sadnim sokom in vitaminom C.",
+        "opis": "Sola limonada v sebi skriva noro moč, ki poskrbi za nepozabno galaktično popotovanje po vesolju citrusovih not. Poznan, domač okus daje pijači sok limet, pomaranč in limon. Ker so agrumi znani po veliki vsebnosti vitamina C, ga je polna tudi naša limonada",
+        "ingredient-information": {
+            "sestavine": "voda 88,66 %, sladkor 9,56 %, askorbinska kislina 0,19 %, sadna baza 1,59 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "152,00 ",
+            "Salt": "0,02 g",
+            "Sugar": "8,60 g",
+            "Total Carbohydrate": "8,60 g",
+            "Total Fat": "0,10 g",
+            "kcal": "35,70 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,10 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "NAPITEK LIMONADA, SOLA, 0,5L",
+    "url": "https://www.spar.si/online/napitek-limonada-sola-05l/p/411048",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,20 €/l",
+    "product-insteadofprice": "0,60",
+    "product-stock-status": "",
+    "product-price": "0,60",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411048/dt_main.jpg"
+}

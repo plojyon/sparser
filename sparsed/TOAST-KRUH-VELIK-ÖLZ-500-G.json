@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,15",
+    "product-priceperunit": "4,30 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TOAST KRUH, VELIK, ÖLZ, 500 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "47,00 g",
+            "Prehranske vlaknine": "3,50 g",
+            "Total Fat": "3,80 g",
+            "Protein": "8,30 g",
+            "kJ": "1109,00 ",
+            "Sugar": "5,50 g",
+            "kcal": "262,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "TOAST RIESEN VELIKAN500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,15",
+    "teaser-text": "TOAST RIESEN VELIKAN500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/toast-kruh-velik-lz-500-g/p/477103",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/477103/dt_main.jpg"
+}

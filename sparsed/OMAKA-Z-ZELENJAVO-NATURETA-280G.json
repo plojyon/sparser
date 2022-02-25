@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,30 g",
+            "Salt": "1,40 g",
+            "Total Fat": "3,30 g",
+            "Total Carbohydrate": "5,10 g",
+            "Sugar": "3,30 g",
+            "Prehranske vlaknine": "2,50 g",
+            "kJ": "249,00 ",
+            "Protein": "1,30 g",
+            "kcal": "60,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Omaka z zelenjavo",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, zelenjava (paprika, korenje, čebula, por, jajčevci, feferoni), paradižnikov koncentrat, olje, sladkor, sol, škrob, začimbe, naravna aroma."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/omaka-z-zelenjavo-natureta-280g/p/274307",
+    "product-price": "1,58",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/274307/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,58",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "OMAKCA Z ZELEN.280G",
+    "product-stock-status": "",
+    "title": "OMAKA Z ZELENJAVO, NATURETA, 280G",
+    "product-priceperunit": "5,64 €/kg",
+    "description": "OMAKCA Z ZELEN.280G"
+}

@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,07",
+    "product-priceperunit": "1,43 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "IZOTONIK SADNI, OSHEE, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Negazirana, IZOTONIČNA, brezalkoholna pijača s SADNIM okusom.",
+        "ingredient-information": {
+            "sestavine": "voda, glukoza, maltodekstrin, kislina (citronska kislina), sredstvo za uravnavanje kislosti (trinatrijev citrat, trikalijev citrat), aroma, konzervans (kalijev sorbat, natrijev benzoat), stabilizator (gumi arabicum, glicerolni estri lesnih smol), sladilo (aspartam, acesulfam k), vitamini (niacin/vit.b3, vitamin e, pantotenska kislina/vit.b5, vitamin b6, biotin/vit.b7), barvilo E133."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,12 g",
+            "Total Carbohydrate": "5,70 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "101,00 ",
+            "Sugar": "4,00 g",
+            "kcal": "24,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj, Slovenija"
+        }
+    },
+    "description": "NAPITEK OSHEE SADN.0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,07",
+    "teaser-text": "NAPITEK OSHEE SADN.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/izotonik-sadni-oshee-075l/p/465294",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/465294/dt_main.jpg"
+}

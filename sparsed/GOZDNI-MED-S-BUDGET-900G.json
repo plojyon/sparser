@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "7,98",
+    "product-priceperunit": "8,87 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GOZDNI MED, S-BUDGET, 900G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "Spar Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana"
+        },
+        "opis": "Točeni gozdni med je preverjene kakovosti in v sebi združuje najboljše, kar se skriva v gozdu. V gozdnem medu boste zaznali aromo po smoli, orehih, lešnikih, ze...",
+        "ingredient-information": {
+            "sestavine": "gozdni med 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "900g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "81,40 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,30 g",
+            "kJ": "1389,00 ",
+            "Sugar": "81,40 g",
+            "kcal": "326,80 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SB MED GOZDNI 900G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,98",
+    "teaser-text": "SB MED GOZDNI 900G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gozdni-med-s-budget-900g/p/465723",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/465723/dt_main.jpg"
+}

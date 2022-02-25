@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KORUZA ZA POPCORN 400G",
+    "description": "KORUZA ZA POPCORN 400G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Koruza za pokovko 400 g Odlično",
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1620,00 ",
+            "Salt": "0,02 g",
+            "Sugar": "0,87 g",
+            "Total Carbohydrate": "77,78 g",
+            "Total Fat": "4,54 g",
+            "kcal": "387,00 ",
+            "Prehranske vlaknine": "14,50 g",
+            "Saturated fat": "0,64 g",
+            "Protein": "12,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "Hrib d.o.o, Večje Brdo 8, 3224 Dobje pri Planini, Slovenija"
+        }
+    },
+    "title": "KORUZA ZA POKOVKO, ODLIČNO, 400 G",
+    "url": "https://www.spar.si/online/koruza-za-pokovko-odlicno-400-g/p/419482",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,13 €/kg",
+    "product-insteadofprice": "1,25",
+    "product-stock-status": "",
+    "product-price": "1,25",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/419482/dt_main.jpg"
+}

@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "11,93 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "BIO PRIGRIZEK IZ KORUZE IN RIŽA, BREZ GLUTENA IN LAKTOZE, SPAR FREE FROM, 6/1, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "75,00 g",
+            "Prehranske vlaknine": "5,20 g",
+            "Total Fat": "2,20 g",
+            "Protein": "8,90 g",
+            "kJ": "1549,00 ",
+            "Sugar": "0,80 g",
+            "kcal": "366,00 ",
+            "Saturated fat": "0,40 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO EKSTRUDIRAN PRIGRIZEK IZ KORUZE IN RIŽA, BREZ GLUTENA IN LAKTOZE, iz ekološke pridelave.",
+        "opis": "Iz ekološke pridelave (Kmetijstvo EU/izven EU). Vsebnost laktoze: <0,01 g/100 g.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "koruzna moka* 54%, riževa moka* 45%, nejodirana morska sol, *iz ekološke pridelave."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR FF HRSKI 150G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,79",
+    "teaser-text": "SPAR FF HRSKI 150G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/bio-prigrizek-iz-koruze-in-riza-brez-glutena-in-laktoze-spar-free-from-61-150g/p/482258",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/482258/dt_main.jpg"
+}

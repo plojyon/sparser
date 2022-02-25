@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "REZINA FR.BE.MAREL.30G",
+    "description": "REZINA FR.BE.MAREL.30G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "30g"
+        },
+        "opis": "Proizvod je tri-plastna sadno žitna rezina z jogurtovim oblivom. Sadna sredica z okusom marelice je obdana z zgornjo in spodnjo žitno plastjo iz riževih, koruznih in ovsenih kosmičev. Cela rezina je oblita z jogurtovim oblivom. Vsebnost sadja je najmanj 33 %.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, MANDLJI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1797,00 ",
+            "Salt": "0,40 g",
+            "Sugar": "32,00 g",
+            "Total Carbohydrate": "68,00 g",
+            "Total Fat": "15,00 g",
+            "kcal": "427,00 ",
+            "Prehranske vlaknine": "1,80 g",
+            "Saturated fat": "12,20 g",
+            "Protein": "4,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "FRUTABELA MARELICA, 30G",
+    "url": "https://www.spar.si/online/frutabela-marelica-30g/p/40794",
+    "isOnPromotion": "false",
+    "product-priceperunit": "18,33 €/kg",
+    "product-insteadofprice": "0,55",
+    "product-stock-status": "",
+    "product-price": "0,55",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40794/dt_main.jpg"
+}

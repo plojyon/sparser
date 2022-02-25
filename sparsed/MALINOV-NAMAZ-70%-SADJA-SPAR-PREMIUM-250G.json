@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR PREMI.NAM.MALI.250G",
+    "description": "SPAR PREMI.NAM.MALI.250G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MALINOV NAMAZ, 70% sadja",
+        "opis": "Malinov namaz iz 70% sadja.",
+        "ingredient-information": {
+            "sestavine": "maline, sladkor, limonin zgoščeni sok, želirno sredstvo: pektin."
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "792,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "42,00 g",
+            "Total Carbohydrate": "42,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "187,00 ",
+            "Prehranske vlaknine": "4,20 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "MALINOV NAMAZ 70% SADJA, SPAR PREMIUM, 250G",
+    "url": "https://www.spar.si/online/malinov-namaz-70-sadja-spar-premium-250g/p/395448",
+    "isOnPromotion": "false",
+    "product-priceperunit": "12,76 €/kg",
+    "product-insteadofprice": "3,19",
+    "product-stock-status": "",
+    "product-price": "3,19",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395448/dt_main.jpg"
+}

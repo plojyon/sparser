@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,95",
+    "product-priceperunit": "2,88 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNA PIJAČA GOZDNI SADEŽI YIPPY, RAUCH, 0,33L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIJAČA IZ VEČ VRST SADJA, GOZDNI SADEŽI, YIPPY, RAUCH, 0,33 L",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, zgoščeni sadni sokovi, sladkor, citronska kislina, kalcijev citrat, beta karoten, vitamini, aroma."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,80 g",
+            "Total Carbohydrate": "9,80 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,10 g",
+            "kJ": "172,00 ",
+            "Sugar": "9,80 g",
+            "kcal": "41,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "NAPITEK YIPPY G.SA.0,33L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,95",
+    "teaser-text": "NAPITEK YIPPY G.SA.0,33L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadna-pijaca-gozdni-sadezi-yippy-rauch-033l/p/448577",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/448577/dt_main.jpg"
+}

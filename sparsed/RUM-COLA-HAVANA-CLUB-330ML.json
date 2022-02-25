@@ -1,0 +1,34 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-priceperunit": "7,24 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RUM COLA, HAVANA CLUB, 330ML",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Servirati ohlajeno."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "10,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Pernod Ricard Slovenija d.o.o., Vurnikova 2, 1000 Ljubljana"
+        }
+    },
+    "description": "RUM HAVA.CL.COLA 0,33L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,39",
+    "teaser-text": "RUM HAVA.CL.COLA 0,33L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rum-cola-havana-club-330ml/p/505219",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505219/dt_main.jpg"
+}

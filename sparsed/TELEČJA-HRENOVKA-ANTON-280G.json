@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "8,40 g",
+            "Total Fat": "21,00 g",
+            "Total Carbohydrate": "1,20 g",
+            "Sugar": "0,50 g",
+            "Salt": "1,70 g",
+            "kJ": "1001,00 ",
+            "Protein": "12,00 g",
+            "kcal": "242,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Telečja hrenovka Anton 280 g",
+        "contact-information": {
+            "kontakt:": "Meso Kamnik d.d., Korenova ceta 9, 1241 Kamnik"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "ingredient-information": {
+            "sestavine": "telečje meso 44,00 %, voda, slanina 24,00 %, goveje meso 8,00 %, svinjsko meso 5,00 %, grahove vlaknine 1,40 %, sol 1,50 %, začimbe 0,10 %, dekstroza 0,01 %, začimbni ekstrakti 0,20 %, antiksidant: askorbinska kislina 0,10 %, stabilizatorji: difosfati, trifosfati 0,20 %, konzervans: natrijev nitrit 0,01 %."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "25,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/telecja-hrenovka-anton-280g/p/579306",
+    "product-price": "2,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/579306/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "3,58",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "HRENOVKA TELEČJA 280G",
+    "product-stock-status": "",
+    "title": "TELEČJA HRENOVKA, ANTON, 280G",
+    "product-priceperunit": "9,25 €/kg",
+    "description": "HRENOVKA TELEČJA 280G"
+}

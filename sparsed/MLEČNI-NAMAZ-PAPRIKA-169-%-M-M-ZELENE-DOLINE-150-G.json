@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,78",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "806,00 ",
+            "Saturated fat": "10,50 g",
+            "Protein": "2,50 g",
+            "Sugar": "3,40 g",
+            "Total Fat": "16,90 g",
+            "kcal": "195,00 ",
+            "Total Carbohydrate": "8,10 g",
+            "Salt": "0,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "product-priceperunit": "11,87 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-namaz-paprika-169-m-m-zelene-doline-150-g/p/455074",
+    "product-price": "1,78",
+    "title": "MLEČNI NAMAZ, PAPRIKA, 16,9 % M. M., ZELENE DOLINE, 150 G",
+    "description": "NAMAZ MLEČ PAPRIKA 150G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/455074/dt_main.jpg",
+    "teaser-text": "NAMAZ MLEČ PAPRIKA 150G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,37",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/sir-mozzarella-rezine-zanetti-120g/p/581287",
+    "title": "SIR MOZZARELLA, REZINE, ZANETTI, 120G",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "product-price": "2,37",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ERFA D.O.O., BEVKOVA 12, 1233 DOB"
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,80 g",
+            "Total Carbohydrate": "0,80 g",
+            "Saturated fat": "16,00 g",
+            "Protein": "25,00 g",
+            "Total Fat": "24,00 g",
+            "kcal": "319,00 ",
+            "Salt": "1,20 g",
+            "kJ": "1327,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "19,75 €/kg",
+    "teaser-text": "SIR MOZZARELLA 120G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SIR MOZZARELLA 120G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/581287/dt_main.jpg",
+    "product-brand": ""
+}

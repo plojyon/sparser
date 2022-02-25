@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/suseni-kare-dimljen-narezek-spar-100g/p/594728",
+    "title": "SUŠENI KARE DIMLJEN, NAREZEK, SPAR, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,39",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "trade-group": {
+            "vrsta-mesa": "svinjsko meso"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjski kare, jodirana morska sol (sol, kalijev jodat), konzervans: natrijev nitrit."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,50 g",
+            "Total Carbohydrate": "0,80 g",
+            "Saturated fat": "0,50 g",
+            "Protein": "37,00 g",
+            "Total Fat": "1,20 g",
+            "kcal": "162,00 ",
+            "Salt": "5,60 g",
+            "kJ": "687,00 "
+        },
+        "contact-information": {}
+    },
+    "product-priceperunit": "23,90 €/kg",
+    "teaser-text": "SPAR KARE SUŠEN 100 G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR KARE SUŠEN 100 G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/594728/dt_main.jpg",
+    "product-brand": ""
+}

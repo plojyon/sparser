@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-priceperunit": "24,90 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "KMEČKA SALAMA, NAREZEK, AVE, PANVITA, 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "KMEČKA SALAMA 100g narezek - Sušene mesnine",
+        "contact-information": {
+            "kontakt:": "Panvita Mir d.d., Ljutomerska cesta 28a, 9250 Gornja Radgona"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "22,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,20 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "21,70 g",
+            "Protein": "30,70 g",
+            "kJ": "1509,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "363,00 ",
+            "Saturated fat": "9,60 g"
+        }
+    },
+    "description": "SALAMA KMEČKA 100G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "2,49",
+    "teaser-text": "SALAMA KMEČKA 100G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/kmecka-salama-narezek-ave-panvita-100g/p/480153",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/480153/dt_main.jpg"
+}

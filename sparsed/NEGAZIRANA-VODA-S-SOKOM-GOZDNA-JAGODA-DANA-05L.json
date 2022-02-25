@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "1,10 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "DANA GOZDNA JAG. 0,5L",
+    "teaser-text": "DANA GOZDNA JAG. 0,5L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Dana d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "4,20 g",
+            "kJ": "73,00 ",
+            "Protein": "0,10 g",
+            "Salt": "0,06 g",
+            "Sugar": "4,00 g",
+            "kcal": "17,30 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA S SOKOM GOZDNE JAGODE - nizkoenergijska negazirana brezalkoholna pijača s sokom jabolka in gozdne jagode z izvlečkom aloe vere.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, sok jabolka in gozdne jagode iz zgoščenega soka 2,00 %, kislina (citronska kislina), naravna aroma gozdne jagode, konzervansa (k-sorbat in na-benzoat), izvleček aloe vere."
+        }
+    },
+    "url": "https://www.spar.si/online/negazirana-voda-s-sokom-gozdna-jagoda-dana-05l/p/386954",
+    "product-insteadofprice": "0,55",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/386954/dt_main.jpg",
+    "title": "NEGAZIRANA VODA S SOKOM GOZDNA JAGODA, DANA, 0,5L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,55",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

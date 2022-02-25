@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "24,89 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "PANCETA KRAŠKA NEDIM.",
+    "teaser-text": "PANCETA KRAŠKA NEDIM.",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "42,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Kras d.o.o., Šepulje 31, 6210 Sežana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "42,10 g",
+            "Saturated fat": "15,80 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "1991,00 ",
+            "Protein": "25,50 g",
+            "Salt": "3,00 g",
+            "Sugar": "0,50 g",
+            "kcal": "481,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "mesnata slanina, sol, dekstroza, začimbe."
+        }
+    },
+    "url": "https://www.spar.si/online/kraska-panceta-nedimljena-kras-cca400g/p/367626",
+    "product-insteadofprice": "24,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/367626/dt_main.jpg",
+    "title": "KRAŠKA PANCETA, NEDIMLJENA, KRAS, CCA.400G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "24,89",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

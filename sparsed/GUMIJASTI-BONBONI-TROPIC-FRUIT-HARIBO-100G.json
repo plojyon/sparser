@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BON.TROP.FR.HARI.100G",
+    "description": "BON.TROP.FR.HARI.100G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GUMIJASTI BONBONI Z OKUSOM SADJA",
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1416,00 ",
+            "Salt": "0,07 g",
+            "Sugar": "58,00 g",
+            "Total Carbohydrate": "77,00 g",
+            "Total Fat": "0,50 g",
+            "kcal": "333,00 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "4,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "Novateks 1 d.o.o., Ljubljana, Trpinčeva ulica 37a, 1000 Ljubljana"
+        }
+    },
+    "title": "GUMIJASTI BONBONI TROPIC FRUIT, HARIBO, 100G",
+    "url": "https://www.spar.si/online/gumijasti-bonboni-tropic-fruit-haribo-100g/p/40272",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,70 €/kg",
+    "product-insteadofprice": "0,87",
+    "product-stock-status": "",
+    "product-price": "0,87",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40272/dt_main.jpg"
+}

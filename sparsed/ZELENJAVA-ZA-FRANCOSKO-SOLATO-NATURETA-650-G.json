@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "2,12",
+    "product-priceperunit": "3,26 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "title": "ZELENJAVA ZA FRANCOSKO SOLATO, NATURETA, 650 G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "650G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hitro zamrznjena mešanica zelenjave za francosko solato",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "krompir, grah, korenje."
+        },
+        "product-net-cont": {
+            "neto-količina": "650g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,04 g",
+            "Total Carbohydrate": "10,40 g",
+            "Prehranske vlaknine": "3,60 g",
+            "Total Fat": "0,10 g",
+            "Protein": "2,70 g",
+            "kJ": "219,00 ",
+            "Sugar": "2,90 g",
+            "kcal": "52,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "ZELENJAVA ZA FRAN.SOL.",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-brand": "",
+    "product-price": "2,12",
+    "teaser-text": "ZELENJAVA ZA FRAN.SOL.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zelenjava-za-francosko-solato-natureta-650-g/p/478645",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/478645/dt_main.jpg"
+}

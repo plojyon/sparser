@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/gazirana-voda-cana-575ml/p/588487",
+    "title": "GAZIRANA VODA CANA, 575ML",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,69",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "TIPTRADE D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,57l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Salt": "0,00 g",
+            "kJ": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GAZIRANA VODA CANA, 575ML",
+        "ingredient-information": {
+            "sestavine": "voda 100,00 %."
+        },
+        "base-information": {
+            "neto-količina-plod:": "L"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "product-priceperunit": "1,20 €/l",
+    "teaser-text": "VODA CANA GAZIRANA 575ML",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "VODA CANA GAZIRANA 575ML",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/588487/dt_main.jpg",
+    "product-brand": ""
+}

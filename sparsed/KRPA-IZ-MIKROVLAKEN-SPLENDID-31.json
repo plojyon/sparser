@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,49",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "3kos"
+        },
+        "opis": "Zelo vpojna.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-priceperunit": "0,58 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/krpa-iz-mikrovlaken-splendid-31/p/537861",
+    "product-price": "1,74",
+    "title": "KRPA IZ MIKROVLAKEN SPLENDID, 3/1",
+    "description": "SP GOBASTA KRPA IZ MIKRO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/537861/dt_main.jpg",
+    "teaser-text": "SP GOBASTA KRPA IZ MIKRO"
+}

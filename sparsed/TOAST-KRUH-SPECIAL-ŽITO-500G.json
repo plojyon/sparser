@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "2,27",
+    "product-priceperunit": "4,54 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TOAST KRUH, SPECIAL, ŽITO, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pšenični beli kruh - rezani",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "security-warning": {
+            "varnostna-opozorila": "Izdelek je pasteriziran. Z zavitkom ravnajte previdno, v primeru poškodovane embalaže lahko toast splesni in postane neužiten. Odprt zavitek hranite v hladilniku in porabite v nekaj dneh!"
+        },
+        "contact-information": {
+            "kontakt:": "ŽITO d.o.o., Šmartinska cesta 154, 1000 Ljubljana, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), OREH (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "52,00 g",
+            "Prehranske vlaknine": "2,50 g",
+            "Total Fat": "2,60 g",
+            "Protein": "9,80 g",
+            "kJ": "1166,00 ",
+            "Sugar": "5,40 g",
+            "kcal": "275,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "TOAST SPECIAL BELI 500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,27",
+    "teaser-text": "TOAST SPECIAL BELI 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/toast-kruh-special-zito-500g/p/462526",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/462526/dt_main.jpg"
+}

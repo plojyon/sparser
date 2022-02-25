@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,63",
+    "product-priceperunit": "4,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SADNI JOGURT BOROVNICA 2,5% M.M., MU EXTRA, 140G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU EXTRA JOGURT 140G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "13,10 g",
+            "Total Fat": "2,50 g",
+            "Protein": "3,00 g",
+            "kJ": "366,00 ",
+            "Sugar": "8,90 g",
+            "kcal": "88,00 ",
+            "Saturated fat": "2,20 g"
+        }
+    },
+    "description": "JOGURT MU EXTRA SAD 140G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,63",
+    "teaser-text": "JOGURT MU EXTRA SAD 140G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadni-jogurt-borovnica-25-mm-mu-extra-140g/p/480987",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/480987/dt_main.jpg"
+}

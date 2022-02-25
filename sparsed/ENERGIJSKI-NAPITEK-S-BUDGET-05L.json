@@ -1,0 +1,37 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB ENERGIJSKI NAP. 0,5L",
+    "description": "SB ENERGIJSKI NAP. 0,5L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, dekstroza, kislina: citronska kislina, ogljikov dioksid, sredstvo za uravnavanje kislosti: natrijev citrat, tavrin 0,37%, glukozni fruktozni sirup, aroma: kofein, glukuronolakton 0,024%, barvilo: amonijev karamel, inozitol 0,2%, aroma, nikotinska kislina (niacin), kalcijev d-panotenat (pantotenska kislina), piridoksin hidroklorid (vitamin b6), ciamin (vitamin b12)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "183,00 ",
+            "Salt": "0,03 g",
+            "Sugar": "10,00 g",
+            "Total Carbohydrate": "10,00 g",
+            "Total Fat": "0,10 g",
+            "kcal": "43,00 ",
+            "Prehranske vlaknine": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {}
+    },
+    "title": "ENERGIJSKI NAPITEK, S-BUDGET, 0,5L",
+    "url": "https://www.spar.si/online/energijski-napitek-s-budget-05l/p/390623",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,86 €/l",
+    "product-insteadofprice": "0,43",
+    "product-stock-status": "",
+    "product-price": "0,43",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/390623/dt_main.jpg"
+}

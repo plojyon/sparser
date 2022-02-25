@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,50 g",
+            "Salt": "0,00 g",
+            "Total Fat": "2,70 g",
+            "Total Carbohydrate": "62,00 g",
+            "Sugar": "1,00 g",
+            "Prehranske vlaknine": "8,80 g",
+            "kJ": "1428,00 ",
+            "Protein": "12,00 g",
+            "kcal": "338,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO PIRINA POLNOZRNATA MOKA, iz ekološke pridelave.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "BIO pirina polnozrnata moka iz ekološke pridelave.Povprečna hranilna vrednost na 100g:Energijska vrednost 1428kJ/ 338kcalMaščobe 2,7god tega nasičene maščobe 0,5gOgljikovi hidrati 62god tega sladkorji 1,0gPrehranske vlaknine 8,8gBeljakovine 12gSol 0g",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-pirina-polnozrnata-moka-spar-naturpur-1kg/p/235335",
+    "product-price": "1,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/235335/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "1,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "SPAR BIO MOKA PIRINA 1KG",
+    "product-stock-status": "",
+    "title": "BIO PIRINA POLNOZRNATA MOKA SPAR NATUR*PUR, 1KG",
+    "product-priceperunit": "1,99 €/kg",
+    "description": "SPAR BIO MOKA PIRINA 1KG"
+}

@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-priceperunit": "1,98 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kmetov-temni-hlebev-pekarna-spar-08kg/p/352479",
+    "product-price": "1,98",
+    "title": "KMETOV TEMNI HLEBEV PEKARNA SPAR, 0,8KG",
+    "description": "HLEB KMETOV TEMNI",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/352479/dt_main.jpg",
+    "teaser-text": "HLEB KMETOV TEMNI"
+}

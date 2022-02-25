@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "10,30 g",
+            "Sugar": "10,10 g",
+            "Salt": "0,00 g",
+            "kJ": "174,00 ",
+            "Protein": "0,00 g",
+            "kcal": "41,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača s sokom banane, kivija in pomaranče.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Osvežilna brezalkoholna pijača iz izvirske vode s 1,5 % soka banane, kivija ter pomaranče.",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "izvirska voda, sladkor, sok banane (0,5 %), sok kivija (0,5 %), sok pomaranče (0,5 %) iz zgoščenih sokov, ogljikov dioksid, citronska kislina, koncentrat žafranike, kalijev sorbat, gumi arabikum, karboksimetil celuloza, pektini, glicerolni estri lesnih smol, barvilo: zeleno s, aroma."
+        },
+        "contact-information": {
+            "kontakt:": "RADENSKA d.o.o., Boračeva 37, 9252 Radenci"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-banana-in-kivi-ora-15l/p/189747",
+    "product-price": "1,16",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/189747/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,16",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ORA GREEN RADENSKA 1,5L",
+    "product-stock-status": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA BANANA IN KIVI, ORA, 1,5L",
+    "product-priceperunit": "0,77 €/l",
+    "description": "ORA GREEN RADENSKA 1,5L"
+}

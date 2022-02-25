@@ -1,0 +1,48 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR PREM.NAM.ROBID.250G",
+    "description": "SPAR PREM.NAM.ROBID.250G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "NAMAZ IZ ROBIDNIC, 70% sadja",
+        "opis": "Namaz iz robidnic iz 70% sadja.",
+        "ingredient-information": {
+            "sestavine": "robidnice, sladkor, želirno sredstvo: pektin, limonin zgoščeni sok."
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "803,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "41,00 g",
+            "Total Carbohydrate": "43,00 g",
+            "Total Fat": "0,80 g",
+            "kcal": "190,00 ",
+            "Prehranske vlaknine": "2,90 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "NAMAZ IZ ROBIDNIC, SPAR PREMIUM, 250G",
+    "url": "https://www.spar.si/online/namaz-iz-robidnic-spar-premium-250g/p/395459",
+    "isOnPromotion": "false",
+    "product-priceperunit": "12,76 €/kg",
+    "product-insteadofprice": "3,19",
+    "product-stock-status": "",
+    "product-price": "3,19",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395459/dt_main.jpg"
+}

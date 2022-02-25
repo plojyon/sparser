@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VODA KOKOS.KOH 250ML",
+    "description": "VODA KOKOS.KOH 250ML",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "kokos voda 100,00 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "88,00 ",
+            "Salt": "0,11 g",
+            "Sugar": "3,10 g",
+            "Total Carbohydrate": "5,30 g",
+            "Total Fat": "0,00 g",
+            "kcal": "21,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "BCA d.o.o., Hribernikova ulica 2, 1000 Ljubljana"
+        }
+    },
+    "title": "100% KOKOSOVA VODA KOH, 250ML",
+    "url": "https://www.spar.si/online/100-kokosova-voda-koh-250ml/p/421988",
+    "isOnPromotion": "false",
+    "product-priceperunit": "4,68 €/l",
+    "product-insteadofprice": "1,17",
+    "product-stock-status": "",
+    "product-price": "1,17",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/421988/dt_main.jpg"
+}

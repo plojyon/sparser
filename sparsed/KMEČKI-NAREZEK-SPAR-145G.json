@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "9,40 g",
+            "Total Fat": "25,60 g",
+            "Total Carbohydrate": "4,20 g",
+            "Sugar": "0,31 g",
+            "Salt": "1,80 g",
+            "kJ": "1230,00 ",
+            "Protein": "12,40 g",
+            "kcal": "297,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR NAREZEK KMEČKI 145g, sterilizirana mesnina",
+        "security-warning": {
+            "varnostna-opozorila": "Če je embalaža napihnjena ali predrta izdelek ni uporaben"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "145g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kmecki-narezek-spar-145g/p/215918",
+    "product-price": "0,85",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/215918/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-insteadofprice": "0,85",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "teaser-text": "SPAR NAREZEK KMEČKI 145G",
+    "product-stock-status": "",
+    "title": "KMEČKI NAREZEK, SPAR, 145G",
+    "product-priceperunit": "5,86 €/kg",
+    "description": "SPAR NAREZEK KMEČKI 145G"
+}

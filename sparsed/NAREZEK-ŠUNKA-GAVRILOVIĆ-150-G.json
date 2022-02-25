@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,53",
+    "product-priceperunit": "8,67 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "NAREZEK ŠUNKA, GAVRILOVIĆ, 150 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Šunka narezek",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "Gavrilović M.G.P. d.o.o., Vojkova 5, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,60 g",
+            "Total Carbohydrate": "2,00 g",
+            "Total Fat": "10,00 g",
+            "Protein": "13,00 g",
+            "kJ": "625,00 ",
+            "Sugar": "1,50 g",
+            "kcal": "150,00 ",
+            "Saturated fat": "4,00 g"
+        }
+    },
+    "description": "NAREZEK ŠUNKA 150G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,30",
+    "teaser-text": "NAREZEK ŠUNKA 150G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/narezek-sunka-gavrilovi-150-g/p/509928",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509928/dt_main.jpg"
+}

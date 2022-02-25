@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "0,53",
+    "product-priceperunit": "4,74 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "SLANE PALČKE PRIMA, STARK, 95G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pekovski izdelek - slano pecivo",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "95g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,00 g",
+            "Total Carbohydrate": "75,00 g",
+            "Total Fat": "8,00 g",
+            "Protein": "11,40 g",
+            "kJ": "1760,00 ",
+            "Sugar": "3,20 g",
+            "kcal": "420,00 ",
+            "Saturated fat": "4,00 g"
+        }
+    },
+    "description": "PALČKE SLANE PRIMA95G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,45",
+    "teaser-text": "PALČKE SLANE PRIMA95G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/slane-palcke-prima-stark-95g/p/513851",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513851/dt_main.jpg"
+}

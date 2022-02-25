@@ -1,0 +1,48 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "7,70",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Izdelek je pakiran v zaščitni atmosferi. Previdno in počasi dvignite odpiralni obroček, da se tlak v pločevinki izenači."
+        },
+        "opis": "Močneje pražena kava za ljubitelje kratkega in aromatičnega espressa z odtenki kakava, popečenega kruha in temne karamele. 250-gramska pločevinka z navojnim pokrovom za domačo uporabo. 100 % Arabica, pakirana v zaščitno atmosfero, da zadrži svojo popolno aromo.Vsebina: dodatno pražena mleta kava, 100 % ArabicaVsebnost kofeina: manj kot 1,5 %Neto količina kave: 250 gPakirano v zaščitno atmosfero. Pločevinka iz aluminija.Proizvedeno v Italiji.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek je pakiran v zaščitni atmosferi. Previdno in počasi dvignite odpiralni obroček, da se tlak v pločevinki izenači. Kavo lahko kuhate tudi kot turško."
+        },
+        "contact-information": {
+            "kontakt:": "Espresso d.o.o., Fajfarjeva 33, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "KAVA MLETA KOFEINKSA - INTENSO ILLY, 250g",
+        "ingredient-information": {
+            "sestavine": "kava arabica."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "37,00 ",
+            "Saturated fat": "0,08 g",
+            "Prehranske vlaknine": "0,60 g",
+            "Protein": "0,30 g",
+            "Sugar": "0,01 g",
+            "Total Fat": "0,20 g",
+            "kcal": "9,00 ",
+            "Total Carbohydrate": "1,20 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "30,80 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mleta-mocneje-prazena-kava-intense-illy-250g/p/442034",
+    "product-price": "7,70",
+    "title": "MLETA MOČNEJE PRAŽENA KAVA INTENSE, ILLY, 250G",
+    "description": "KAVA ESPRESSO ILLY 250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/442034/dt_main.jpg",
+    "teaser-text": "KAVA ESPRESSO ILLY 250G"
+}

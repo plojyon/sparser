@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "27,50 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "BON.CEDEVITA LIMONA 19,5",
+    "teaser-text": "BON.CEDEVITA LIMONA 19,5",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "95,00 g",
+            "kJ": "1635,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "95,00 g",
+            "kcal": "385,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONI Z VITAMINOM C, OKUS LIMONA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "19,5g"
+        },
+        "ingredient-information": {
+            "sestavine": "dekstroza, sladkor, glukozni sirup, kislina: citronska kislina, limona v prahu 1,00 %, sredstvo proti sprijemanju: magnezijev stearat, naravna aroma limone, barvilo: beta-karoten, askorbinska kislina, alfa-tokoferil acetat, nikotinamid, kalcijev pantotenat, tiamin mononitrat, natrijev riboflavin-5-f."
+        }
+    },
+    "url": "https://www.spar.si/online/bonboni-limona-cedevita-195g/p/361148",
+    "product-insteadofprice": "0,55",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361148/dt_main.jpg",
+    "title": "BONBONI LIMONA CEDEVITA, 19,5G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,55",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

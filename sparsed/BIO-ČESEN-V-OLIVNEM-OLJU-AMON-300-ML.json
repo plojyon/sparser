@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "8,79",
+    "product-priceperunit": "29,30 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO ČESEN V OLIVNEM OLJU, AMON, 300 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,00 g",
+            "Total Carbohydrate": "7,50 g",
+            "Total Fat": "50,00 g",
+            "Protein": "0,90 g",
+            "kJ": "1980,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "473,00 ",
+            "Saturated fat": "6,90 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bio sesekljan česen v olivnem olju.",
+        "contact-information": {
+            "kontakt:": "Amon d.o.o., Olimje 24, 3254 Podčetrtek"
+        },
+        "ingredient-information": {
+            "sestavine": "bio česen, bio olivno olje, sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,3l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "ČESEN BIO V OLI.OL.300ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "8,79",
+    "teaser-text": "ČESEN BIO V OLI.OL.300ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-cesen-v-olivnem-olju-amon-300-ml/p/443866",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/443866/dt_main.jpg"
+}

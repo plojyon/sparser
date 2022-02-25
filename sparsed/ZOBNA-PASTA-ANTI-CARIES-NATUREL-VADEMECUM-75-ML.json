@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,07l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sorbitol, Hydrated Silica, PEG-32, Sodium Lauryl Sulfate, Aroma, Glycerin, Cellulose Gum, Sodium Fluoride, Panthenol, Magnesium Sulfate, Disodium Phosphate, Sodium Saccharin, Chamomilla Recutita Flower Extract, Calcium Glycerophosphate, Trisodium Phosphate, Zinc Sulfate, Propylene Glycol, Sodium Sulfate, Retinyl Palmitate, Lactic Acid, Manganese Sulfate, Melissa Officinalis Leaf Extract, Salvia Officinalis Leaf Extract, Thymus Vulgaris Extract, Sodium Benzoate, Limonene, CI 42090, CI 47005, CI 77891;"
+        },
+        "contact-information": {
+            "kontakt:": "HENKEL SLOVENIJA D.O.O., Industrijska ul.23. 2506 Maribor, T.: +386/ 222-22-100"
+        }
+    },
+    "product-priceperunit": "17,20 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zobna-pasta-anti-caries-naturel-vademecum-75-ml/p/198929",
+    "product-price": "1,29",
+    "title": "ZOBNA PASTA, ANTI CARIES, NATUREL, VADEMECUM, 75 ML",
+    "description": "PASTA ZOB.VADEMECUM",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/198929/dt_main.jpg",
+    "teaser-text": "PASTA ZOB.VADEMECUM"
+}

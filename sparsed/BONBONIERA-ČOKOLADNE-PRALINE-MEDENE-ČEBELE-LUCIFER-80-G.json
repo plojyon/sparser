@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "6,99",
+    "product-priceperunit": "87,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA, ČOKOLADNE PRALINE, MEDENE ČEBELE, LUCIFER, 80 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,21 g",
+            "Total Carbohydrate": "52,60 g",
+            "Prehranske vlaknine": "1,50 g",
+            "Total Fat": "37,30 g",
+            "Protein": "6,80 g",
+            "kJ": "2415,00 ",
+            "Sugar": "50,80 g",
+            "kcal": "577,00 ",
+            "Saturated fat": "22,40 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Luci d.o.o., Šaleška cesta 19a, 3320 Velenje"
+        }
+    },
+    "description": "ČOK.PR.MEDENE ČEB.80G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,99",
+    "teaser-text": "ČOK.PR.MEDENE ČEB.80G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-cokoladne-praline-medene-cebele-lucifer-80-g/p/497120",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/497120/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "MUESLI CLASSIC V V.350G",
+    "description": "MUESLI CLASSIC V V.350G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hrustljava žita za zajtrk iz polnozrnatega ovsa.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1834,00 ",
+            "Salt": "0,40 g",
+            "Sugar": "26,00 g",
+            "Total Carbohydrate": "70,00 g",
+            "Total Fat": "12,00 g",
+            "kcal": "446,00 ",
+            "Prehranske vlaknine": "6,50 g",
+            "Saturated fat": "4,70 g",
+            "Protein": "8,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "BIMO d.o.o., Savska loka 21b, 4000 Kranj"
+        }
+    },
+    "title": "KOSMIČI CRUNCHY CLASSIC, SANTE, 350G",
+    "url": "https://www.spar.si/online/kosmici-crunchy-classic-sante-350g/p/432273",
+    "isOnPromotion": "true",
+    "product-priceperunit": "6,00 €/kg",
+    "product-insteadofprice": "2,48",
+    "product-stock-status": "",
+    "product-price": "2,10",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/432273/dt_main.jpg"
+}

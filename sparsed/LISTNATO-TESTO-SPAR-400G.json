@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,39",
+    "product-priceperunit": "2,78 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "title": "LISTNATO TESTO, SPAR, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Zamrznjeno testo pustite kar v embalaži na sobni temperaturi 1-2 uri, da se odtaja. Odstranite embalažo, razvaljate ga in oblikujete v želeno obliko. Listnato testo lahko uporabite za izdelavo sladkega in slanega peciva, za zavitke, plošče za krem rezine ipd. Pripravljeno pecivo položite na ovlažen pekač in premažite s stepenim jajcem, da dobi lepši lesk. Ploščo testa ali zavitek pred peko enakomerno prebodite z vilicami. Pečico ogrejte na 220 °C, pripravljene izdelke postavite v pečico in zmanjšajte temperaturo na 200 °C. Pecivo in plošče za krem rezine pecite 20-25 minut, zavitek pa do 45 minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hitro zamrznjeno listnato testo.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "36,00 g",
+            "Total Fat": "24,00 g",
+            "Protein": "5,00 g",
+            "kJ": "1595,00 ",
+            "Sugar": "3,70 g",
+            "kcal": "382,00 ",
+            "Saturated fat": "13,20 g"
+        }
+    },
+    "description": "SPAR LISTNATO TESTO 500G",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-brand": "",
+    "product-price": "1,39",
+    "teaser-text": "SPAR LISTNATO TESTO 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/listnato-testo-spar-400g/p/437831",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/437831/dt_main.jpg"
+}

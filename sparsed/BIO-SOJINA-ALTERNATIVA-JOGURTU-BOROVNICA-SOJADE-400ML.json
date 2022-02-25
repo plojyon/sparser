@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "3,73",
+    "product-priceperunit": "9,33 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO SOJINA ALTERNATIVA JOGURTU, BOROVNICA, SOJADE, 400ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "11,50 g",
+            "Prehranske vlaknine": "0,40 g",
+            "Total Fat": "2,10 g",
+            "Protein": "3,80 g",
+            "kJ": "81,00 ",
+            "Sugar": "11,10 g",
+            "kcal": "341,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "ORGANIKA + d.o.o., Špruha 36, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,4l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SOJIN JOGURT BOROV.400ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "3,73",
+    "teaser-text": "SOJIN JOGURT BOROV.400ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-sojina-alternativa-jogurtu-borovnica-sojade-400ml/p/458988",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/458988/dt_main.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,85",
+    "product-priceperunit": "7,40 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ISTRSKE TAGLIATELE, ŠIROKE, KLARA MARIĆ, 250 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "69,32 g",
+            "Total Fat": "3,76 g",
+            "Protein": "13,86 g",
+            "kJ": "1553,00 ",
+            "Sugar": "3,86 g",
+            "kcal": "367,00 ",
+            "Saturated fat": "1,04 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "REZANCI ŠIROKI 250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,85",
+    "teaser-text": "REZANCI ŠIROKI 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/istrske-tagliatele-siroke-klara-mari-250-g/p/465745",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/465745/dt_main.jpg"
+}

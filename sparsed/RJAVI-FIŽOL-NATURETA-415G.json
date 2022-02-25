@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,39",
+    "product-priceperunit": "3,35 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RJAVI FIŽOL NATURETA, 415G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kuhan rjavi fižol v nalivu",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "415g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,10 g",
+            "Total Carbohydrate": "12,10 g",
+            "Prehranske vlaknine": "8,80 g",
+            "Total Fat": "0,50 g",
+            "Protein": "8,50 g",
+            "kJ": "386,00 ",
+            "Sugar": "0,60 g",
+            "kcal": "92,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "FIŽOL RJAVI 415G NATURE",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,39",
+    "teaser-text": "FIŽOL RJAVI 415G NATURE",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rjavi-fizol-natureta-415g/p/50521",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/50521/dt_main.jpg"
+}

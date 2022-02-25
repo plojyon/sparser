@@ -1,0 +1,33 @@
+{
+    "product-priceperunit": "15,61 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "VINO SAUVIGNON 0,75L",
+    "teaser-text": "VINO SAUVIGNON 0,75L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "KOŽELJ d.o.o., Hiša dobrih vin, Moste 54, 1218 Komenda, Slovenija"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sauvignon - VERUS",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/vino-sauvignon-verus-075-l/p/369239",
+    "product-insteadofprice": "11,71",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/369239/dt_main.jpg",
+    "title": "VINO SAUVIGNON, VERUS, 0,75 L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "11,71",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

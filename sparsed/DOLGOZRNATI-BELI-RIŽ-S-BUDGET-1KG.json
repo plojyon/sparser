@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "1,19 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB RIŽ DOLGOZRN.PARB.1KG",
+    "teaser-text": "SB RIŽ DOLGOZRN.PARB.1KG",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,30 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "81,00 g",
+            "kJ": "1523,00 ",
+            "Protein": "7,40 g",
+            "Salt": "0,02 g",
+            "Sugar": "0,30 g",
+            "kcal": "359,00 ",
+            "Prehranske vlaknine": "0,50 g"
+        },
+        "opis": "Primerno kot priloga k mesu, ribam in perutnini.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "DOLGOZRNATI BELI RIŽ PARBOILED.",
+        "ingredient-information": {
+            "sestavine": "dolgozrnati beli riž parboiled."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/dolgozrnati-beli-riz-s-budget-1kg/p/360342",
+    "product-insteadofprice": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/360342/dt_main.jpg",
+    "title": "DOLGOZRNATI BELI RIŽ S-BUDGET, 1KG",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

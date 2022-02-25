@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "10,70 g",
+            "Sugar": "10,60 g",
+            "Salt": "0,01 g",
+            "kJ": "182,00 ",
+            "Protein": "0,00 g",
+            "kcal": "43,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača z okusom kole.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Osvežilna gazirana brezalkoholna pijača z okusom kole. Pepsi je pijača, ki ti daje zalet, da zahtevaš več od povprečnega vsakdana. Daje ti moč, da čimbolj spretno vijugaš skozi življenje. Preprosto zato, ker najboljše ni več dovolj dobro!",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, ogljikov dioksid, barvilo: E150d, kislina: fosforjeva (v) kislina, aroma: kofein in naravna aroma, stabilizator: gumi arabikum."
+        },
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-pepsi-15l/p/17445",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/17445/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PEPSI COLA PVC 1,5 L",
+    "product-stock-status": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA PEPSI, 1,5L",
+    "product-priceperunit": "0,79 €/l",
+    "description": "PEPSI COLA PVC 1,5 L"
+}

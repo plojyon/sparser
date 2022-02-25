@@ -1,0 +1,50 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-priceperunit": "3,23 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO GRAH IN KORENJE, SPAR NATUR*PUR, 400G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "400"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,69 g",
+            "Total Carbohydrate": "6,20 g",
+            "Prehranske vlaknine": "4,20 g",
+            "Total Fat": "0,50 g",
+            "Protein": "3,50 g",
+            "kJ": "210,00 ",
+            "Sugar": "3,00 g",
+            "kcal": "50,00 ",
+            "Saturated fat": "0,10 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred zaužitjem odcediti."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO GRAH UN KORENJE IZ EKOLOŠKE PRIDELAVE",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "zelenjava v spremenljivih deležih* (grah*, korenje* ) voda, trsni sladkor*, nejodirana morska sol, *iz ekološke pridelave."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR BIO GRAH KOREN.400G",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,29",
+    "teaser-text": "SPAR BIO GRAH KOREN.400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-grah-in-korenje-spar-naturpur-400g/p/483361",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/483361/dt_main.jpg"
+}

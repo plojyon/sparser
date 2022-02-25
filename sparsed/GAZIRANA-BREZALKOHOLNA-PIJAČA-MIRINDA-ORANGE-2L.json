@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,54",
+    "product-priceperunit": "0,77 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GAZIRANA BREZALKOHOLNA PIJAČA, MIRINDA ORANGE, 2L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna gazirana brezalkoholna pijača s sokom pomaranče, s sladkorjem in sladili.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Radenska d.o.o., Boračeva 37, 9252 Radenci"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "7,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "122,00 ",
+            "Sugar": "7,00 g",
+            "kcal": "29,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "MIRINDA 2L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,54",
+    "teaser-text": "MIRINDA 2L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gazirana-brezalkoholna-pijaca-mirinda-orange-2l/p/514639",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/514639/dt_main.jpg"
+}

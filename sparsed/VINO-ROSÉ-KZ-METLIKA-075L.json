@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VINO ROSE KZ ME.0,75L",
+    "description": "VINO ROSE KZ ME.0,75L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,50 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "282,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "1,22 g",
+            "Total Carbohydrate": "1,22 g",
+            "Total Fat": "0,00 g",
+            "kcal": "67,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "VINO ROSÉ KZ METLIKA, 0,75L",
+    "url": "https://www.spar.si/online/vino-ros-kz-metlika-075l/p/42395",
+    "isOnPromotion": "false",
+    "product-priceperunit": "7,17 €/l",
+    "product-insteadofprice": "5,38",
+    "product-stock-status": "",
+    "product-price": "5,38",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42395/dt_main.jpg"
+}

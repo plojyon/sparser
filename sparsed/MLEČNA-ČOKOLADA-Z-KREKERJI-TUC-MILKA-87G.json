@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,19",
+    "product-priceperunit": "13,68 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MLEČNA ČOKOLADA Z KREKERJI TUC, MILKA, 87G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z alpskim mlekom s slanimi krekerji (15%).",
+        "opis": "Mlečna čokolada vsebuje najmanj 30% kakavovih delov.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, ŽVEPLOV DIOKSID IN SULFITI, JAJCA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "87g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,80 g",
+            "Total Carbohydrate": "59,50 g",
+            "Total Fat": "28,50 g",
+            "Protein": "6,50 g",
+            "kJ": "2190,00 ",
+            "Sugar": "50,00 g",
+            "kcal": "524,00 ",
+            "Saturated fat": "16,50 g"
+        }
+    },
+    "description": "ČOK.S KREK.TUC MILKA 87G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,19",
+    "teaser-text": "ČOK.S KREK.TUC MILKA 87G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mlecna-cokolada-z-krekerji-tuc-milka-87g/p/471437",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471437/dt_main.jpg"
+}

@@ -1,0 +1,42 @@
+{
+    "product-priceperunit": "20,07 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "CAPPUCCINO MILKA 144G",
+    "teaser-text": "CAPPUCCINO MILKA 144G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "ORBICO d.o.o."
+        },
+        "opis": "Instant mešani kavni napitek z dodatki, kakavom in koščki Milka mlečne čokolade.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "8,50 g",
+            "Saturated fat": "8,30 g",
+            "Total Carbohydrate": "70,00 g",
+            "kJ": "1627,00 ",
+            "Protein": "6,90 g",
+            "Salt": "0,35 g",
+            "Sugar": "47,00 g",
+            "kcal": "383,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "144g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsujte vsebino vrečke (18g) v skodelico in jo prelijte s 180 ml vroče, vendar ne vrele vode in jo medtem premešajte."
+        }
+    },
+    "url": "https://www.spar.si/online/cappuccino-milka-jacobs-144g/p/377887",
+    "product-insteadofprice": "2,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377887/dt_main.jpg",
+    "title": "CAPPUCCINO MILKA, JACOBS, 144G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,89",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

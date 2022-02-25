@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,38",
+    "product-priceperunit": "2,24 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "ČOKOLADNI PUDING S SMETANO DOLCE, DUKAT, 170G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,17 g",
+            "Total Carbohydrate": "18,30 g",
+            "Prehranske vlaknine": "0,49 g",
+            "Total Fat": "2,20 g",
+            "Protein": "2,40 g",
+            "kJ": "437,00 ",
+            "Sugar": "15,20 g",
+            "kcal": "104,00 ",
+            "Saturated fat": "1,41 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "170G"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "170g"
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana, Slovenija"
+        }
+    },
+    "description": "PUDING DOLCE ČOKO 170G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,38",
+    "teaser-text": "PUDING DOLCE ČOKO 170G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cokoladni-puding-s-smetano-dolce-dukat-170g/p/486826",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486826/dt_main.jpg"
+}

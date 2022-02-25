@@ -1,0 +1,33 @@
+{
+    "product-priceperunit": "5,16 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB KAVA ML.VAKUUM 250G",
+    "teaser-text": "SB KAVA ML.VAKUUM 250G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "opis": "Vakuumsko pakirana. Močna in aromatična.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLETA PRAŽENA KAVA",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "sestavine": "mleta pražena kava."
+        }
+    },
+    "url": "https://www.spar.si/online/mleta-kava-s-budget-250g/p/358012",
+    "product-insteadofprice": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/358012/dt_main.jpg",
+    "title": "MLETA KAVA S-BUDGET, 250G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

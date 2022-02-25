@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "3,48",
+    "product-priceperunit": "11,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR, GRANA PADANO, S-BUDGET, 300G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Trdi sir z najmanj 32% M. M., v s.s.",
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,50 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "29,00 g",
+            "Protein": "33,00 g",
+            "kJ": "1654,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "398,00 ",
+            "Saturated fat": "18,00 g"
+        }
+    },
+    "description": "SB SIR GRANA PADANO 300G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,48",
+    "teaser-text": "SB SIR GRANA PADANO 300G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-grana-padano-s-budget-300g/p/463818",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/463818/dt_main.jpg"
+}

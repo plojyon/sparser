@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "3,92 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "NAPITEK EGO SLIMVIT MAL",
+    "teaser-text": "NAPITEK EGO SLIMVIT MAL",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin H (Biotin) 10,00 mikrogr. Cink 1,50 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,20 g",
+            "Saturated fat": "0,90 g",
+            "Total Carbohydrate": "9,40 g",
+            "kJ": "259,00 ",
+            "Protein": "3,00 g",
+            "Salt": "0,10 g",
+            "Sugar": "9,20 g",
+            "kcal": "61,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "EGO S&V JOG. NAP.  MAL. Z ŽITA. 250G PL",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/jogurtov-napitek-malina-in-zita-11-mm-slimvital-ego-250g/p/386344",
+    "product-insteadofprice": "0,98",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/386344/dt_main.jpg",
+    "title": "JOGURTOV NAPITEK MALINA IN ŽITA 1,1% M.M. SLIM&VITAL, EGO, 250G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,98",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

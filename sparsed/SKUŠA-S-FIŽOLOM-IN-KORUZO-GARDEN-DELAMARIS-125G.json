@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,60 g",
+            "Total Fat": "17,00 g",
+            "Total Carbohydrate": "6,10 g",
+            "Sugar": "0,50 g",
+            "Salt": "0,98 g",
+            "kJ": "926,00 ",
+            "Protein": "10,00 g",
+            "kcal": "223,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Skuša Garden - s fižolom in koruzo. Rahlo pikantno.",
+        "contact-information": {
+            "kontakt:": "Delamaris Kal d.o.o., Kal 1, 6257 Pivka"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "trade-group": {
+            "latinsko-ime": "Scomber scombrus"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/skusa-s-fizolom-in-koruzo-garden-delamaris-125g/p/570804",
+    "product-price": "1,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/570804/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "1,95",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "SKUŠA GARDEN 125G",
+    "product-stock-status": "",
+    "title": "SKUŠA S FIŽOLOM IN KORUZO GARDEN, DELAMARIS, 125G",
+    "product-priceperunit": "15,60 €/kg",
+    "description": "SKUŠA GARDEN 125G"
+}

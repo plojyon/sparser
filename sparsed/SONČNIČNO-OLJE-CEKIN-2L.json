@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "OLJE SONČNIČNO CEKIN 2L",
+    "description": "OLJE SONČNIČNO CEKIN 2L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "CEKIN sončnično olje jedilno rafinirano",
+        "ingredient-information": {
+            "sestavine": "jedilno rafinirano sončnično olje 100,00 %."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 50,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3700,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "12,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Tovarna olja GEA d.d., Trg svobode 3, SI-2310 Slovenska Bistrica, Slovenija"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "SONČNIČNO OLJE CEKIN, 2L",
+    "url": "https://www.spar.si/online/soncnicno-olje-cekin-2l/p/41589",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,40 €/l",
+    "product-insteadofprice": "4,79",
+    "product-stock-status": "",
+    "product-price": "4,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41589/dt_main.jpg"
+}

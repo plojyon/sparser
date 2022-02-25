@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,77",
+    "product-priceperunit": "3,93 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PARADIŽNIKOV KETCHUP, MCDONALD´S, 450 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PARADIŽNIKOV KETCHUP",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "AL PONTE, d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "paradižnikova kaša 66,00 %, glukozno-fruktozni sirup, alkoholni kis, jedilna sol, začimbni ekstrakt."
+        },
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,10 g",
+            "Total Carbohydrate": "25,80 g",
+            "Total Fat": "0,20 g",
+            "Protein": "1,60 g",
+            "kJ": "472,00 ",
+            "Sugar": "21,10 g",
+            "kcal": "111,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "KETCHUP DEVELEY 450G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,77",
+    "teaser-text": "KETCHUP DEVELEY 450G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/paradiznikov-ketchup-mcdonalds-450-g/p/457686",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457686/dt_main.jpg"
+}

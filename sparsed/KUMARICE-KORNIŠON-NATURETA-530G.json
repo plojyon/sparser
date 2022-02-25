@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,33",
+    "product-priceperunit": "4,40 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KUMARICE KORNIŠON, NATURETA, 530G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kumarice Kornišon v nalivu",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "530g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "2,30 g",
+            "Prehranske vlaknine": "1,40 g",
+            "Total Fat": "0,30 g",
+            "Protein": "1,70 g",
+            "kJ": "72,00 ",
+            "Sugar": "1,00 g",
+            "kcal": "17,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "KUMARICE KORNIŠON 530G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,33",
+    "teaser-text": "KUMARICE KORNIŠON 530G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kumarice-kornison-natureta-530g/p/494487",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/494487/dt_main.jpg"
+}

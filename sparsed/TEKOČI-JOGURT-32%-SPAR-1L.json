@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "1,09",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "248,00 ",
+            "Saturated fat": "2,10 g",
+            "Protein": "3,30 g",
+            "Sugar": "4,30 g",
+            "Total Fat": "3,20 g",
+            "kcal": "59,00 ",
+            "Total Carbohydrate": "4,30 g",
+            "Salt": "0,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "MLEKARNA CELEIA, D.O.O."
+        }
+    },
+    "product-priceperunit": "1,09 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoci-jogurt-32-spar-1l/p/542114",
+    "product-price": "1,09",
+    "title": "TEKOČI JOGURT 3,2% SPAR, 1L",
+    "description": "SPAR JOGURT 3,2% 1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/542114/dt_main.jpg",
+    "teaser-text": "SPAR JOGURT 3,2% 1L"
+}

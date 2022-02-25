@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "15,19",
+    "product-priceperunit": "15,19 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "PEČENA PURANJA ŠUNKA, KRAS",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,90 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "2,00 g",
+            "Protein": "20,00 g",
+            "kJ": "414,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "98,00 ",
+            "Saturated fat": "0,50 g"
+        },
+        "ingredient-information": {
+            "sestavine": "puranje meso (65 %), voda, nejodirana morska sol, krompirjev škrob, dekstroza, trifosfat e451, gostilo, arome, natrijev askorbat e301, natrijev nitrit e250."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "2,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Kras d.o.o., Šepulje 31, 6210 Sežana"
+        }
+    },
+    "description": "ŠUNKA PURANJA PEČENA",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "15,19",
+    "teaser-text": "ŠUNKA PURANJA PEČENA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pecena-puranja-sunka-kras/p/486716",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486716/dt_main.jpg"
+}

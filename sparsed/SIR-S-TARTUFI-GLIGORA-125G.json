@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "5,56",
+    "product-priceperunit": "44,48 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR S TARTUFI GLIGORA, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sir s tartufi 125g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "23,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "32,00 g",
+            "Protein": "1,00 g",
+            "kJ": "1567,00 ",
+            "Sugar": "1,00 g",
+            "kcal": "378,00 ",
+            "Saturated fat": "23,00 g"
+        }
+    },
+    "description": "SIR KRAVJI S TARTUFI 125",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "5,56",
+    "teaser-text": "SIR KRAVJI S TARTUFI 125",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-s-tartufi-gligora-125g/p/470258",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/470258/dt_main.jpg"
+}

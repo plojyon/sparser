@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "RIŽ PARBOILED 1KG ZLAT.P",
+    "description": "RIŽ PARBOILED 1KG ZLAT.P",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Brušen parboiled srednjezrnati riž.",
+        "ingredient-information": {
+            "sestavine": "riž."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1484,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "1,00 g",
+            "Total Carbohydrate": "78,60 g",
+            "Total Fat": "0,64 g",
+            "kcal": "349,00 ",
+            "Prehranske vlaknine": "0,60 g",
+            "Saturated fat": "0,24 g",
+            "Protein": "7,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "RIŽ PARBOILED, ZLATO POLJE, 1KG",
+    "url": "https://www.spar.si/online/riz-parboiled-zlato-polje-1kg/p/41926",
+    "isOnPromotion": "true",
+    "product-priceperunit": "2,47 €/kg",
+    "product-insteadofprice": "3,09",
+    "product-stock-status": "",
+    "product-price": "2,47",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41926/dt_main.jpg"
+}

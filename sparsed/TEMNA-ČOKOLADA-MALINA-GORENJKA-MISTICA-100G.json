@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.TEMNA MALINA 100G",
+    "description": "ČOK.TEMNA MALINA 100G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "TEMNA ČOKOLADA S SUHIMI MALINAMI",
+        "opis": "Čokoladna masa vsebuje min. 53 % kakavovih delov.",
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2388,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "43,00 g",
+            "Total Carbohydrate": "56,00 g",
+            "Total Fat": "36,00 g",
+            "kcal": "572,00 ",
+            "Saturated fat": "22,00 g",
+            "Protein": "6,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "TEMNA ČOKOLADA MALINA, GORENJKA MISTICA, 100G",
+    "url": "https://www.spar.si/online/temna-cokolada-malina-gorenjka-mistica-100g/p/402424",
+    "isOnPromotion": "false",
+    "product-priceperunit": "22,20 €/kg",
+    "product-insteadofprice": "2,22",
+    "product-stock-status": "",
+    "product-price": "2,22",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/402424/dt_main.jpg"
+}

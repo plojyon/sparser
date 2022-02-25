@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "12,90 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "PAŠTETA JETRNA PIŠ.100G",
+    "teaser-text": "PAŠTETA JETRNA PIŠ.100G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "26,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj, d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "26,00 g",
+            "Saturated fat": "9,10 g",
+            "Total Carbohydrate": "2,00 g",
+            "kJ": "1183,00 ",
+            "Protein": "11,00 g",
+            "Salt": "2,10 g",
+            "Sugar": "1,10 g",
+            "kcal": "286,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PAŠTETA JETRNA PIŠČANČJA 100G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "sestavine": "mehansko izkoščeno piščančje meso 56,00 %, piščančja jetra 17,00 %, rastlinsko olje (palmovo olje), voda, sol, začimbe, dekstroza, antioksidant: natrijev askorbat E301, konzervans: natrijev laktat E325, natrijev nitrit E250."
+        }
+    },
+    "url": "https://www.spar.si/online/piscancja-pasteta-jetrna-perutnina-ptuj-100g/p/361087",
+    "product-insteadofprice": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361087/dt_main.jpg",
+    "title": "PIŠČANČJA PAŠTETA JETRNA, PERUTNINA PTUJ, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

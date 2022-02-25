@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "1,88",
+    "product-priceperunit": "11,39 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "TATARSKA OMAKA, ZVIJEZDA, 165 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "5,40 g",
+            "Total Fat": "36,00 g",
+            "Protein": "0,45 g",
+            "kJ": "1449,00 ",
+            "Sugar": "3,00 g",
+            "kcal": "352,00 ",
+            "Saturated fat": "4,50 g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO, GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "165g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "OMAKA TATARSKA 165G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,88",
+    "teaser-text": "OMAKA TATARSKA 165G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/tatarska-omaka-zvijezda-165-g/p/499883",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499883/dt_main.jpg"
+}

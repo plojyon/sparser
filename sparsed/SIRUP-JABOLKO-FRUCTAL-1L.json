@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SIRUP JABOL.1/1 FRUCTAL",
+    "description": "SIRUP JABOL.1/1 FRUCTAL",
+    "product-info": {
+        "instruction-for-use": {},
+        "security-warning": {
+            "varnostna-opozorila": "Ne izpostavljajte direktni sončni svetlobi"
+        },
+        "opis": "Proizvod je sadni sirup izdelan iz zgoščenega soka jabolk z dodatkom sladkorjev, citronske kisline, arome in naravnega barvila. Skupni  delež sadja v proizvodu znaša 33% . Proizvod je brez konzervansov, umetnih barvil, sladil in umetnih arom. Proizvod je namenjen za pripravo pijače, primerne za odžejanje. Pijača je osvežilna, prijetnega okusa po jabolkih.",
+        "ingredient-information": {
+            "sestavine": "glukozni-fruktozni sirup, sladkor, jabolčni sok iz zgoščenega soka 33,00 %, kislina (citronska kislina), aroma in barvilo (amonijev sulfitni karamel)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1493,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "76,60 g",
+            "Total Carbohydrate": "87,60 g",
+            "Total Fat": "0,10 g",
+            "kcal": "351,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "title": "SIRUP JABOLKO FRUCTAL, 1L",
+    "url": "https://www.spar.si/online/sirup-jabolko-fructal-1l/p/42023",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,82 €/kos",
+    "product-insteadofprice": "2,82",
+    "product-stock-status": "",
+    "product-price": "2,82",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42023/dt_main.jpg"
+}

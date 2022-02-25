@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,49",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "ingredient-information": {
+            "sestavine": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Ethylhexylglycerin, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Citral, Citronellol, Geraniol, Hydroxycitronellal, Limonene, Linalool."
+        },
+        "contact-information": {
+            "kontakt:": "ATLANTIC TRADE D.O.O., KOLINSKA ULICA 1, 1000 LJUBLJANA"
+        }
+    },
+    "product-priceperunit": "15,93 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/deo-sprej-all-day-fresh-gold-axe-150ml/p/550367",
+    "product-price": "2,39",
+    "title": "DEO SPREJ ALL DAY FRESH GOLD, AXE, 150ML",
+    "description": "DEO SPREJ AXE 150ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/550367/dt_main.jpg",
+    "teaser-text": "DEO SPREJ AXE 150ML"
+}

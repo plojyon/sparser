@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-priceperunit": "3,79 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TRADICIONALNA MAJONEZA, ZVIJEZDA, 630G, XXL",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Majoneza se uporablja kot samostojni namaz, kot dodatek v sendvičih, ter priloga k mnogim toplim in hladnim jedem. Prav tako se uporablja za pripravo solat in dressing prelivov na osnovi majoneze."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Majoneza",
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, GORČIČNO SEME, MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "630g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,40 g",
+            "Total Carbohydrate": "2,30 g",
+            "Total Fat": "78,00 g",
+            "Protein": "1,10 g",
+            "kJ": "2942,00 ",
+            "Sugar": "1,10 g",
+            "kcal": "715,00 ",
+            "Saturated fat": "10,00 g"
+        }
+    },
+    "description": "MAJONEZA ZVIJEZDA XXL",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,39",
+    "teaser-text": "MAJONEZA ZVIJEZDA XXL",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/tradicionalna-majoneza-zvijezda-630g-xxl/p/509594",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509594/dt_main.jpg"
+}

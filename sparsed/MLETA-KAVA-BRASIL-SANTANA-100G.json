@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "LOMAS d.o.o., Kardeljeva ploščad 11a, SI-1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "sestavine": "kava."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mleta-kava-brasil-santana-100g/p/162430",
+    "product-price": "1,07",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/162430/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,07",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KAVA SANT.BR.ML.100G",
+    "product-stock-status": "",
+    "title": "MLETA KAVA BRASIL, SANTANA, 100G",
+    "product-priceperunit": "10,70 €/kg",
+    "description": "KAVA SANT.BR.ML.100G"
+}

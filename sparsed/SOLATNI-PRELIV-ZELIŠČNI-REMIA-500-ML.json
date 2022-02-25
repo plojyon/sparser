@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PRELIV SOLATNI ZEL.500ML",
+    "description": "PRELIV SOLATNI ZEL.500ML",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SOLATNI PRELIV, ZELIŠČNI, REMIA, 500 ML",
+        "ingredient-information": {
+            "alergeni": "JAJCA, ZELENA, GORČIČNO SEME."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "990,00 ",
+            "Salt": "1,80 g",
+            "Sugar": "7,90 g",
+            "Total Carbohydrate": "12,00 g",
+            "Total Fat": "21,00 g",
+            "kcal": "240,00 ",
+            "Saturated fat": "1,60 g",
+            "Protein": "0,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "Digit, d.o.o., Pod brezami 7, 1218 Komenda"
+        }
+    },
+    "title": "SOLATNI PRELIV, ZELIŠČNI, REMIA, 500 ML",
+    "url": "https://www.spar.si/online/solatni-preliv-zeliscni-remia-500-ml/p/413015",
+    "isOnPromotion": "false",
+    "product-priceperunit": "4,46 €/l",
+    "product-insteadofprice": "2,23",
+    "product-stock-status": "",
+    "product-price": "2,23",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/413015/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "6,99",
+    "product-priceperunit": "15,53 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO SLADOLED LEŠNIK HAPPY NUT, INDY&PIPPA, 450ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,13 g",
+            "Total Carbohydrate": "26,00 g",
+            "Total Fat": "13,00 g",
+            "Protein": "2,70 g",
+            "kJ": "960,00 ",
+            "Sugar": "16,00 g",
+            "kcal": "230,00 ",
+            "Saturated fat": "2,10 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO SLADOLED LEŠNIK",
+        "contact-information": {
+            "kontakt:": "INDY & PIPPA D.O.O."
+        },
+        "ingredient-information": {
+            "alergeni": "LEŠNIKI, MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,45l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SLADOLED EKO LEŠNIK 450M",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "6,99",
+    "teaser-text": "SLADOLED EKO LEŠNIK 450M",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-sladoled-lesnik-happy-nut-indypippa-450ml/p/451358",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451358/dt_main.jpg"
+}

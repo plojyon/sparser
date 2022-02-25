@@ -1,0 +1,38 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,20 g",
+            "Sugar": "0,20 g",
+            "Salt": "34,15 g",
+            "kJ": "85,00 ",
+            "Protein": "0,00 g",
+            "kcal": "20,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "39g"
+        },
+        "contact-information": {
+            "kontakt:": "BCA d.o.o., Hribernikova ulica 2, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sladilo-huxol-6501-39g/p/159199",
+    "product-price": "1,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/159199/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SLADILO HUXOL 39G",
+    "product-stock-status": "",
+    "title": "SLADILO HUXOL, 650/1, 39G",
+    "product-priceperunit": "48,46 €/kg",
+    "description": "SLADILO HUXOL 39G"
+}

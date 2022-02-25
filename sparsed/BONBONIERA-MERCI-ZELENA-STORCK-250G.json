@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "4,49",
+    "product-priceperunit": "17,96 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA MERCI ZELENA, STORCK, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONIERA MERCI ZELENA, STORCK, 250G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, PISTACIJA, MANDLJI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,24 g",
+            "Total Carbohydrate": "46,90 g",
+            "Total Fat": "37,20 g",
+            "Protein": "9,60 g",
+            "kJ": "2367,00 ",
+            "Sugar": "44,50 g",
+            "kcal": "568,00 ",
+            "Saturated fat": "19,10 g"
+        }
+    },
+    "description": "BON.MERCI Z MANDLJI 250G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,49",
+    "teaser-text": "BON.MERCI Z MANDLJI 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-merci-zelena-storck-250g/p/454215",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/454215/dt_main.jpg"
+}

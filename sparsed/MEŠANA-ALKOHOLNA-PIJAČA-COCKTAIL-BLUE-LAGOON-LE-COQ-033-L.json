@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "0,85",
+    "product-priceperunit": "2,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MEŠANA ALKOHOLNA PIJAČA, COCKTAIL, BLUE LAGOON, LE COQ, 0,33 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "4,70 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "COCKT.BLUE LAGO.0,33L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,85",
+    "teaser-text": "COCKT.BLUE LAGO.0,33L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mesana-alkoholna-pijaca-cocktail-blue-lagoon-le-coq-033-l/p/511917",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/511917/dt_main.jpg"
+}

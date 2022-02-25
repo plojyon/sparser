@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "MLEKO SVEŽE 3,5%M.M.1L",
+    "description": "MLEKO SVEŽE 3,5%M.M.1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "264,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "4,70 g",
+            "Total Carbohydrate": "4,70 g",
+            "Total Fat": "3,50 g",
+            "kcal": "63,00 ",
+            "Saturated fat": "2,00 g",
+            "Protein": "3,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 120,00 mg."
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "title": "SVEŽE POLNO MLEKO, 3,5% M. M., ZELENE DOLINE, 1L",
+    "url": "https://www.spar.si/online/sveze-polno-mleko-35-m-m-zelene-doline-1l/p/425813",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,29 €/l",
+    "product-insteadofprice": "1,29",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/425813/dt_main.jpg"
+}

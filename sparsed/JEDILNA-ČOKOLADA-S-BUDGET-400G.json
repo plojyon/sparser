@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "3,48 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB ČOKOLADA JEDILNA 400G",
+    "teaser-text": "SB ČOKOLADA JEDILNA 400G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "28,00 g",
+            "Saturated fat": "16,00 g",
+            "Total Carbohydrate": "60,00 g",
+            "kJ": "2181,00 ",
+            "Protein": "4,30 g",
+            "Salt": "0,01 g",
+            "Sugar": "56,00 g",
+            "kcal": "522,00 ",
+            "Prehranske vlaknine": "6,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Kakavovi deli: min 40%.",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/jedilna-cokolada-s-budget-400g/p/378823",
+    "product-insteadofprice": "1,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378823/dt_main.jpg",
+    "title": "JEDILNA ČOKOLADA, S-BUDGET, 400G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

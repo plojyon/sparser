@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,80 g",
+            "Total Fat": "3,30 g",
+            "Total Carbohydrate": "75,50 g",
+            "Sugar": "2,40 g",
+            "Salt": "0,49 g",
+            "kJ": "1640,00 ",
+            "Protein": "13,40 g",
+            "kcal": "392,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RIBANA KAŠA, sušene jajčne testenine",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "S postopkom ribanja izdelana domača kaša iz svežih jajc in kvalitetne durum moke.",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "PEKARNA BAŠKOVČ D.O.O."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/ribana-kasa-testenine-baskovc-500g/p/214060",
+    "product-price": "3,05",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/214060/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,05",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KAŠA RIBANA 500G",
+    "product-stock-status": "",
+    "title": "RIBANA KAŠA, TESTENINE BAŠKOVČ, 500G",
+    "product-priceperunit": "6,10 €/kg",
+    "description": "KAŠA RIBANA 500G"
+}

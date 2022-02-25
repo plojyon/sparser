@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "2,49",
+    "product-priceperunit": "10,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAMAZ BRESKEV IN MARAKUJA MENZ&GASSER, 240G",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Zaradi uporabe celih sadežev ali koščkov sadja, so lahko v izdelku prisotni ostanki koščic."
+        },
+        "contact-information": {
+            "kontakt:": "ICG d.o.o., Fabianijeva 31, 1000 Ljubljana"
+        },
+        "opis": "Sadni namaz iz breskev in marakuje, pripravljen iz 100 g sadežev na 100 g izdelka. BREZ GLUTENA.",
+        "ingredient-information": {
+            "sestavine": "breskve, grozdni sladkor, sok marakuje, zgoščeni sok limon, sredstvo za želiranje: sadni pektin."
+        },
+        "product-net-cont": {
+            "neto-količina": "240g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "30,00 g",
+            "Total Fat": "0,20 g",
+            "Protein": "1,00 g",
+            "kJ": "554,00 ",
+            "Sugar": "29,00 g",
+            "kcal": "131,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SAD.NAM.BRES.MARAK 240G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,49",
+    "teaser-text": "SAD.NAM.BRES.MARAK 240G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/namaz-breskev-in-marakuja-menzgasser-240g/p/486175",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486175/dt_main.jpg"
+}

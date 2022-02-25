@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mešanica pražene mlete kave.",
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "sestavine": "mešanica pražene mlete kave 100,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/prazena-mleta-kava-signature-blend-temna-costa-200g/p/601186",
+    "product-price": "2,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/601186/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "3,49",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "KAVA COSTA ML.TEMNA 200G",
+    "product-stock-status": "",
+    "title": "PRAŽENA MLETA KAVA SIGNATURE BLEND TEMNA, COSTA, 200G",
+    "product-priceperunit": "13,95 €/kg",
+    "description": "KAVA COSTA ML.TEMNA 200G"
+}

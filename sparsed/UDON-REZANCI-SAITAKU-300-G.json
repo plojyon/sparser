@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "8,97 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "UDON REZANCI, SAITAKU, 300 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "73,00 g",
+            "Total Fat": "1,10 g",
+            "Protein": "12,00 g",
+            "kJ": "1492,00 ",
+            "Sugar": "1,70 g",
+            "kcal": "356,00 ",
+            "Saturated fat": "0,30 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Rezance damo v vrelo vodo in kuhamo okoli 8 minut. Speremo pod vodo in odcedimo. Uporabimo jih pri naših najljubših jedeh."
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, Ljubljana"
+        }
+    },
+    "description": "SAITAKU UDON REZ.300G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "SAITAKU UDON REZ.300G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/udon-rezanci-saitaku-300-g/p/502570",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502570/dt_main.jpg"
+}

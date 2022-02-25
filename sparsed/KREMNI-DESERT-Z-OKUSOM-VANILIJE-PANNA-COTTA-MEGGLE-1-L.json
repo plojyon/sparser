@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,98",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Zmerno segrevati na temp. 40°C do 50°C (ne vreti) dokler ni krema gladka in tekoča. Napolnimo posodice in pustimo stati 10-20 min. pri sobni temperaturi. Ohladimo v hladilniku na 4°C - 8°C za približno 4 ure. Ohlajeno kremo postrežemo iz posodice ali pa jo iz nje prevrnemo in po želji okrasimo."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PANNA COTTAPanna Cotta Kremni desert z okusom vanilije, UHT.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "692,00 ",
+            "Saturated fat": "5,50 g",
+            "Protein": "3,90 g",
+            "Sugar": "14,00 g",
+            "Total Fat": "10,00 g",
+            "kcal": "165,00 ",
+            "Total Carbohydrate": "15,00 g",
+            "Salt": "0,15 g"
+        }
+    },
+    "product-priceperunit": "2,96 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kremni-desert-z-okusom-vanilije-panna-cotta-meggle-1-l/p/427170",
+    "product-price": "2,96",
+    "title": "KREMNI DESERT Z OKUSOM VANILIJE PANNA COTTA, MEGGLE, 1 L",
+    "description": "SMETANA PANNA COTTA1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/427170/dt_main.jpg",
+    "teaser-text": "SMETANA PANNA COTTA1L"
+}

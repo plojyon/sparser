@@ -1,0 +1,38 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,20 g",
+            "Total Fat": "10,40 g",
+            "Total Carbohydrate": "22,30 g",
+            "Sugar": "2,20 g",
+            "Salt": "1,10 g",
+            "kJ": "933,00 ",
+            "Protein": "9,80 g",
+            "kcal": "323,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "600g"
+        },
+        "contact-information": {
+            "kontakt:": "Ledo d.o.o., Brnčičeva 45, 1231 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zagorski-struklji-ledo-81-600-g/p/133760",
+    "product-price": "3,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/133760/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "3,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "ŠTRUKLJI ZAGORSKI 600G",
+    "product-stock-status": "",
+    "title": "ZAGORSKI ŠTRUKLJI LEDO, 8/1, 600 G",
+    "product-priceperunit": "6,65 €/kg",
+    "description": "ŠTRUKLJI ZAGORSKI 600G"
+}

@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "teaser-text": "RUM BACARDI CARTA BLA.1L",
+    "description": "RUM BACARDI CARTA BLA.1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "37,50 vol. %"
+        },
+        "ingredient-information": {
+            "sestavine": "rum bacardi."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "title": "RUM CARTA BLANCA BACARDI, 1L",
+    "url": "https://www.spar.si/online/rum-carta-blanca-bacardi-1l/p/433531",
+    "isOnPromotion": "true",
+    "product-priceperunit": "18,36 €/l",
+    "product-insteadofprice": "22,95",
+    "product-stock-status": "",
+    "product-price": "18,36",
+    "product-brand": "",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/433531/dt_main.jpg"
+}

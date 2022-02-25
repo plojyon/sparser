@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "SIR RIBANI 140G",
+    "description": "SIR RIBANI 140G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1489,00 ",
+            "Salt": "0,90 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "6,50 g",
+            "Total Fat": "25,10 g",
+            "kcal": "357,00 ",
+            "Saturated fat": "16,10 g",
+            "Protein": "26,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        },
+        "base-information": {
+            "neto-količina-plod:": "140G"
+        },
+        "contact-information": {
+            "kontakt:": "BOHINJSKA SIRARNA d.o.o., Srednja vas 114, 4267 Srednja vas v Bohinju"
+        }
+    },
+    "title": "SIR RIBANI, BOHINJSKA SIRARNA, 140G",
+    "url": "https://www.spar.si/online/sir-ribani-bohinjska-sirarna-140g/p/401010",
+    "isOnPromotion": "false",
+    "product-priceperunit": "16,43 €/kg",
+    "product-insteadofprice": "2,30",
+    "product-stock-status": "",
+    "product-price": "2,30",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/401010/dt_main.jpg"
+}

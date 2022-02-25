@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "0,01 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLADILO STEVIA SPAR VITAL, 200/1, 10G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Sladilo na osnovi steviol glikozidov.1 tableta nadomesti približno 1 žličko sladkorja. Nizka energijska vrednost.Raznolika in uravnotežena prehrana, gibanje in zdrav življenjski slog so pomembni za zdravje.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "200kos"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,40 g",
+            "Total Carbohydrate": "65,00 g",
+            "Prehranske vlaknine": "1,90 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,50 g",
+            "kJ": "1105,00 ",
+            "Sugar": "65,00 g",
+            "kcal": "260,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "SPAR VITAL STEVIA 200KOM",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "SPAR VITAL STEVIA 200KOM",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladilo-stevia-spar-vital-2001-10g/p/446108",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446108/dt_main.jpg"
+}

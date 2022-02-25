@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,70",
+    "product-priceperunit": "37,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR OVČJI ROQUEFORT SOCIETE, PRESIDENT, 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,70 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "31,70 g",
+            "Protein": "19,00 g",
+            "kJ": "1496,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "361,00 ",
+            "Saturated fat": "22,50 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "DUKAT S D.O.O., TOLSTOJEVA 63, 1000 LJUBLJANA"
+        }
+    },
+    "description": "SIR ROQUEFORT 100G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,70",
+    "teaser-text": "SIR ROQUEFORT 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-ovcji-roquefort-societe-president-100g/p/444317",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/444317/dt_main.jpg"
+}

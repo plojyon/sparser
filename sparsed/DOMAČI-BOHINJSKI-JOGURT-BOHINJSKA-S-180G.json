@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,54",
+    "product-priceperunit": "3,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "DOMAČI BOHINJSKI JOGURT, BOHINJSKA S., 180G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "4,30 g",
+            "Total Fat": "2,20 g",
+            "Protein": "3,10 g",
+            "kJ": "207,00 ",
+            "Sugar": "4,30 g",
+            "kcal": "49,00 ",
+            "Saturated fat": "1,40 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "JOGURT BOHINJSKI 180G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,54",
+    "teaser-text": "JOGURT BOHINJSKI 180G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domaci-bohinjski-jogurt-bohinjska-s-180g/p/443631",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/443631/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,79",
+    "product-priceperunit": "9,30 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "DROBTINE SPAR FREE FROM, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Brez glutena. Iz krompirjevega in koruznega škroba.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,80 g",
+            "Total Carbohydrate": "77,00 g",
+            "Prehranske vlaknine": "6,50 g",
+            "Total Fat": "9,80 g",
+            "Protein": "1,00 g",
+            "kJ": "1741,00 ",
+            "Sugar": "4,80 g",
+            "kcal": "413,00 ",
+            "Saturated fat": "4,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "SPAR FF DROBT.B.G.300G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,79",
+    "teaser-text": "SPAR FF DROBT.B.G.300G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/drobtine-spar-free-from-250g/p/506096",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506096/dt_main.jpg"
+}

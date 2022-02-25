@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,39",
+    "product-priceperunit": "18,53 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONI BREZ SLADKORJA, ŽAJBELJ, MATIK, 75G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONI BREZ SLADKORJA, ŽAJBELJ, MATIK, 75 G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "security-warning": {
+            "varnostna-opozorila": "Prekomerno uživanje izdelka (več kot 50 g) ima lahko odvajalni učinek."
+        },
+        "contact-information": {
+            "kontakt:": "TIP TRADE, d.o.o., Kosovelova cesta 2, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "sestavine": "izomalt 99,70 %, eterično olje žajblja 0,20 %, ekstrakt koprive 0,10 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "75g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "99,70 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "997,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "239,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "MATIK BONBONI BR.SL.75G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,39",
+    "teaser-text": "MATIK BONBONI BR.SL.75G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboni-brez-sladkorja-zajbelj-matik-75g/p/505613",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505613/dt_main.jpg"
+}

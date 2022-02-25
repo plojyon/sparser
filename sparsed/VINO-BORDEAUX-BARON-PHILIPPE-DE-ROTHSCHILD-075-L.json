@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "6,78",
+    "product-priceperunit": "9,04 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, BORDEAUX, BARON PHILIPPE DE ROTHSCHILD, 0,75 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "13,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "BELMOND D.O.O, NADGORIŠKA CESTA 8, 1231 Ljubljana- Črnuče"
+        }
+    },
+    "description": "VINO BORDEAUX ROTH.0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,78",
+    "teaser-text": "VINO BORDEAUX ROTH.0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-bordeaux-baron-philippe-de-rothschild-075-l/p/481479",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481479/dt_main.jpg"
+}

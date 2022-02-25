@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VODA ROMERQUELLE 0,5L",
+    "description": "VODA ROMERQUELLE 0,5L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "shranjevanje": "Hraniti v hladnem in suhem prostoru, zaščiteno pred zmrzaljo in neposredno sončno svetlobo."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalij 2,60 mg, Klorid 5,10 mg, Kalcij 132,00 mg, Magnezij 63,00 mg, Fluorid 0,30 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "16,20 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "NEGAZIRANA VODA, ROMERQUELLE, 500ML",
+    "url": "https://www.spar.si/online/negazirana-voda-romerquelle-500ml/p/435025",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,90 €/l",
+    "product-insteadofprice": "0,45",
+    "product-stock-status": "",
+    "product-price": "0,45",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/435025/dt_main.jpg"
+}

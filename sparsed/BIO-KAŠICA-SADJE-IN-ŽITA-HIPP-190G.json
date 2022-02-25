@@ -1,0 +1,47 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,20 g",
+            "Total Carbohydrate": "15,90 g",
+            "Sugar": "11,90 g",
+            "Salt": "0,05 g",
+            "kJ": "305,00 ",
+            "Protein": "0,90 g",
+            "kcal": "72,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BLAGA SADNA KAŠICA Z ŽITI 190g",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Hranite pri sobni temperaturi. Primerno za malico. Iz kozarčka vzemite toliko kolikor potrebujete. Ostalo zaprite, shranite v hladilnik in najkasneje v treh dneh porabite. Da se izognete razbitju kozarčka, uporabljajte le plastične žličke."
+        },
+        "opis": "- brez dodanih sladkorjev (vsebuje naravno prisotne sladkorje)- s polnovrednimi žiti- brez dodanih mlečnih beljakovin- vsebuje gluten- brez gostil",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "190g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-kasica-sadje-in-zita-hipp-190g/p/20704",
+    "product-price": "1,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/20704/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "1,88",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "KAŠA SAD.ŽIT.JAB.K.190G",
+    "product-stock-status": "",
+    "title": "BIO KAŠICA SADJE IN ŽITA, HIPP, 190G",
+    "product-priceperunit": "9,89 €/kg",
+    "description": "KAŠA SAD.ŽIT.JAB.K.190G"
+}

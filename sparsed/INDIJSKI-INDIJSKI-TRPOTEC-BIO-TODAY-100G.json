@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "3,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/indijski-indijski-trpotec-bio-today-100g/p/579064",
+    "title": "INDIJSKI INDIJSKI TRPOTEC, BIO TODAY, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "indijski trpotec."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "11,00 g",
+            "Prehranske vlaknine": "77,70 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "120,00 ",
+            "Salt": "0,00 g",
+            "kJ": "810,00 "
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "39,90 €/kg",
+    "teaser-text": "BIO PSILIJ BIO TODAY100G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BIO PSILIJ BIO TODAY100G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/579064/dt_main.jpg",
+    "product-brand": ""
+}

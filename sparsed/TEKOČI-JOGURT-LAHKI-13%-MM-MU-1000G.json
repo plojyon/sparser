@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "1,50 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "JOGURT NAVADNI 1,3% 1KG",
+    "teaser-text": "JOGURT NAVADNI 1,3% 1KG",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,30 g",
+            "Saturated fat": "1,00 g",
+            "Total Carbohydrate": "5,50 g",
+            "kJ": "205,00 ",
+            "Protein": "3,70 g",
+            "Salt": "0,10 g",
+            "Sugar": "4,60 g",
+            "kcal": "49,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU JOGURT TEK. NARAVNI 1,3%MM 1000G PL",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/tekoci-jogurt-lahki-13-mm-mu-1000g/p/374744",
+    "product-insteadofprice": "1,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374744/dt_main.jpg",
+    "title": "TEKOČI JOGURT LAHKI 1,3% M.M., MU, 1000G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,50",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

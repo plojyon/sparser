@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,19",
+    "product-priceperunit": "10,43 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "title": "NAMAZI HUMMUS TRIO SPAR VEGGIE, 210G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "6,10 g",
+            "Prehranske vlaknine": "4,10 g",
+            "Total Fat": "30,00 g",
+            "Protein": "6,40 g",
+            "kJ": "1366,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "331,00 ",
+            "Saturated fat": "3,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "opis": "Namaz s čičeriko, namaz s čičeriko in curryjem in namaz s čičeriko, koriandrom ter limeto.Namaz s čičeriko in curryemSESTAVINE: čičerika 35%, oljčno olje, sezamova pasta (sezam, jedilna sol), voda, sladkor, jedilna sol, citronska kislina, česen, ekstrakt korenja, poper, vinski kis, curry 0,2%, gostilo: guar gumi, konzervansa: sorbinska kislina in benzojska kislina.Namaz s čičeriko, koriandrom ter limetoSESTAVINE: čičerika 35%, oljčno olje, sezamova pasta (sezam, jedilna sol), voda, limetin sok 5%, koriander 4%, jedilna sol, kislina: citronska kislina, česen, konzervansa: sorbinska kislina in benzojska kislina.",
+        "ingredient-information": {
+            "alergeni": "SEZAM."
+        },
+        "product-net-cont": {
+            "neto-količina": "210g"
+        },
+        "product-badges": {
+            "certifikati": "Vegan"
+        }
+    },
+    "description": "SPAR VEGGIE NAM.TRIO210G",
+    "product-promotionBadges": "Vegan",
+    "product-brand": "",
+    "product-price": "2,19",
+    "teaser-text": "SPAR VEGGIE NAM.TRIO210G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/namazi-hummus-trio-spar-veggie-210g/p/436032",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/436032/dt_main.jpg"
+}

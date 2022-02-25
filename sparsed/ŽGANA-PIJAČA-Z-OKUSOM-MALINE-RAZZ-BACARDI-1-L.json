@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "22,99 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "RUM BACARDI RAZZ 1L",
+    "teaser-text": "RUM BACARDI RAZZ 1L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "32,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "rum bacardi, sladkor, voda, aroma, kislina (citronska kislina), sredstvo za uravnavanje kislosti (natrijev citrat)."
+        }
+    },
+    "url": "https://www.spar.si/online/zgana-pijaca-z-okusom-maline-razz-bacardi-1-l/p/386610",
+    "product-insteadofprice": "22,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/386610/dt_main.jpg",
+    "title": "ŽGANA PIJAČA Z OKUSOM MALINE, RAZZ, BACARDI, 1 L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "22,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

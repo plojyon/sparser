@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,40",
+    "product-priceperunit": "0,80 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GAZIRANA NARAVNA MINERALNA VODA, DANA, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dana naravna mineralna voda z dodanim CO2, DANA, 0,5L",
+        "opis": "Ob nakupu 12 kos, izdelke prejmete v vezu.",
+        "contact-information": {
+            "kontakt:": "Dana, d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura / room temperature"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "VODA MIN.GAZIRANA 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,40",
+    "teaser-text": "VODA MIN.GAZIRANA 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gazirana-naravna-mineralna-voda-dana-05l/p/491718",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491718/dt_main.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,30 g",
+            "Total Fat": "12,50 g",
+            "Total Carbohydrate": "6,50 g",
+            "Sugar": "2,00 g",
+            "Salt": "1,80 g",
+            "kJ": "747,00 ",
+            "Protein": "9,50 g",
+            "kcal": "180,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "320g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "ingredient-information": {
+            "alergeni": "RIBE, GORČIČNO SEME."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tunina-v-omaki-z-grahom-rio-mare-2x160g/p/268307",
+    "product-price": "5,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/268307/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "5,39",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "GRAH S TUNINO 2X160G",
+    "product-stock-status": "",
+    "title": "TUNINA V OMAKI Z GRAHOM RIO MARE, 2X160G",
+    "product-priceperunit": "16,84 €/kg",
+    "description": "GRAH S TUNINO 2X160G"
+}

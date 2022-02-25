@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,30 g",
+            "Salt": "1,70 g",
+            "Total Fat": "11,00 g",
+            "Total Carbohydrate": "57,00 g",
+            "Sugar": "9,60 g",
+            "Prehranske vlaknine": "1,90 g",
+            "kJ": "1549,00 ",
+            "Protein": "9,30 g",
+            "kcal": "368,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka 3c, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mini-rogljicki-masleni-lz-250g/p/176376",
+    "product-price": "3,14",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/176376/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,14",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ROGLJI MASL MINI 250G OL",
+    "product-stock-status": "",
+    "title": "MINI ROGLJIČKI MASLENI, ÖLZ, 250G",
+    "product-priceperunit": "12,56 €/kg",
+    "description": "ROGLJI MASL MINI 250G OL"
+}

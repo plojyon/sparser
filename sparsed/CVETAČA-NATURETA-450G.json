@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,10 g",
+            "Salt": "0,10 g",
+            "Total Fat": "0,10 g",
+            "Total Carbohydrate": "2,30 g",
+            "Sugar": "2,10 g",
+            "Prehranske vlaknine": "2,20 g",
+            "kJ": "69,00 ",
+            "Protein": "1,80 g",
+            "kcal": "17,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Cvetača, hitro zamrznjena",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "ingredient-information": {
+            "alergeni": "ZELENA (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cvetaca-natureta-450g/p/195307",
+    "product-price": "1,76",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/195307/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "1,76",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "CVETAČA 450G ETA",
+    "product-stock-status": "",
+    "title": "CVETAČA, NATURETA, 450G",
+    "product-priceperunit": "3,91 €/kg",
+    "description": "CVETAČA 450G ETA"
+}

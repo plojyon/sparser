@@ -1,0 +1,44 @@
+{
+    "product-priceperunit": "16,98 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SALAMA PICK TOURIST 400G",
+    "teaser-text": "SALAMA PICK TOURIST 400G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "47,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Vigros d.o.o., Puconci 10, 9201 Puconci"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "46,00 g",
+            "Saturated fat": "19,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "kJ": "2112,00 ",
+            "Protein": "24,00 g",
+            "Salt": "4,10 g",
+            "Sugar": "0,50 g",
+            "kcal": "510,00 "
+        },
+        "opis": "Originalna madžarska salama proizvedena z naravnim procesom prekajevanja.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Salama Tourist Pick 400g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, slanina, jedilna sol, začimbe, sladilo (saharoza), konzervans (natrijev nitrit (e250))."
+        }
+    },
+    "url": "https://www.spar.si/online/zimska-salama-tourist-pick-400g/p/363864",
+    "product-insteadofprice": "6,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363864/dt_main.jpg",
+    "title": "ZIMSKA SALAMA TOURIST PICK, 400G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "6,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

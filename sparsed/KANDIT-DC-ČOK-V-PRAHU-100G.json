@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "1,13",
+    "product-priceperunit": "11,30 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KANDIT D.C. ČOK. V PRAHU 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,14 g",
+            "Total Carbohydrate": "70,20 g",
+            "Total Fat": "21,40 g",
+            "Protein": "6,10 g",
+            "kJ": "2093,00 ",
+            "Sugar": "60,40 g",
+            "kcal": "498,70 ",
+            "Saturated fat": "13,80 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "description": "ČOKOLADA V PRAHU 100G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,13",
+    "teaser-text": "ČOKOLADA V PRAHU 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kandit-dc-cok-v-prahu-100g/p/459477",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/459477/dt_main.jpg"
+}

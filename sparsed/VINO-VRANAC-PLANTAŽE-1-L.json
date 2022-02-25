@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "3,98",
+    "product-priceperunit": "3,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, VRANAC, PLANTAŽE, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "VINO VRANAC PLANTA 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,98",
+    "teaser-text": "VINO VRANAC PLANTA 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-vranac-plantaze-1-l/p/486794",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486794/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "7,99",
+    "product-priceperunit": "7,99 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "DOMAČA KLASIČNO PREKAJENA KRAČA ČADEŽ, CCA. 1,2KG",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,44 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "20,00 g",
+            "Protein": "15,80 g",
+            "kJ": "1009,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "243,00 ",
+            "Saturated fat": "7,41 g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjska krača 100,00 %, začimbe 0,20 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "10,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Čadež d.o.o., Visoko 7g, 4212 Visoko"
+        }
+    },
+    "description": "KRAČA DOMAČA PREKAJENA",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "7,99",
+    "teaser-text": "KRAČA DOMAČA PREKAJENA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domaca-klasicno-prekajena-kraca-cadez-cca-12kg/p/485693",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/485693/dt_main.jpg"
+}

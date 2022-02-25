@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-priceperunit": "10,32 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NASTRGANA ČOKOLADA SPAR, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "125G"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNA ČOKOLADA V KOSMIČIH",
+        "opis": "Kakavovi deli: 25 %.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,17 g",
+            "Total Carbohydrate": "61,00 g",
+            "Prehranske vlaknine": "3,60 g",
+            "Total Fat": "23,00 g",
+            "Protein": "7,30 g",
+            "kJ": "2038,00 ",
+            "Sugar": "60,00 g",
+            "kcal": "487,00 ",
+            "Saturated fat": "14,00 g"
+        }
+    },
+    "description": "SPAR ČOKO.NASTRGANA 125G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,29",
+    "teaser-text": "SPAR ČOKO.NASTRGANA 125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/nastrgana-cokolada-spar-125g/p/437748",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/437748/dt_main.jpg"
+}

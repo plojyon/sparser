@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,14",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1144,00 ",
+            "Saturated fat": "15,00 g",
+            "Protein": "15,00 g",
+            "Sugar": "4,00 g",
+            "Total Fat": "22,00 g",
+            "kcal": "276,00 ",
+            "Total Carbohydrate": "4,00 g",
+            "Salt": "3,50 g"
+        }
+    },
+    "product-priceperunit": "4,53 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sir-topljeni-listici-toasty-sandwich-zott-81-150g/p/289832",
+    "product-price": "0,68",
+    "title": "SIR TOPLJENI LISTIČI TOASTY SANDWICH, ZOTT, 8/1, 150G",
+    "description": "SIR TOASTY TOP LIST 150",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/289832/dt_main.jpg",
+    "teaser-text": "SIR TOASTY TOP LIST 150"
+}

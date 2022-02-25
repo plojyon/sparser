@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ZAČINKA DODAT.JEDEM 250G",
+    "description": "ZAČINKA DODAT.JEDEM 250G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Začinka, Dodatak jedem z vrtninami",
+        "ingredient-information": {
+            "alergeni": "MLEKO, ZELENA."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "606,00 ",
+            "Salt": "60,00 g",
+            "Sugar": "22,00 g",
+            "Total Carbohydrate": "25,00 g",
+            "Total Fat": "0,20 g",
+            "kcal": "143,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "10,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "DODATEK JEDEM Z VRTNINAMI ZAČINKA, MAESTRO, 250G",
+    "url": "https://www.spar.si/online/dodatek-jedem-z-vrtninami-zacinka-maestro-250g/p/42671",
+    "isOnPromotion": "false",
+    "product-priceperunit": "10,68 €/kg",
+    "product-insteadofprice": "2,67",
+    "product-stock-status": "",
+    "product-price": "2,67",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42671/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "15,00 g",
+            "Total Fat": "24,20 g",
+            "Total Carbohydrate": "0,20 g",
+            "Sugar": "0,10 g",
+            "Salt": "3,00 g",
+            "kJ": "1180,00 ",
+            "Protein": "16,00 g",
+            "kcal": "282,00 "
+        },
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/feta-sir-v-slanici-roussas-530g/p/272646",
+    "product-price": "8,33",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/272646/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "8,33",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SIR FETA SVEŽA ROUS 400G",
+    "product-stock-status": "",
+    "title": "FETA SIR V SLANICI ROUSSAS, 530G",
+    "product-priceperunit": "20,83 €/kg",
+    "description": "SIR FETA SVEŽA ROUS 400G"
+}

@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ALKOHOL 96% 1L DANA",
+    "description": "ALKOHOL 96% 1L DANA",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA PRVOVRSTNI RAFINIRANI ALKOHOL 96% - Etanol 96 vol. %",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2197,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "530,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "96,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Dana d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "ALKOHOL 96%, DANA, 1L",
+    "url": "https://www.spar.si/online/alkohol-96-dana-1l/p/42268",
+    "isOnPromotion": "false",
+    "product-priceperunit": "29,39 €/l",
+    "product-insteadofprice": "29,39",
+    "product-stock-status": "",
+    "product-price": "29,39",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42268/dt_main.jpg"
+}

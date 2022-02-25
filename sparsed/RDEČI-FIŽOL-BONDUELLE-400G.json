@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "0,63 g",
+            "Total Fat": "0,80 g",
+            "Total Carbohydrate": "11,40 g",
+            "Sugar": "0,70 g",
+            "Prehranske vlaknine": "6,00 g",
+            "kJ": "394,00 ",
+            "Protein": "7,20 g",
+            "kcal": "94,00 "
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "250G"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "sestavine": "rdeči fižol, voda, jedilna sol."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rdeci-fizol-bonduelle-400g/p/195589",
+    "product-price": "1,34",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/195589/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,34",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "FIŽOL RDEČI 400G BONDUEL",
+    "product-stock-status": "",
+    "title": "RDEČI FIŽOL BONDUELLE, 400G",
+    "product-priceperunit": "3,35 €/kg",
+    "description": "FIŽOL RDEČI 400G BONDUEL"
+}

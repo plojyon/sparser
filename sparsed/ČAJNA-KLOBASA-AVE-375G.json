@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "6,99",
+    "product-priceperunit": "18,64 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "ČAJNA KLOBASA AVE, 375G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,60 g",
+            "Total Carbohydrate": "1,20 g",
+            "Total Fat": "38,40 g",
+            "Protein": "26,40 g",
+            "kJ": "1873,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "452,00 ",
+            "Saturated fat": "15,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "38,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Panvita Mir d.d., Ljutomerska cesta 28a, 9250 Gornja Radgona"
+        }
+    },
+    "description": "KLOBASA ČAJNA 375G AVE",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "6,99",
+    "teaser-text": "KLOBASA ČAJNA 375G AVE",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cajna-klobasa-ave-375g/p/473737",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/473737/dt_main.jpg"
+}

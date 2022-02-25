@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "8,70 g",
+            "Sugar": "7,90 g",
+            "Salt": "0,01 g",
+            "kJ": "148,00 ",
+            "Protein": "0,00 g",
+            "kcal": "35,00 "
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "opis": "Proizvod je negazirana brezalkoholna zelenjavno-sadna pijača s 15 % zelenjavno-sadnim deležem (7 % korenčka, 7 % pomaranče in 1 % limone). Proizvedena je iz zgoščenega korenčkovega soka, zgoščenega pomarančnega soka in zgoščenega limoninega soka. Za slajenje je uporabljena kombinacija sladkorja in glukozno-fruktoznega sirupa. Obarvana je z naravnim barvilom (beta-karotenom).",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, korenčkov sok 7,00 %, pomarančni sok iz zgoščenih sokov 7,00 %, sladkor, limonin sok iz zgoščenega soka 1,00 %, glukozni-fruktozni sirup, kislina (citronska kislina), antioksidant (askorbinska kislina), stabilizatorji (guar gumi, gumi arabicum, pektin), aroma, barvilo (beta karoten)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite. Servirajte ohlajeno."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zelenjavno-sadna-pijaca-korencek-pomaranca-in-limona-fruc-15-l/p/184671",
+    "product-price": "1,07",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/184671/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,07",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "NAPITEK FRUC KOR.1.5L",
+    "product-stock-status": "",
+    "title": "ZELENJAVNO SADNA PIJAČA, KORENČEK, POMARANČA IN LIMONA, FRUC, 1,5 L",
+    "product-priceperunit": "0,71 €/l",
+    "description": "NAPITEK FRUC KOR.1.5L"
+}

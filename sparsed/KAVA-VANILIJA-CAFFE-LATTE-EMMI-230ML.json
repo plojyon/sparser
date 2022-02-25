@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,68",
+    "product-priceperunit": "7,30 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KAVA VANILIJA CAFFE LATTE, EMMI, 230ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "EMMI CAFFE LATTE VANILIJA 230ML",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "KOČNA d.o.o., Nevlje 34H, Nevlje, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,23l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,15 g",
+            "Total Carbohydrate": "9,00 g",
+            "Total Fat": "2,00 g",
+            "Protein": "3,00 g",
+            "kJ": "280,00 ",
+            "Sugar": "9,00 g",
+            "kcal": "66,00 ",
+            "Saturated fat": "1,20 g"
+        }
+    },
+    "description": "KAVA EMMI VANILIJA 230ML",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,68",
+    "teaser-text": "KAVA EMMI VANILIJA 230ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kava-vanilija-caffe-latte-emmi-230ml/p/491348",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491348/dt_main.jpg"
+}

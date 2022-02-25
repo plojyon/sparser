@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,08",
+    "product-priceperunit": "1,08 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NEKTAR JABOLKO SELECT, BRAVO, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "NEKTAR JABOLKO, BRAVO, 1L",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, zgoščeni jabolčni sok, citronska kislina, gumi arabikum, rastlinska olja, izvleček žafranike, aroma, barvilo (karamel, briljantno modra fcf), vitamini, aspartam, acesulfam-k je vir fenilalanina."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "5,60 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,10 g",
+            "kJ": "101,00 ",
+            "Sugar": "5,40 g",
+            "kcal": "24,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "NEKTAR BRAVO JABOLKO 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,08",
+    "teaser-text": "NEKTAR BRAVO JABOLKO 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/nektar-jabolko-select-bravo-1l/p/504030",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/504030/dt_main.jpg"
+}

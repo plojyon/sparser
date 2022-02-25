@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SIRUP BEZEG FRUC 1L",
+    "description": "SIRUP BEZEG FRUC 1L",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priporočamo razredčitev 1 dela sirupa z 8 deli vode."
+        },
+        "opis": "Proizvod je sirup izdelan na osnovi rastlinskega izvlečka bezgovega cvetja. Skupni delež sadja v proizvodu znaša 10%. Proizvod je brez konzervansov, umetnih barvil, sladil. Proizvod je namenjen za pripravo pijače, primerne za odžejanje. Pijača je osvežilna, prijetnega okusa po bezgovem cvetju.",
+        "ingredient-information": {
+            "sestavine": "glukozni-fruktozni sirup, sladkor, voda, limonin sok iz zgoščenega soka 10,00 %, kislina (citronska kislina), antioksidant (askorbinska kislina), rastlinski izvleček iz bezgovega cvetja 0,15 %, aroma."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1509,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "79,90 g",
+            "Total Carbohydrate": "88,60 g",
+            "Total Fat": "0,00 g",
+            "kcal": "355,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,20 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška 7 , 5270 Ajdovščina"
+        }
+    },
+    "title": "SIRUP BEZEG FRUCTAL, 1L",
+    "url": "https://www.spar.si/online/sirup-bezeg-fructal-1l/p/425489",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,89 €/l",
+    "product-insteadofprice": "3,89",
+    "product-stock-status": "",
+    "product-price": "3,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/425489/dt_main.jpg"
+}

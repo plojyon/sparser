@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ŠURLE S ŠPARGLJI 400G",
+    "description": "ŠURLE S ŠPARGLJI 400G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1553,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "3,86 g",
+            "Total Carbohydrate": "69,32 g",
+            "Total Fat": "3,76 g",
+            "kcal": "367,00 ",
+            "Saturated fat": "1,04 g",
+            "Protein": "12,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "ISTRSKE ŠURLE, S ŠPARGLJI, KLARA MARIĆ, 400 G",
+    "url": "https://www.spar.si/online/istrske-surle-s-sparglji-klara-mari-400-g/p/390501",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,13 €/kg",
+    "product-insteadofprice": "2,45",
+    "product-stock-status": "",
+    "product-price": "2,45",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/390501/dt_main.jpg"
+}

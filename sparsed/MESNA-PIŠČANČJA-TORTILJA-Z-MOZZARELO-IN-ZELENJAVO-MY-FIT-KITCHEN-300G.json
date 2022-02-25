@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "3,00 g",
+            "Total Fat": "11,00 g",
+            "Total Carbohydrate": "19,00 g",
+            "Sugar": "2,00 g",
+            "Salt": "1,89 g",
+            "kJ": "908,00 ",
+            "Protein": "11,00 g",
+            "kcal": "217,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MY FIT Mesna piščančja tortilja z mozzarelo in zelenjavo 300g",
+        "instruction-for-use": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "contact-information": {
+            "kontakt:": "K-NORMA, proizvodnja živil d.o.o."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, RAKI (V SLEDOVIH), JAJCA (V SLEDOVIH), RIBE (V SLEDOVIH), SOJA (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), SEZAM (V SLEDOVIH), MEHKUŽCI (V SLEDOVIH)"
+        },
+        "trade-group": {
+            "vrsta-mesa": "piščančje meso"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mesna-piscancja-tortilja-z-mozzarelo-in-zelenjavo-my-fit-kitchen-300g/p/607170",
+    "product-price": "3,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/607170/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "4,69",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "TORTILJA PIŠČANČJA 300G",
+    "product-stock-status": "",
+    "title": "MESNA PIŠČANČJA TORTILJA Z MOZZARELO IN ZELENJAVO, MY FIT KITCHEN, 300G",
+    "product-priceperunit": "12,50 €/kg",
+    "description": "TORTILJA PIŠČANČJA 300G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "7,65 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "NAPOL.S ČOK.KREMO 200G",
+    "teaser-text": "NAPOL.S ČOK.KREMO 200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "20,00 g",
+            "Saturated fat": "10,00 g",
+            "Total Carbohydrate": "74,00 g",
+            "kJ": "2075,00 ",
+            "Protein": "4,50 g",
+            "Salt": "0,40 g",
+            "Sugar": "45,00 g",
+            "kcal": "494,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Vafli s kakavovo kremo (70% kreme)",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/napolitanke-s-kakavovo-kremo-coko-podravka-200g/p/370314",
+    "product-insteadofprice": "1,53",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370314/dt_main.jpg",
+    "title": "NAPOLITANKE S KAKAVOVO KREMO ČOKO, PODRAVKA, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,53",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,88",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "320g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "876,00 ",
+            "Saturated fat": "2,00 g",
+            "Protein": "10,00 g",
+            "Sugar": "1,50 g",
+            "Total Fat": "12,00 g",
+            "kcal": "210,00 ",
+            "Total Carbohydrate": "14,00 g",
+            "Salt": "1,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "BOLTON ADRIATIC d. o. o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "18,38 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tuna-insalatissime-texana-rio-mare-2x160g/p/536237",
+    "product-price": "5,88",
+    "title": "TUNA INSALATISSIME TEXANA, RIO MARE, 2X160G",
+    "description": "TUNA INS.TEXANA 2x160G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/536237/dt_main.jpg",
+    "teaser-text": "TUNA INS.TEXANA 2x160G"
+}

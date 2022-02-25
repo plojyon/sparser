@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČAJ ŽAJBELJ 60G ŽITO",
+    "description": "ČAJ ŽAJBELJ 60G ŽITO",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "list žajblja."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "60g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "ČAJ ŽAJBELJ, 1001 CVET, 60G",
+    "url": "https://www.spar.si/online/caj-zajbelj-1001-cvet-60g/p/40478",
+    "isOnPromotion": "false",
+    "product-priceperunit": "34,83 €/kg",
+    "product-insteadofprice": "2,09",
+    "product-stock-status": "",
+    "product-price": "2,09",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40478/dt_main.jpg"
+}

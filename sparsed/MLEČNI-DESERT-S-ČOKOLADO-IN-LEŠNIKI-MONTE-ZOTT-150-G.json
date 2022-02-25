@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,11",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "813,00 ",
+            "Saturated fat": "8,80 g",
+            "Protein": "2,80 g",
+            "Sugar": "13,70 g",
+            "Total Fat": "13,30 g",
+            "kcal": "195,00 ",
+            "Total Carbohydrate": "15,90 g",
+            "Salt": "0,13 g"
+        },
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        }
+    },
+    "product-priceperunit": "4,47 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-desert-s-cokolado-in-lesniki-monte-zott-150-g/p/395549",
+    "product-price": "0,67",
+    "title": "MLEČNI DESERT S ČOKOLADO IN LEŠNIKI, MONTE, ZOTT, 150 G",
+    "description": "DESERT MONTE ČOKO 150G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395549/dt_main.jpg",
+    "teaser-text": "DESERT MONTE ČOKO 150G"
+}

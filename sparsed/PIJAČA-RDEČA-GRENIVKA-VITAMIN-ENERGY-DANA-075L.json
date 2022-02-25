@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "4,20 g",
+            "Sugar": "4,00 g",
+            "Salt": "0,01 g",
+            "kJ": "17,00 ",
+            "Protein": "0,00 g",
+            "kcal": "73,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA ENERGY VITAMIN RDEČA GRENIVKA - Nizkoenergijska negazirana brezalkoholna pijača z ekstraktom hmelja in vitamini B3 (niacin), B5 (pantotenska kislina), B6, B12.",
+        "contact-information": {
+            "kontakt:": "Dana, proizvodnja in prodaja pijač, d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "izdelek z dodanimi vitamini in minerali",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B3 (Niacin) 1,60 mg, Vitamin B6 0,14 mg, Vitamin B12 0,25 mikrogr. Vitamin B5 (Pantotenska kislina) 0,60 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda 95,00 %, sladkor 4,20 %, citronska kislina 0,20 %, guarana ekstrakt 0,07 %, izvleček hmelja 0,07 %, naravna aroma 0,15 %, črni koren koncentrat 0,02 %, žafranika 0,01 %, niacin, pantotenska kislina, b6, b12."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pijaca-rdeca-grenivka-vitamin-energy-dana-075l/p/583901",
+    "product-price": "1,24",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/583901/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "1,24",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "PIJ.VITAMIN ENERGY 0,75L",
+    "product-stock-status": "",
+    "title": "PIJAČA RDEČA GRENIVKA VITAMIN ENERGY, DANA, 0,75L",
+    "product-priceperunit": "1,65 €/l",
+    "description": "PIJ.VITAMIN ENERGY 0,75L"
+}

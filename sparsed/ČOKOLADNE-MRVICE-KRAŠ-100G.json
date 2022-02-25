@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MRVICE ČOKOLADNE 100G KR",
+    "description": "MRVICE ČOKOLADNE 100G KR",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1940,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "58,80 g",
+            "Total Carbohydrate": "65,90 g",
+            "Total Fat": "20,90 g",
+            "kcal": "464,00 ",
+            "Prehranske vlaknine": "4,44 g",
+            "Saturated fat": "12,60 g",
+            "Protein": "3,93 g"
+        },
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        }
+    },
+    "title": "ČOKOLADNE MRVICE, KRAŠ, 100G",
+    "url": "https://www.spar.si/online/cokoladne-mrvice-kras-100g/p/41507",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,40 €/kg",
+    "product-insteadofprice": "1,54",
+    "product-stock-status": "",
+    "product-price": "1,54",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41507/dt_main.jpg"
+}

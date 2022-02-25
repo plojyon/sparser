@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,95",
+    "product-priceperunit": "14,75 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PISTACIJE, PRAŽENE IN OSOLJENE, S-BUDGET, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Izdelek ni primeren za otroke do 3 let."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "PISTACIJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,60 g",
+            "Total Carbohydrate": "12,90 g",
+            "Prehranske vlaknine": "9,40 g",
+            "Total Fat": "49,90 g",
+            "Protein": "21,80 g",
+            "kJ": "2510,00 ",
+            "Sugar": "7,00 g",
+            "kcal": "607,00 ",
+            "Saturated fat": "6,90 g"
+        }
+    },
+    "description": "SB PISTACIJA SL.P.200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,95",
+    "teaser-text": "SB PISTACIJA SL.P.200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pistacije-prazene-in-osoljene-s-budget-200g/p/469690",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/469690/dt_main.jpg"
+}

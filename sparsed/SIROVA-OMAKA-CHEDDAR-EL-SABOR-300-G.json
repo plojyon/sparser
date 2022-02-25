@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,25",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/sirova-omaka-cheddar-el-sabor-300-g/p/526870",
+    "title": "SIROVA OMAKA, CHEDDAR, EL SABOR, 300 G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,25",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,50 g",
+            "Total Carbohydrate": "6,50 g",
+            "Prehranske vlaknine": "0,10 g",
+            "Saturated fat": "2,80 g",
+            "Protein": "3,20 g",
+            "Total Fat": "11,00 g",
+            "kcal": "138,00 ",
+            "Salt": "1,50 g",
+            "kJ": "573,00 "
+        }
+    },
+    "product-priceperunit": "7,50 €/kg",
+    "teaser-text": "OMAKA SIROVA 300G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "OMAKA SIROVA 300G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/526870/dt_main.jpg",
+    "product-brand": ""
+}

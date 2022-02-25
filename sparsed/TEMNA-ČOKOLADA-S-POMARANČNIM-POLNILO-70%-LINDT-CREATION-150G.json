@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "20,60 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČOK.TEM.POL.POMAR.150G",
+    "teaser-text": "ČOK.TEM.POL.POMAR.150G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje lešnike in ostale oreščke, mleko."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "33,00 g",
+            "Saturated fat": "21,00 g",
+            "Total Carbohydrate": "49,00 g",
+            "kJ": "2231,00 ",
+            "Protein": "6,40 g",
+            "Salt": "0,03 g",
+            "Sugar": "46,00 g",
+            "kcal": "536,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/temna-cokolada-s-pomarancnim-polnilo-70-lindt-creation-150g/p/373190",
+    "product-insteadofprice": "3,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/373190/dt_main.jpg",
+    "title": "TEMNA ČOKOLADA S POMARANČNIM POLNILO 70%, LINDT CREATION, 150G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,09",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

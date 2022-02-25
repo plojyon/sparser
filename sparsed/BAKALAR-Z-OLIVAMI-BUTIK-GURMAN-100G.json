@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/bakalar-z-olivami-butik-gurman-100g/p/563033",
+    "title": "BAKALAR Z OLIVAMI, BUTIK GURMAN, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,69",
+    "product-info": {
+        "trade-group": {
+            "latinsko-ime": "gadus morhua"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bakalar z olivami",
+        "contact-information": {
+            "kontakt:": "Butik Gurman d.o.o."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "1,90 g",
+            "Saturated fat": "8,40 g",
+            "Protein": "5,20 g",
+            "Total Fat": "73,00 g",
+            "kcal": "685,00 ",
+            "Salt": "0,66 g",
+            "kJ": "2818,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-priceperunit": "26,90 €/kg",
+    "teaser-text": "BAKALAR Z OLIVAMI 100G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BAKALAR Z OLIVAMI 100G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/563033/dt_main.jpg",
+    "product-brand": ""
+}

@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "9,78 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OMAKA BLAGA SALS.315G",
+    "teaser-text": "OMAKA BLAGA SALS.315G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "11,50 g",
+            "kJ": "223,00 ",
+            "Protein": "0,90 g",
+            "Salt": "2,10 g",
+            "Sugar": "8,00 g",
+            "kcal": "53,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ARC - Kranj, d.o.o., Hrastje 52k, 4000 Kranj"
+        },
+        "opis": "SALSA je osnovna mehiška omaka. Narejena je na osnovi paradižnika, s koščki svežega paradižnika, mehiškim čilijem (jalapeńo), sesekljano čebulo in česnom. Je nepogrešljiv dodatek vsem mehiškim jedem in čipsom, burgerjem, dušenim jedem in jedem z žara pa prida blag mehiški okus.",
+        "product-net-cont": {
+            "neto-količina": "315g"
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        }
+    },
+    "url": "https://www.spar.si/online/omaka-salsa-blaga-la-fiesta-315g/p/381903",
+    "product-insteadofprice": "3,08",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381903/dt_main.jpg",
+    "title": "OMAKA SALSA BLAGA, LA FIESTA, 315G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,08",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

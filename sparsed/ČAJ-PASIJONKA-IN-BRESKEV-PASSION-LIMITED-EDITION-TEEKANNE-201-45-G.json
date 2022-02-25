@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,89",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "product-net-cont": {
+            "neto-količina": "45g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "jabolko, hibiskus, aroma pasijonke 6,00 %, korenina cikorije, aroma breskve, sredstvo za uravnavanje kislosti: citronska kislina, naravna aroma, pasijonka 1,00 %."
+        }
+    },
+    "product-priceperunit": "33,56 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/caj-pasijonka-in-breskev-passion-limited-edition-teekanne-201-45-g/p/519002",
+    "product-price": "1,51",
+    "title": "ČAJ, PASIJONKA IN BRESKEV, PASSION, LIMITED EDITION, TEEKANNE, 20/1, 45 G",
+    "description": "ČAJ PASIJONKA TEEKA.45G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/519002/dt_main.jpg",
+    "teaser-text": "ČAJ PASIJONKA TEEKA.45G"
+}

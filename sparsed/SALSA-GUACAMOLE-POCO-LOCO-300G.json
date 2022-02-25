@@ -1,0 +1,38 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,80 g",
+            "Total Fat": "9,50 g",
+            "Total Carbohydrate": "6,50 g",
+            "Sugar": "2,80 g",
+            "Salt": "1,40 g",
+            "kJ": "122,00 ",
+            "Protein": "2,20 g",
+            "kcal": "507,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "290g"
+        },
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Brdnikova 44, 1000 Ljubljana."
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/salsa-guacamole-poco-loco-300g/p/228261",
+    "product-price": "2,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/228261/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SALSA GUACAMOLE 290G",
+    "product-stock-status": "",
+    "title": "SALSA GUACAMOLE POCO LOCO, 300G",
+    "product-priceperunit": "9,48 €/kg",
+    "description": "SALSA GUACAMOLE 290G"
+}

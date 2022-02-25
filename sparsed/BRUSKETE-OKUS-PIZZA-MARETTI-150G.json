@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,48",
+    "product-priceperunit": "9,87 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BRUSKETE OKUS PIZZA, MARETTI, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BRUSKETE PIZZA MARETTI GRANDE, 150G",
+        "opis": "Pekovski izdelek. Bruskete - Okus Pizza",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, SOJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,00 g",
+            "Total Carbohydrate": "66,00 g",
+            "Prehranske vlaknine": "2,70 g",
+            "Total Fat": "18,00 g",
+            "Protein": "9,00 g",
+            "kJ": "1963,00 ",
+            "Sugar": "2,90 g",
+            "kcal": "467,00 ",
+            "Saturated fat": "2,20 g"
+        }
+    },
+    "description": "BRUSCHETTE GRAN.PIZZA",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,48",
+    "teaser-text": "BRUSCHETTE GRAN.PIZZA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bruskete-okus-pizza-maretti-150g/p/491997",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491997/dt_main.jpg"
+}

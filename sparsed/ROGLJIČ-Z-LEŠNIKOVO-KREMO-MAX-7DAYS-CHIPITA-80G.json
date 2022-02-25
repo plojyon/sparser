@@ -1,0 +1,38 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,59",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1959,00 ",
+            "Saturated fat": "16,00 g",
+            "Protein": "7,00 g",
+            "Sugar": "18,00 g",
+            "Total Fat": "30,00 g",
+            "kcal": "470,00 ",
+            "Total Carbohydrate": "42,00 g",
+            "Salt": "0,40 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "7,38 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rogljic-z-lesnikovo-kremo-max-7days-chipita-80g/p/437304",
+    "product-price": "0,59",
+    "title": "ROGLJIČ Z LEŠNIKOVO KREMO MAX, 7DAYS, CHIPITA, 80G",
+    "description": "ROGLJ.MIDI LEŠNIK 80G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/437304/dt_main.jpg",
+    "teaser-text": "ROGLJ.MIDI LEŠNIK 80G"
+}

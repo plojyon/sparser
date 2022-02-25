@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,37",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sledove mleka, arašidov in oreškov."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1629,00 ",
+            "Saturated fat": "1,20 g",
+            "Prehranske vlaknine": "5,30 g",
+            "Protein": "8,50 g",
+            "Sugar": "24,50 g",
+            "Total Fat": "3,40 g",
+            "kcal": "385,00 ",
+            "Total Carbohydrate": "77,10 g",
+            "Salt": "0,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj"
+        }
+    },
+    "product-priceperunit": "8,99 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kosmici-cookie-crisp-nestl-375g/p/363585",
+    "product-price": "3,37",
+    "title": "KOSMIČI COOKIE CRISP, NESTLÉ, 375G",
+    "description": "KOSMIČI COOKIE CRISP375G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363585/dt_main.jpg",
+    "teaser-text": "KOSMIČI COOKIE CRISP375G"
+}

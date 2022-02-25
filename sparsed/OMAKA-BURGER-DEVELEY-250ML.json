@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "2,54",
+    "product-priceperunit": "10,16 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OMAKA BURGER DEVELEY, 250ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,80 g",
+            "Total Carbohydrate": "10,50 g",
+            "Total Fat": "31,60 g",
+            "Protein": "1,50 g",
+            "kJ": "1394,00 ",
+            "Sugar": "8,80 g",
+            "kcal": "337,00 ",
+            "Saturated fat": "2,30 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GORČIČNO SEME."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        }
+    },
+    "description": "OMAKA HAMBURGER 250ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,54",
+    "teaser-text": "OMAKA HAMBURGER 250ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/omaka-burger-develey-250ml/p/508488",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/508488/dt_main.jpg"
+}

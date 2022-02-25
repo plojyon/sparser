@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "3,69",
+    "product-priceperunit": "16,04 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KRANJSKA KLOBASA, ČADEŽ, PAKIRANO, 230G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Klobaso položimo v vrelo vodo in na zmernem ognju vremo 8 minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "ČADEŽ d.o.o., Visoko 7g, 4212 Visoko"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, slanina, voda, jedilna sol, začimbe, konzervans natrijev nitrit."
+        },
+        "product-net-cont": {
+            "neto-količina": "230g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "17,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,33 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "16,10 g",
+            "Protein": "20,50 g",
+            "kJ": "944,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "227,00 ",
+            "Saturated fat": "5,91 g"
+        }
+    },
+    "description": "KLOBASA KRANJSKA 230G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,69",
+    "teaser-text": "KLOBASA KRANJSKA 230G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kranjska-klobasa-cadez-pakirano-230g/p/464327",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/464327/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "9,49",
+    "product-priceperunit": "9,49 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "GORENJSKA ZASEKA ARVAJ, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,95 g",
+            "Total Carbohydrate": "1,00 g",
+            "Total Fat": "77,50 g",
+            "Protein": "7,70 g",
+            "kJ": "3016,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "732,00 ",
+            "Saturated fat": "32,50 g"
+        },
+        "ingredient-information": {
+            "sestavine": "hrbtna slanina, začimbe, kuhinjska sol, antioksidant: natrijev citrat, konzervans: natrijev acetat."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "80,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Loške mesnine d.o.o., Kidričeva cesta 63a, 4220 Škofja Loka"
+        }
+    },
+    "description": "ZASEKA GORENJSKA ARVAJ",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "9,49",
+    "teaser-text": "ZASEKA GORENJSKA ARVAJ",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/gorenjska-zaseka-arvaj-1kg/p/48639",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48639/dt_main.jpg"
+}

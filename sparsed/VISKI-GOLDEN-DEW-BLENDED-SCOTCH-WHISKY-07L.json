@@ -1,0 +1,31 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "WHISKY GOLDEN DEW 0,7L",
+    "description": "WHISKY GOLDEN DEW 0,7L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "VISKI GOLDEN DEW BLENDED SCOTCH WHISKY, 0,7L",
+    "url": "https://www.spar.si/online/viski-golden-dew-blended-scotch-whisky-07l/p/407157",
+    "isOnPromotion": "false",
+    "product-priceperunit": "11,27 €/l",
+    "product-insteadofprice": "7,89",
+    "product-stock-status": "",
+    "product-price": "7,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/407157/dt_main.jpg"
+}

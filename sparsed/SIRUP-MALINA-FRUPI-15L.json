@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "2,02",
+    "product-priceperunit": "1,35 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SIRUP MALINA, FRUPI, 1,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priporočamo razredčitev 1 dela sirupa z 8 deli vode."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sadni sirup z okusom maline iz zgoščenega soka malin in bezgovih jagod z dodanim sladkorjem in sladili. Z nizko energijsko vrednostjo. Sadni delež: 12%.",
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "voda, glukozni-fruktozni sirup, malinov sok iz zgoščenega soka malin 9,00 %, sok iz zgoščenega soka bezgovih jagod 3,00 %, kislina (citronska kislina), sladila: natrijev ciklamat, natrijev saharinat, aspartam (vsebuje vir fenilalanina), acesulfam k, aroma, konzervansa (kalijev sorbat, natrijev benzoat)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "3,60 g",
+            "Prehranske vlaknine": "0,01 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,10 g",
+            "kJ": "61,00 ",
+            "Sugar": "3,50 g",
+            "kcal": "14,00 ",
+            "Saturated fat": "0,10 g"
+        }
+    },
+    "description": "SIRUP FRUPI MALINA 1.5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,02",
+    "teaser-text": "SIRUP FRUPI MALINA 1.5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sirup-malina-frupi-15l/p/48892",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48892/dt_main.jpg"
+}

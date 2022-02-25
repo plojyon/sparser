@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,20 g",
+            "Total Fat": "1,80 g",
+            "Total Carbohydrate": "22,30 g",
+            "Sugar": "2,60 g",
+            "Salt": "1,20 g",
+            "kJ": "559,00 ",
+            "Protein": "7,40 g",
+            "kcal": "132,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Panirane rakove klešče iz surimov hitro zmrznjen pripravek iz ribiških proizvodov.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "4003880005154",
+        "opis": "Panirane rakove klešče s pravo kleščo, zamrznjene.",
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 1,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, RAKI, JAJCA, SOJA, MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih), MEHKUŽCI (V SLEDOVIH)"
+        },
+        "contact-information": {
+            "kontakt:": "Kvibo d.o.o., Mlaka 2a, 4290 Tržič"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/panirane-rakove-klesce-kvibo-250g/p/264465",
+    "product-price": "2,55",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/264465/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "2,55",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "KLEŠČE RAKOVE 250G",
+    "product-stock-status": "",
+    "title": "PANIRANE RAKOVE KLEŠČE, KVIBO, 250G",
+    "product-priceperunit": "10,20 €/kg",
+    "description": "KLEŠČE RAKOVE 250G"
+}

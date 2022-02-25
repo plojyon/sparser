@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "teaser-text": "SPAR SVINJ. ZREZKI 480G",
+    "description": "SPAR SVINJ. ZREZKI 480G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR SVINJSKI ZREZKI 480g",
+        "ingredient-information": {
+            "sestavine": "svinjsko stegno."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1029,00 ",
+            "Salt": "0,20 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "19,00 g",
+            "kcal": "245,00 ",
+            "Saturated fat": "6,50 g",
+            "Protein": "17,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "480g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "19,00 %"
+        },
+        "contact-information": {},
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "SVINJSKI ZREZKI SPAR, 480G",
+    "url": "https://www.spar.si/online/svinjski-zrezki-spar-480g/p/399754",
+    "isOnPromotion": "true",
+    "product-priceperunit": "7,40 €/kg",
+    "product-insteadofprice": "3,95",
+    "product-stock-status": "",
+    "product-price": "3,55",
+    "product-brand": "",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/399754/dt_main.jpg"
+}

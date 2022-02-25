@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,59",
+    "product-priceperunit": "9,97 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "TOPLJENI SIR, REGULAR, HAPPY COW, 24/1, 360 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,25 g",
+            "Total Carbohydrate": "4,00 g",
+            "Total Fat": "23,00 g",
+            "Protein": "12,00 g",
+            "kJ": "1123,00 ",
+            "Sugar": "4,00 g",
+            "kcal": "271,00 ",
+            "Saturated fat": "16,80 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "360g"
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "description": "SIR TOP HAPPY COW 360G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,59",
+    "teaser-text": "SIR TOP HAPPY COW 360G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/topljeni-sir-regular-happy-cow-241-360-g/p/456524",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/456524/dt_main.jpg"
+}

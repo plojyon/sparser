@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,15",
+    "product-priceperunit": "0,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SADNA PIJAČA BRESKEV, FRUPI, 2L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "OSVEŽILNA NEGAZIRANA BREZALKOHOLNA PIJAČA IZ BRESKOVE KAŠE. SADNI DELEŽ: 25%.",
+        "contact-information": {
+            "kontakt:": "VITAL MESTINJE, d.o.o., Stranje 7 a, 3241 Podplat, Slovenija"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, kaša breskve 25,00 %, sladkor, glukozni-fruktozni sirup, kislina (citronska kislina), aroma, antioksidant (askorbinska kislina)."
+        },
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "12,30 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,50 g",
+            "kJ": "211,00 ",
+            "Sugar": "11,90 g",
+            "kcal": "50,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPITEK FRUPI BRES.2L BK",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,15",
+    "teaser-text": "NAPITEK FRUPI BRES.2L BK",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sadna-pijaca-breskev-frupi-2l/p/512867",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512867/dt_main.jpg"
+}

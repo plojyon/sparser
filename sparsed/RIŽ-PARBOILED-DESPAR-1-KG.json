@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "1,79 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "DESPAR RIŽ PARBOILED 1KG",
+    "teaser-text": "DESPAR RIŽ PARBOILED 1KG",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,80 g",
+            "Saturated fat": "0,20 g",
+            "Total Carbohydrate": "79,00 g",
+            "kJ": "1509,00 ",
+            "Protein": "7,30 g",
+            "Salt": "0,02 g",
+            "Sugar": "0,00 g",
+            "kcal": "355,00 ",
+            "Prehranske vlaknine": "1,50 g"
+        },
+        "opis": "Idealen za solate in priloge.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BELI DOLGOZRNATI RIŽ RIBE PARBOILED.",
+        "ingredient-information": {
+            "sestavine": "parboiled dolgozrnati riž."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/riz-parboiled-despar-1-kg/p/370851",
+    "product-insteadofprice": "1,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370851/dt_main.jpg",
+    "title": "RIŽ, PARBOILED, DESPAR, 1 KG",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

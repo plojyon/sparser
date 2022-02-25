@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MARMELADA SLIVA 870G",
+    "description": "MARMELADA SLIVA 870G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Domača slivova marmelada.",
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "870g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1139,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "67,00 g",
+            "Total Carbohydrate": "67,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "268,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "DOMAČA SLIVOVA MARMELADA, BELSAD, 870G",
+    "url": "https://www.spar.si/online/domaca-slivova-marmelada-belsad-870g/p/41374",
+    "isOnPromotion": "false",
+    "product-priceperunit": "4,01 €/kg",
+    "product-insteadofprice": "3,49",
+    "product-stock-status": "",
+    "product-price": "3,49",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41374/dt_main.jpg"
+}

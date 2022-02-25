@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "13,27 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KEKSI S POMARANČ.150G",
+    "teaser-text": "KEKSI S POMARANČ.150G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "7,50 g",
+            "Saturated fat": "3,70 g",
+            "Total Carbohydrate": "68,00 g",
+            "kJ": "1536,00 ",
+            "Protein": "4,50 g",
+            "Salt": "0,53 g",
+            "Sugar": "40,00 g",
+            "kcal": "364,00 ",
+            "Prehranske vlaknine": "3,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Ulica majorja Lavriča 12, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/keksi-pomaranca-orangino-brez-glutena-schr-150g/p/356742",
+    "product-insteadofprice": "1,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/356742/dt_main.jpg",
+    "title": "KEKSI POMARANČA ORANGINO BREZ GLUTENA, SCHÄR, 150G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

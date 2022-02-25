@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,29 g",
+            "Total Fat": "1,73 g",
+            "Total Carbohydrate": "50,47 g",
+            "Sugar": "3,90 g",
+            "Salt": "1,47 g",
+            "kJ": "1003,00 ",
+            "Protein": "7,59 g",
+            "kcal": "236,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o.., Šmartinska cesta 154, 1000 Ljubljana, Slovenija"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jelenov-mesani-kruh-zito-1kg/p/100571",
+    "product-price": "3,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/100571/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h3b/h64/9829227331614/tehtnica-ikona-123x80.jpg",
+    "product-insteadofprice": "3,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Tehtan izdelek",
+    "teaser-text": "KRUH JELENOV 1KG ŽITO",
+    "product-stock-status": "",
+    "title": "JELENOV MEŠANI KRUH, ŽITO, 1KG",
+    "product-priceperunit": "3,89 €/kg",
+    "description": "KRUH JELENOV 1KG ŽITO"
+}

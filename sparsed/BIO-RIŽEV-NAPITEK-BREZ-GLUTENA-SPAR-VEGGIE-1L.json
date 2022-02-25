@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "1,18",
+    "product-priceperunit": "1,18 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO RIŽEV NAPITEK BREZ GLUTENA, SPAR VEGGIE, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "13,00 g",
+            "Prehranske vlaknine": "0,20 g",
+            "Total Fat": "1,00 g",
+            "Protein": "0,20 g",
+            "kJ": "255,00 ",
+            "Sugar": "6,20 g",
+            "kcal": "60,00 ",
+            "Saturated fat": "0,20 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred odprtjem pretresti!"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bio rižev napitek brez glutena. (IT-BIO-007, Kmetijstvo Italije)",
+        "opis": "Izdelek je segret na ultra visoki temperaturi.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, riž* 16,00 %, sončnično olje*, morska sol, *iz ekološke pridelave."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR VEGGIE BI.RIŽ.NA.1L",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,18",
+    "teaser-text": "SPAR VEGGIE BI.RIŽ.NA.1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-rizev-napitek-brez-glutena-spar-veggie-1l/p/436978",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/436978/dt_main.jpg"
+}

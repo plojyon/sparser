@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB SOK POMARANČNI 1L",
+    "description": "SB SOK POMARANČNI 1L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "189,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "9,40 g",
+            "Total Carbohydrate": "9,40 g",
+            "Total Fat": "0,20 g",
+            "kcal": "45,00 ",
+            "Prehranske vlaknine": "0,70 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,70 g"
+        },
+        "ingredient-information": {
+            "sestavine": "pomarančni sok 100,00 %."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "title": "POMARANČNI SOK S-BUDGET, 1L",
+    "url": "https://www.spar.si/online/pomarancni-sok-s-budget-1l/p/423196",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,79 €/l",
+    "product-insteadofprice": "0,79",
+    "product-stock-status": "",
+    "product-price": "0,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/423196/dt_main.jpg"
+}

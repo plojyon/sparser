@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "1,19 €/kg",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SB TESTENINE POLŽKI 1KG",
+    "teaser-text": "SB TESTENINE POLŽKI 1KG",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,50 g",
+            "Saturated fat": "0,30 g",
+            "Total Carbohydrate": "72,00 g",
+            "kJ": "1505,00 ",
+            "Protein": "12,20 g",
+            "Salt": "0,00 g",
+            "Sugar": "4,00 g",
+            "kcal": "355,00 ",
+            "Prehranske vlaknine": "2,30 g"
+        },
+        "opis": "Sušene testenine.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "S BUDGET Polžki 1 kg",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Zadostno količino osoljene vode zavremo in vanjo stresemo testenine. Med kuhanjem jih večkrat premešamo. Kuhane testenine odcedimo in po želji prelijemo z omako. Čas kuhanja: 9 minut."
+        }
+    },
+    "url": "https://www.spar.si/online/testenine-polzki-s-budget-1kg/p/381005",
+    "product-insteadofprice": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381005/dt_main.jpg",
+    "title": "TESTENINE POLŽKI, S-BUDGET, 1KG",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,97",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, PEG-80,Hydrogenated Glyceryl Palmate, Cocamidopropyl Betaine, Magnesium Laureth Sulfate, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, Disodium Laureth Sulfosuccinate, Salvia Officinalis Extract, Thymus Vulgaris Extract, Triclosan, Lactic Acid, Parfum, Propylene Glycol, Disodium EDTA, DMDM Hydantoin, CI 42051."
+        },
+        "opis": "Je tekoče intimno milo za vsakodnevno uporabo, predvsem, ko potrebujete dodatno zaščito pred bakterijami.Chilly Antibakterijska formula, obogatena z naravnimi izvlečki žajblja in timijana: Ščiti intimne predele pred zunanjim vdorom bakterij. Pomaga vzpostavljati naravno ravnovesje nožnične sluznice, ki je potrebno za zaščito intimnih predelov. Hipoalergensko - formula z minimalno možnostjo povzročanja alergij.Priporoča Združenje ginekologov in porodničarjev Slovenije.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Uporabite za umivanje intimnih predelov. Samo za zunanjo uporabo."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "11,80 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/intimno-milo-antibakterijsko-chilly-250ml/p/314702",
+    "product-price": "2,95",
+    "title": "INTIMNO MILO ANTIBAKTERIJSKO CHILLY, 250ML",
+    "description": "MILO CHILLY ANTIBAKTER.",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/314702/dt_main.jpg",
+    "teaser-text": "MILO CHILLY ANTIBAKTER."
+}

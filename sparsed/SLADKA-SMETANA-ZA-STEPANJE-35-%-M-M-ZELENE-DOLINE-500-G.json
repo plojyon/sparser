@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "2,95",
+    "product-priceperunit": "5,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "SLADKA SMETANA ZA STEPANJE, 35 % M. M., ZELENE DOLINE, 500 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,20 g",
+            "Total Carbohydrate": "3,10 g",
+            "Total Fat": "35,00 g",
+            "Protein": "2,40 g",
+            "kJ": "1402,00 ",
+            "Sugar": "2,60 g",
+            "kcal": "345,00 ",
+            "Saturated fat": "24,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "description": "SMETANA ZA STEP 35% 500G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "2,50",
+    "teaser-text": "SMETANA ZA STEP 35% 500G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/sladka-smetana-za-stepanje-35-m-m-zelene-doline-500-g/p/474858",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/474858/dt_main.jpg"
+}

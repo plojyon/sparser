@@ -1,0 +1,31 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR JEŠPRENJ 1KG",
+    "description": "SPAR JEŠPRENJ 1KG",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Spar Ješprenj 1 kg",
+        "opis": "Oluščena ječmenova zrna.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "JEŠPRENJ, SPAR, 1KG",
+    "url": "https://www.spar.si/online/jesprenj-spar-1kg/p/434972",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,98 €/kg",
+    "product-insteadofprice": "0,98",
+    "product-stock-status": "",
+    "product-price": "0,98",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/434972/dt_main.jpg"
+}

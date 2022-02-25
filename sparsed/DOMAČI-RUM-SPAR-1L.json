@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "7,99 €/kos",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR RUM DOMAČI 1L",
+    "teaser-text": "SPAR RUM DOMAČI 1L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "37,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "870,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "210,00 "
+        },
+        "opis": "Domači rum uporabljamo za pripravo različnih pijač. Nepogrešljiv je v vsaki kuhinji pri peki krofov in ostalih slaščic.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR DOMAČI RUM - žgana pijača. Alkohol: 37,50 vol. %. 1L",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        }
+    },
+    "url": "https://www.spar.si/online/domaci-rum-spar-1l/p/378522",
+    "product-insteadofprice": "7,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/378522/dt_main.jpg",
+    "title": "DOMAČI RUM, SPAR, 1L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "7,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

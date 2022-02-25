@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,57",
+    "product-priceperunit": "1,57 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NEKTAR MARELICA, DANA, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA NEKTAR MARELICA - Sadni nektar iz marelic, pomaranč in jabolk iz marelične in jabolčne kaše ter zgoščenega pomarančnega soka. Sadni delež: najmanj 42 %.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "DANA d.o.o., Glavna cesta 34, 8233 Mirna"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, marelična kaša 25,00 %, pomarančni sok 9,00 %, jabolčna kaša 8,00 %, sladkor, kislina (citronska kislina), antioksidant (askorbinska kislina)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "12,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "204,00 ",
+            "Sugar": "11,80 g",
+            "kcal": "48,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NEKTAR MARELICA 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,57",
+    "teaser-text": "NEKTAR MARELICA 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/nektar-marelica-dana-1l/p/48787",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48787/dt_main.jpg"
+}

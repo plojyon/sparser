@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "OLJE OREHOVO GEA 250ML",
+    "description": "OLJE OREHOVO GEA 250ML",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GEA orehovo olje jedilno nerafinirano",
+        "ingredient-information": {
+            "alergeni": "OREHI."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 12,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3700,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "11,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "OREHOVO OLJE, NERAFINIRANO, GEA, 0,25 L",
+    "url": "https://www.spar.si/online/orehovo-olje-nerafinirano-gea-025-l/p/435275",
+    "isOnPromotion": "false",
+    "product-priceperunit": "21,92 €/kg",
+    "product-insteadofprice": "5,48",
+    "product-stock-status": "",
+    "product-price": "5,48",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/435275/dt_main.jpg"
+}

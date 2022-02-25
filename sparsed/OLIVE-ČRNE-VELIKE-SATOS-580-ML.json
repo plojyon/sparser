@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "6,29",
+    "product-priceperunit": "10,84 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OLIVE ČRNE VELIKE, S.A.TOS, 580 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "350G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "FIN-TUN d.o.o., Perovo 55, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "sestavine": "črne olive, sončnično olje, rdeča paprika, voda, sol, peteršilj, origano, česen, pekoča paprika, kislina: E300, antioksidant: E330."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,58l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,97 g",
+            "Total Carbohydrate": "0,10 g",
+            "Prehranske vlaknine": "6,93 g",
+            "Total Fat": "23,00 g",
+            "Protein": "1,67 g",
+            "kJ": "955,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "227,00 ",
+            "Saturated fat": "7,71 g"
+        }
+    },
+    "description": "OLIVE ČRNE VELIKE 580ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,29",
+    "teaser-text": "OLIVE ČRNE VELIKE 580ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/olive-crne-velike-satos-580-ml/p/513409",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513409/dt_main.jpg"
+}

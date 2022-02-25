@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "teaser-text": "SPAR SVINJ.KOCKE 480g",
+    "description": "SPAR SVINJ.KOCKE 480g",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SVINJSKE KOCKE, svinjsko meso v kockah",
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "488,00 ",
+            "Salt": "0,13 g",
+            "Sugar": "0,50 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "3,00 g",
+            "kcal": "116,00 ",
+            "Saturated fat": "1,10 g",
+            "Protein": "22,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "480g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "5,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "title": "SVINJSKE KOCKE, SPAR, 480G",
+    "url": "https://www.spar.si/online/svinjske-kocke-spar-480g/p/399750",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,56 €/kg",
+    "product-insteadofprice": "3,15",
+    "product-stock-status": "",
+    "product-price": "3,15",
+    "product-brand": "",
+    "product-promotionBadges": "Odlična kakovost",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/399750/dt_main.jpg"
+}

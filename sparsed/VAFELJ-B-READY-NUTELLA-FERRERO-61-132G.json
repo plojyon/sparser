@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "VAFELJ, POLNJEN Z LEŠNIKOVIM KAKAVOVIM NAMAZOM IN KRISPIJI.",
+        "contact-information": {
+            "kontakt:": "ATLANTIC TRADE d. o. o., Kolinska ulica 1 , Ljubljana, Tel : 01 5305570"
+        },
+        "product-net-cont": {
+            "neto-količina": "132g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2178,00 ",
+            "Saturated fat": "11,00 g",
+            "Prehranske vlaknine": "7,30 g",
+            "Protein": "7,30 g",
+            "Sugar": "47,70 g",
+            "Total Fat": "27,00 g",
+            "kcal": "521,00 ",
+            "Total Carbohydrate": "60,40 g",
+            "Salt": "0,51 g"
+        }
+    },
+    "product-priceperunit": "16,59 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/vafelj-b-ready-nutella-ferrero-61-132g/p/533050",
+    "product-price": "2,19",
+    "title": "VAFELJ B-READY NUTELLA, FERRERO, 6/1, 132G",
+    "description": "VAF.NUTELLLA B-READY132G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/533050/dt_main.jpg",
+    "teaser-text": "VAF.NUTELLLA B-READY132G"
+}

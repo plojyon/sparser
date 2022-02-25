@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,00 g",
+            "Salt": "0,79 g",
+            "Total Fat": "20,00 g",
+            "Total Carbohydrate": "69,00 g",
+            "Sugar": "35,00 g",
+            "Prehranske vlaknine": "1,70 g",
+            "kJ": "2030,00 ",
+            "Protein": "5,30 g",
+            "kcal": "484,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelek. Keksi s polnilom z okusom vanilije (29%).",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "154g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/keksi-golden-vanilija-oreo-154g/p/583101",
+    "product-price": "1,26",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/583101/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "1,59",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "KEKSI OREO GOLDEN 154G",
+    "product-stock-status": "",
+    "title": "KEKSI GOLDEN VANILIJA, OREO, 154G",
+    "product-priceperunit": "8,18 €/kg",
+    "description": "KEKSI OREO GOLDEN 154G"
+}

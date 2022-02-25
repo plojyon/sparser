@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-jabolcni-nektar-spar-naturpur-3x02l/p/602676",
+    "title": "BIO JABOLČNI NEKTAR, SPAR NATUR*PUR, 3X0,2L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,29",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "0,6l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "6,40 g",
+            "Total Carbohydrate": "7,10 g",
+            "Prehranske vlaknine": "0,50 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,50 g",
+            "Total Fat": "0,50 g",
+            "kcal": "29,00 ",
+            "Salt": "0,01 g",
+            "kJ": "122,00 "
+        },
+        "ingredient-information": {
+            "sestavine": "jabolčni sok* 60 %, voda, antioksidant: askorbinska kislina, *iz ekološke pridelave."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "2,15 €/l",
+    "teaser-text": "SPAR NP BIO NEK.JA.3X0,2",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR NP BIO NEK.JA.3X0,2",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/602676/dt_main.jpg",
+    "product-brand": ""
+}

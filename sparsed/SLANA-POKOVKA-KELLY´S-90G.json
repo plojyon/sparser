@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,50 g",
+            "Salt": "2,00 g",
+            "Total Fat": "16,00 g",
+            "Total Carbohydrate": "50,00 g",
+            "Sugar": "0,50 g",
+            "Prehranske vlaknine": "11,00 g",
+            "kJ": "1686,00 ",
+            "Protein": "7,90 g",
+            "kcal": "403,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Ekstrudirana pražena koruza - soljena",
+        "contact-information": {
+            "kontakt:": "Intersnack, d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "90g"
+        },
+        "ingredient-information": {
+            "sestavine": "koruza, sončnično olje, sol."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/slana-pokovka-kellys-90g/p/191901",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/191901/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "POKOVKA SLAN.KELLY´S 90G",
+    "product-stock-status": "",
+    "title": "SLANA POKOVKA, KELLY´S, 90G",
+    "product-priceperunit": "13,22 €/kg",
+    "description": "POKOVKA SLAN.KELLY´S 90G"
+}

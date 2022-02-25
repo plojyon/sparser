@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "4kos"
+        },
+        "opis": "LR03, 1.5V, alkalne;",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-priceperunit": "0,52 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/baterije-aaa-simpex-proffesional-41/p/399626",
+    "product-price": "2,09",
+    "title": "BATERIJE AAA SIMPEX PROFFESIONAL, 4/1",
+    "description": "SR BATERIJE AAA 4/1-1100",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/399626/dt_main.jpg",
+    "teaser-text": "SR BATERIJE AAA 4/1-1100"
+}

@@ -1,0 +1,42 @@
+{
+    "product-priceperunit": "24,90 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "DESPAR OGRSKA 100G",
+    "teaser-text": "DESPAR OGRSKA 100G",
+    "product-info": {
+        "trade-group": {
+            "vrsta-mesa": "svinjsko meso"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "30,00 g",
+            "Saturated fat": "12,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "1518,00 ",
+            "Protein": "24,00 g",
+            "Salt": "3,80 g",
+            "Sugar": "0,00 g",
+            "kcal": "366,00 "
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso, sol, dekstroza, arome, začimbe, natrijev aksorbat, kalijev nitrat."
+        }
+    },
+    "url": "https://www.spar.si/online/ogrska-salama-narezek-despar-100g/p/382536",
+    "product-insteadofprice": "2,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/382536/dt_main.jpg",
+    "title": "OGRSKA SALAMA, NAREZEK, DESPAR, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,49",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

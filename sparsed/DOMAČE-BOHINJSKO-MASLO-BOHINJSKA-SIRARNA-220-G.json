@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,58",
+    "product-priceperunit": "11,73 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "DOMAČE BOHINJSKO MASLO, BOHINJSKA SIRARNA, 220 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "2,00 g",
+            "Total Fat": "82,40 g",
+            "Protein": "0,50 g",
+            "kJ": "3091,00 ",
+            "Sugar": "0,49 g",
+            "kcal": "752,00 ",
+            "Saturated fat": "52,76 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "220G"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "220g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "MASLO BOHINJSKO 220G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,58",
+    "teaser-text": "MASLO BOHINJSKO 220G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domace-bohinjsko-maslo-bohinjska-sirarna-220-g/p/463637",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/463637/dt_main.jpg"
+}

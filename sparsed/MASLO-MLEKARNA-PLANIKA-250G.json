@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,45",
+    "product-priceperunit": "13,80 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "MASLO MLEKARNA PLANIKA, 250G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "0,20 g",
+            "Total Fat": "87,20 g",
+            "Protein": "0,40 g",
+            "kJ": "3237,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "787,00 ",
+            "Saturated fat": "59,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "MASLO PLANIKA 250G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,45",
+    "teaser-text": "MASLO PLANIKA 250G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/maslo-mlekarna-planika-250g/p/44481",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/44481/dt_main.jpg"
+}

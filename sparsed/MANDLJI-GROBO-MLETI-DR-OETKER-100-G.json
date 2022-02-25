@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "4,08",
+    "product-priceperunit": "40,80 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MANDLJI, GROBO MLETI, DR. OETKER, 100 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mandlji - grobo mleti",
+        "opis": "Mandlji - grobo mleti.",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "MANDLJI, ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "5,60 g",
+            "Total Fat": "52,00 g",
+            "Protein": "24,00 g",
+            "kJ": "2519,00 ",
+            "Sugar": "5,60 g",
+            "kcal": "609,00 ",
+            "Saturated fat": "4,50 g"
+        }
+    },
+    "description": "MANDLJI GROBO MLETI 100G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,08",
+    "teaser-text": "MANDLJI GROBO MLETI 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mandlji-grobo-mleti-dr-oetker-100-g/p/495220",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/495220/dt_main.jpg"
+}

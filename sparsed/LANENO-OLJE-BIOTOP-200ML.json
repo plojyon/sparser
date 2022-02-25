@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "10,00 g",
+            "Total Fat": "100,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "contact-information": {
+            "kontakt:": "Mediacor d.o.o., Obrtniška ulica 9, 3240 Šmarje pri Jelšah"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/laneno-olje-biotop-200ml/p/263735",
+    "product-price": "3,97",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/263735/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "3,97",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "OLJE LANENO 200ML BIOTOP",
+    "product-stock-status": "",
+    "title": "LANENO OLJE BIOTOP, 200ML",
+    "product-priceperunit": "19,85 €/l",
+    "description": "OLJE LANENO 200ML BIOTOP"
+}

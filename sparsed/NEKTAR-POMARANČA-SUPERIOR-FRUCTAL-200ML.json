@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,41",
+    "product-priceperunit": "2,05 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NEKTAR POMARANČA, SUPERIOR, FRUCTAL, 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "11,20 g",
+            "Prehranske vlaknine": "0,20 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,30 g",
+            "kJ": "200,00 ",
+            "Sugar": "10,20 g",
+            "kcal": "47,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "pomarančni sok iz zgoščenega soka 50,00 %, voda, sladkor, glukozno-fruktozni sirup, kislina (citronska kislina), antioksidant (l-askorbinska kislina)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "NEKTAR POMA.SUP.F.0,2L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,41",
+    "teaser-text": "NEKTAR POMA.SUP.F.0,2L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/nektar-pomaranca-superior-fructal-200ml/p/457697",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457697/dt_main.jpg"
+}

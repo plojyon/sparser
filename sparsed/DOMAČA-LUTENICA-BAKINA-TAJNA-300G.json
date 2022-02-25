@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "3,88",
+    "product-priceperunit": "12,93 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "DOMAČA LUTENICA, BAKINA TAJNA, 300G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "LUTENICA, BAKINA TAJNA, 300 G",
+        "opis": "Zelenjavna jed s papriko in paradižnikom.",
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "pečena rdeča paprika 48,00 %, paradižnik 40,00 %, sončnično olje, česen, vinski kis, sladkor, sol, peteršilj, čili v prahu 0,17 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "10,10 g",
+            "Total Fat": "7,90 g",
+            "Protein": "1,00 g",
+            "kJ": "506,00 ",
+            "Sugar": "8,80 g",
+            "kcal": "122,00 ",
+            "Saturated fat": "0,90 g"
+        }
+    },
+    "description": "LUTENICA 300G BAKINA",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,88",
+    "teaser-text": "LUTENICA 300G BAKINA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domaca-lutenica-bakina-tajna-300g/p/506266",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506266/dt_main.jpg"
+}

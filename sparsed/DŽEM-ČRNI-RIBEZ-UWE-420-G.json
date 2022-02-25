@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,87",
+    "product-priceperunit": "6,83 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "DŽEM, ČRNI RIBEZ, UWE, 420 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "59,60 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,80 g",
+            "kJ": "1078,00 ",
+            "Sugar": "59,50 g",
+            "kcal": "257,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "črni ribez, sladkor, glukozno-fruktozni sladkor, koncentriran limonin sok, želirno sredstvo: jabolčni pektin."
+        },
+        "product-net-cont": {
+            "neto-količina": "420g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "DŽEM EKS.ČRNI RIBEZ 420G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,87",
+    "teaser-text": "DŽEM EKS.ČRNI RIBEZ 420G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/dzem-crni-ribez-uwe-420-g/p/455293",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/455293/dt_main.jpg"
+}

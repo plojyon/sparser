@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,89",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,05l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Aluminium Chlorohydrate, PPG-15, Steary Ether, Steareth-2, Parfum, Steareth-21, Talc, Benzyl Salicylate, Coumarin, Eugenol, Geraniol, Hydroxycitronellal, Isoeugenol, Limonene."
+        },
+        "opis": "Borotalco deo roll on Invisible je dezodorant, ki zmanjšuje nastanek rumenih madežev na svetlih oblačilih in belih madežev na temnih oblačilih. Zahvaljujoč svoji formuli z mikrotalkom, ki vpija znoj in uravnava dihanje kože in zagotavlja bolj suho kožo.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Ne nanesite prekomerno. Ne nanesite na poškodovano ali občutljivo kožo. V primeru alergijske reakcije prekinite z uporabo."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "58,40 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/deo-roll-on-invisible-borotalco-50ml/p/432021",
+    "product-price": "2,92",
+    "title": "DEO ROLL ON INVISIBLE BOROTALCO, 50ML",
+    "description": "DEO ROLLON BOROTALCO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/432021/dt_main.jpg",
+    "teaser-text": "DEO ROLLON BOROTALCO"
+}

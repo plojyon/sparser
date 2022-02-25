@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "0,66",
+    "product-priceperunit": "2,75 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "MLEČNI DESERT INGO SPAR, 4X60G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 0,75 mikrogr. Kalcij 120,00 mg."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečni desert z okusom lešnika in čokolade.",
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI."
+        },
+        "product-net-cont": {
+            "neto-količina": "240g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,16 g",
+            "Total Carbohydrate": "18,00 g",
+            "Total Fat": "9,80 g",
+            "Protein": "3,30 g",
+            "kJ": "718,00 ",
+            "Sugar": "14,00 g",
+            "kcal": "172,00 ",
+            "Saturated fat": "6,30 g"
+        }
+    },
+    "description": "SPAR DESERT INGO 4X60G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,66",
+    "teaser-text": "SPAR DESERT INGO 4X60G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mlecni-desert-ingo-spar-4x60g/p/499589",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499589/dt_main.jpg"
+}

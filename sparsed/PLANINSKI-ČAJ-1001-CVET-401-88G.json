@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČAJ PLANINSKI 1001 88G",
+    "description": "ČAJ PLANINSKI 1001 88G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "šipek, list robide, plod črnega trna, cvet lipe, plod jerebike, poprova meta."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "88g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "PLANINSKI ČAJ, 1001 CVET, 40/1, 88G",
+    "url": "https://www.spar.si/online/planinski-caj-1001-cvet-401-88g/p/40449",
+    "isOnPromotion": "false",
+    "product-priceperunit": "28,30 €/kg",
+    "product-insteadofprice": "2,49",
+    "product-stock-status": "",
+    "product-price": "2,49",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40449/dt_main.jpg"
+}

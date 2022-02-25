@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "BONB.PEPERMINT 100G KRAŠ",
+    "description": "BONB.PEPERMINT 100G KRAŠ",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "SOJA, LEŠNIKI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1735,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "77,00 g",
+            "Total Carbohydrate": "91,80 g",
+            "Total Fat": "4,90 g",
+            "kcal": "415,00 ",
+            "Saturated fat": "1,90 g",
+            "Protein": "0,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        }
+    },
+    "title": "TRDI BONBONI PEPERMINT, KRAŠ, 100G",
+    "url": "https://www.spar.si/online/trdi-bonboni-pepermint-kras-100g/p/40284",
+    "isOnPromotion": "true",
+    "product-priceperunit": "8,40 €/kg",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-price": "0,84",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40284/dt_main.jpg"
+}

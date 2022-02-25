@@ -1,0 +1,33 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "10kos"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "JAJCA SPAR hlevske reje BREZ GSO M 10/1",
+        "ingredient-information": {
+            "alergeni": "JAJCA."
+        },
+        "trade-group": {
+            "način-pridelave": "2 - Talna reja"
+        }
+    },
+    "product-priceperunit": "0,20 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jajca-hlevske-reje-m-spar-101/p/532385",
+    "product-price": "1,99",
+    "title": "JAJCA HLEVSKE REJE, M, SPAR, 10/1",
+    "description": "SPAR JAJCA M 10/1",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/532385/dt_main.jpg",
+    "teaser-text": "SPAR JAJCA M 10/1"
+}

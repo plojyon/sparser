@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,59",
+    "product-priceperunit": "2,95 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SOK ANANAS, SUPERIOR, FRUCTAL, 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "12,90 g",
+            "Prehranske vlaknine": "0,30 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,40 g",
+            "kJ": "237,00 ",
+            "Sugar": "12,10 g",
+            "kcal": "56,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "sok iz zgoščenega ananasovega soka 100,00 %."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "SOK ANAN.SUPE.100% 0,2L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,59",
+    "teaser-text": "SOK ANAN.SUPE.100% 0,2L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sok-ananas-superior-fructal-200ml/p/460498",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/460498/dt_main.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "product-insteadofprice": "1,38",
+    "product-priceperunit": "2,76 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "CIDER SOMERSBY, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SOMERSBY Z OKUSOM JABOLKE. JABOLČNO VINO. ALKOHOL 4,5 vol. %",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "security-warning": {
+            "varnostna-opozorila": "Izdelek ni primeren za otroke."
+        },
+        "opis": "Jabolčno alkoholno vino Somersby z okusom jabolka iz popolnoma naravnih sestavin, v pločevinki; 4,5 % vol. alkohola.",
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, koncentriran jabolčni sok, limonska kislina, arome, konzervans, barvilo."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "4,50 vol. %"
+        }
+    },
+    "description": "CIDER SOMERSBY JAB.0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,38",
+    "teaser-text": "CIDER SOMERSBY JAB.0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cider-somersby-05l/p/471369",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471369/dt_main.jpg"
+}

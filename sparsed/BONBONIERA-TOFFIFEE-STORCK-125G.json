@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BONBON.TOFFIEE 125G",
+    "description": "BONBON.TOFFIEE 125G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BONBONIERA TOFFIFEE, STORCK, 125G",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2153,00 ",
+            "Salt": "0,60 g",
+            "Sugar": "48,90 g",
+            "Total Carbohydrate": "58,50 g",
+            "Total Fat": "28,80 g",
+            "kcal": "516,00 ",
+            "Saturated fat": "12,70 g",
+            "Protein": "6,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        }
+    },
+    "title": "BONBONIERA TOFFIFEE, STORCK, 125G",
+    "url": "https://www.spar.si/online/bonboniera-toffifee-storck-125g/p/43258",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,92 €/kg",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-price": "1,99",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/43258/dt_main.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,07l"
+        },
+        "ingredient-information": {
+            "sestavine": "Sorbitol, Aqua, Hydrated Silica, Propylene Glycol, Sodium Lauryl Sulfate, Aroma, Alcohol, Cellulose Gum, Disodium Phosphate, Sodium Fluoride, Sodium Saccharin, Zinc Sulfate, Sodium Sulfate, Eugenol, CI 74160;"
+        },
+        "contact-information": {}
+    },
+    "product-priceperunit": "17,20 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zobna-pasta-ultra-fresh-vademecum-75ml/p/220332",
+    "product-price": "1,29",
+    "title": "ZOBNA PASTA ULTRA FRESH, VADEMECUM, 75ML",
+    "description": "PASTA ZOB.VADEM.75ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/220332/dt_main.jpg",
+    "teaser-text": "PASTA ZOB.VADEM.75ML"
+}

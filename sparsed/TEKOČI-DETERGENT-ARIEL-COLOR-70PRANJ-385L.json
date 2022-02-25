@@ -1,0 +1,29 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "23,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "3,85l"
+        },
+        "ingredient-information": {
+            "sestavine": "5-15% Anionske Površinsko Aktivne Snovi, <5% Neionske Površinsko Aktivne Snovi, Fosfonati, Milo, Encimi, Benzisothiazolinone, Methylisothiazolinone, Dišave, Alpha-Isomethyl Ionone, Citronellol, Geraniol."
+        },
+        "opis": "Tekoči detergent za perilo Ariel Color omogoča izvrstno odstranjevanje madežev že pri prvem pranju. Ariel je neprizanesljiv do madežev, vendar nežen do perila, ...",
+        "contact-information": {
+            "kontakt:": "Orbico d.o.o.,Verovškova 72,1000 Ljubljana"
+        }
+    },
+    "product-priceperunit": "3,63 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoci-detergent-ariel-color-70pranj-385l/p/550022",
+    "product-price": "13,99",
+    "title": "TEKOČI DETERGENT ARIEL COLOR, 70PRANJ, 3,85L",
+    "description": "GEL ARIEL 3,85L 70PRANJ",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/550022/dt_main.jpg",
+    "teaser-text": "GEL ARIEL 3,85L 70PRANJ"
+}

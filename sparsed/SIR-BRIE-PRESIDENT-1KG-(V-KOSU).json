@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "15,44",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Brie je mehki sir z belo plemenito plesnijo. Ime je dobil v 8. stoletju po pokrajini Brie. Je blede barve, v sredini kremast, mehak in aromatičen. Za posebno gurmansko doživetje ga postrežemo z medom, marmelado in z vinom. Izvrstno se ujame tudi s sadjem, sušenim paradižnikom in finim pecivom.",
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 480,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SIR BRIE PRESIDENT, 1KG, (V KOSU)",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1436,00 ",
+            "Saturated fat": "23,00 g",
+            "Protein": "17,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "31,00 g",
+            "kcal": "347,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "1,40 g"
+        }
+    },
+    "product-priceperunit": "15,44 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sir-brie-president-1kg-v-kosu/p/34091",
+    "product-price": "15,44",
+    "title": "SIR BRIE PRESIDENT, 1KG, (V KOSU)",
+    "description": "Sir Brie President",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/34091/dt_main.jpg",
+    "teaser-text": "Sir Brie President"
+}

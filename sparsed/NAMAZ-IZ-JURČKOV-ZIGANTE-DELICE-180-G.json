@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "4,89",
+    "product-priceperunit": "27,17 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAMAZ IZ JURČKOV, ZIGANTE DELICE, 180 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "12,80 g",
+            "Total Fat": "25,20 g",
+            "Protein": "1,90 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "248,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "jurčki 82,00 %, ekstra deviško oljčno olje, sol, začimbe."
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "contact-information": {
+            "kontakt:": "Zigante tartufi d.o.o., Vanganelska cesta 8, SI - 6000 Koper, Tel: +386 56251190"
+        }
+    },
+    "description": "NAMAZ Z JURČKI 180G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,89",
+    "teaser-text": "NAMAZ Z JURČKI 180G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/namaz-iz-jurckov-zigante-delice-180-g/p/499840",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499840/dt_main.jpg"
+}

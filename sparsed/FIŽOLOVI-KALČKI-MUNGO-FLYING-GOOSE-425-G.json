@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "6,00 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "KALČKI SOJINI 425G",
+    "teaser-text": "KALČKI SOJINI 425G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "6,00 g",
+            "kJ": "110,00 ",
+            "Protein": "1,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "25,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "225G"
+        },
+        "product-net-cont": {
+            "neto-količina": "425g"
+        },
+        "ingredient-information": {
+            "sestavine": "mungo kalčki, voda, sol, kislina e330."
+        }
+    },
+    "url": "https://www.spar.si/online/fizolovi-kalcki-mungo-flying-goose-425-g/p/377781",
+    "product-insteadofprice": "2,55",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377781/dt_main.jpg",
+    "title": "FIŽOLOVI KALČKI MUNGO, FLYING GOOSE, 425 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,55",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

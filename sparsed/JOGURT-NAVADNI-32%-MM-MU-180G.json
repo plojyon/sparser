@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,54",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne d.d., Ljubljana, Tolstojeva 63"
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU JOGURT NARAVNI  3,2%MM 180G LONČEK",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "273,00 ",
+            "Saturated fat": "1,80 g",
+            "Protein": "3,80 g",
+            "Sugar": "5,40 g",
+            "Total Fat": "3,20 g",
+            "kcal": "66,00 ",
+            "Total Carbohydrate": "5,40 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "2,11 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jogurt-navadni-32-mm-mu-180g/p/261673",
+    "product-price": "0,38",
+    "title": "JOGURT NAVADNI 3,2% M.M., MU, 180G",
+    "description": "JOGURT NAVADNI 180G 3,2",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/261673/dt_main.jpg",
+    "teaser-text": "JOGURT NAVADNI 180G 3,2"
+}

@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "SIR EDAMEC 400G",
+    "description": "SIR EDAMEC 400G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU SIR EDAMEC 400G",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1371,00 ",
+            "Salt": "1,50 g",
+            "Sugar": "0,10 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "26,30 g",
+            "kcal": "330,00 ",
+            "Saturated fat": "16,20 g",
+            "Protein": "23,40 g"
+        },
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        }
+    },
+    "title": "SIR EDAMEC, MU, 400G",
+    "url": "https://www.spar.si/online/sir-edamec-mu-400g/p/427091",
+    "isOnPromotion": "false",
+    "product-priceperunit": "11,65 €/kg",
+    "product-insteadofprice": "4,66",
+    "product-stock-status": "",
+    "product-price": "4,66",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/427091/dt_main.jpg"
+}

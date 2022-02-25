@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,40",
+    "product-priceperunit": "8,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KRUH MEGA BURGER S SEZAMOM QUICKBURY, 4/1, 300G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,25 g",
+            "Total Carbohydrate": "49,00 g",
+            "Prehranske vlaknine": "3,00 g",
+            "Total Fat": "5,50 g",
+            "Protein": "8,50 g",
+            "kJ": "1205,00 ",
+            "Sugar": "7,00 g",
+            "kcal": "286,00 ",
+            "Saturated fat": "1,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SEZAM, SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        }
+    },
+    "description": "KRUH BURGER S SEZAMOM4/1",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,40",
+    "teaser-text": "KRUH BURGER S SEZAMOM4/1",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kruh-mega-burger-s-sezamom-quickbury-41-300g/p/482181",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/482181/dt_main.jpg"
+}

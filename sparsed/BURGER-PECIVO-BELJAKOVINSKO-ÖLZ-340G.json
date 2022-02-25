@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "3,35",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/burger-pecivo-beljakovinsko-lz-340g/p/605912",
+    "title": "BURGER PECIVO BELJAKOVINSKO, ÖLZ, 340G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,35",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka 3c, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "340g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,10 g",
+            "Total Carbohydrate": "31,00 g",
+            "Prehranske vlaknine": "5,60 g",
+            "Saturated fat": "1,20 g",
+            "Protein": "17,00 g",
+            "Total Fat": "6,30 g",
+            "kcal": "262,00 ",
+            "Salt": "1,20 g",
+            "kJ": "1101,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, SEZAM."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "product-priceperunit": "9,85 €/kg",
+    "teaser-text": "BURGER BELJAKOVINSKI 4/1",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BURGER BELJAKOVINSKI 4/1",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/605912/dt_main.jpg",
+    "product-brand": ""
+}

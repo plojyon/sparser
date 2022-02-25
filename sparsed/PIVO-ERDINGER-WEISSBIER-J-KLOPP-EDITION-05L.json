@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,96",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/pivo-erdinger-weissbier-j-klopp-edition-05l/p/598601",
+    "title": "PIVO ERDINGER WEISSBIER, J. KLOPP EDITION, 0,5L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,96",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,30 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "2,60 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,60 g",
+            "Total Fat": "0,00 g",
+            "kcal": "44,00 ",
+            "Salt": "1,30 g",
+            "kJ": "185,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj, Slovenija"
+        }
+    },
+    "product-priceperunit": "3,92 €/l",
+    "teaser-text": "PIV.ERDING.WEI.KLOPP0,5L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PIV.ERDING.WEI.KLOPP0,5L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/598601/dt_main.jpg",
+    "product-brand": ""
+}

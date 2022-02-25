@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "3,78",
+    "product-priceperunit": "7,56 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO BALZAMIČNI KIS, DE NIGRIS, 500 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "68,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1849,00 ",
+            "Sugar": "68,00 g",
+            "kcal": "442,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO BALZAMIČNI KIS 500 ML",
+        "contact-information": {
+            "kontakt:": "AL PONTE d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "KIS BALZAMIČNI BIO 500ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "3,78",
+    "teaser-text": "KIS BALZAMIČNI BIO 500ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-balzamicni-kis-de-nigris-500-ml/p/445759",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/445759/dt_main.jpg"
+}

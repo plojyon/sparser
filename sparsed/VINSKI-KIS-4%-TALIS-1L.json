@@ -1,0 +1,30 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "KIS VINSKI 4% 1/1 TALIS",
+    "description": "KIS VINSKI 4% 1/1 TALIS",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Vinski kis s 4 % kislosti",
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "VINSKI KIS 4%, TALIS, 1L",
+    "url": "https://www.spar.si/online/vinski-kis-4-talis-1l/p/41124",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,27 €/l",
+    "product-insteadofprice": "1,27",
+    "product-stock-status": "",
+    "product-price": "1,27",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41124/dt_main.jpg"
+}

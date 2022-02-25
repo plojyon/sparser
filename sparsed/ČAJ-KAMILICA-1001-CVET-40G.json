@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČAJ KAMILICA 40G 1001 CV",
+    "description": "ČAJ KAMILICA 40G 1001 CV",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "cvet kamilice."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "ČAJ KAMILICA 1001 CVET, 40G",
+    "url": "https://www.spar.si/online/caj-kamilica-1001-cvet-40g/p/40416",
+    "isOnPromotion": "false",
+    "product-priceperunit": "54,25 €/kg",
+    "product-insteadofprice": "2,17",
+    "product-stock-status": "",
+    "product-price": "2,17",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40416/dt_main.jpg"
+}

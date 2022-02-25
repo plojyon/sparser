@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,53",
+    "product-priceperunit": "1,53 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO SVEŽE MLEKO, 3,5% M. M., PLANIKA, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "4,80 g",
+            "Total Fat": "3,50 g",
+            "Protein": "3,30 g",
+            "kJ": "266,00 ",
+            "Sugar": "4,80 g",
+            "kcal": "64,00 ",
+            "Saturated fat": "2,20 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "MLEKO BIO SVEŽE 3,5% 1L",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,53",
+    "teaser-text": "MLEKO BIO SVEŽE 3,5% 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-sveze-mleko-35-m-m-planika-1l/p/443321",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/443321/dt_main.jpg"
+}

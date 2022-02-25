@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,29",
+    "product-priceperunit": "13,15 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "title": "GOJI JAGODE SUHE, BIMED, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GOJI JAGODE",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Mednarodni prehod 8, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,06 g",
+            "Total Carbohydrate": "70,00 g",
+            "Total Fat": "1,10 g",
+            "Protein": "14,00 g",
+            "kJ": "1406,00 ",
+            "Sugar": "53,00 g",
+            "kcal": "336,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "GOJI JAGODE 200G",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "product-price": "2,63",
+    "teaser-text": "GOJI JAGODE 200G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/goji-jagode-suhe-bimed-200g/p/472882",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472882/dt_main.jpg"
+}

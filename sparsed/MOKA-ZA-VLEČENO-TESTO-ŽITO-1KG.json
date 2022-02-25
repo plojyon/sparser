@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MOKA NAM.ZA VL.TEST.1KG",
+    "description": "MOKA NAM.ZA VL.TEST.1KG",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Namenska moka za vlečeno testo.",
+        "opis": "Namenska moka za vlečeno testo se uporablja za pripravo izdelkov iz vlečenega testa.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1486,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "1,20 g",
+            "Total Carbohydrate": "72,00 g",
+            "Total Fat": "1,10 g",
+            "kcal": "351,00 ",
+            "Saturated fat": "0,20 g",
+            "Protein": "11,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "MOKA ZA VLEČENO TESTO, ŽITO, 1KG",
+    "url": "https://www.spar.si/online/moka-za-vleceno-testo-zito-1kg/p/43423",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,97 €/kg",
+    "product-insteadofprice": "1,97",
+    "product-stock-status": "",
+    "product-price": "1,97",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/43423/dt_main.jpg"
+}

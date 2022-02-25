@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "12,90 g",
+            "Total Fat": "20,00 g",
+            "Total Carbohydrate": "4,00 g",
+            "Sugar": "3,40 g",
+            "Salt": "0,10 g",
+            "kJ": "851,00 ",
+            "Protein": "2,50 g",
+            "kcal": "206,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SMETANA ZA KUHANJE BRZO&FINO, DUKAT, 500G",
+        "opis": "Brzo & Fino je visoko kvalitetna linija mlečnih izdelkov namenjena kuhanju. Smetana za kuhanje za vrhunska kulinarična doživetja, je enostavna in jedi spreminja v zalogajčke slastnega okusa in vonja.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pretresite pred uporabo."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/smetana-za-kuhanje-brzofino-dukat-500g/p/193922",
+    "product-price": "2,33",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/193922/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,33",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SMETANA ZA KUHO 500G",
+    "product-stock-status": "",
+    "title": "SMETANA ZA KUHANJE BRZO&FINO, DUKAT, 500G",
+    "product-priceperunit": "4,66 €/kg",
+    "description": "SMETANA ZA KUHO 500G"
+}

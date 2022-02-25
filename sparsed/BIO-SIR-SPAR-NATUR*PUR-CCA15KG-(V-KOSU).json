@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "17,35",
+    "product-priceperunit": "17,35 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "title": "BIO SIR SPAR NATUR*PUR, CCA.1,5KG, (V KOSU)",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,84 g",
+            "Total Carbohydrate": "0,10 g",
+            "Total Fat": "32,00 g",
+            "Protein": "25,10 g",
+            "kJ": "389,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "1612,00 ",
+            "Saturated fat": "22,70 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Iz nehomogeniziranega mleka. Mleko iz zgornjega Posočja. Tradicionalni postopek izdelave.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR bio sir natur pur",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-brand": "",
+    "product-price": "17,35",
+    "teaser-text": "SPAR bio sir natur pur",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-sir-spar-naturpur-cca15kg-v-kosu/p/511571",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/511571/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "JUHA GOV.S TEST.65G",
+    "description": "JUHA GOV.S TEST.65G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebino vrečke vsujte v en liter vrele vode. Kuhajte na zmernem ognju 5 minut v napol pokriti posodi in občasno premešajte."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1509,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "56,00 g",
+            "Total Fat": "10,00 g",
+            "kcal": "358,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "11,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "65g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek"
+    },
+    "title": "GOVEJA JUHA S TESTENINAMI, PODRAVKA, 65G",
+    "url": "https://www.spar.si/online/goveja-juha-s-testeninami-podravka-65g/p/40990",
+    "isOnPromotion": "true",
+    "product-priceperunit": "11,69 €/kg",
+    "product-insteadofprice": "0,95",
+    "product-stock-status": "",
+    "product-price": "0,76",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40990/dt_main.jpg"
+}

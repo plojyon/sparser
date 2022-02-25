@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,70",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/alpsko-mleko-proffesional-barista-1l/p/549143",
+    "title": "ALPSKO MLEKO PROFFESIONAL BARISTA, 1L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,70",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "LJUBLJANSKE MLEKARNE D.O.O., Tolstojeva ulica 63, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ALPSKO MLEKO BARISTA 1L",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,70 g",
+            "Total Carbohydrate": "4,70 g",
+            "Saturated fat": "1,60 g",
+            "Protein": "3,80 g",
+            "Total Fat": "2,80 g",
+            "kcal": "59,00 ",
+            "Salt": "0,12 g",
+            "kJ": "248,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-priceperunit": "1,70 €/l",
+    "teaser-text": "MLEKO ALPSKO BARISTA 1L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "MLEKO ALPSKO BARISTA 1L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/549143/dt_main.jpg",
+    "product-brand": ""
+}

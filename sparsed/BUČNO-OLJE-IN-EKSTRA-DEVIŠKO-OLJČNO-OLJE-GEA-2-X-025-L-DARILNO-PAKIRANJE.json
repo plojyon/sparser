@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "7,99",
+    "product-priceperunit": "15,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BUČNO OLJE IN EKSTRA DEVIŠKO OLJČNO OLJE, GEA, 2 X 0,25 L, DARILNO PAKIRANJE",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 50,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "ekstra deviško oljčno olje 100,00 %, jedilno nerafinirano bučno olje 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "16,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DARILNO PAK GEA 500ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,99",
+    "teaser-text": "DARILNO PAK GEA 500ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bucno-olje-in-ekstra-devisko-oljcno-olje-gea-2-x-025-l-darilno-pakiranje/p/502200",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502200/dt_main.jpg"
+}

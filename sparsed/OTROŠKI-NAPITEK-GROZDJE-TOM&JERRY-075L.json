@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "2,50 g",
+            "Sugar": "2,50 g",
+            "Salt": "0,00 g",
+            "kJ": "44,00 ",
+            "Protein": "0,10 g",
+            "kcal": "10,00 "
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 0,20 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, grozdni sok iz koncentrata, ogljikov dioksid, citronska kislina, vitamin c, arome."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/otroski-napitek-grozdje-tomjerry-075l/p/223568",
+    "product-price": "2,66",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/223568/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,66",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "OT.NA.TOM&JERRY0,75L",
+    "product-stock-status": "",
+    "title": "OTROŠKI NAPITEK GROZDJE, TOM&JERRY, 0,75L",
+    "product-priceperunit": "3,55 €/l",
+    "description": "OT.NA.TOM&JERRY0,75L"
+}

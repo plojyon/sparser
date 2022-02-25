@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "6,54",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Zlatorog svetlo pivo (vsebnost alkohola: 4,9 vol.%) je specifičnega okusa, z bogato peno in značilno izraženo grenčico, ki jo dosežemo z uporabo svetovno znanih slovenskih sort hmelja.",
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Svetlo pivo - Alk.4,9%",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "4,90 vol. %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "170,00 ",
+            "Saturated fat": "0,05 g",
+            "Protein": "0,50 g",
+            "Sugar": "0,01 g",
+            "Total Fat": "0,05 g",
+            "kcal": "40,60 ",
+            "Total Carbohydrate": "2,70 g",
+            "Salt": "0,04 g"
+        }
+    },
+    "product-priceperunit": "1,90 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pivo-zlatorog-lasko-6x05l/p/270923",
+    "product-price": "5,69",
+    "title": "PIVO ZLATOROG LAŠKO, 6X0,5L",
+    "description": "PIVO LAŠKO ZLATOR.6X0,5L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/270923/dt_main.jpg",
+    "teaser-text": "PIVO LAŠKO ZLATOR.6X0,5L"
+}

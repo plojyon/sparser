@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "3,15",
+    "product-priceperunit": "4,40 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "title": "MAJONEZA, THOMY, 611 G, V KOZARCU",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,76 g",
+            "Total Carbohydrate": "2,20 g",
+            "Prehranske vlaknine": "0,70 g",
+            "Total Fat": "82,00 g",
+            "Protein": "1,40 g",
+            "kJ": "3099,00 ",
+            "Sugar": "1,70 g",
+            "kcal": "753,00 ",
+            "Saturated fat": "8,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, ZELENA, GORČIČNO SEME, MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "611g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "MAJONEZA THOMY 611G",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "MAJONEZA THOMY 611G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/majoneza-thomy-611-g-v-kozarcu/p/495213",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/495213/dt_main.jpg"
+}

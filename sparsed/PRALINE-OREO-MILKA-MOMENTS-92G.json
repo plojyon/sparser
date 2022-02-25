@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "18,00 g",
+            "Salt": "0,30 g",
+            "Total Fat": "32,00 g",
+            "Total Carbohydrate": "57,00 g",
+            "Sugar": "51,00 g",
+            "Prehranske vlaknine": "1,70 g",
+            "kJ": "2279,00 ",
+            "Protein": "5,70 g",
+            "kcal": "546,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z alpskim mlekom z mlečno kremo (29 %) in koščki kakavovega keksa (12 %).",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "92g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/praline-oreo-milka-moments-92g/p/574221",
+    "product-price": "1,35",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/574221/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "1,69",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "PRAL.MILKA MOMENTS 92 G",
+    "product-stock-status": "",
+    "title": "PRALINE OREO, MILKA MOMENTS, 92G",
+    "product-priceperunit": "14,67 €/kg",
+    "description": "PRAL.MILKA MOMENTS 92 G"
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,70 g",
+            "Salt": "0,01 g",
+            "Total Fat": "2,40 g",
+            "Total Carbohydrate": "74,00 g",
+            "Sugar": "0,50 g",
+            "Prehranske vlaknine": "2,90 g",
+            "kJ": "1475,00 ",
+            "Protein": "7,50 g",
+            "kcal": "348,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dolgozrnati nebrušen parboiled riž",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/dolgozrnati-rjavi-riz-bali-500g/p/151737",
+    "product-price": "2,07",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/151737/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,07",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "RIŽ RJAVI DOL.500G BALI",
+    "product-stock-status": "",
+    "title": "DOLGOZRNATI RJAVI RIŽ, BALI, 500G",
+    "product-priceperunit": "4,14 €/kg",
+    "description": "RIŽ RJAVI DOL.500G BALI"
+}

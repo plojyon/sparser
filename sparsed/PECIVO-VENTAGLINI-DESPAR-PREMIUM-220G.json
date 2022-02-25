@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-priceperunit": "11,95 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PECIVO VENTAGLINI, DESPAR PREMIUM, 220G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Fino pekovsko pecivo.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,53 g",
+            "Total Carbohydrate": "55,00 g",
+            "Total Fat": "33,00 g",
+            "Protein": "6,70 g",
+            "kJ": "2286,00 ",
+            "Sugar": "16,00 g",
+            "kcal": "548,00 ",
+            "Saturated fat": "16,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "DESPAR PREM.VENTAGLINI",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,39",
+    "teaser-text": "DESPAR PREM.VENTAGLINI",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pecivo-ventaglini-despar-premium-220g/p/478452",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/478452/dt_main.jpg"
+}

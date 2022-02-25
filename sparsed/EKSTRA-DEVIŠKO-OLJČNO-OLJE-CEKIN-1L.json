@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "10,83 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OLJE OLJČNO CEKIN 1L",
+    "teaser-text": "OLJE OLJČNO CEKIN 1L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 26,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "100,00 g",
+            "Saturated fat": "16,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "ekstra deviško oljčno olje 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/ekstra-devisko-oljcno-olje-cekin-1l/p/366647",
+    "product-insteadofprice": "10,83",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/366647/dt_main.jpg",
+    "title": "EKSTRA DEVIŠKO OLJČNO OLJE CEKIN, 1L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "10,83",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

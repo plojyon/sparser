@@ -1,0 +1,39 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "10,80 g",
+            "Salt": "0,15 g",
+            "Total Fat": "18,90 g",
+            "Total Carbohydrate": "68,00 g",
+            "Sugar": "62,70 g",
+            "Prehranske vlaknine": "1,00 g",
+            "kJ": "1948,00 ",
+            "Protein": "5,00 g",
+            "kcal": "464,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "38g"
+        },
+        "contact-information": {
+            "kontakt:": "Nestle Adriatic d.o.o., Šmartinska 53, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bonboni-smarties-nestl-38g/p/261091",
+    "product-price": "0,75",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/261091/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,75",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BONBONI SMARTIES 38G",
+    "product-stock-status": "",
+    "title": "BONBONI SMARTIES, NESTLÉ, 38G",
+    "product-priceperunit": "19,74 €/kg",
+    "description": "BONBONI SMARTIES 38G"
+}

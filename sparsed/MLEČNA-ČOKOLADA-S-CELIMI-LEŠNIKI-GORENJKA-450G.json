@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.CELI LEŠ.GOREN.450G",
+    "description": "ČOK.CELI LEŠ.GOREN.450G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNA ČOKOLADA S CELIMI LEŠNIKI",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "450g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2477,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "40,00 g",
+            "Total Carbohydrate": "45,00 g",
+            "Total Fat": "42,00 g",
+            "kcal": "595,00 ",
+            "Saturated fat": "20,00 g",
+            "Protein": "9,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "MLEČNA ČOKOLADA S CELIMI LEŠNIKI, GORENJKA, 450G",
+    "url": "https://www.spar.si/online/mlecna-cokolada-s-celimi-lesniki-gorenjka-450g/p/428885",
+    "isOnPromotion": "false",
+    "product-priceperunit": "17,31 €/kg",
+    "product-insteadofprice": "7,79",
+    "product-stock-status": "",
+    "product-price": "7,79",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/428885/dt_main.jpg"
+}

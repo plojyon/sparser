@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "8,13 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "KEKSI ČAJNI 400G",
+    "teaser-text": "KEKSI ČAJNI 400G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Mlinotest Živilska industrija d.d., Tovarniška 14, Ajdovščina"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "23,00 g",
+            "Saturated fat": "12,00 g",
+            "Total Carbohydrate": "58,00 g",
+            "kJ": "1989,00 ",
+            "Protein": "8,00 g",
+            "Salt": "0,20 g",
+            "Sugar": "24,00 g",
+            "kcal": "474,00 ",
+            "Prehranske vlaknine": "2,00 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Čajni keksi 400 g",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, OREHI."
+        }
+    },
+    "url": "https://www.spar.si/online/cajni-keksi-mlinotest-400g/p/370838",
+    "product-insteadofprice": "3,83",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370838/dt_main.jpg",
+    "title": "ČAJNI KEKSI MLINOTEST, 400G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,25",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

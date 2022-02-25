@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BON.ČOK.DRAŽEJI 350G",
+    "description": "BON.ČOK.DRAŽEJI 350G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "350g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2951,00 ",
+            "Salt": "0,30 g",
+            "Sugar": "57,60 g",
+            "Total Carbohydrate": "64,00 g",
+            "Total Fat": "45,00 g",
+            "kcal": "706,00 ",
+            "Prehranske vlaknine": "3,42 g",
+            "Saturated fat": "19,90 g",
+            "Protein": "9,70 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, MANDLJI, OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "ČOKOLADNI DRAŽEJI DORINA, KRAŠ, 350G",
+    "url": "https://www.spar.si/online/cokoladni-drazeji-dorina-kras-350g/p/40197",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,69 €/kg",
+    "product-insteadofprice": "6,89",
+    "product-stock-status": "",
+    "product-price": "6,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40197/dt_main.jpg"
+}

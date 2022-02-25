@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,68",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "opis": "Na ultra visoko temperaturo segreto, homogenizirano pol posneto mleko z 1,5 % mlečne maščobe brez laktoze.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelka ni potrebno kuhati. Če ga kuhate za pripravo jedi, ga med kuhanjem mešajte."
+        },
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ALPSKO ML. BREZ LAKTOZE 1,5% 1L TBA EDGE",
+        "ingredient-information": {
+            "sestavine": "HOMOGENIZIRANO POL POSNETO MLEKO BREZ LAKTOZE."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "192,00 ",
+            "Saturated fat": "0,90 g",
+            "Protein": "3,30 g",
+            "Sugar": "4,70 g",
+            "Total Fat": "1,50 g",
+            "kcal": "46,00 ",
+            "Total Carbohydrate": "4,70 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "1,68 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/alpsko-mleko-brez-laktoze-15-lahkoten-dan-ljubljanske-ml-1l/p/359538",
+    "product-price": "1,68",
+    "title": "ALPSKO MLEKO BREZ LAKTOZE 1,5% LAHKOTEN DAN, LJUBLJANSKE ML., 1L",
+    "description": "MLEKO ALPSKO BREZ LAKT",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/359538/dt_main.jpg",
+    "teaser-text": "MLEKO ALPSKO BREZ LAKT"
+}

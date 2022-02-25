@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "3,10 g",
+            "Total Fat": "11,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Sugar": "0,50 g",
+            "Salt": "2,40 g",
+            "kJ": "637,00 ",
+            "Protein": "13,00 g",
+            "kcal": "153,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "POLI LAHKI 500G PERUTNINA PTUJ",
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "meso piščančjih prsi 33,00 %, piščančje kožice, sol, dekstroza, stabilizator E450, prehranske vlaknine, antioksidant E301, začimbe, ekstrakti začimb, konzervans E250."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "30,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancja-salama-poli-light-perutnina-ptuj-500g/p/246276",
+    "product-price": "4,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/246276/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "4,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "POLI LAHKI 500G PER.PTUJ",
+    "product-stock-status": "",
+    "title": "PIŠČANČJA SALAMA POLI LIGHT, PERUTNINA PTUJ, 500G",
+    "product-priceperunit": "9,98 €/kg",
+    "description": "POLI LAHKI 500G PER.PTUJ"
+}

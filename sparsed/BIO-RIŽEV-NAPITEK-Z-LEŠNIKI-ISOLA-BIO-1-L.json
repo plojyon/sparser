@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-priceperunit": "2,39 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO RIŽEV NAPITEK Z LEŠNIKI, ISOLA BIO, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,08 g",
+            "Total Carbohydrate": "13,00 g",
+            "Prehranske vlaknine": "0,90 g",
+            "Total Fat": "2,70 g",
+            "Protein": "0,80 g",
+            "kJ": "342,00 ",
+            "Sugar": "5,50 g",
+            "kcal": "81,00 ",
+            "Saturated fat": "0,40 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bio rižev napitek z lešniki brez glutena.",
+        "contact-information": {
+            "kontakt:": "Sonital d.o.o., Cesta Ljubljanske brigade 9A, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "LEŠNIKI."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "ISOLA BIO NAP.Z LEŠ.1L",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "2,39",
+    "teaser-text": "ISOLA BIO NAP.Z LEŠ.1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-rizev-napitek-z-lesniki-isola-bio-1-l/p/506549",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506549/dt_main.jpg"
+}

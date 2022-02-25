@@ -1,0 +1,46 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,19",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "460g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 168,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jogurt, 3,5% maščobe. S kulturo Bifidus ActiRegularis.",
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "310,00 ",
+            "Saturated fat": "2,30 g",
+            "Protein": "4,90 g",
+            "Sugar": "5,70 g",
+            "Total Fat": "3,50 g",
+            "kcal": "74,00 ",
+            "Total Carbohydrate": "5,70 g",
+            "Salt": "0,18 g"
+        }
+    },
+    "product-priceperunit": "3,30 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jogurt-natur-activia-danone-4x115g/p/547240",
+    "product-price": "1,52",
+    "title": "JOGURT NATUR ACTIVIA, DANONE, 4X115G",
+    "description": "JOGURT ACTIVIA 4X115G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/547240/dt_main.jpg",
+    "teaser-text": "JOGURT ACTIVIA 4X115G"
+}

@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "TRAVARICA DALMACIJAV. 1L",
+    "description": "TRAVARICA DALMACIJAV. 1L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "DALMACIJAVINO TRAVARICA 1L",
+        "opis": "Travarica je žgana pijača, proizvedena z aromatičnimi rastlinami: Foeniculum vulgare Mill., Salvia officinalis L.",
+        "ingredient-information": {
+            "sestavine": "alkohol etilni 40,00 %."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "924,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "221,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "40,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Dalmacijavino, d.o.o., Vojkova cesta 58, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "TRAVARICA DALMACIJAVINO, 1L",
+    "url": "https://www.spar.si/online/travarica-dalmacijavino-1l/p/42313",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,59 €/l",
+    "product-insteadofprice": "19,59",
+    "product-stock-status": "",
+    "product-price": "19,59",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42313/dt_main.jpg"
+}

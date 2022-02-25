@@ -1,0 +1,49 @@
+{
+    "product-promotionBadges": "Vegan",
+    "product-insteadofprice": "2,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-badges": {
+            "certifikati": "Vegan"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Omegol olje se uporablja za pripravo solat in različnih hladnih jedi."
+        },
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 40,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jedilno rafinirano rastlinsko olje.",
+        "ingredient-information": {
+            "sestavine": "repično olje, sončnično olje, olje koruznih kalčkov."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3700,00 ",
+            "Saturated fat": "9,00 g",
+            "Protein": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "100,00 g",
+            "kcal": "900,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,00 g"
+        }
+    },
+    "product-priceperunit": "2,98 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rastlinsko-olje-omegol-zvijezda-1l/p/298816",
+    "product-price": "2,98",
+    "title": "RASTLINSKO OLJE OMEGOL, ZVIJEZDA, 1L",
+    "description": "OLJE OMEGOL ZVIJEZD 1L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/298816/dt_main.jpg",
+    "teaser-text": "OLJE OMEGOL ZVIJEZD 1L"
+}

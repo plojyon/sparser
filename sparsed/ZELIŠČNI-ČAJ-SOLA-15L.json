@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,03",
+    "product-priceperunit": "0,69 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ZELIŠČNI ČAJ, SOLA, 1,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Negazirana brezalkoholna pijača z vodnim izvlečkom zelišč",
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor 5,90 %, zeliščni poparek 1,80 %, kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "5,90 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "103,00 ",
+            "Sugar": "5,90 g",
+            "kcal": "24,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SOLA ZELIŠČNI ČAJ 1,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,03",
+    "teaser-text": "SOLA ZELIŠČNI ČAJ 1,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zeliscni-caj-sola-15l/p/513313",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513313/dt_main.jpg"
+}

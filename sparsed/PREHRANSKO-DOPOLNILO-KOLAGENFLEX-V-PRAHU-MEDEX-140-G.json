@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "17,49",
+    "product-priceperunit": "124,93 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PREHRANSKO DOPOLNILO, KOLAGENFLEX V PRAHU, MEDEX, 140 G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 120,00 mg."
+        },
+        "instruction-for-use": {},
+        "security-warning": {
+            "varnostna-opozorila": "Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom! Če pride do znakov preobčutljivosti, izdelek prenehajte uporabljati."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "sestavine": "kolagen fortigel 99,90 %, vitamin c 0,10 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "140g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,50 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "90,00 g",
+            "kJ": "1530,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "360,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "MEDEX KOLAGENFLEX 140G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "17,49",
+    "teaser-text": "MEDEX KOLAGENFLEX 140G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/prehransko-dopolnilo-kolagenflex-v-prahu-medex-140-g/p/502602",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502602/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SIRUP ACE 1L PET PRE.",
+    "description": "SIRUP ACE 1L PET PRE.",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1447,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "83,00 g",
+            "Total Carbohydrate": "83,00 g",
+            "Total Fat": "0,06 g",
+            "kcal": "340,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, voda, sok pomaranče iz zgoščenega soka 13,00 %, citronska kislina, stabilizator (gumi arabicum), vitamin c, vitamin e, provistamin a, aroma, sok marakuje iz zgoščenega soka 1,00 %, sok ananasa iz zgoščenega soka 1,00 %, kalijev sorbat, natrijev benzoat."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 1034,00 mikrogr. Vitamin E 23,00 mg, Vitamin C 183,00 mg."
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "SIRUP ACE, PRESAD, 1L",
+    "url": "https://www.spar.si/online/sirup-ace-presad-1l/p/435692",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,14 €/l",
+    "product-insteadofprice": "3,14",
+    "product-stock-status": "",
+    "product-price": "3,14",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/435692/dt_main.jpg"
+}

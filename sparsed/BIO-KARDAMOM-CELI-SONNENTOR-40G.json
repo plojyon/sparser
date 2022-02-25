@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Prema d.o.o., Letališka cesta 32, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "40G"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "ingredient-information": {
+            "sestavine": "kardamom*. *iz nadzorovane ekološke pridelave; nadzorno mesto: at-bio-301. kmetijstvo izven eu. . 100,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-kardamom-celi-sonnentor-40g/p/587598",
+    "product-price": "4,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/587598/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "4,88",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "KARDAMOM CELI BIO 40G",
+    "product-stock-status": "",
+    "title": "BIO KARDAMOM CELI, SONNENTOR, 40G",
+    "product-priceperunit": "122,00 €/kg",
+    "description": "KARDAMOM CELI BIO 40G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "12,16 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "ČIPS TORTILLA NACHO 125G",
+    "teaser-text": "ČIPS TORTILLA NACHO 125G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Intersnack d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "22,00 g",
+            "Saturated fat": "2,50 g",
+            "Total Carbohydrate": "63,00 g",
+            "kJ": "2019,00 ",
+            "Protein": "5,90 g",
+            "Salt": "1,90 g",
+            "Sugar": "4,00 g",
+            "kcal": "482,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Chio Tortilla koruzni čips, z okusom sira",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/koruzni-cips-nacho-cheese-tortillas-chio-125g/p/363659",
+    "product-insteadofprice": "1,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363659/dt_main.jpg",
+    "title": "KORUZNI ČIPS NACHO CHEESE TORTILLAS, CHIO, 125G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,52",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

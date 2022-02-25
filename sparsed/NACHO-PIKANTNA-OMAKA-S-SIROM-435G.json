@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,49",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/nacho-pikantna-omaka-s-sirom-435g/p/584415",
+    "title": "NACHO, PIKANTNA OMAKA S SIROM, 435G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "3,49",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "TINA D.O.O."
+        },
+        "product-net-cont": {
+            "neto-količina": "435g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Nacho, pikantna omaka s sirom, 435 g",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,80 g",
+            "Total Carbohydrate": "6,50 g",
+            "Saturated fat": "4,70 g",
+            "Protein": "3,40 g",
+            "Total Fat": "26,00 g",
+            "kcal": "306,00 ",
+            "Salt": "1,00 g",
+            "kJ": "1264,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GORČIČNO SEME, JAJCA (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave"
+    },
+    "product-priceperunit": "8,02 €/kg",
+    "teaser-text": "NACHO SIR 435G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "NACHO SIR 435G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/584415/dt_main.jpg",
+    "product-brand": ""
+}

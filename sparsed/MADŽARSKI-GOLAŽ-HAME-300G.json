@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,10 g",
+            "Salt": "1,30 g",
+            "Total Fat": "6,40 g",
+            "Total Carbohydrate": "6,10 g",
+            "Sugar": "2,30 g",
+            "Prehranske vlaknine": "1,00 g",
+            "kJ": "451,00 ",
+            "Protein": "6,00 g",
+            "kcal": "108,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, ZELENA."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Jed segrejemo na primerno temperaturo."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/madzarski-golaz-hame-300g/p/273458",
+    "product-price": "1,25",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/273458/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,25",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "GOLAŽ MADŽARSKI 300G",
+    "product-stock-status": "",
+    "title": "MADŽARSKI GOLAŽ HAME, 300G",
+    "product-priceperunit": "4,17 €/kg",
+    "description": "GOLAŽ MADŽARSKI 300G"
+}

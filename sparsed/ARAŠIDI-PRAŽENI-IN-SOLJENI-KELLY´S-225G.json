@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,09",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Intersnack, d.o.o., Brnčičeva ulica 29,1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "225g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "arašidi, praženi in soljeni",
+        "ingredient-information": {
+            "alergeni": "ARAŠIDI, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Majhni otroci se z oreščki lahko zadušijo."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2562,00 ",
+            "Saturated fat": "7,80 g",
+            "Prehranske vlaknine": "8,20 g",
+            "Protein": "24,40 g",
+            "Sugar": "5,20 g",
+            "Total Fat": "51,00 g",
+            "kcal": "619,00 ",
+            "Total Carbohydrate": "11,00 g",
+            "Salt": "1,00 g"
+        }
+    },
+    "product-priceperunit": "7,42 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/arasidi-prazeni-in-soljeni-kellys-225g/p/47599",
+    "product-price": "1,67",
+    "title": "ARAŠIDI PRAŽENI IN SOLJENI, KELLY´S, 225G",
+    "description": "ARAŠIDI KELLY´S 225G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/47599/dt_main.jpg",
+    "teaser-text": "ARAŠIDI KELLY´S 225G"
+}

@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "3,49",
+    "product-priceperunit": "6,98 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "FRANCOSKA SOLATA, ZVIJEZDA, 500 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,59 g",
+            "Total Carbohydrate": "5,80 g",
+            "Total Fat": "18,00 g",
+            "Protein": "1,00 g",
+            "kJ": "750,00 ",
+            "Sugar": "1,10 g",
+            "kcal": "182,00 ",
+            "Saturated fat": "2,10 g"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, GORČIČNO SEME, MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "SOLATA FRANCOSKA 500G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "3,49",
+    "teaser-text": "SOLATA FRANCOSKA 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/francoska-solata-zvijezda-500-g/p/455624",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/455624/dt_main.jpg"
+}

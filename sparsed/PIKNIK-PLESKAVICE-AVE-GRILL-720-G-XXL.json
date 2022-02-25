@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "7,49 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "PLESKAVICE XXL 720G",
+    "teaser-text": "PLESKAVICE XXL 720G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "25,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Panvita MIR d.d., Ljutomerska c. 28a, 9250 Gonja Radgona"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "17,20 g",
+            "Saturated fat": "7,20 g",
+            "Total Carbohydrate": "0,50 g",
+            "kJ": "937,00 ",
+            "Protein": "17,70 g",
+            "Salt": "1,70 g",
+            "Sugar": "0,50 g",
+            "kcal": "226,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIKNIK DVOJČEK PLESKAVICA SPAR. Presne mesnine - izdelek iz mletega mesa. Brez glutena jajc in soje.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "720g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/piknik-pleskavice-ave-grill-720-g-xxl/p/371910",
+    "product-insteadofprice": "5,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/371910/dt_main.jpg",
+    "title": "PIKNIK PLESKAVICE, AVE GRILL, 720 G, XXL",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

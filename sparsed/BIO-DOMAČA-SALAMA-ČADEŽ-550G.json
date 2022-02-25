@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "19,99",
+    "product-priceperunit": "30,89 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "BIO DOMAČA SALAMA ČADEŽ, 550G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,70 g",
+            "Total Carbohydrate": "1,10 g",
+            "Total Fat": "22,60 g",
+            "Protein": "31,80 g",
+            "kJ": "1558,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "375,00 ",
+            "Saturated fat": "9,18 g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ovoj ni užiten."
+        },
+        "opis": "Brez glutena in glukoze.",
+        "contact-information": {
+            "kontakt:": "ČADEŽ d.o.o., Visoko 7g, 4212 Visoko"
+        },
+        "ingredient-information": {
+            "sestavine": "eko ml. gov. pleče, vrat, bočnik bk, eko svinjsko pleče bočnik bk, eko sveža slanina, bio začimbe."
+        },
+        "product-net-cont": {
+            "neto-količina": "550g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "23,00 %"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "EKO DOMAČA SALAMA 550G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "16,99",
+    "teaser-text": "EKO DOMAČA SALAMA 550G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/bio-domaca-salama-cadez-550g/p/459408",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/459408/dt_main.jpg"
+}

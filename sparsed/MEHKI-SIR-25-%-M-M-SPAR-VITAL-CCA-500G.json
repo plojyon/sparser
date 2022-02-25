@@ -1,0 +1,42 @@
+{
+    "product-priceperunit": "13,40 €/kg",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL SIR MEHKI VP",
+    "teaser-text": "SPAR VITAL SIR MEHKI VP",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26,SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 890,00 mg."
+        },
+        "opis": "Mehki polmastni sir. Vsebuje 50 % do 60 % suhe snovi, najmanj 25 % maščobe v suhi snovi.",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "15,60 g",
+            "Saturated fat": "9,40 g",
+            "Total Carbohydrate": "3,10 g",
+            "kJ": "1096,00 ",
+            "Protein": "27,40 g",
+            "Salt": "1,60 g",
+            "Sugar": "0,70 g",
+            "kcal": "262,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/mehki-sir-25-m-m-spar-vital-cca-500g/p/363521",
+    "product-insteadofprice": "13,40",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363521/dt_main.jpg",
+    "title": "MEHKI SIR, 25 % M. M., SPAR VITAL, CCA. 500G",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "13,40",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,46 @@
+{
+    "product-priceperunit": "4,95 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SPAR PAŠTETA JETR.200G",
+    "teaser-text": "SPAR PAŠTETA JETR.200G",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "29,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ovitek ni užiten."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "29,00 g",
+            "Saturated fat": "10,90 g",
+            "Total Carbohydrate": "1,40 g",
+            "kJ": "1356,00 ",
+            "Protein": "15,00 g",
+            "Salt": "1,80 g",
+            "Sugar": "0,50 g",
+            "kcal": "328,00 ",
+            "Prehranske vlaknine": "0,50 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso 68,00 %, svinjska jetra 23,00 %, slanina, voda, jedilna sol, začimbe, izvlečki začimb, pražena čebula (čebula, krompirjev škrob, sončnično olje, jedilna sol), dušena čebula (glukozni sirup, voda, čebula, čebulno olje, aroma), glukoza, emulgator: mono- in digliceridi maščobnih kislin, ojačevalec arome: mononatrijev glutamat, antioksidant: askorbinska kislina, konzervans: natrijev nitrit."
+        }
+    },
+    "url": "https://www.spar.si/online/jetrna-pasteta-spar-200g/p/383993",
+    "product-insteadofprice": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/383993/dt_main.jpg",
+    "title": "JETRNA PAŠTETA SPAR, 200G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

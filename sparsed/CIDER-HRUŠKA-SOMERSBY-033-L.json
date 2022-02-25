@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "1,19",
+    "product-priceperunit": "3,61 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "CIDER, HRUŠKA, SOMERSBY, 0,33 L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "sestavine": "voda, jabolčno vino, sladkor, koncentriran jabolčni sok, limonska kislina, naravna aroma hruške, konzervans, barvilo karmin."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,33l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "4,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "TOBAČNA GROSIST, D.O.O., Cesta 24. junija 90, 1231 Ljubljana Črnuče"
+        }
+    },
+    "description": "CIDER SOMER.HRUŠKA 0,33L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,19",
+    "teaser-text": "CIDER SOMER.HRUŠKA 0,33L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cider-hruska-somersby-033-l/p/490877",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/490877/dt_main.jpg"
+}

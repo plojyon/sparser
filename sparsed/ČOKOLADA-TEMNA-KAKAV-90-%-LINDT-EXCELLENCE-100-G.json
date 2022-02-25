@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "23,90 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČOK.LINDT 90%KAKAV 100G",
+    "teaser-text": "ČOK.LINDT 90%KAKAV 100G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sledove lešnikov, mandljev, sojinega lecitina, mleka."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "30,00 g",
+            "Saturated fat": "14,00 g",
+            "Total Carbohydrate": "14,00 g",
+            "kJ": "2483,00 ",
+            "Protein": "10,00 g",
+            "Salt": "0,03 g",
+            "Sugar": "7,00 g",
+            "kcal": "592,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Izjemno fina temna čokolada z 90% deležem kakava",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/cokolada-temna-kakav-90-lindt-excellence-100-g/p/374679",
+    "product-insteadofprice": "2,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/374679/dt_main.jpg",
+    "title": "ČOKOLADA TEMNA, KAKAV, 90 %, LINDT EXCELLENCE, 100 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

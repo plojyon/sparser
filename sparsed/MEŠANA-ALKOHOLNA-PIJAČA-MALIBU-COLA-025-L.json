@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "7,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MEŠANA ALKOHOLNA PIJAČA, MALIBU COLA, 0,25 L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Mešana alkoholna pijača, ki vsebuje rum Malibu in brezalkoholno pijačo.",
+        "ingredient-information": {
+            "sestavine": "fosforna kislina e338, konzervans e211, kofein."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Pernod Ricard Slovenija d.o.o., Vurnikova 2, 1000 Ljubljana"
+        }
+    },
+    "description": "ALK.P. MALIBU COLA 0,25L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "ALK.P. MALIBU COLA 0,25L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/mesana-alkoholna-pijaca-malibu-cola-025-l/p/493591",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/493591/dt_main.jpg"
+}

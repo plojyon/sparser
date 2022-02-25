@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ROGLJIČKI EMINI 270 G",
+    "description": "ROGLJIČKI EMINI 270 G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "270g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2300,00 ",
+            "Salt": "0,18 g",
+            "Sugar": "19,00 g",
+            "Total Carbohydrate": "57,00 g",
+            "Total Fat": "33,00 g",
+            "kcal": "551,00 ",
+            "Saturated fat": "16,00 g",
+            "Protein": "7,90 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, OREHI."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.d., Šmartinska c. 154, 1529 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "BABIČINI PIŠKOTI, EMINI ROGLJIČKI, ŽITO, 270 G",
+    "url": "https://www.spar.si/online/babicini-piskoti-emini-rogljicki-zito-270-g/p/421494",
+    "isOnPromotion": "false",
+    "product-priceperunit": "18,70 €/kg",
+    "product-insteadofprice": "5,05",
+    "product-stock-status": "",
+    "product-price": "5,05",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/421494/dt_main.jpg"
+}

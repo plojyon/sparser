@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,35",
+    "product-priceperunit": "10,71 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIŠKOTI, MLEČNA ČOKOLADA IN ŽITA, CHOCO GRAINS, MILKA, 126 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "FINI PEKOVSKI IZDELKI. KEKSI IZ OVSENIH KOSMIČEV IN POLNOZRNATE MOKE OBLITI Z MLEČNO ČOKOLADO Z ALPSKIM MLEKOM (25%) .",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, SEZAM."
+        },
+        "product-net-cont": {
+            "neto-količina": "126g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,78 g",
+            "Total Carbohydrate": "60,00 g",
+            "Total Fat": "24,00 g",
+            "Protein": "8,00 g",
+            "kJ": "2100,00 ",
+            "Sugar": "30,00 g",
+            "kcal": "500,00 ",
+            "Saturated fat": "12,00 g"
+        }
+    },
+    "description": "KEKSI MILKA GRAIN.126G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,35",
+    "teaser-text": "KEKSI MILKA GRAIN.126G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/piskoti-mlecna-cokolada-in-zita-choco-grains-milka-126-g/p/491776",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491776/dt_main.jpg"
+}

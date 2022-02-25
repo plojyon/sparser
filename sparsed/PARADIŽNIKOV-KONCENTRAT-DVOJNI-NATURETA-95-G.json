@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PARADIŽNIK.KONCET.95G",
+    "description": "PARADIŽNIK.KONCET.95G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dvojni paradižnikov koncentrat",
+        "ingredient-information": {
+            "sestavine": "paradižnikov koncentrat, citronska kislina."
+        },
+        "base-information": {
+            "neto-količina-plod:": "95G"
+        },
+        "product-net-cont": {
+            "neto-količina": "95g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "423,00 ",
+            "Salt": "0,65 g",
+            "Sugar": "13,40 g",
+            "Total Carbohydrate": "16,80 g",
+            "Total Fat": "0,40 g",
+            "kcal": "100,00 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "4,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "PARADIŽNIKOV KONCENTRAT, DVOJNI, NATURETA, 95 G",
+    "url": "https://www.spar.si/online/paradiznikov-koncentrat-dvojni-natureta-95-g/p/399181",
+    "isOnPromotion": "false",
+    "product-priceperunit": "7,37 €/kg",
+    "product-insteadofprice": "0,70",
+    "product-stock-status": "",
+    "product-price": "0,70",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/399181/dt_main.jpg"
+}

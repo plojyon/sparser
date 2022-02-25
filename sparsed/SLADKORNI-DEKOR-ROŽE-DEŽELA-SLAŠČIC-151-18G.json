@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "4,15",
+    "product-priceperunit": "4,15 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLADKORNI DEKOR ROŽE, DEŽELA SLAŠČIC, 15/1, 18G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "G"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SLADKORNI DEKOR ROŽE, DEŽELA SLAŠČIC, 15/1, 18G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "security-warning": {
+            "varnostna-opozorila": "Lahko škodljivo vpliva na aktivnost in pozornost otrok."
+        },
+        "contact-information": {
+            "kontakt:": "TIP TRADE, d.o.o., Kosovelova cesta 2, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "alergeni": "JAJCA, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,04 g",
+            "Total Carbohydrate": "97,50 g",
+            "Total Fat": "0,00 g",
+            "Protein": "1,56 g",
+            "kJ": "1684,00 ",
+            "Sugar": "97,20 g",
+            "kcal": "396,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DEKOR ROŽE MEŠANI",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,15",
+    "teaser-text": "DEKOR ROŽE MEŠANI",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sladkorni-dekor-roze-dezela-slascic-151-18g/p/492689",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/492689/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "0,80",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-jogurt-blag-stracciatella-andechser-150g/p/601916",
+    "title": "BIO JOGURT BLAG STRACCIATELLA, ANDECHSER, 150G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,80",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor"
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "JOGURT BIO STRACCIATELLA 150 G",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "12,80 g",
+            "Total Carbohydrate": "13,40 g",
+            "Saturated fat": "3,00 g",
+            "Protein": "4,10 g",
+            "Total Fat": "4,60 g",
+            "kcal": "112,00 ",
+            "Salt": "0,15 g",
+            "kJ": "469,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "5,33 €/kg",
+    "teaser-text": "JOGURT BIO 150G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "JOGURT BIO 150G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/601916/dt_main.jpg",
+    "product-brand": ""
+}

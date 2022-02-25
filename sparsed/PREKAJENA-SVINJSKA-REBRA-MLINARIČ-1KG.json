@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,40 g",
+            "Total Fat": "14,00 g",
+            "Total Carbohydrate": "0,70 g",
+            "Sugar": "0,00 g",
+            "Salt": "2,40 g",
+            "kJ": "860,00 ",
+            "Protein": "19,00 g",
+            "kcal": "206,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Prekajena svinjska rebra",
+        "contact-information": {
+            "kontakt:": "Mesarija Mlinarič, d.o.o., Lesce, Železniška ulica 1, 4248 Lesce"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjska rebra, voda, sol, začimbe."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "14,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/prekajena-svinjska-rebra-mlinaric-1kg/p/251482",
+    "product-price": "12,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/251482/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "12,39",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "REBRA SUHA MLINARIČ BK",
+    "product-stock-status": "",
+    "title": "PREKAJENA SVINJSKA REBRA, MLINARIČ, 1KG",
+    "product-priceperunit": "12,39 €/kg",
+    "description": "REBRA SUHA MLINARIČ BK"
+}

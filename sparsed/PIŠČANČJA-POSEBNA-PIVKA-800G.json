@@ -1,0 +1,50 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "4,89",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ovitek ni užiten."
+        },
+        "opis": "Barjena klobasa iz piščančjega mesa. Zajamčeno brez svinjskega in govejega mesa.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Pivka d.d., Kal 1, 6257 Pivka"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Selen 15,00 mikrogr."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PIVKA Piščančja posebna 800g  IK",
+        "ingredient-information": {
+            "sestavine": "strojno izkoščeno piščančje meso 81,00 %, voda 15,17 %, mešanica začimb in aditivov 3,83 %."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "20,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "886,00 ",
+            "Saturated fat": "4,90 g",
+            "Protein": "13,20 g",
+            "Sugar": "0,30 g",
+            "Total Fat": "16,80 g",
+            "kcal": "212,00 ",
+            "Total Carbohydrate": "2,50 g",
+            "Salt": "1,80 g"
+        }
+    },
+    "product-priceperunit": "6,11 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancja-posebna-pivka-800g/p/367856",
+    "product-price": "4,89",
+    "title": "PIŠČANČJA POSEBNA, PIVKA, 800G",
+    "description": "POSEBNA PIŠČANČJA 800G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/367856/dt_main.jpg",
+    "teaser-text": "POSEBNA PIŠČANČJA 800G"
+}

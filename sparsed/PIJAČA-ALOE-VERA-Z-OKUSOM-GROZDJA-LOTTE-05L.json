@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "NAPITEK ALOE VERA 0,5L",
+    "description": "NAPITEK ALOE VERA 0,5L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, aloe vera 24% (aloe vera gel, aloe vera gel v prahu), sladkor, grozdni sok iz zgoščenega soka 0,5%, sredstva za uravnavanje kislosti: citronska kislina, kalcijev laktat, natrijev citrat, aroma grozdja, antioksidant: askorbinska kislina, želirno sredstvo: gelanski gumi."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "155,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "8,80 g",
+            "Total Carbohydrate": "8,80 g",
+            "Total Fat": "0,00 g",
+            "kcal": "37,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "BCA d.o.o., Hribernikova ulica 2, 1000 Ljubljana"
+        }
+    },
+    "title": "PIJAČA ALOE VERA Z OKUSOM GROZDJA, LOTTE, 0,5L",
+    "url": "https://www.spar.si/online/pijaca-aloe-vera-z-okusom-grozdja-lotte-05l/p/418017",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,44 €/l",
+    "product-insteadofprice": "1,22",
+    "product-stock-status": "",
+    "product-price": "1,22",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/418017/dt_main.jpg"
+}

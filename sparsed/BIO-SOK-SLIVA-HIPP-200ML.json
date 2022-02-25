@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "0,05 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "10,90 g",
+            "Sugar": "10,50 g",
+            "Prehranske vlaknine": "0,30 g",
+            "kJ": "188,00 ",
+            "Protein": "0,00 g",
+            "kcal": "44,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "NAPITEK ZA OTROKE Z SLIVO",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "sestavine": "sok sliv 71,50 %, voda, sladkor 9,00 %."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/bio-sok-sliva-hipp-200ml/p/138606",
+    "product-price": "1,28",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/138606/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "1,28",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "NAPITEK SLIVOV 200ML HIP",
+    "product-stock-status": "",
+    "title": "BIO SOK SLIVA, HIPP, 200ML",
+    "product-priceperunit": "6,40 €/l",
+    "description": "NAPITEK SLIVOV 200ML HIP"
+}

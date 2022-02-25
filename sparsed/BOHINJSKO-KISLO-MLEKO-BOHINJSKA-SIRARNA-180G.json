@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,54",
+    "product-priceperunit": "3,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "BOHINJSKO KISLO MLEKO, BOHINJSKA SIRARNA, 180G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "4,50 g",
+            "Total Fat": "3,20 g",
+            "Protein": "3,50 g",
+            "kJ": "259,00 ",
+            "Sugar": "4,50 g",
+            "kcal": "62,00 ",
+            "Saturated fat": "2,20 g"
+        },
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "contact-information": {
+            "kontakt:": "BOHINJSKA SIRARNA d.o.o., Srednja vas 114, 4267 Srednja vas v Bohinju"
+        }
+    },
+    "description": "MLEKO KISLO BOHINJS 180G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,54",
+    "teaser-text": "MLEKO KISLO BOHINJS 180G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bohinjsko-kislo-mleko-bohinjska-sirarna-180g/p/443630",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/443630/dt_main.jpg"
+}

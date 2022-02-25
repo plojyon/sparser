@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "10,95 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "SIR MOZZARELLA 200G",
+    "teaser-text": "SIR MOZZARELLA 200G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "18,00 g",
+            "Saturated fat": "11,20 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "972,00 ",
+            "Protein": "17,00 g",
+            "Salt": "0,30 g",
+            "Sugar": "1,00 g",
+            "kcal": "234,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU CUISINE MOZZARELLA GRANDE NAPOLI 200G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/sir-mozzarella-grande-napoli-mu-cuisine-200g/p/369476",
+    "product-insteadofprice": "2,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/369476/dt_main.jpg",
+    "title": "SIR MOZZARELLA GRANDE NAPOLI, MU CUISINE, 200G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

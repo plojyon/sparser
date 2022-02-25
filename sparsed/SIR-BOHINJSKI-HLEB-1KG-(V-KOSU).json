@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "Sir Bohinjski hleb",
+    "description": "Sir Bohinjski hleb",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1563,00 ",
+            "Salt": "0,63 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "1,80 g",
+            "Total Fat": "28,10 g",
+            "kcal": "376,00 ",
+            "Saturated fat": "17,78 g",
+            "Protein": "29,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "BOHINJSKA SIRARNA d.o.o., Srednja vas 114, 4267 Srednja vas v Bohinju"
+        }
+    },
+    "title": "SIR BOHINJSKI HLEB, 1KG, (V KOSU)",
+    "url": "https://www.spar.si/online/sir-bohinjski-hleb-1kg-v-kosu/p/422992",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,33 €/kg",
+    "product-insteadofprice": "19,33",
+    "product-stock-status": "",
+    "product-price": "19,33",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/422992/dt_main.jpg"
+}

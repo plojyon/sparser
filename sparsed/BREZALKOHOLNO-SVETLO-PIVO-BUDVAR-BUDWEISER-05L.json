@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/brezalkoholno-svetlo-pivo-budvar-budweiser-05l/p/532987",
+    "title": "BREZALKOHOLNO SVETLO PIVO BUDVAR, BUDWEISER, 0,5L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,69",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "0,50 vol. %"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,60 g",
+            "Total Carbohydrate": "3,10 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "65,00 ",
+            "Salt": "0,20 g",
+            "kJ": "0,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Tobačna Grosist, d.o.o., Cesta 24. junija 90, 1231 LJUBLJANA-ČRNUČE"
+        }
+    },
+    "product-priceperunit": "1,38 €/l",
+    "teaser-text": "PIVO BREZ.BUDWEISER 0,5L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PIVO BREZ.BUDWEISER 0,5L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/532987/dt_main.jpg",
+    "product-brand": ""
+}

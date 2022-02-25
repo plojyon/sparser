@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-insteadofprice": "1,09",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Namaz s papriko",
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "588,00 ",
+            "Saturated fat": "1,30 g",
+            "Prehranske vlaknine": "2,70 g",
+            "Protein": "1,90 g",
+            "Sugar": "5,20 g",
+            "Total Fat": "12,00 g",
+            "kcal": "142,00 ",
+            "Total Carbohydrate": "5,80 g",
+            "Salt": "1,20 g"
+        }
+    },
+    "product-priceperunit": "3,30 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/namaz-s-papriko-spar-330g/p/253534",
+    "product-price": "1,09",
+    "title": "NAMAZ S PAPRIKO, SPAR, 330G",
+    "description": "SPAR NAMAZ S PAPRI.330G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/253534/dt_main.jpg",
+    "teaser-text": "SPAR NAMAZ S PAPRI.330G"
+}

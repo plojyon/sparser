@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "1,98",
+    "product-priceperunit": "2,64 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO JABOLČNI KIS, SORTE TOPAZ, PAVLIČ, 750ML",
+    "product-stock-status": "",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ekološka kmetija Viktor Pavlič, Zdole 51, 8272 Zdole"
+        },
+        "ingredient-information": {
+            "sestavine": "bio jabolka topaz 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "KIS JABOLČNI BIO 750ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,98",
+    "teaser-text": "KIS JABOLČNI BIO 750ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-jabolcni-kis-sorte-topaz-pavlic-750ml/p/473707",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/473707/dt_main.jpg"
+}

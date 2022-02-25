@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "0,99 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "LEDENA KAVA, S-BUDGET, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresi!"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "LEDENA KAVA NA DUNAJSKI NAČIN. Mlečni mešani napitek iz mleka s 3,6% maščobe, z okusom kave. Segreto na ultra visoki temperaturi (UVT).",
+        "opis": "Nasvet: uživajte ohlajeno.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "7,80 g",
+            "Total Fat": "1,80 g",
+            "Protein": "1,70 g",
+            "kJ": "228,00 ",
+            "Sugar": "7,80 g",
+            "kcal": "54,00 ",
+            "Saturated fat": "1,10 g"
+        }
+    },
+    "description": "SB LEDENA KAVA 1L",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "SB LEDENA KAVA 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ledena-kava-s-budget-1l/p/452186",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452186/dt_main.jpg"
+}

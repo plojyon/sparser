@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "6,69",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj, d.d., Potrčeva cesta 10, 2250 Ptuj"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "piščančji file."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "2,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "470,00 ",
+            "Saturated fat": "0,60 g",
+            "Protein": "24,00 g",
+            "Sugar": "0,00 g",
+            "Total Fat": "2,00 g",
+            "kcal": "182,00 ",
+            "Total Carbohydrate": "0,00 g",
+            "Salt": "0,15 g"
+        }
+    },
+    "product-priceperunit": "10,04 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancji-file-natur-premium-perutnina-ptuj-500g/p/491544",
+    "product-price": "5,02",
+    "title": "PIŠČANČJI FILE NATUR PREMIUM, PERUTNINA PTUJ, 500G",
+    "description": "FILE PIŠČ.NATUR PRE.IK",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491544/dt_main.jpg",
+    "teaser-text": "FILE PIŠČ.NATUR PRE.IK"
+}

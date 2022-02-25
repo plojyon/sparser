@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "14,60 g",
+            "Total Fat": "31,60 g",
+            "Total Carbohydrate": "54,50 g",
+            "Sugar": "50,60 g",
+            "Salt": "0,13 g",
+            "kJ": "2246,00 ",
+            "Protein": "8,70 g",
+            "kcal": "537,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "20g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/cokoladni-jajcek-kinder-joy-ferrero-20g/p/216930",
+    "product-price": "1,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/216930/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,09",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČOK.JAJ.KINDER JOY 20G",
+    "product-stock-status": "",
+    "title": "ČOKOLADNI JAJČEK KINDER JOY, FERRERO, 20G",
+    "product-priceperunit": "54,50 €/kg",
+    "description": "ČOK.JAJ.KINDER JOY 20G"
+}

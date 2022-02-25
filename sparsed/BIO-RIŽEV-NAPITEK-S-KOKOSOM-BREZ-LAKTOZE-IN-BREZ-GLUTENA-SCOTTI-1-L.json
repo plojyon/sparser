@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "2,25",
+    "product-priceperunit": "2,25 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO RIŽEV NAPITEK S KOKOSOM, BREZ LAKTOZE IN BREZ GLUTENA, SCOTTI, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "13,00 g",
+            "Prehranske vlaknine": "0,80 g",
+            "Total Fat": "1,10 g",
+            "Protein": "0,60 g",
+            "kJ": "278,00 ",
+            "Sugar": "8,50 g",
+            "kcal": "66,00 ",
+            "Saturated fat": "0,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana, Slovenija"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, riž 16,00 %, kokosova moka 1,00 %, riževo olje, stabilizator (karagenan, ksantan gumi), naravne arome, jedilna sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "NAPITEK RIŽEV S KOKOS.1L",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "2,25",
+    "teaser-text": "NAPITEK RIŽEV S KOKOS.1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-rizev-napitek-s-kokosom-brez-laktoze-in-brez-glutena-scotti-1-l/p/513390",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513390/dt_main.jpg"
+}

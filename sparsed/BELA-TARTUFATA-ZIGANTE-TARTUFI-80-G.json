@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "9,99",
+    "product-priceperunit": "124,88 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BELA TARTUFATA, ZIGANTE TARTUFI, 80 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,90 g",
+            "Total Carbohydrate": "6,00 g",
+            "Total Fat": "22,00 g",
+            "Protein": "4,10 g",
+            "kJ": "1005,00 ",
+            "Sugar": "0,20 g",
+            "kcal": "240,00 ",
+            "Saturated fat": "15,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "contact-information": {
+            "kontakt:": "Zigante tartufi d.o.o., Vanganelska cesta 8, SI - 6000 Koper, Tel: +386 56251190"
+        }
+    },
+    "description": "BELA TARTUFATA 80G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "9,99",
+    "teaser-text": "BELA TARTUFATA 80G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bela-tartufata-zigante-tartufi-80-g/p/446606",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446606/dt_main.jpg"
+}

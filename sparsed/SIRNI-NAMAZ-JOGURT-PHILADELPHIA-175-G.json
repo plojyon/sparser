@@ -1,0 +1,39 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,34",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "175g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "673,00 ",
+            "Saturated fat": "7,90 g",
+            "Prehranske vlaknine": "0,40 g",
+            "Protein": "7,30 g",
+            "Sugar": "5,00 g",
+            "Total Fat": "12,00 g",
+            "kcal": "162,00 ",
+            "Total Carbohydrate": "5,00 g",
+            "Salt": "0,78 g"
+        },
+        "contact-information": {
+            "kontakt:": "Benytrade d.o.o., Tržaška cesta 43, 2000 Maribor, Slovenija"
+        }
+    },
+    "product-priceperunit": "13,37 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sirni-namaz-jogurt-philadelphia-175-g/p/368896",
+    "product-price": "2,34",
+    "title": "SIRNI NAMAZ, JOGURT, PHILADELPHIA, 175 G",
+    "description": "NAMAZ PHILADELP JOG 175G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368896/dt_main.jpg",
+    "teaser-text": "NAMAZ PHILADELP JOG 175G"
+}

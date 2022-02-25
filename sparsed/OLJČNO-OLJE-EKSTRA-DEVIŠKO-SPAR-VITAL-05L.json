@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "11,18 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR VITAL OLJČNO OLJE",
+    "teaser-text": "SPAR VITAL OLJČNO OLJE",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 26,50 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "100,00 g",
+            "Saturated fat": "15,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "3700,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "ekstra deviško oljčno olje 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/oljcno-olje-ekstra-devisko-spar-vital-05l/p/363496",
+    "product-insteadofprice": "5,59",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363496/dt_main.jpg",
+    "title": "OLJČNO OLJE EKSTRA DEVIŠKO, SPAR VITAL, 0,5L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,59",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

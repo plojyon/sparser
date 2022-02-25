@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,89",
+    "product-priceperunit": "1,89 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "100% SOK POMARANČA BREZ DELCEV, SUPERIOR, FRUCTAL, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "10,00 g",
+            "Prehranske vlaknine": "0,30 g",
+            "Total Fat": "0,10 g",
+            "Protein": "0,70 g",
+            "kJ": "195,00 ",
+            "Sugar": "8,80 g",
+            "kcal": "46,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "pomarančni sok iz zgoščenega sadnega soka 100,00 %."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresite"
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "SOK POMARANČA SUP.1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,89",
+    "teaser-text": "SOK POMARANČA SUP.1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/100-sok-pomaranca-brez-delcev-superior-fructal-1l/p/452257",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452257/dt_main.jpg"
+}

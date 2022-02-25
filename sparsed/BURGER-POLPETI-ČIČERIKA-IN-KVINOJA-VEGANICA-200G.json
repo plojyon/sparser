@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/burger-polpeti-cicerika-in-kvinoja-veganica-200g/p/561759",
+    "title": "BURGER POLPETI ČIČERIKA IN KVINOJA, VEGANICA, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "contact-information": {
+            "kontakt:": "K-NORMA, proizvodnja živil, d.o.o."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,02 g",
+            "Total Carbohydrate": "15,50 g",
+            "Prehranske vlaknine": "1,90 g",
+            "Saturated fat": "0,20 g",
+            "Protein": "4,10 g",
+            "Total Fat": "1,60 g",
+            "kcal": "89,00 ",
+            "Salt": "0,90 g",
+            "kJ": "409,00 "
+        }
+    },
+    "product-priceperunit": "14,95 €/kg",
+    "teaser-text": "BURGER PATTY 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BURGER PATTY 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/561759/dt_main.jpg",
+    "product-brand": ""
+}

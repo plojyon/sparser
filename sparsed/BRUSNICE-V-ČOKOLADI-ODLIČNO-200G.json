@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "2,28",
+    "product-priceperunit": "11,40 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BRUSNICE V ČOKOLADI ODLIČNO, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Za neposredno uporabo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mešani čokoladni bonboni z brusnicami 200 g Odlično",
+        "contact-information": {
+            "kontakt:": "Hrib d.o.o, Večje Brdo 8, 3224 Dobje pri Planini, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,50 g",
+            "Total Carbohydrate": "65,90 g",
+            "Total Fat": "19,60 g",
+            "Protein": "3,40 g",
+            "kJ": "1887,00 ",
+            "Sugar": "60,60 g",
+            "kcal": "450,70 ",
+            "Saturated fat": "11,90 g"
+        }
+    },
+    "description": "BRUSNICE V ČOK.ODL.200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,28",
+    "teaser-text": "BRUSNICE V ČOK.ODL.200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/brusnice-v-cokoladi-odlicno-200g/p/487521",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/487521/dt_main.jpg"
+}

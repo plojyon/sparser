@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "1,55",
+    "product-priceperunit": "3,10 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RDEČA LEČA DESPAR, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vzamemo ca. 70 g leče na osebo in jo splaknemo z mrzlo vodo. Namakanje ni potrebno. Lečo damo v posodo z vodo (pol litra vode na 100 g leče). Zavremo in kuhamo pri majhnem ognju ca. 25-30 minut. Sol dodamo, ko je leča skoraj kuhana in jo nato odcedimo. V posodi za hitro kuhanje kuhamo ca. 15 minut. Navedeni časi kuhanja so približni."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RDEČA LEČA",
+        "opis": "Sušena rdeča leča.Povprečna hranilna vrednost na 100g:- Energijska vrednost: 1407 kJ/ 333 kcal- Maščobe: 1,6 g- Od tega nasičene maščobe: 0,3g- Ogljikovi hidrati: 49g- Od tega sladkorji: 1,1g- Prehranske vlaknine: 12g- Beljakovine: 25g- Sol: 0,03g",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "49,00 g",
+            "Prehranske vlaknine": "12,00 g",
+            "Total Fat": "1,60 g",
+            "Protein": "25,00 g",
+            "kJ": "1407,00 ",
+            "Sugar": "1,10 g",
+            "kcal": "333,00 ",
+            "Saturated fat": "0,30 g"
+        }
+    },
+    "description": "DESPAR LEČA RDEČA 500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,55",
+    "teaser-text": "DESPAR LEČA RDEČA 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rdeca-leca-despar-500g/p/489479",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/489479/dt_main.jpg"
+}

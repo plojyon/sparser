@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "6,68",
+    "product-priceperunit": "13,36 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "100% OLJE OLJNE OGRŠČICE, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Hladno stiskano olje.",
+        "ingredient-information": {
+            "sestavine": "olje oljne ogrščice."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "7,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Ahac d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "OLJE OLJNE OGRŠČICE 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,68",
+    "teaser-text": "OLJE OLJNE OGRŠČICE 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/100-olje-oljne-ogrscice-05l/p/468963",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/468963/dt_main.jpg"
+}

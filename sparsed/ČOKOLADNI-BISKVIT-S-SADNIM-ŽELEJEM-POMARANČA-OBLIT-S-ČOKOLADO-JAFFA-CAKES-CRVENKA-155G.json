@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "0,98",
+    "product-priceperunit": "6,32 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČOKOLADNI BISKVIT S SADNIM ŽELEJEM POMARANČA OBLIT S ČOKOLADO, JAFFA CAKES, CRVENKA, 155G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,30 g",
+            "Total Carbohydrate": "67,00 g",
+            "Prehranske vlaknine": "3,10 g",
+            "Total Fat": "8,00 g",
+            "Protein": "4,70 g",
+            "kJ": "1540,00 ",
+            "Sugar": "45,00 g",
+            "kcal": "365,00 ",
+            "Saturated fat": "4,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "155g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "BISK.JAFFA CH.POM.155G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,98",
+    "teaser-text": "BISK.JAFFA CH.POM.155G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cokoladni-biskvit-s-sadnim-zelejem-pomaranca-oblit-s-cokolado-jaffa-cakes-crvenka-155g/p/469432",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/469432/dt_main.jpg"
+}

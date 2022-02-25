@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,40 g",
+            "Total Fat": "4,00 g",
+            "Total Carbohydrate": "1,00 g",
+            "Sugar": "0,50 g",
+            "Salt": "2,00 g",
+            "kJ": "471,00 ",
+            "Protein": "19,00 g",
+            "kcal": "112,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Kras d.o.o., Šepulje 31, 6210 Sežana"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko meso i. kategorije 80,00 %, voda, nejodirana morska sol, dekstroza, natrijev askorbat, naravne arome, konzervans."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "4,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/prsut-kuhan-extra-kras-1kg/p/261026",
+    "product-price": "18,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/261026/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "18,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "PRŠUT KUHAN EXT.1/2 BK",
+    "product-stock-status": "",
+    "title": "PRŠUT KUHAN EXTRA, KRAS, 1KG",
+    "product-priceperunit": "18,99 €/kg",
+    "description": "PRŠUT KUHAN EXT.1/2 BK"
+}

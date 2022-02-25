@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "15,92 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "title": "NAMAZ IZ ČIČERIKE CURRY IN MANGO, SPAR VEGGIE BY NENI, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,10 g",
+            "Total Carbohydrate": "8,70 g",
+            "Prehranske vlaknine": "7,50 g",
+            "Total Fat": "12,00 g",
+            "Protein": "8,70 g",
+            "kJ": "785,00 ",
+            "Sugar": "3,30 g",
+            "kcal": "189,00 ",
+            "Saturated fat": "2,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Namaz iz čičerike s curryem in mangom.",
+        "ingredient-information": {
+            "alergeni": "SEZAM, ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "product-badges": {
+            "certifikati": "Vegan"
+        }
+    },
+    "description": "VEGGIE HUM.CUR.MAN.125G",
+    "product-promotionBadges": "Vegan",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "VEGGIE HUM.CUR.MAN.125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/namaz-iz-cicerike-curry-in-mango-spar-veggie-by-neni-125g/p/502080",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502080/dt_main.jpg"
+}

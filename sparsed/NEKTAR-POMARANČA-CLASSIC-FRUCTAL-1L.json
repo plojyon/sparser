@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "1,18",
+    "product-priceperunit": "1,18 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NEKTAR POMARANČA CLASSIC, FRUCTAL, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "11,20 g",
+            "Prehranske vlaknine": "0,20 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,30 g",
+            "kJ": "200,00 ",
+            "Sugar": "10,00 g",
+            "kcal": "47,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "sestavine": "pomarančni sok iz zgoščenega soka 50,00 %, voda, sladkor, glukozno-fruktozni sirup, kislina (citronska kislina), antioksidant (askorbinska kislina)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        }
+    },
+    "description": "NEKTAR POMARANČA CL.1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,18",
+    "teaser-text": "NEKTAR POMARANČA CL.1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/nektar-pomaranca-classic-fructal-1l/p/466091",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/466091/dt_main.jpg"
+}

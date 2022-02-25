@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BONBONI ŽELE KRAŠ 200G",
+    "description": "BONBONI ŽELE KRAŠ 200G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Žele izdelki.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1313,00 ",
+            "Salt": "0,24 g",
+            "Sugar": "61,00 g",
+            "Total Carbohydrate": "77,90 g",
+            "Total Fat": "0,00 g",
+            "kcal": "314,00 ",
+            "Prehranske vlaknine": "1,10 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        }
+    },
+    "title": "ŽELE BONBONI, KRAŠ, 200G",
+    "url": "https://www.spar.si/online/zele-bonboni-kras-200g/p/393372",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,85 €/kg",
+    "product-insteadofprice": "1,77",
+    "product-stock-status": "",
+    "product-price": "1,77",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/393372/dt_main.jpg"
+}

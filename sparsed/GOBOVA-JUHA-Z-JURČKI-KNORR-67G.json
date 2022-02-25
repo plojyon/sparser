@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "JUHA GOBOVA Z JURČKI 67G",
+    "description": "JUHA GOBOVA Z JURČKI 67G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GOBOVA JUHA Z JURČKI, KNORR, 67 G",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, JAJCA (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "67g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "101,00 ",
+            "Salt": "0,88 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "4,00 g",
+            "Total Fat": "0,60 g",
+            "kcal": "24,00 ",
+            "Saturated fat": "0,30 g",
+            "Protein": "0,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "GOBOVA JUHA Z JURČKI, KNORR, 67G",
+    "url": "https://www.spar.si/online/gobova-juha-z-jurcki-knorr-67g/p/415239",
+    "isOnPromotion": "false",
+    "product-priceperunit": "19,25 €/kg",
+    "product-insteadofprice": "1,29",
+    "product-stock-status": "",
+    "product-price": "1,29",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/415239/dt_main.jpg"
+}

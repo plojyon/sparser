@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,88",
+    "product-priceperunit": "2,15 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GRAH VALFRUTTA, 410G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "270G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "Conserve Italia Soc. coop. Agricola, Via Paolo Poggi, 11- S. Lazzaro di Savena (BO) - Italia"
+        },
+        "ingredient-information": {
+            "sestavine": "grah, voda, sladkor, jedilna sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "410g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "7,60 g",
+            "Total Fat": "0,90 g",
+            "Protein": "4,90 g",
+            "kJ": "301,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "72,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "GRAH VALFRUTTA 410G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,88",
+    "teaser-text": "GRAH VALFRUTTA 410G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/grah-valfrutta-410g/p/46771",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/46771/dt_main.jpg"
+}

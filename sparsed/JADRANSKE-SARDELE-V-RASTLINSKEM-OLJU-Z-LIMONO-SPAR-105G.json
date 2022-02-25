@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "0,88",
+    "product-priceperunit": "8,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "JADRANSKE SARDELE V RASTLINSKEM OLJU Z LIMONO, SPAR, 105G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "74G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SARDELE V RASTLINSKEM (SOJINEM) OLJU Z LIMONO SPAR, 105 G",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE, SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "105g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Sardina pilchardus"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,69 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "14,30 g",
+            "Protein": "20,50 g",
+            "kJ": "878,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "211,00 ",
+            "Saturated fat": "3,40 g"
+        }
+    },
+    "description": "SPAR SARDELE Z LIM.105G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,88",
+    "teaser-text": "SPAR SARDELE Z LIM.105G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jadranske-sardele-v-rastlinskem-olju-z-limono-spar-105g/p/471548",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471548/dt_main.jpg"
+}

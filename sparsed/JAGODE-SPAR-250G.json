@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "teaser-text": "SPAR JAGODE 250G",
+    "description": "SPAR JAGODE 250G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Zamrznjeno sadje damo v posodo in ga pri sobni temperaturi tajamo ca. 2,5 uri. Po želji osladimo s sladkorjem, sladilom ali medom."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR Jagode, hitro zmrznjene",
+        "opis": "Brez dodanih sladkorjev. Vsebuje naravno prisotne sladkorje.",
+        "ingredient-information": {
+            "sestavine": "jagode."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "140,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "4,20 g",
+            "Total Carbohydrate": "4,70 g",
+            "Total Fat": "0,50 g",
+            "kcal": "33,00 ",
+            "Prehranske vlaknine": "2,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "1,50 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek"
+    },
+    "title": "JAGODE SPAR, 250G",
+    "url": "https://www.spar.si/online/jagode-spar-250g/p/413860",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,96 €/kg",
+    "product-insteadofprice": "0,99",
+    "product-stock-status": "",
+    "product-price": "0,99",
+    "product-brand": "",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/413860/dt_main.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/brezalkoholno-temno-pivo-kozel-4x05l/p/603591",
+    "title": "BREZALKOHOLNO TEMNO PIVO, KOZEL, 4X0,5L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,99",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "0,50 vol. %"
+        },
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,80 g",
+            "Total Carbohydrate": "5,40 g",
+            "Protein": "0,50 g",
+            "kcal": "23,00 ",
+            "Salt": "0,00 g",
+            "kJ": "95,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BREZALKOHOLNO TEMNO PIVO",
+        "contact-information": {
+            "kontakt:": "PETLJA D.O.O."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "base-information": {
+            "neto-količina-plod:": "500ML"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "1,50 €/l",
+    "teaser-text": "PIVO KOZEL BREZAL.4X0,5L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "PIVO KOZEL BREZAL.4X0,5L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/603591/dt_main.jpg",
+    "product-brand": ""
+}

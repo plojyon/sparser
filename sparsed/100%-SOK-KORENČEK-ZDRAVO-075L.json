@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-priceperunit": "3,19 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "100% SOK KORENČEK ZDRAVO, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        },
+        "opis": "Izdelek ni izdelan iz zgoščenih sokov.",
+        "ingredient-information": {
+            "sestavine": "korenčkova kaša max. 50 %, iztisnjen jabolčni sok min. 50 %, sredstvo za uravnavanje kislosti citronska kislina, antioksidant askorbinska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,12 g",
+            "Total Carbohydrate": "9,18 g",
+            "Total Fat": "0,11 g",
+            "Protein": "0,39 g",
+            "kJ": "167,00 ",
+            "Sugar": "8,89 g",
+            "kcal": "39,00 ",
+            "Saturated fat": "0,05 g"
+        }
+    },
+    "description": "SOK KOREN.100% 0,75L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,39",
+    "teaser-text": "SOK KOREN.100% 0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/100-sok-korencek-zdravo-075l/p/457489",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/457489/dt_main.jpg"
+}

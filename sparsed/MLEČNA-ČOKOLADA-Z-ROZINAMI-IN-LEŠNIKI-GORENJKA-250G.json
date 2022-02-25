@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.ML.ROZ.LEŠ.GO.250G",
+    "description": "ČOK.ML.ROZ.LEŠ.GO.250G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečna čokolada z rozinami in lešniki",
+        "opis": "Z rozinami (15 %) in lešniki (6 %).",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, GLUTEN (V SLEDOVIH), MANDLJI (V SLEDOVIH), ŽVEPLOV DIOKSID IN SULFITI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2186,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "57,00 g",
+            "Total Carbohydrate": "59,00 g",
+            "Total Fat": "29,00 g",
+            "kcal": "523,00 ",
+            "Saturated fat": "19,00 g",
+            "Protein": "6,50 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "MLEČNA ČOKOLADA Z ROZINAMI IN LEŠNIKI, GORENJKA, 250G",
+    "url": "https://www.spar.si/online/mlecna-cokolada-z-rozinami-in-lesniki-gorenjka-250g/p/428882",
+    "isOnPromotion": "false",
+    "product-priceperunit": "15,56 €/kg",
+    "product-insteadofprice": "3,89",
+    "product-stock-status": "",
+    "product-price": "3,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/428882/dt_main.jpg"
+}

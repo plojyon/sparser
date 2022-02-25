@@ -1,0 +1,46 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,40 g",
+            "Total Fat": "19,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Sugar": "0,00 g",
+            "Salt": "2,20 g",
+            "kJ": "933,00 ",
+            "Protein": "13,00 g",
+            "kcal": "225,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Golica v naravnem ovoju VP 220",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Hrenovke potopite v hladno vodo in jih segrevajte v pokriti posodi do vretja ali jihpopecite na žaru."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "0,2kos"
+        },
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj d.o.o., Potrčeva cesta 10, SI-2250 Ptuj, Slovenija"
+        },
+        "ingredient-information": {
+            "sestavine": "mehansko izkoščeno piščančje meso 70,00 %, puranja bedra brez kosti in kože 15,00 %, voda, piščančje kožice, sol, prehranske vlaknine, stabilizator (e450=difosfat), antioksidanti (e300=askorbinska kislina, e301=na-askorbat, e392=izvlečki rožmarina), začimbe, ekstrakti začimb, konzervansa (e250=na-nitrit, e262=naacetat)."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "0,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/hrenovke-v-naravnem-ovoju-golica-200g/p/612681",
+    "product-price": "1,64",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/612681/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "2,19",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "HRENOVKA GOLICA 200G",
+    "product-stock-status": "",
+    "title": "HRENOVKE V NARAVNEM OVOJU, GOLICA, 200G",
+    "product-priceperunit": "8,20 €/kos",
+    "description": "HRENOVKA GOLICA 200G"
+}

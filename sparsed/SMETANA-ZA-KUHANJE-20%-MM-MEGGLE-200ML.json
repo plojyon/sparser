@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,04",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Smetana za kuhanje 20% m.m.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "869,00 ",
+            "Saturated fat": "11,00 g",
+            "Protein": "3,20 g",
+            "Sugar": "4,30 g",
+            "Total Fat": "20,00 g",
+            "kcal": "208,00 ",
+            "Total Carbohydrate": "4,30 g",
+            "Salt": "0,13 g"
+        }
+    },
+    "product-priceperunit": "4,05 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/smetana-za-kuhanje-20-mm-meggle-200ml/p/288801",
+    "product-price": "0,81",
+    "title": "SMETANA ZA KUHANJE 20% M.M., MEGGLE, 200ML",
+    "description": "SMETANA ZA KUHO 200ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/288801/dt_main.jpg",
+    "teaser-text": "SMETANA ZA KUHO 200ML"
+}

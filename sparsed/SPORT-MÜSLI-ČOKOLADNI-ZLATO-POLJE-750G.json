@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,30 g",
+            "Salt": "0,06 g",
+            "Total Fat": "13,00 g",
+            "Total Carbohydrate": "59,00 g",
+            "Sugar": "17,00 g",
+            "Prehranske vlaknine": "8,80 g",
+            "kJ": "1701,00 ",
+            "Protein": "8,60 g",
+            "kcal": "405,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "opis": "Müsli izdelki so mešanica žitnih kosmičev, suhega sadja, koščkov čokolade in jedrastih plodov.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, LEŠNIKI, MLEKO (V SLEDOVIH)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Iz 45 g müslija lahko pripravite 1 obrok. To količino prelijte s 125 ml mleka. Po želji lahko pripravite obrok z jogurtom. Hitra priprava, brez kuhanja."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sport-msli-cokoladni-zlato-polje-750g/p/570481",
+    "product-price": "6,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/570481/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "6,49",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "MUESLI SPORT ČOKO. 750G",
+    "product-stock-status": "",
+    "title": "SPORT MÜSLI ČOKOLADNI, ZLATO POLJE, 750G",
+    "product-priceperunit": "8,65 €/kg",
+    "description": "MUESLI SPORT ČOKO. 750G"
+}

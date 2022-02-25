@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "20,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "3,38kg"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Hraniti zunaj dosega otrok."
+        },
+        "ingredient-information": {
+            "sestavine": "5-15 % anionske površinsko aktivne snovi: belila na osnovi kisika, <5 % zeoliti, neionske površinsko aktivne snovi, fosfonati, polikarboksilati. Nadaljnje sestavine: encimi, sredstva za optično beljenje, parfumi, Linalool."
+        },
+        "contact-information": {
+            "kontakt:": "Henkel Slovenija d.o.o., Industrijska 23, 2506 Maribor"
+        }
+    },
+    "product-priceperunit": "3,69 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pralni-prasek-freshness-by-silan-persil-52pranj-338kg/p/497812",
+    "product-price": "12,48",
+    "title": "PRALNI PRAŠEK FRESHNESS BY SILAN, PERSIL, 52PRANJ, 3,38KG",
+    "description": "PRAŠEK PERSIL FBS 3,38KG",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/497812/dt_main.jpg",
+    "teaser-text": "PRAŠEK PERSIL FBS 3,38KG"
+}

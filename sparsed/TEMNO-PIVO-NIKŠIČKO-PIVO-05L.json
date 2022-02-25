@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-priceperunit": "2,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TEMNO PIVO NIKŠIČKO PIVO, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "6,20 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "PIVO NIKŠIČKO TEMNO0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,29",
+    "teaser-text": "PIVO NIKŠIČKO TEMNO0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/temno-pivo-niksicko-pivo-05l/p/512283",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512283/dt_main.jpg"
+}

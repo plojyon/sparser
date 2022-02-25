@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "0,63",
+    "product-priceperunit": "12,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "TOFUJEV ČIPS EVERGREEN, 50G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,72 g",
+            "Total Carbohydrate": "0,00 g",
+            "Prehranske vlaknine": "3,60 g",
+            "Total Fat": "57,50 g",
+            "Protein": "32,70 g",
+            "kJ": "2712,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "656,00 ",
+            "Saturated fat": "7,65 g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "50g"
+        },
+        "contact-information": {
+            "kontakt:": "Evergreen d.o.o., Dolenji Boštanj 54 b, Boštanj"
+        }
+    },
+    "description": "TOFUJEV ČIPS 50G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,63",
+    "teaser-text": "TOFUJEV ČIPS 50G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/tofujev-cips-evergreen-50g/p/509877",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509877/dt_main.jpg"
+}

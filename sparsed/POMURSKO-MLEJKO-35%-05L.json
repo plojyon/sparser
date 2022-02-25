@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,96",
+    "product-priceperunit": "1,92 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "POMURSKO MLEJKO 3,5%, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "Pomurske mlekarne d.d., Industrijska ulica 10, 9000 Murska Sobota"
+        },
+        "opis": "Pomursko mleko proizvajamo po UHT postopku, ki mleku podaljša obstojnost. Proizvod polnimopod sterilnimi pogoji v sterilno embalažo, ki ima oziroma nima nameščenega pokrovčka za odpiranje.Ob nakupu 12 kos, izdelke prejmete v vezu.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "4,80 g",
+            "Total Fat": "3,50 g",
+            "Protein": "3,40 g",
+            "kJ": "267,00 ",
+            "Sugar": "4,80 g",
+            "kcal": "64,00 ",
+            "Saturated fat": "2,40 g"
+        }
+    },
+    "description": "MLEKO POMURSKO 3.5% 0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,96",
+    "teaser-text": "MLEKO POMURSKO 3.5% 0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pomursko-mlejko-35-05l/p/47102",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/47102/dt_main.jpg"
+}

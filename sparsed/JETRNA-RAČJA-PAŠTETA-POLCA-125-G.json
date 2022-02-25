@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,39",
+    "product-priceperunit": "19,12 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "JETRNA RAČJA PAŠTETA, POLCA, 125 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,60 g",
+            "Total Carbohydrate": "2,00 g",
+            "Total Fat": "40,00 g",
+            "Protein": "9,00 g",
+            "kJ": "1670,00 ",
+            "Sugar": "1,20 g",
+            "kcal": "405,00 ",
+            "Saturated fat": "17,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "40,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Hmezad Trgovina Žalec d.o.o., Arja vas 103, 3301 Petrovče"
+        }
+    },
+    "description": "PAŠTETA RAČJA 125G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,39",
+    "teaser-text": "PAŠTETA RAČJA 125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jetrna-racja-pasteta-polca-125-g/p/502136",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502136/dt_main.jpg"
+}

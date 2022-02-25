@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "31,50",
+    "product-priceperunit": "84,00 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ŠAMPANJEC MÖET & CHANDON IMPERIAL BRUT, 0,375L",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "0,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,38l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "ŠAMP.MOET&CHAN.BR.0,375L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "31,50",
+    "teaser-text": "ŠAMP.MOET&CHAN.BR.0,375L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sampanjec-met-chandon-imperial-brut-0375l/p/476665",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/476665/dt_main.jpg"
+}

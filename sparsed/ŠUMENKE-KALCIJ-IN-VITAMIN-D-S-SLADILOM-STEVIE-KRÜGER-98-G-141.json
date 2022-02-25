@@ -1,0 +1,45 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "98g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom!"
+        },
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 0,50 mikrogr. Kalcij 500,00 mg."
+        },
+        "ingredient-information": {
+            "sestavine": "kislina: citronska kislina, sredstvo za uravnavanje kislosti: natrijev hidrogenkarbonat, kalcijev karbonat, koruzni škrob, naravna aroma limone z drugimi naravnimi aromami, sladilo: steviol glikozidi, barvilo: riboflavin-5-fosfat, vitamin d3: holekalciferol."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "760,00 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,10 g",
+            "Sugar": "0,10 g",
+            "Total Fat": "0,10 g",
+            "kcal": "176,00 ",
+            "Total Carbohydrate": "2,80 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "15,20 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sumenke-kalcij-in-vitamin-d-s-sladilom-stevie-krger-98-g-141/p/475289",
+    "product-price": "1,49",
+    "title": "ŠUMENKE, KALCIJ IN VITAMIN D, S SLADILOM STEVIE, KRÜGER, 98 G, 14/1",
+    "description": "TABL.ŠUM.KAL.VIT.D 98G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/475289/dt_main.jpg",
+    "teaser-text": "TABL.ŠUM.KAL.VIT.D 98G"
+}

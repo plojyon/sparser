@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "NAPITEK DANA JAGO.1,5L",
+    "description": "NAPITEK DANA JAGO.1,5L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "DANA JAGODA JABOLKO - negazirana brezalkoholna pijača iz jagod in jabolk. Sadni delež: min. 25 %.",
+        "ingredient-information": {
+            "sestavine": "voda, sladkor 13,00 %, jabolčna kaša 12,00 %, sladkor, kislina (citronska kislina), sok črnega korena iz zgoščenega soka in aroma."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "179,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "10,20 g",
+            "Total Carbohydrate": "10,50 g",
+            "Total Fat": "0,00 g",
+            "kcal": "42,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Dana d.o.o., Glavna cesta 34, 8233 Mirna"
+        }
+    },
+    "title": "NAPITEK, JAGODA, DANA, 1,5 L",
+    "url": "https://www.spar.si/online/napitek-jagoda-dana-15-l/p/415800",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,05 €/l",
+    "product-insteadofprice": "1,57",
+    "product-stock-status": "",
+    "product-price": "1,57",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/415800/dt_main.jpg"
+}

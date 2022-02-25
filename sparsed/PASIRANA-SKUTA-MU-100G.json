@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,10 g",
+            "Total Fat": "12,00 g",
+            "Total Carbohydrate": "2,70 g",
+            "Sugar": "2,70 g",
+            "Salt": "0,10 g",
+            "kJ": "644,00 ",
+            "Protein": "9,20 g",
+            "kcal": "156,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU SKUTA PASIRANA 100G LJ",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pasirana-skuta-mu-100g/p/261700",
+    "product-price": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/261700/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "0,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SKUTA PASIRANA 100G",
+    "product-stock-status": "",
+    "title": "PASIRANA SKUTA, MU, 100G",
+    "product-priceperunit": "9,90 €/kg",
+    "description": "SKUTA PASIRANA 100G"
+}

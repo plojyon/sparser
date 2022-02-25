@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "9,48 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR FF MUSLI ČOKO.400G",
+    "teaser-text": "SPAR FF MUSLI ČOKO.400G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "16,00 g",
+            "Saturated fat": "10,00 g",
+            "Total Carbohydrate": "68,00 g",
+            "kJ": "1882,00 ",
+            "Protein": "5,70 g",
+            "Salt": "0,90 g",
+            "Sugar": "24,00 g",
+            "kcal": "448,00 ",
+            "Prehranske vlaknine": "4,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Müsli s koščki čokolade 20 % brez glutena. Kakavovi deli v čokoladi: najmanj 40 %.",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH), ŽVEPLOV DIOKSID IN SULFITI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/msli-s-cokolado-brez-glutena-spar-free-from-400g/p/376865",
+    "product-insteadofprice": "3,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376865/dt_main.jpg",
+    "title": "MÜSLI S ČOKOLADO BREZ GLUTENA SPAR FREE FROM, 400G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

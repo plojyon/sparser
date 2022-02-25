@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,30 g",
+            "Salt": "0,01 g",
+            "Total Fat": "6,70 g",
+            "Total Carbohydrate": "55,80 g",
+            "Sugar": "1,20 g",
+            "Prehranske vlaknine": "11,10 g",
+            "kJ": "1520,00 ",
+            "Protein": "13,80 g",
+            "kcal": "361,00 "
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B1 (Tiamin) 0,42 mg, Fosfor 436,00 mg, Magnezij 147,00 mg, Železo 5,40 mg, Cink 3,90 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, 1231 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/ovseni-kosmic-klln-500g/p/207804",
+    "product-price": "1,89",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/207804/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,89",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KOSMIČI OVSENI 500G",
+    "product-stock-status": "",
+    "title": "OVSENI KOSMIČ, KÖLLN, 500G",
+    "product-priceperunit": "3,78 €/kg",
+    "description": "KOSMIČI OVSENI 500G"
+}

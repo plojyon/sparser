@@ -1,0 +1,48 @@
+{
+    "product-priceperunit": "2,19 €/l",
+    "product-promotionBadges": "Vegan",
+    "isOnPromotion": "false",
+    "description": "NAPITEK SOJA ORIGINAL 1L",
+    "teaser-text": "NAPITEK SOJA ORIGINAL 1L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 0,75 mikrogr. Vitamin B2 (Riboflavin) 0,21 mg, Vitamin B12 0,38 mikrogr. Kalcij 120,00 mg."
+        },
+        "product-badges": {
+            "certifikati": "Vegan"
+        },
+        "opis": "Sojin napitek z dodanim kalcijem in vitamini.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "NAPITEK SOJA ORIGINAL ALPR, 1L",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,80 g",
+            "Saturated fat": "0,30 g",
+            "Total Carbohydrate": "2,50 g",
+            "kJ": "163,00 ",
+            "Protein": "3,00 g",
+            "Salt": "0,09 g",
+            "Sugar": "2,50 g",
+            "kcal": "39,00 ",
+            "Prehranske vlaknine": "0,50 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        }
+    },
+    "url": "https://www.spar.si/online/sojin-napitek-original-alpro-1l/p/362209",
+    "product-insteadofprice": "2,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/362209/dt_main.jpg",
+    "title": "SOJIN NAPITEK ORIGINAL, ALPRO, 1L",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

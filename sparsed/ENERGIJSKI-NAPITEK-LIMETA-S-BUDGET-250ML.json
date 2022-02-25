@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,49",
+    "product-priceperunit": "1,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ENERGIJSKI NAPITEK LIMETA S-BUDGET, 250ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "11,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "203,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "48,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, kislina: citronska kislina, ogljikov dioksid, tavrin 0,40 %, sredstvi za uravnavanje kislosti: natrijevi citrati, magnezijevi karbonati, aroma, kofein, inozitol, vitamini: niacin, pantotenska kislina, vitamin b6, vitamin b12, glukuronolakton 0,01 %, stabilizatorja: gumi arabukum, glicerolni estri lesnih smol, barvilo: briljantno modro fcf."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Visoka vsebnost kofeina. Ni priporočljivo za otroke ali nosečnice ali doječe matere (vsebnost kofeina 32 mg/100 ml). Zaradi visoke vsebnosti kofeina uživati le v omejenih količinah. Pijače ne mešajte z alkoholom in ne uživajte ob intenzivni športni aktivnosti. Pijte dobro ohlajeno."
+        }
+    },
+    "description": "SB ENERGIJ.NAP.LIM.250ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,49",
+    "teaser-text": "SB ENERGIJ.NAP.LIM.250ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/energijski-napitek-limeta-s-budget-250ml/p/472825",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472825/dt_main.jpg"
+}

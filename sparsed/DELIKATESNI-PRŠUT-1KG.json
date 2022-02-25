@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "28,39 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "PRŠUT DELIKATESNI",
+    "teaser-text": "PRŠUT DELIKATESNI",
+    "product-info": {
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "12,00 %"
+        },
+        "contact-information": {
+            "kontakt:": "Rostep d.o.o. Potoče, Potoče 15 A, 5263 Dobravlje"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "12,00 g",
+            "Saturated fat": "4,70 g",
+            "Total Carbohydrate": "0,70 g",
+            "kJ": "932,00 ",
+            "Protein": "26,00 g",
+            "Salt": "6,00 g",
+            "Sugar": "0,10 g",
+            "kcal": "223,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjsko stegno, sol, konzervans e252."
+        }
+    },
+    "url": "https://www.spar.si/online/delikatesni-prsut-1kg/p/362456",
+    "product-insteadofprice": "28,39",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/362456/dt_main.jpg",
+    "title": "DELIKATESNI PRŠUT, 1KG",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "28,39",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

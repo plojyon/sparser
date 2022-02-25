@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "SMETANA KISLA MILE 400G",
+    "description": "SMETANA KISLA MILE 400G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "768,00 ",
+            "Salt": "0,08 g",
+            "Sugar": "3,40 g",
+            "Total Carbohydrate": "3,40 g",
+            "Total Fat": "18,00 g",
+            "kcal": "186,00 ",
+            "Saturated fat": "11,20 g",
+            "Protein": "2,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "title": "KISLA SMETANA, 18 % M. M., MILERAM, ZELENE DOLINE, 400 G",
+    "url": "https://www.spar.si/online/kisla-smetana-18-m-m-mileram-zelene-doline-400-g/p/425064",
+    "isOnPromotion": "true",
+    "product-priceperunit": "4,55 €/kg",
+    "product-insteadofprice": "2,15",
+    "product-stock-status": "",
+    "product-price": "1,82",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/425064/dt_main.jpg"
+}

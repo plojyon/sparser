@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Salt": "1,20 g",
+            "Total Fat": "0,30 g",
+            "Total Carbohydrate": "4,40 g",
+            "Sugar": "4,30 g",
+            "Prehranske vlaknine": "1,90 g",
+            "kJ": "122,00 ",
+            "Protein": "1,20 g",
+            "kcal": "29,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "400G"
+        },
+        "product-net-cont": {
+            "neto-količina": "670g"
+        },
+        "ingredient-information": {
+            "sestavine": "rdeča pesa 59,70 %, voda, kis, sladkor, jedilna sol, naravna aroma kumine."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/rdeca-pesa-spar-670g/p/168248",
+    "product-price": "1,15",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/168248/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "product-insteadofprice": "1,15",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "teaser-text": "SPAR PESA RDEČA 670G",
+    "product-stock-status": "",
+    "title": "RDEČA PESA SPAR, 670G",
+    "product-priceperunit": "1,72 €/kg",
+    "description": "SPAR PESA RDEČA 670G"
+}

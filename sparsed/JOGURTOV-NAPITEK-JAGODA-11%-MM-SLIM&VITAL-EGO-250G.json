@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "3,92 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "NAPITEK EGO SLIMVIT JAGO",
+    "teaser-text": "NAPITEK EGO SLIMVIT JAGO",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin H (Biotin) 10,00 mikrogr. Cink 1,50 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,30 g",
+            "Saturated fat": "1,00 g",
+            "Total Carbohydrate": "9,00 g",
+            "kJ": "255,00 ",
+            "Protein": "3,00 g",
+            "Salt": "0,10 g",
+            "Sugar": "8,80 g",
+            "kcal": "60,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "EGO S&V   JOG.  NAPITEK JAGODA  250G PL",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/jogurtov-napitek-jagoda-11-mm-slimvital-ego-250g/p/365881",
+    "product-insteadofprice": "0,98",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/365881/dt_main.jpg",
+    "title": "JOGURTOV NAPITEK JAGODA 1,1% M.M. SLIM&VITAL, EGO, 250G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,98",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

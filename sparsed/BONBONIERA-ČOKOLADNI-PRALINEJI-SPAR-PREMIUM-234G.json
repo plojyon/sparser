@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "5,18",
+    "product-priceperunit": "22,14 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA ČOKOLADNI PRALINEJI, SPAR PREMIUM, 234G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR PREMIUM čokoladni pralineji. Izbor polnjenih čokolad. Kakavovi deli: najmanj 33% v mlečni čokoladi, najmanj 44% v temni čokoladi.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, OREHI, MANDLJI, JAJCA (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "234g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "51,00 g",
+            "Prehranske vlaknine": "3,30 g",
+            "Total Fat": "35,00 g",
+            "Protein": "6,00 g",
+            "kJ": "2290,00 ",
+            "Sugar": "48,00 g",
+            "kcal": "550,00 ",
+            "Saturated fat": "16,00 g"
+        }
+    },
+    "description": "SPAR PREM.BONBONIERA234G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,18",
+    "teaser-text": "SPAR PREM.BONBONIERA234G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-cokoladni-pralineji-spar-premium-234g/p/491842",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491842/dt_main.jpg"
+}

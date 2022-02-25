@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "11,99",
+    "product-priceperunit": "47,96 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "BIO MANDLJEVO OLJE, MEDITERRA, 250ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin E 40,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3700,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "9,00 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priporočeno je zaužiti 2 jedilni žlici pred jedjo. 1 jedilna žlica = 14 g."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO PREMIUM MANDLJEVO OLJE MEDITERRA",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "MANDLJI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "OLJE MANDLJEVO BIO 250ML",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "11,99",
+    "teaser-text": "OLJE MANDLJEVO BIO 250ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-mandljevo-olje-mediterra-250ml/p/466389",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/466389/dt_main.jpg"
+}

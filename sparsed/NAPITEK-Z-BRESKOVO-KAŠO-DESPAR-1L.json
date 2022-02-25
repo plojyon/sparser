@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "0,99 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAPITEK Z BRESKOVO KAŠO DESPAR, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresemo."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "NEKTAR IZ BRESKOVE KAŠE. Sadni delež: 50%.",
+        "opis": "Sadni delež: 50 %.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "breskova kaša, voda, sladkor, kislina: citronska kislina, antioksidant: askorbinska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "11,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "198,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "47,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DESPAR NAPITE BRESKEV 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,99",
+    "teaser-text": "DESPAR NAPITE BRESKEV 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/napitek-z-breskovo-kaso-despar-1l/p/491926",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491926/dt_main.jpg"
+}

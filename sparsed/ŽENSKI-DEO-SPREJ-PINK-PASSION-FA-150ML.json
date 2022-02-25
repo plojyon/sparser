@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,97",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "contact-information": {}
+    },
+    "product-priceperunit": "11,87 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zenski-deo-sprej-pink-passion-fa-150ml/p/291954",
+    "product-price": "1,78",
+    "title": "ŽENSKI DEO SPREJ PINK PASSION, FA, 150ML",
+    "description": "DEO SPREJ FA PINK 150ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/291954/dt_main.jpg",
+    "teaser-text": "DEO SPREJ FA PINK 150ML"
+}

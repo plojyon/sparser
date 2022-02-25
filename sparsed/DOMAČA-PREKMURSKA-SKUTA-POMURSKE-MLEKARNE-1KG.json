@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "7,40 g",
+            "Total Fat": "11,30 g",
+            "Total Carbohydrate": "2,90 g",
+            "Sugar": "2,70 g",
+            "Salt": "0,09 g",
+            "kJ": "705,00 ",
+            "Protein": "14,00 g",
+            "kcal": "169,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Pomurske mlekarne d.d., Industrijska ulica 10, 9000 Murska Sobota"
+        },
+        "opis": "Domača skuta je sveži sir, pripravljen iz pasteriziranega mleka.",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/domaca-prekmurska-skuta-pomurske-mlekarne-1kg/p/172454",
+    "product-price": "5,57",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/172454/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "5,57",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SKUTA POMURSKA 1KG",
+    "product-stock-status": "",
+    "title": "DOMAČA PREKMURSKA SKUTA, POMURSKE MLEKARNE, 1KG",
+    "product-priceperunit": "5,57 €/kg",
+    "description": "SKUTA POMURSKA 1KG"
+}

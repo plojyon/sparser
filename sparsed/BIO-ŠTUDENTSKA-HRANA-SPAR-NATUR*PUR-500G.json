@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "5,49",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-studentska-hrana-spar-naturpur-500g/p/583947",
+    "title": "BIO ŠTUDENTSKA HRANA, SPAR NATUR*PUR, 500G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "5,49",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "35,00 g",
+            "Total Carbohydrate": "43,00 g",
+            "Prehranske vlaknine": "6,00 g",
+            "Saturated fat": "2,90 g",
+            "Protein": "11,00 g",
+            "Total Fat": "28,00 g",
+            "kcal": "483,00 ",
+            "Salt": "0,04 g",
+            "kJ": "2016,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO ŠTUDENTSKA HRANA",
+        "ingredient-information": {
+            "alergeni": "LEŠNIKI, OREHI, INDIJSKI OREŠČKI, MANDLJI, ARAŠIDI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje sledove arašidov in drugih oreškov ter njihovih trdnih delcev."
+        },
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "10,98 €/kg",
+    "teaser-text": "SPAR BIO NP ŠT.HRANA500G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR BIO NP ŠT.HRANA500G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/583947/dt_main.jpg",
+    "product-brand": ""
+}

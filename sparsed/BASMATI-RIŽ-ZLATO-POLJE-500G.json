@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,24 g",
+            "Salt": "0,00 g",
+            "Total Fat": "1,00 g",
+            "Total Carbohydrate": "79,40 g",
+            "Sugar": "0,10 g",
+            "Prehranske vlaknine": "0,70 g",
+            "kJ": "1542,00 ",
+            "Protein": "8,80 g",
+            "kcal": "363,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Brušen (bel) dolgozrnati riž - sorta: Basmati",
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "sestavine": "riž."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/basmati-riz-zlato-polje-500g/p/204664",
+    "product-price": "3,27",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/204664/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,27",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "RIŽ BASMATI 500G",
+    "product-stock-status": "",
+    "title": "BASMATI RIŽ, ZLATO POLJE, 500G",
+    "product-priceperunit": "6,54 €/kg",
+    "description": "RIŽ BASMATI 500G"
+}

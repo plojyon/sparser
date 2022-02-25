@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "2,59",
+    "product-priceperunit": "20,89 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GRANOLA REZINA TEMNA ČOKOLADA, BREZ GLUTENA, EMCO, 5X24,8G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Rezine BG temna čokolada",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "124g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,24 g",
+            "Total Carbohydrate": "65,00 g",
+            "Prehranske vlaknine": "2,00 g",
+            "Total Fat": "12,00 g",
+            "Protein": "4,00 g",
+            "kJ": "1607,00 ",
+            "Sugar": "31,00 g",
+            "kcal": "384,00 ",
+            "Saturated fat": "6,00 g"
+        }
+    },
+    "description": "REZINA BG T.ČOKO.5X24,8G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,59",
+    "teaser-text": "REZINA BG T.ČOKO.5X24,8G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/granola-rezina-temna-cokolada-brez-glutena-emco-5x248g/p/512129",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512129/dt_main.jpg"
+}

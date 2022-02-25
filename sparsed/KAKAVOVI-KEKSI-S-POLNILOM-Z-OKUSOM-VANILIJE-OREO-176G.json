@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,59",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "176g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelek. Kakavovi keksi s polnilom z okusom vanilije (29%).",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1997,00 ",
+            "Saturated fat": "9,80 g",
+            "Prehranske vlaknine": "2,80 g",
+            "Protein": "5,40 g",
+            "Sugar": "38,00 g",
+            "Total Fat": "20,00 g",
+            "kcal": "476,00 ",
+            "Total Carbohydrate": "68,00 g",
+            "Salt": "0,90 g"
+        }
+    },
+    "product-priceperunit": "7,16 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kakavovi-keksi-s-polnilom-z-okusom-vanilije-oreo-176g/p/399853",
+    "product-price": "1,26",
+    "title": "KAKAVOVI KEKSI S POLNILOM Z OKUSOM VANILIJE, OREO, 176G",
+    "description": "KEKSI OREO 176G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/399853/dt_main.jpg",
+    "teaser-text": "KEKSI OREO 176G"
+}

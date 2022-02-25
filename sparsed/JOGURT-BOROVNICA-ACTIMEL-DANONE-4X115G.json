@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "2,48",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/jogurt-borovnica-actimel-danone-4x115g/p/603208",
+    "title": "JOGURT BOROVNICA ACTIMEL, DANONE, 4X115G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,48",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Danone Gesellschaft m.b.H."
+        },
+        "product-net-cont": {
+            "neto-količina": "460g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "9,00 g",
+            "Total Carbohydrate": "9,40 g",
+            "Prehranske vlaknine": "0,20 g",
+            "Saturated fat": "1,10 g",
+            "Protein": "3,80 g",
+            "Total Fat": "1,70 g",
+            "kcal": "68,00 ",
+            "Salt": "0,14 g",
+            "kJ": "288,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Jogurt z 8% pripravkom iz borovnic, 1,8% maščobe v mlečnem deležu",
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), LEŠNIKI (V SLEDOVIH)."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 1,67 mikrogr. Vitamin E 1,80 mg, 0,21 mg, Kalcij 130,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "5,39 €/kg",
+    "teaser-text": "JOGURT ACTIMEL 4x115G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "JOGURT ACTIMEL 4x115G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/603208/dt_main.jpg",
+    "product-brand": ""
+}

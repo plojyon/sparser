@@ -1,0 +1,46 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,59",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "opis": "Fit je linija funkcionalnih mlečnih proizvodov, bogatih z beljakovinami in nizko vsebnostjo maščob in sladkorja.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "214,00 ",
+            "Saturated fat": "0,37 g",
+            "Prehranske vlaknine": "0,60 g",
+            "Protein": "6,00 g",
+            "Sugar": "4,80 g",
+            "Total Fat": "0,50 g",
+            "kcal": "51,00 ",
+            "Total Carbohydrate": "5,20 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "3,18 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-proteinski-napitek-cokolada-fit-dukat-500ml/p/514178",
+    "product-price": "1,59",
+    "title": "MLEČNI PROTEINSKI NAPITEK ČOKOLADA FIT, DUKAT, 500ML",
+    "description": "NAPITEK MLEČNI FIT 500ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/514178/dt_main.jpg",
+    "teaser-text": "NAPITEK MLEČNI FIT 500ML"
+}

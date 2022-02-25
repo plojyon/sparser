@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,15",
+    "product-priceperunit": "11,50 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KEKSI OTROŠKI, ZOO JUNGLE, LEIBNIZ, BAHLSEN, 100 G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "71,00 g",
+            "Total Fat": "11,00 g",
+            "Protein": "8,10 g",
+            "kJ": "1785,00 ",
+            "Sugar": "27,00 g",
+            "kcal": "424,00 ",
+            "Saturated fat": "5,70 g"
+        }
+    },
+    "description": "KEKS.ZOO JUNGLE 100G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,15",
+    "teaser-text": "KEKS.ZOO JUNGLE 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/keksi-otroski-zoo-jungle-leibniz-bahlsen-100-g/p/453303",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/453303/dt_main.jpg"
+}

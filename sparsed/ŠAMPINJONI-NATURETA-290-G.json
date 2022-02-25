@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "7,90 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ŠAMPINJONI 290G NATURETA",
+    "teaser-text": "ŠAMPINJONI 290G NATURETA",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,60 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "2,00 g",
+            "kJ": "117,00 ",
+            "Protein": "2,90 g",
+            "Salt": "1,20 g",
+            "Sugar": "0,50 g",
+            "kcal": "28,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Šampinjoni v kisu",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "290g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/sampinjoni-natureta-290-g/p/368592",
+    "product-insteadofprice": "2,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/368592/dt_main.jpg",
+    "title": "ŠAMPINJONI, NATURETA, 290 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

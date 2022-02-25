@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,04",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/domaca-marelicna-marmelada-podravka-440g/p/563224",
+    "title": "DOMAČA MARELIČNA MARMELADA, PODRAVKA, 440G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,04",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "440g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "64,00 g",
+            "Total Carbohydrate": "64,00 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "256,00 ",
+            "Salt": "0,00 g",
+            "kJ": "1088,00 "
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, marelična kaša, želirno sredstvo pektin, sredstvo za uravnavanje kislosti: citronska kislina."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "4,64 €/kg",
+    "teaser-text": "DOM. MAREL. MARM. 400G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "DOM. MAREL. MARM. 400G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/563224/dt_main.jpg",
+    "product-brand": ""
+}

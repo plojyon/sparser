@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,20 g",
+            "Salt": "0,01 g",
+            "Total Fat": "1,20 g",
+            "Total Carbohydrate": "71,00 g",
+            "Sugar": "0,00 g",
+            "Prehranske vlaknine": "2,80 g",
+            "kJ": "1414,00 ",
+            "Protein": "9,50 g",
+            "kcal": "333,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO PŠENIČNA MOKA-UNIVERZALNA BELA.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "opis": "Bio pšenična moka-univerzalna moka iz ekološke pridelave (Kmetijstvo Avstrije).Povprečna hranilna vrednost na 100g:Energijska vrednost 1435kJ/338kcalMaščobe 1,2god tega nasičene maščobe 0,2gOgljikovi hidrati 71god tega sladkorji 0gPrehranske vlaknine 2,8gBeljakovine 9,5gSol 0g",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/psenicna-moka-spar-naturpur-1kg/p/235336",
+    "product-price": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/235336/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-insteadofprice": "1,19",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "BIO Certifikat",
+    "teaser-text": "SPAR MOKA BIO PŠEN. 1KG",
+    "product-stock-status": "",
+    "title": "PŠENIČNA MOKA SPAR NATUR*PUR, 1KG",
+    "product-priceperunit": "1,19 €/kg",
+    "description": "SPAR MOKA BIO PŠEN. 1KG"
+}

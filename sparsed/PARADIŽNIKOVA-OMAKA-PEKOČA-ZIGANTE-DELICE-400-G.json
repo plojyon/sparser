@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "2,25",
+    "product-priceperunit": "5,63 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PARADIŽNIKOVA OMAKA, PEKOČA, ZIGANTE DELICE, 400 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,50 g",
+            "Total Carbohydrate": "6,50 g",
+            "Total Fat": "4,70 g",
+            "Protein": "1,50 g",
+            "kJ": "309,00 ",
+            "Sugar": "6,00 g",
+            "kcal": "74,00 ",
+            "Saturated fat": "0,60 g"
+        },
+        "ingredient-information": {
+            "sestavine": "paradižnik 86,00 %, rdeča čebula, ekstra deviško oljčno olje, sol, sladkor, čili, začimbe."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "contact-information": {
+            "kontakt:": "Zigante tartufi d.o.o., Vanganelska cesta 8, SI - 6000 Koper, Tel: +386 56251190"
+        }
+    },
+    "description": "OMAKA PEK.PARADIŽNI.400G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,25",
+    "teaser-text": "OMAKA PEK.PARADIŽNI.400G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/paradiznikova-omaka-pekoca-zigante-delice-400-g/p/499834",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/499834/dt_main.jpg"
+}

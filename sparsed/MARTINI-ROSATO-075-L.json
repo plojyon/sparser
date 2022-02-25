@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "13,97 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "VERM.MARTIN.ROSAT.0,75L",
+    "teaser-text": "VERM.MARTIN.ROSAT.0,75L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "15,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/martini-rosato-075-l/p/377798",
+    "product-insteadofprice": "10,48",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377798/dt_main.jpg",
+    "title": "MARTINI, ROSATO, 0,75 L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "10,48",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

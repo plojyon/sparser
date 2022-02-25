@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,79",
+    "product-priceperunit": "1,58 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "JOGURT ANANAS IN MANGO, SPAR, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sadni jogurt iz pasteriziranega mleka s 3,2% maščobe z ananasom 5,1% in mangovo kašo iz zgoščene kaše 5,0%.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "12,10 g",
+            "Prehranske vlaknine": "0,20 g",
+            "Total Fat": "2,60 g",
+            "Protein": "2,90 g",
+            "kJ": "362,00 ",
+            "Sugar": "11,50 g",
+            "kcal": "86,00 ",
+            "Saturated fat": "1,80 g"
+        }
+    },
+    "description": "SPAR JOGURT ANANA 500G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "0,79",
+    "teaser-text": "SPAR JOGURT ANANA 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/jogurt-ananas-in-mango-spar-500g/p/475341",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/475341/dt_main.jpg"
+}

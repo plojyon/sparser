@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PUDING JAGODA 40G DOLC.",
+    "description": "PUDING JAGODA 40G DOLC.",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Zmešajte prašek za puding in 3 žlice (40 g) sladkorja. Od hladnega mleka odvzemite 6 žlic in jih dobro pomešajte z mešanico pudinga in sladkorja. Ostanek mleka zavrite, odmaknite z ognja in mu dodajte pripravljeno mešanico za puding ter ob neprestanem mešanju kuhajte še 1 - 2 minuti. Še vroč puding nalijte v skodelice, ki ste jih prej oplaknili z vodo in pustite, da se ohladi."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "koruzni škrob, aroma, kuhinjska sol, barvilo (karmin, izvleček paprike)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1492,00 ",
+            "Salt": "0,49 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "87,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "351,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,50 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "40g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "PUDING JAGODA DOLCELA, PODRAVKA, 40G",
+    "url": "https://www.spar.si/online/puding-jagoda-dolcela-podravka-40g/p/41873",
+    "isOnPromotion": "false",
+    "product-priceperunit": "13,00 €/kg",
+    "product-insteadofprice": "0,52",
+    "product-stock-status": "",
+    "product-price": "0,52",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41873/dt_main.jpg"
+}

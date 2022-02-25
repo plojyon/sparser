@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,95",
+    "product-priceperunit": "1,27 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "title": "VALOVITI POMFRIT SPAR, 750G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pečico segrejte na 220°C (segrevanje zgoraj in spodaj) ali 200°C, če uporabljate ventilacijsko pečico. Zamrznjen krompirček enakomerno razporedite po pekaču, obloženim s papirjem za peko, in ga približno 15-20 minut pecite na srednji višini. Občasno ga obrnite."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR VALOVITI POMFRIT. VALOVITI OCVRTI KROMPIRČEK ZA PRIPRAVO V PEČICI, PREDPEČEN IN HITRO ZAMRZNJEN.",
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "krompir 95,50 %, sončnično olje."
+        },
+        "product-net-cont": {
+            "neto-količina": "750g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "25,00 g",
+            "Total Fat": "4,50 g",
+            "Protein": "2,50 g",
+            "kJ": "656,00 ",
+            "Sugar": "0,80 g",
+            "kcal": "156,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "SPAR POMMES FRI.VAL.750G",
+    "product-promotionBadges": "Zamrznjeno",
+    "product-brand": "",
+    "product-price": "0,95",
+    "teaser-text": "SPAR POMMES FRI.VAL.750G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/valoviti-pomfrit-spar-750g/p/458872",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/458872/dt_main.jpg"
+}

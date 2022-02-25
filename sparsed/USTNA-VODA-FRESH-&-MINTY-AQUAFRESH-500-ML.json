@@ -1,0 +1,29 @@
+{
+    "product-insteadofprice": "4,49",
+    "product-priceperunit": "8,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "USTNA VODA, FRESH & MINTY, AQUAFRESH, 500 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Aquafresh Fresh & Minty je ustna voda brez alkohola, ki ima odličen okus in je primerna za vso družino, za otroke od 6. leta naprej ter za odrasle. Ne zagotavlja le svežine ampak vsebuje tudi aktivne minerale, ki krepijo zobno sklenino ter jo tako pomagajo ščititi na mestih, kjer je to najbolj potrebno.",
+        "ingredient-information": {
+            "sestavine": "Aqua, Glycerin, PEG-60, Hydrgenated Castor Oil, Sodium Citrate, Aroma, Zinc Chloride, Sodium Fluoride, Cetylpyridinium Chloride, Methylparaben, vsebuje natrijev fluorid."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj, Slovenija"
+        }
+    },
+    "description": "VODA USTNA AQUAFRESH",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,49",
+    "teaser-text": "VODA USTNA AQUAFRESH",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ustna-voda-fresh-minty-aquafresh-500-ml/p/484533",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/484533/dt_main.jpg"
+}

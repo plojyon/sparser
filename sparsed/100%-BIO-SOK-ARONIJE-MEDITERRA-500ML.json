@@ -1,0 +1,47 @@
+{
+    "product-insteadofprice": "5,49",
+    "product-priceperunit": "10,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "100% BIO SOK ARONIJE, MEDITERRA, 500ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Mangan 0,40 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "13,00 g",
+            "Total Fat": "0,49 g",
+            "Protein": "0,49 g",
+            "kJ": "244,00 ",
+            "Sugar": "7,70 g",
+            "kcal": "58,00 ",
+            "Saturated fat": "0,20 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "50 ml soka 2-krat dnevno, najbolje po jedi."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "100 % BIO SOK ARONIJE IZ SVEŽIH JAGOD",
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "aronija sok bio 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SOK ARONIJA 100 % 500ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "5,49",
+    "teaser-text": "SOK ARONIJA 100 % 500ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/100-bio-sok-aronije-mediterra-500ml/p/477247",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/477247/dt_main.jpg"
+}

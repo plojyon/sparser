@@ -1,0 +1,43 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "0,98",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Margarina se uporablja za pripravo peciva in slaščic, ter pripravo različnih jedi."
+        },
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Margarina",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3005,00 ",
+            "Saturated fat": "40,00 g",
+            "Protein": "0,50 g",
+            "Sugar": "0,70 g",
+            "Total Fat": "80,00 g",
+            "kcal": "725,00 ",
+            "Total Carbohydrate": "0,70 g",
+            "Salt": "0,40 g"
+        }
+    },
+    "product-priceperunit": "3,92 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/delikatesna-margarina-extra-80-zvjezda-250g/p/41345",
+    "product-price": "0,98",
+    "title": "DELIKATESNA MARGARINA EXTRA 80%, ZVJEZDA, 250G",
+    "description": "MARGARINA ZVIJEZ EX 250G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41345/dt_main.jpg",
+    "teaser-text": "MARGARINA ZVIJEZ EX 250G"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "4,98",
+    "product-priceperunit": "39,84 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BONBONIERA, PRALINES CLASSIC, LINDT, 125 G, BOX",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "fine praline",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI, MANDLJI."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,30 g",
+            "Total Carbohydrate": "51,00 g",
+            "Total Fat": "35,00 g",
+            "Protein": "7,70 g",
+            "kJ": "2322,00 ",
+            "Sugar": "48,00 g",
+            "kcal": "557,00 ",
+            "Saturated fat": "16,00 g"
+        }
+    },
+    "description": "BON.PRAL.CLAS.LINDT 125G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,98",
+    "teaser-text": "BON.PRAL.CLAS.LINDT 125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bonboniera-pralines-classic-lindt-125-g-box/p/459358",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/459358/dt_main.jpg"
+}

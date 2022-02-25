@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "4,47",
+    "product-priceperunit": "15,41 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "AJVAR DOMAČI S PEČENO PAPRIKO, NATURETA, 290G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Domači nepekoči ajvar",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "sestavine": "pečena paprika 92,00 %, sončnično olje, sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "290g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,80 g",
+            "Total Carbohydrate": "13,40 g",
+            "Total Fat": "11,70 g",
+            "Protein": "2,30 g",
+            "kJ": "723,00 ",
+            "Sugar": "2,10 g",
+            "kcal": "172,00 ",
+            "Saturated fat": "1,80 g"
+        }
+    },
+    "description": "AJVAR DOMAČI 290G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,47",
+    "teaser-text": "AJVAR DOMAČI 290G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ajvar-domaci-s-peceno-papriko-natureta-290g/p/486490",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/486490/dt_main.jpg"
+}

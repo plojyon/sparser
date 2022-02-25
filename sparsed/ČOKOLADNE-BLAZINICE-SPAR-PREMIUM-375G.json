@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "3,59",
+    "product-priceperunit": "9,57 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČOKOLADNE BLAZINICE SPAR PREMIUM, 375G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "375G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR PREMIUM ČOKOLADNE BLAZINICE",
+        "opis": "Ekstrudirane žitarice s čokoladnim kremnim polnilom in lešniki 3,5% z dodanimi vitamini. Delež čokolade: 6 %.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,62 g",
+            "Total Carbohydrate": "68,00 g",
+            "Prehranske vlaknine": "5,00 g",
+            "Total Fat": "14,00 g",
+            "Protein": "8,00 g",
+            "kJ": "1850,00 ",
+            "Sugar": "34,00 g",
+            "kcal": "440,00 ",
+            "Saturated fat": "7,00 g"
+        }
+    },
+    "description": "SPAR PREM.ČOKO.BLAZ.375G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,59",
+    "teaser-text": "SPAR PREM.ČOKO.BLAZ.375G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cokoladne-blazinice-spar-premium-375g/p/451249",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/451249/dt_main.jpg"
+}

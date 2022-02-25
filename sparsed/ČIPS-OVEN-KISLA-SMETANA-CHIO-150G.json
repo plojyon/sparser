@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "10,60 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "ČIPS OVEN KISLA SMETANA, CHIO, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,60 g",
+            "Total Carbohydrate": "74,00 g",
+            "Total Fat": "9,30 g",
+            "Protein": "6,10 g",
+            "kJ": "1731,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "410,00 ",
+            "Saturated fat": "1,20 g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "contact-information": {
+            "kontakt:": "Intersnack, d. o. o., Brnčičeva ulica 29, 1000 Ljubljana"
+        }
+    },
+    "description": "ČIPS OVENCHI.CHIO150G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,59",
+    "teaser-text": "ČIPS OVENCHI.CHIO150G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/cips-oven-kisla-smetana-chio-150g/p/452658",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452658/dt_main.jpg"
+}

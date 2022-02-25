@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,56",
+    "product-priceperunit": "2,80 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ALPSKO MLEKO VANILIJA, LJUBLJANSKE ML., 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ALPSKO MLEKO VANILIJA 200ML TBA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "9,50 g",
+            "Total Fat": "0,60 g",
+            "Protein": "3,10 g",
+            "kJ": "236,00 ",
+            "Sugar": "9,40 g",
+            "kcal": "56,00 ",
+            "Saturated fat": "0,40 g"
+        }
+    },
+    "description": "MLEKO ALPSKO VANI 200ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,56",
+    "teaser-text": "MLEKO ALPSKO VANI 200ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/alpsko-mleko-vanilija-ljubljanske-ml-200ml/p/501735",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/501735/dt_main.jpg"
+}

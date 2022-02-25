@@ -1,0 +1,46 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,70 g",
+            "Total Fat": "2,90 g",
+            "Total Carbohydrate": "32,70 g",
+            "Sugar": "4,10 g",
+            "Salt": "1,90 g",
+            "kJ": "798,00 ",
+            "Protein": "7,90 g",
+            "kcal": "189,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "security-warning": {
+            "varnostna-opozorila": "Po odtajanju ne zamrzujte ponovno."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska c. 154, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH)."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek je potrebno termično obdelatI: zamrznjene cmoke stresite v rahlo osoljeno vodo in kuhajte ob rahlem vretju 15 do 20 minut. Kuhane cmoke odcedite in jih ponudite kot prilogo k zelenjavnim ali mesnim omakam."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/kruhovi-cmoki-zito-1kg/p/271656",
+    "product-price": "6,70",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/271656/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h20/hb7/10524621668382/badge-frozen-FIN.jpg",
+    "product-insteadofprice": "6,70",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Zamrznjeno",
+    "teaser-text": "CMOKI KRUHOVI 1KG",
+    "product-stock-status": "",
+    "title": "KRUHOVI CMOKI, ŽITO, 1KG",
+    "product-priceperunit": "6,70 €/kg",
+    "description": "CMOKI KRUHOVI 1KG"
+}

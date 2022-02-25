@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "9,40 g",
+            "Total Fat": "25,60 g",
+            "Total Carbohydrate": "4,20 g",
+            "Sugar": "0,31 g",
+            "Salt": "1,80 g",
+            "kJ": "1230,00 ",
+            "Protein": "12,40 g",
+            "kcal": "297,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "PREMIUM MESNI NAREZEK 100g, sterilizirana mesnina",
+        "security-warning": {
+            "varnostna-opozorila": "Če je embalaža napihnjena ali predrta izdelek ni uporaben"
+        },
+        "opis": "Mesni narezek, tradicionalna slovenska delikatesa iz posebej izbranih surovin in dodatkov dišavnic je izvrstna jed za malice, zajtrke in večerje.",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "contact-information": {
+            "kontakt:": "Osem d.o.o., Čopova ulica 28, 9000 Murska Sobota"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mesni-narezek-premium-100g/p/234015",
+    "product-price": "0,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/234015/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "NAREZEK MESNI 100G",
+    "product-stock-status": "",
+    "title": "MESNI NAREZEK, PREMIUM, 100G",
+    "product-priceperunit": "9,90 €/kg",
+    "description": "NAREZEK MESNI 100G"
+}

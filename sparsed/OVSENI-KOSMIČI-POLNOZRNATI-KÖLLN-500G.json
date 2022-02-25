@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,85",
+    "product-priceperunit": "3,70 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OVSENI KOSMIČI POLNOZRNATI, KÖLLN, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "55,80 g",
+            "Total Fat": "6,70 g",
+            "Protein": "13,80 g",
+            "kJ": "1520,00 ",
+            "Sugar": "1,20 g",
+            "kcal": "361,00 ",
+            "Saturated fat": "1,30 g"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin B1 (Tiamin) 0,42 mg, Fosfor 436,00 mg, Magnezij 147,00 mg, Železo 5,40 mg, Cink 3,90 mg."
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "KOSMIČI OVSENI POL.500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,85",
+    "teaser-text": "KOSMIČI OVSENI POL.500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ovseni-kosmici-polnozrnati-klln-500g/p/472290",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/472290/dt_main.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,93",
+    "product-priceperunit": "15,44 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR MOZZARELLA, BRIMI, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "125G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "MOZZARELLA SIR 125G",
+        "contact-information": {
+            "kontakt:": "Al Ponte d.o.o., Pot k sejmišču 30, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,61 g",
+            "Total Carbohydrate": "1,53 g",
+            "Total Fat": "17,63 g",
+            "Protein": "16,60 g",
+            "kJ": "961,00 ",
+            "Sugar": "0,85 g",
+            "kcal": "231,00 ",
+            "Saturated fat": "12,11 g"
+        }
+    },
+    "description": "SIR MOZARELLA BRIMI 125G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,93",
+    "teaser-text": "SIR MOZARELLA BRIMI 125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-mozzarella-brimi-125g/p/480652",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/480652/dt_main.jpg"
+}

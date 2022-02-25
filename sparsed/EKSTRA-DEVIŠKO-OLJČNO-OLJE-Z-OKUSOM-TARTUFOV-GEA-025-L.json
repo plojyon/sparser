@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "OLJČNO OLJE TARTUFI 250M",
+    "description": "OLJČNO OLJE TARTUFI 250M",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "GEA oljčno olje z okusom tartufov",
+        "ingredient-information": {
+            "sestavine": "ekstra deviško oljčno olje, aroma tartufov."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "3700,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "kcal": "900,00 ",
+            "Saturated fat": "16,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "title": "EKSTRA DEVIŠKO OLJČNO OLJE Z OKUSOM TARTUFOV, GEA, 0,25 L",
+    "url": "https://www.spar.si/online/ekstra-devisko-oljcno-olje-z-okusom-tartufov-gea-025-l/p/435289",
+    "isOnPromotion": "false",
+    "product-priceperunit": "16,68 €/l",
+    "product-insteadofprice": "4,17",
+    "product-stock-status": "",
+    "product-price": "4,17",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/435289/dt_main.jpg"
+}

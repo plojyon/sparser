@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "5,99",
+    "product-priceperunit": "39,93 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SOJINA OMAKA KIKKOMAN, 150ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "16,90 g",
+            "Total Carbohydrate": "3,20 g",
+            "Total Fat": "0,00 g",
+            "Protein": "10,00 g",
+            "kJ": "325,00 ",
+            "Sugar": "0,60 g",
+            "kcal": "77,00 ",
+            "Saturated fat": "0,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,15l"
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, Ljubljana"
+        }
+    },
+    "description": "OMAKA SOJINA 150ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,99",
+    "teaser-text": "OMAKA SOJINA 150ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sojina-omaka-kikkoman-150ml/p/445144",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/445144/dt_main.jpg"
+}

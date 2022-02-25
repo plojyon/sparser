@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,93",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/sladkorna-glazura-mirror-glaze-dr-oetker-130g/p/583060",
+    "title": "SLADKORNA GLAZURA MIRROR GLAZE, DR. OETKER, 130G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,93",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Dr. Oetker d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "130g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sladkorna glazura",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "42,00 g",
+            "Total Carbohydrate": "54,00 g",
+            "Saturated fat": "6,60 g",
+            "Protein": "3,40 g",
+            "Total Fat": "8,20 g",
+            "kcal": "303,00 ",
+            "Salt": "0,10 g",
+            "kJ": "1278,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "product-priceperunit": "7,15 €/kg",
+    "teaser-text": "GLAZURA SLADKORNA 130G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "GLAZURA SLADKORNA 130G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/583060/dt_main.jpg",
+    "product-brand": ""
+}

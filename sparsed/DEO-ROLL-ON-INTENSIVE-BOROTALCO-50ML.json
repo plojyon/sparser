@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,89",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,05l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Ne nanesite prekomerno. Ne nanesite na poškodovano in občutljivo kožo. V primeru alergijske reakcije prekinite z uporabo."
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Aluminium Chlorohydrate, PPG-15, Stearyl Ether, Steareth-2, Triethyl Citrate, Parfum, Steareth-21, Talc, BHT, Magnesium Aluminium Silicate, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Salicylate, Citral, Coumarin, Geraniol, Hydroxycitronellal, Limonene, Linalool, Alpha-Isomethyl Ionone, Citronellol."
+        },
+        "opis": "Borotalco Intensive deo roll on nudi učinkovito 48-urno zaščito. Dermatološko testirano.",
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "58,40 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/deo-roll-on-intensive-borotalco-50ml/p/512412",
+    "product-price": "2,92",
+    "title": "DEO ROLL ON INTENSIVE BOROTALCO, 50ML",
+    "description": "DEO ROLLON BOROTALCO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512412/dt_main.jpg",
+    "teaser-text": "DEO ROLLON BOROTALCO"
+}

@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "10,79",
+    "product-priceperunit": "10,79 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR ŠMARSKI ROK ZELENE DOLINE, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "3,10 g",
+            "Total Fat": "13,50 g",
+            "Protein": "31,30 g",
+            "kJ": "1084,00 ",
+            "Sugar": "3,10 g",
+            "kcal": "259,00 ",
+            "Saturated fat": "9,20 g"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 1000,00 mg."
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        }
+    },
+    "description": "Sir Šmarski Rok 25%m.m.",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "10,79",
+    "teaser-text": "Sir Šmarski Rok 25%m.m.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-smarski-rok-zelene-doline-1kg/p/46364",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/46364/dt_main.jpg"
+}

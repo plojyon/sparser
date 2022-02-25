@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "5,60",
+    "product-priceperunit": "9,66 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "OLIVE TRIS S.A.TOS, 580ML",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "350G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {
+            "kontakt:": "FIN - TUN d.o.o., Perovo 55, 1290 Grosuplje"
+        },
+        "ingredient-information": {
+            "sestavine": "cele zelene olive, zelene olive polnjene s pasto paprike, cele črne olive, sončnično olje, rdeča paprika, voda, sol, peteršilj, origano, česen, pekoča paprika, E330, E300."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,58l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,97 g",
+            "Total Carbohydrate": "0,10 g",
+            "Prehranske vlaknine": "6,93 g",
+            "Total Fat": "23,00 g",
+            "Protein": "1,67 g",
+            "kJ": "955,00 ",
+            "Sugar": "0,10 g",
+            "kcal": "227,00 ",
+            "Saturated fat": "7,71 g"
+        }
+    },
+    "description": "OLIVE TRIS 580ML S.A.TOS",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "5,60",
+    "teaser-text": "OLIVE TRIS 580ML S.A.TOS",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/olive-tris-satos-580ml/p/513402",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/513402/dt_main.jpg"
+}

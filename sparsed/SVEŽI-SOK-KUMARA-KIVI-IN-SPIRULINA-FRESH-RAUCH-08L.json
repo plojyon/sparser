@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "url": "https://www.spar.si/online/svezi-sok-kumara-kivi-in-spirulina-fresh-rauch-08l/p/528962",
+    "title": "SVEŽI SOK KUMARA, KIVI IN SPIRULINA FRESH, RAUCH, 0,8L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,99",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,8l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "10,00 g",
+            "Total Carbohydrate": "10,70 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,50 g",
+            "Total Fat": "0,20 g",
+            "kcal": "49,00 ",
+            "Salt": "0,00 g",
+            "kJ": "206,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Negazirana brezalkoholna pijača iz več vrst sadja in kumare s spirulino",
+        "ingredient-information": {
+            "sestavine": "jabolčni sok, grozdni sok, sok kumare 12,00 %, kaša kivija 10,00 %, kaša iz jabolk, limonin sok, izvleček spiruline 0,20 %, izvleček žafranike, vitamin c."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 12,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "product-priceperunit": "3,74 €/l",
+    "teaser-text": "SOK JUICE KUM.KIV.0,8L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SOK JUICE KUM.KIV.0,8L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/528962/dt_main.jpg",
+    "product-brand": ""
+}

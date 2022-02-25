@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "25,89",
+    "product-priceperunit": "21,99 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "SUHA DOMAČA KLOBASA V GORENJSKI ZASEKI IN DEŽI, ČADEŽ, CCA. 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "ČADEŽ d.o.o., Visoko 7g, 4212 Visoko"
+        },
+        "ingredient-information": {
+            "sestavine": "suha domača klobasa 60,00 %, svinjsko meso, slanina, jedilna sol, začimbe, konzervans: natrijev nitrit, zaseka 40,00 %, slanina, morska sol, začimbe."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "55,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,64 g",
+            "Total Carbohydrate": "0,90 g",
+            "Total Fat": "61,71 g",
+            "Protein": "20,77 g",
+            "kJ": "2644,00 ",
+            "Sugar": "0,20 g",
+            "kcal": "640,00 ",
+            "Saturated fat": "23,57 g"
+        }
+    },
+    "description": "KLOBASA SUHA V ZASEKI",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "21,99",
+    "teaser-text": "KLOBASA SUHA V ZASEKI",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/suha-domaca-klobasa-v-gorenjski-zaseki-in-dezi-cadez-cca-1kg/p/501459",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/501459/dt_main.jpg"
+}

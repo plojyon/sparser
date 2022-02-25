@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,89",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Mlečna čokolada vsebuje najmanj 30% kakavovih delov.",
+        "contact-information": {
+            "kontakt:": "Mondelez d.o.o., Trzin, Planjava 2, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "156g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "FIN PEKOVSKI IZDELEK. KAKAVOV KEKS S KOŠČKI MLEČNE ČOKOLADE Z ALPSKIM MLEKOM (15,4%) IN POLNILOM (26%) Z MLEČNO ČOKOLADO (45%).",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, JAJCA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2140,00 ",
+            "Saturated fat": "9,00 g",
+            "Prehranske vlaknine": "1,60 g",
+            "Protein": "4,20 g",
+            "Sugar": "39,00 g",
+            "Total Fat": "27,00 g",
+            "kcal": "510,00 ",
+            "Total Carbohydrate": "63,00 g",
+            "Salt": "0,88 g"
+        }
+    },
+    "product-priceperunit": "12,12 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/keksi-z-mlecno-cokolado-cookie-sensations-milka-156g/p/525207",
+    "product-price": "1,89",
+    "title": "KEKSI Z MLEČNO ČOKOLADO COOKIE SENSATIONS, MILKA, 156G",
+    "description": "KEKSI SENS.CHO.INS.156G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/525207/dt_main.jpg",
+    "teaser-text": "KEKSI SENS.CHO.INS.156G"
+}

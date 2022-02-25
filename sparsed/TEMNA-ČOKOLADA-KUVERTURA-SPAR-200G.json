@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "5,95 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR KUVERTURA ČOKO.200G",
+    "teaser-text": "SPAR KUVERTURA ČOKO.200G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "32,00 g",
+            "Saturated fat": "19,00 g",
+            "Total Carbohydrate": "49,00 g",
+            "kJ": "2214,00 ",
+            "Protein": "6,90 g",
+            "Salt": "0,13 g",
+            "Sugar": "43,00 g",
+            "kcal": "531,00 ",
+            "Prehranske vlaknine": "9,90 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Temna čokolada za prelive, dekoracijo in peko. Kakavovi deli: najmanj 56%.",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/temna-cokolada-kuvertura-spar-200g/p/381327",
+    "product-insteadofprice": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/381327/dt_main.jpg",
+    "title": "TEMNA ČOKOLADA KUVERTURA SPAR, 200G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

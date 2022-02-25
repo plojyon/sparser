@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "13,00 g",
+            "Total Fat": "33,70 g",
+            "Total Carbohydrate": "1,00 g",
+            "Sugar": "0,50 g",
+            "Salt": "4,20 g",
+            "kJ": "1725,00 ",
+            "Protein": "27,10 g",
+            "kcal": "416,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "GRAJSKA SALAMA",
+        "contact-information": {
+            "kontakt:": "Panvita Mir d.d., Ljutomerska cesta 28a, 9250 Gornja Radgona, Slovenija"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "34,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/grajska-salama-ave-1kg/p/278809",
+    "product-price": "12,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/278809/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "12,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SALAMA GRAJSKA AVE",
+    "product-stock-status": "",
+    "title": "GRAJSKA SALAMA, AVE, 1KG",
+    "product-priceperunit": "12,99 €/kg",
+    "description": "SALAMA GRAJSKA AVE"
+}

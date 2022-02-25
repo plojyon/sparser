@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "4,57 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "title": "PIKANTNA OMAKA S SIROM NACHO, SPAR, 435G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,00 g",
+            "Total Carbohydrate": "6,50 g",
+            "Total Fat": "26,00 g",
+            "Protein": "3,40 g",
+            "kJ": "1264,00 ",
+            "Sugar": "2,80 g",
+            "kcal": "306,00 ",
+            "Saturated fat": "4,70 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "435g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO, GORČIČNO SEME."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priporočeno toplo serviranje."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "description": "SPAR NACHO OMAKA 435G",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "SPAR NACHO OMAKA 435G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pikantna-omaka-s-sirom-nacho-spar-435g/p/514148",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/514148/dt_main.jpg"
+}

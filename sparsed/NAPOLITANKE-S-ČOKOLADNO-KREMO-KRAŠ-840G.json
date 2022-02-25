@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,98",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "840g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelek. Vafelj izdelek s čokoladnim polnilom (72%).",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2243,00 ",
+            "Saturated fat": "11,00 g",
+            "Protein": "5,30 g",
+            "Sugar": "35,40 g",
+            "Total Fat": "29,70 g",
+            "kcal": "537,00 ",
+            "Total Carbohydrate": "62,00 g",
+            "Salt": "0,30 g"
+        }
+    },
+    "product-priceperunit": "4,74 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/napolitanke-s-cokoladno-kremo-kras-840g/p/417621",
+    "product-price": "3,98",
+    "title": "NAPOLITANKE S ČOKOLADNO KREMO, KRAŠ, 840G",
+    "description": "NAPOL.ČOK.KR.KRAŠ 840G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/417621/dt_main.jpg",
+    "teaser-text": "NAPOL.ČOK.KR.KRAŠ 840G"
+}

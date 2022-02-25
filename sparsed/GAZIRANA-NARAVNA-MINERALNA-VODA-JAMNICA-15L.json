@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "0,43 €/l",
+    "title": "GAZIRANA NARAVNA MINERALNA VODA, JAMNICA, 1,5L",
+    "product-info": {
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "base-information": {
+            "vitamini-in-minerali": "Kalij 2,69 mg, Kalcij 11,00 mg, Magnezij 47,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kcal": "0,00 ",
+            "Total Fat": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Jamnica Mineralna Voda d.o.o., Limbuška cesta 2, 2341 Limbuš"
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        }
+    },
+    "product-stock-status": "",
+    "product-price": "0,64",
+    "product-badge-hostname": "https://www.spar.si",
+    "url": "https://www.spar.si/online/gazirana-naravna-mineralna-voda-jamnica-15l/p/147696",
+    "product-amount": "",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "description": "JAMNICA 1,5L MIN.VODA",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/147696/dt_main.jpg",
+    "isOnPromotion": "true",
+    "product-insteadofprice": "0,64",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "teaser-text": "JAMNICA 1,5L MIN.VODA"
+}

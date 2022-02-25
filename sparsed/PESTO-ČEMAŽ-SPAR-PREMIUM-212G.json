@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "teaser-text": "SPAR PR.PESTO ČEMAŽ 212G",
+    "description": "SPAR PR.PESTO ČEMAŽ 212G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "212g"
+        },
+        "opis": "SPAR PREMIUM čemažev pesto sestavljajo v Sloveniji nabrani mladi listi čemaža in SPAR PREMIUM ekstra deviško oljčno olje, ki se prideluje v slovenski Istri na kmetiji Dolina miru. SPAR PREMIUM čemažev pesto je izvrsten dodatek k testeninam, mesnim omakam in rižotam.",
+        "ingredient-information": {
+            "sestavine": "čemaž, ekstra deviško oljčno olje."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1680,00 ",
+            "Salt": "4,20 g",
+            "Sugar": "0,81 g",
+            "Total Carbohydrate": "1,40 g",
+            "Total Fat": "43,40 g",
+            "kcal": "408,00 ",
+            "Prehranske vlaknine": "2,50 g",
+            "Saturated fat": "6,80 g",
+            "Protein": "1,80 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "title": "PESTO ČEMAŽ SPAR PREMIUM, 212G",
+    "url": "https://www.spar.si/online/pesto-cemaz-spar-premium-212g/p/434878",
+    "isOnPromotion": "false",
+    "product-priceperunit": "29,20 €/kg",
+    "product-insteadofprice": "6,19",
+    "product-stock-status": "",
+    "product-price": "6,19",
+    "product-brand": "",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/434878/dt_main.jpg"
+}

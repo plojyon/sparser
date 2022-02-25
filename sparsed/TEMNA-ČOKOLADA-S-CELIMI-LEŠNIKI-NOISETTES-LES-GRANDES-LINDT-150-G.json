@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "ČOK.TEMNA Z LEŠ.150G",
+    "description": "ČOK.TEMNA Z LEŠ.150G",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje mandlje, mleko."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "temna čokolada s celimi lešniki (34%)",
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2382,00 ",
+            "Salt": "0,02 g",
+            "Sugar": "39,00 g",
+            "Total Carbohydrate": "42,00 g",
+            "Total Fat": "40,00 g",
+            "kcal": "573,00 ",
+            "Saturated fat": "13,00 g",
+            "Protein": "8,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "TEMNA ČOKOLADA S CELIMI LEŠNIKI, NOISETTES, LES GRANDES, LINDT, 150 G",
+    "url": "https://www.spar.si/online/temna-cokolada-s-celimi-lesniki-noisettes-les-grandes-lindt-150-g/p/394443",
+    "isOnPromotion": "false",
+    "product-priceperunit": "22,60 €/kg",
+    "product-insteadofprice": "3,39",
+    "product-stock-status": "",
+    "product-price": "3,39",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/394443/dt_main.jpg"
+}

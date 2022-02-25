@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,49",
+    "product-priceperunit": "2,13 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ČOKOLADNA PLOŠČICA, MLEČNA PRALINA, BREZ DODANEGA SLADKORJA, BALANCE, KLINGELE, 35 G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": null,
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "700g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,05 g",
+            "Total Carbohydrate": "40,10 g",
+            "Total Fat": "42,80 g",
+            "Protein": "6,30 g",
+            "kJ": "2201,00 ",
+            "Sugar": "6,60 g",
+            "kcal": "528,00 ",
+            "Saturated fat": "23,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "PLOŠČICA BREZ SLAD. 35G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,49",
+    "teaser-text": "PLOŠČICA BREZ SLAD. 35G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/cokoladna-ploscica-mlecna-pralina-brez-dodanega-sladkorja-balance-klingele-35-g/p/488827",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/488827/dt_main.jpg"
+}

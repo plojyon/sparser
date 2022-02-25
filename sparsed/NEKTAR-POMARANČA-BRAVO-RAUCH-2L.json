@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "0,86 €/l",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "NEK. POMARAN.BRAVO 2L TZ",
+    "teaser-text": "NEK. POMARAN.BRAVO 2L TZ",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 12,00 mg, Kalcij 60,00 mg, Magnezij 28,00 mg."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "539,00 g",
+            "kJ": "126,00 ",
+            "Protein": "0,50 g",
+            "Salt": "0,10 g",
+            "Sugar": "5,90 g",
+            "kcal": "3,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Nektar iz pomaranč z sladkorjem in sladili, vitaminom C, kalcijem in magnezijem. Sadni delež: najmanj 50% pomarančnega soka iz koncentriranega soka.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "2l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, zgoščeni pomarančni sok, sladkor, citronska kislina, kalcijev, magnezijev citrat."
+        }
+    },
+    "url": "https://www.spar.si/online/nektar-pomaranca-bravo-rauch-2l/p/38547",
+    "product-insteadofprice": "2,15",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/38547/dt_main.jpg",
+    "title": "NEKTAR POMARANČA BRAVO, RAUCH, 2L",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,72",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

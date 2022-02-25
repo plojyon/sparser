@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "GUSSNEL 200G DOLCELA",
+    "description": "GUSSNEL 200G DOLCELA",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "sestavine": "koruzni škrob."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1507,00 ",
+            "Salt": "0,05 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "88,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "355,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "title": "JEDILNI KORUZNI ŠKROB DOLCELA, PODRAVKA, 200G",
+    "url": "https://www.spar.si/online/jedilni-koruzni-skrob-dolcela-podravka-200g/p/40902",
+    "isOnPromotion": "true",
+    "product-priceperunit": "4,00 €/kg",
+    "product-insteadofprice": "0,95",
+    "product-stock-status": "",
+    "product-price": "0,80",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/40902/dt_main.jpg"
+}

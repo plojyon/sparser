@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "24,00 g",
+            "Total Fat": "40,00 g",
+            "Total Carbohydrate": "47,00 g",
+            "Sugar": "27,00 g",
+            "Salt": "0,00 g",
+            "kJ": "2444,00 ",
+            "Protein": "9,70 g",
+            "kcal": "587,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "TEMNA ČOKOLADA S 70% KAKAVOVIH DELOV",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "opis": "Čokoladna masa vsebuje min. 70 % kakavovih delov.",
+        "product-net-cont": {
+            "neto-količina": "70g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/temna-cokolada-gorenjka-70g/p/277417",
+    "product-price": "1,09",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/277417/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,09",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "ČOK.TEMNA 70% KAK.70G",
+    "product-stock-status": "",
+    "title": "TEMNA ČOKOLADA GORENJKA, 70G",
+    "product-priceperunit": "15,57 €/kg",
+    "description": "ČOK.TEMNA 70% KAK.70G"
+}

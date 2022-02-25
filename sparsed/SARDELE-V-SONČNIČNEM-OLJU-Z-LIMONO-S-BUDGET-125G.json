@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "0,69",
+    "product-priceperunit": "5,52 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SARDELE V SONČNIČNEM OLJU Z LIMONO, S-BUDGET, 125G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "90G"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SARDELE V SONČNIČNEM OLJU Z LIMONO S-BUDGET, 125 G (FAO 34 - vzhodni srednji Atlantik)",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "trade-group": {
+            "latinsko-ime": "sardina pilchardus walbaum"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,30 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "15,00 g",
+            "Protein": "23,00 g",
+            "kJ": "946,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "227,00 ",
+            "Saturated fat": "2,90 g"
+        }
+    },
+    "description": "SB SARDELE Z LIMONO 125G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,69",
+    "teaser-text": "SB SARDELE Z LIMONO 125G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sardele-v-soncnicnem-olju-z-limono-s-budget-125g/p/477666",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/477666/dt_main.jpg"
+}

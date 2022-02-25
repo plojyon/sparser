@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "12,00 g",
+            "Total Fat": "21,00 g",
+            "Total Carbohydrate": "66,00 g",
+            "Sugar": "30,00 g",
+            "Salt": "0,57 g",
+            "kJ": "2045,00 ",
+            "Protein": "7,60 g",
+            "kcal": "488,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "security-warning": {
+            "varnostna-opozorila": "Na proizvodni liniji v predelavi tudi soja, lešniki in mandlji."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/keksi-s-cokolado-minis-choco-leibniz-100g/p/257805",
+    "product-price": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/257805/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KEKSI MAS.MINI ČOK.100G",
+    "product-stock-status": "",
+    "title": "KEKSI S ČOKOLADO MINIS CHOCO, LEIBNIZ, 100G",
+    "product-priceperunit": "12,90 €/kg",
+    "description": "KEKSI MAS.MINI ČOK.100G"
+}

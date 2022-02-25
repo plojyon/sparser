@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,70 g",
+            "Total Fat": "74,20 g",
+            "Total Carbohydrate": "74,20 g",
+            "Sugar": "2,10 g",
+            "Salt": "0,00 g",
+            "kJ": "1575,00 ",
+            "Protein": "12,80 g",
+            "kcal": "377,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Testenina z jajci",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Čas kuhanja: cca. 10 minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA."
+        },
+        "contact-information": {
+            "kontakt:": "Suzana Lah s.p., Mladinska ul. 19, 2314 Zgornja Polskava"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jajcna-ribana-kasa-lahov-mlin-400g/p/260082",
+    "product-price": "2,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/260082/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,99",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KAŠA RIBANA 400G",
+    "product-stock-status": "",
+    "title": "JAJČNA RIBANA KAŠA, LAHOV MLIN, 400G",
+    "product-priceperunit": "7,48 €/kg",
+    "description": "KAŠA RIBANA 400G"
+}

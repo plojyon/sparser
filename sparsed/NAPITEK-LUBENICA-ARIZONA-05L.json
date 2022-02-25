@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,28",
+    "product-priceperunit": "2,56 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "NAPITEK LUBENICA, ARIZONA, 0,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna brezalkoholna pijača",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Novi Kolektiv d.o.o., Ulica Janeza Pavla II. 23, 1000 Ljubljana, Slovenia"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, sok iz koncentrata (hruška, lubenica, ananas, kivi), sladkor, mangova kaša, citronska kislina, barvilna hrana: koncentriran sok korenja, borovnice in sladkega krompirja, naravna aroma, antioksidant askorbinska kislina, stabilizator gumi acacia in ester gumi."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "8,90 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,01 g",
+            "kJ": "145,00 ",
+            "Sugar": "8,40 g",
+            "kcal": "35,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAP. ARIZONA LUB.0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,28",
+    "teaser-text": "NAP. ARIZONA LUB.0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/napitek-lubenica-arizona-05l/p/477384",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/477384/dt_main.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "1,87 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SIRUP FRUPI LIMONA 3L",
+    "teaser-text": "SIRUP FRUPI LIMONA 3L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Vital Mestinje, d.o.o., Stranje 7a, 3241 Podplat"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Total Carbohydrate": "3,60 g",
+            "kJ": "61,00 ",
+            "Protein": "0,10 g",
+            "Salt": "0,01 g",
+            "Sugar": "3,50 g",
+            "kcal": "14,00 ",
+            "Prehranske vlaknine": "0,01 g"
+        },
+        "opis": "Z nizko energijsko vrednostjo.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "SADNI SIRUP Z OKUSOM LIMONE IZ ZGOŠČENEGA SOKA LIMON Z DODANIM SLADKORJEM IN SLADILI. Z NIZKO ENERGIJSKO VREDNOSTJO. SADNI DELEŽ: 9%.",
+        "ingredient-information": {
+            "sestavine": "voda, glukozni-fruktozni sirup, limonin sok iz zgoščenega soka limon 9,00 %, kislina (citronska kislina), stabilizatorji (gumi arabicum, karboksimetil celuloza, glicerolni estri lesnih smol), sladila: natrijev ciklamat, natrijev saharinat, aspartam (vsebuje vir fenilalanina), acesulfam k, aroma, antioksidant (askorbinska kislina), barvili (amonijev sulfitni karamel, beta karoten), konzervans (kalijev sorbat)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "3l"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priporočamo razredčitev 1 dela sirupa z 8 deli vode."
+        }
+    },
+    "url": "https://www.spar.si/online/sirup-limona-frupi-3l/p/383070",
+    "product-insteadofprice": "5,60",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/383070/dt_main.jpg",
+    "title": "SIRUP LIMONA, FRUPI, 3L",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,60",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

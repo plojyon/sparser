@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "10,62 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "OLIVE POLN.TABASCOM 340G",
+    "teaser-text": "OLIVE POLN.TABASCOM 340G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "AL PONTE, d.o.o., Pot k sejmišču 30, Ljubljana"
+        },
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "10,10 g",
+            "Saturated fat": "1,70 g",
+            "Total Carbohydrate": "0,50 g",
+            "kJ": "402,60 ",
+            "Protein": "1,20 g",
+            "Salt": "3,50 g",
+            "Sugar": "0,00 g",
+            "kcal": "97,90 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "TABASCO ŠPANSKE OLIVE Z RDEČO PAPRIKO 340G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "340g"
+        },
+        "ingredient-information": {
+            "sestavine": "zelene olive manzanilla, voda, pasta rdeče paprike (rdeča paprika, stabilizator: natrijev alginat) 14,00 %, jedilna sol, sredstvo za uravnjavanje kislosti: citronska in mlečna kislina, izboljševalec okusa: mononatrijev glutamat, antioksidant: askorbinska kislina in tabasco (rdeča paprika)."
+        }
+    },
+    "url": "https://www.spar.si/online/polnjene-olive-tabasco-hotspicy-mcilhenny-340g/p/361295",
+    "product-insteadofprice": "3,61",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361295/dt_main.jpg",
+    "title": "POLNJENE OLIVE TABASCO HOT&SPICY, MCILHENNY, 340G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,61",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

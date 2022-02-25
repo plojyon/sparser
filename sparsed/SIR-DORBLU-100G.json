@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,43",
+    "product-priceperunit": "12,10 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "SIR DORBLU, 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,50 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "29,00 g",
+            "Protein": "19,00 g",
+            "kJ": "1396,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "337,00 ",
+            "Saturated fat": "19,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Kaserei Champignon Hofmeister d.o.o., Trzin, Kidričeva 77, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Poltrdi sir s plemenito modro plesnijo"
+    },
+    "description": "SIR DORBLUE 100G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,21",
+    "teaser-text": "SIR DORBLUE 100G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/sir-dorblu-100g/p/45230",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/45230/dt_main.jpg"
+}

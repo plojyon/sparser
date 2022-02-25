@@ -1,0 +1,41 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SCHWEPPES TANGERINE 1.5L",
+    "description": "SCHWEPPES TANGERINE 1.5L",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "ingredient-information": {
+            "sestavine": "voda, fruktozni-glukozni sirup, mandarinin sok iz zgoščenega mandarininega soka 2,00 %, ogljikov dioksid, kislina: citronska kislina, arome, stabilizatorja: e 414 in E445, antioksidant: askorbinska kislina, konzervans: kalijev sorbat, sladili: acesulfam k in sukraloza, barvilo: karoteni."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "126,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "7,10 g",
+            "Total Carbohydrate": "7,10 g",
+            "Total Fat": "0,00 g",
+            "kcal": "30,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "SCHWEPPES TANGERINE, 1,5L",
+    "url": "https://www.spar.si/online/schweppes-tangerine-15l/p/42870",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,97 €/l",
+    "product-insteadofprice": "1,45",
+    "product-stock-status": "",
+    "product-price": "1,45",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/42870/dt_main.jpg"
+}

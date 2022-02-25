@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "7,94 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "TOFU PEČEN 160G",
+    "teaser-text": "TOFU PEČEN 160G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Pred zaužitjem je potrebno izdelek termično obdelati do središčne temperature vsaj +72 °C."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "11,70 g",
+            "Saturated fat": "1,70 g",
+            "Total Carbohydrate": "1,00 g",
+            "kJ": "808,00 ",
+            "Protein": "19,30 g",
+            "Salt": "0,15 g",
+            "Sugar": "0,02 g",
+            "kcal": "194,00 ",
+            "Prehranske vlaknine": "3,70 g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, ŽVEPLOV DIOKSID IN SULFITI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "160g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pogrejemo na žaru ali na zmernem ognju v ponvi."
+        }
+    },
+    "url": "https://www.spar.si/online/pecen-sojin-tofu-evergreen-160g/p/384822",
+    "product-insteadofprice": "1,27",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384822/dt_main.jpg",
+    "title": "PEČEN SOJIN TOFU, EVERGREEN, 160G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,27",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

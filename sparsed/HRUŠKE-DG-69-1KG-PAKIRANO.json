@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "2,59",
+    "product-priceperunit": "2,59 €/kos",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "HRUŠKE DG 69, 1KG, PAKIRANO",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "DG 69 d.o.o., Drenov Grič 69, 1360 Vrhnika"
+        },
+        "opis": "Pakirane hruške.",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "trade-group": {
+            "razred": "1"
+        }
+    },
+    "description": "HRUŠKE PAKIRANO 1KG",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,59",
+    "teaser-text": "HRUŠKE PAKIRANO 1KG",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/hruske-dg-69-1kg-pakirano/p/473631",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/473631/dt_main.jpg"
+}

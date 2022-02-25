@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,29",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "contact-information": {
+            "kontakt:": "Intersnack, d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "65g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Krompirjev flips, z okusom kečapa",
+        "ingredient-information": {
+            "alergeni": "SOJA."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2126,00 ",
+            "Saturated fat": "2,50 g",
+            "Prehranske vlaknine": "2,40 g",
+            "Protein": "3,10 g",
+            "Sugar": "4,00 g",
+            "Total Fat": "27,00 g",
+            "kcal": "509,00 ",
+            "Total Carbohydrate": "62,00 g",
+            "Salt": "1,90 g"
+        }
+    },
+    "product-priceperunit": "19,85 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/krompirjev-flips-ketchup-pom-br-kellys-65g/p/181431",
+    "product-price": "1,29",
+    "title": "KROMPIRJEV FLIPS KETCHUP POM-BÄR, KELLY´S, 65G",
+    "description": "PRIGRIZ.KRO.KETCH.65G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/181431/dt_main.jpg",
+    "teaser-text": "PRIGRIZ.KRO.KETCH.65G"
+}

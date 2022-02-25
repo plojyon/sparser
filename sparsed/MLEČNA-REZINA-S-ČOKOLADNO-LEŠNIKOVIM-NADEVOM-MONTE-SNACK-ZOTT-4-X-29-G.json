@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,52",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        },
+        "product-net-cont": {
+            "neto-količina": "116g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO, LEŠNIKI, OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1884,00 ",
+            "Saturated fat": "16,40 g",
+            "Protein": "5,80 g",
+            "Sugar": "31,30 g",
+            "Total Fat": "27,80 g",
+            "kcal": "452,00 ",
+            "Total Carbohydrate": "43,80 g",
+            "Salt": "1,80 g"
+        }
+    },
+    "product-priceperunit": "7,84 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecna-rezina-s-cokoladno-lesnikovim-nadevom-monte-snack-zott-4-x-29-g/p/501105",
+    "product-price": "0,91",
+    "title": "MLEČNA REZINA S ČOKOLADNO LEŠNIKOVIM NADEVOM, MONTE SNACK, ZOTT, 4 X 29 G",
+    "description": "REZINA MONTE SNACK 4X29G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/501105/dt_main.jpg",
+    "teaser-text": "REZINA MONTE SNACK 4X29G"
+}

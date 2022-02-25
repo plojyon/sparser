@@ -1,0 +1,46 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "22,38 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO SALAMA S SIROM SPAR NATUR*PUR, 80G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "29,00 g",
+            "Protein": "20,00 g",
+            "kJ": "1413,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "341,00 ",
+            "Saturated fat": "7,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "opis": "Iz ekološke pridelave (Kmetijstvo Avstrije). Sušene mesnine.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "29,00 %"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR NP SALAMA S SIROM",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,79",
+    "teaser-text": "SPAR NP SALAMA S SIROM",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/bio-salama-s-sirom-spar-naturpur-80g/p/494915",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/494915/dt_main.jpg"
+}

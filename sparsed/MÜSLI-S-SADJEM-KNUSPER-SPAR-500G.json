@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "1,98",
+    "product-priceperunit": "3,96 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "MÜSLI S SADJEM KNUSPER, SPAR, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hrustljavi musli s sadjem 7,7%.",
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "66,00 g",
+            "Prehranske vlaknine": "7,20 g",
+            "Total Fat": "13,00 g",
+            "Protein": "8,70 g",
+            "kJ": "1809,00 ",
+            "Sugar": "25,00 g",
+            "kcal": "430,00 ",
+            "Saturated fat": "1,40 g"
+        }
+    },
+    "description": "SPAR MUSLI VEČ SAD.500G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,98",
+    "teaser-text": "SPAR MUSLI VEČ SAD.500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/msli-s-sadjem-knusper-spar-500g/p/505517",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/505517/dt_main.jpg"
+}

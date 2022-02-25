@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,39",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Intersnack, d.o.o., Brnčičeva ulica 29, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1657,00 ",
+            "Saturated fat": "1,10 g",
+            "Prehranske vlaknine": "3,80 g",
+            "Protein": "13,00 g",
+            "Sugar": "0,60 g",
+            "Total Fat": "2,80 g",
+            "kcal": "391,00 ",
+            "Total Carbohydrate": "77,00 g",
+            "Salt": "3,00 g"
+        }
+    },
+    "product-priceperunit": "5,20 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/prestice-slane-babybrezel-soletti-200g/p/260885",
+    "product-price": "1,04",
+    "title": "PRESTICE SLANE BABYBREZEL, SOLETTI, 200G",
+    "description": "PRESTICE SL.BABY 200G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/260885/dt_main.jpg",
+    "teaser-text": "PRESTICE SL.BABY 200G"
+}

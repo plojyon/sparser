@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VODA VOSS 0,375L ST.",
+    "description": "VODA VOSS 0,375L ST.",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,38l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "base-information": {
+            "neto-količina-plod:": "ML"
+        },
+        "contact-information": {
+            "kontakt:": "TIPTRADE D.O.O."
+        }
+    },
+    "title": "VODA VOSS, 0,375L",
+    "url": "https://www.spar.si/online/voda-voss-0375l/p/411066",
+    "isOnPromotion": "false",
+    "product-priceperunit": "6,61 €/l",
+    "product-insteadofprice": "2,48",
+    "product-stock-status": "",
+    "product-price": "2,48",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411066/dt_main.jpg"
+}

@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "7,49",
+    "product-priceperunit": "10,70 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ŽGANA PIJAČA BARBOSSA SPICED GOLD, 0,7L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Primerna za mešanje aromatičnih pijač ali koktajlov, npr. s kolo v razmerju 1:6.",
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,7l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "35,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "description": "ŽGAN.BARBOSSA SP.GO.0,7L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "7,49",
+    "teaser-text": "ŽGAN.BARBOSSA SP.GO.0,7L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zgana-pijaca-barbossa-spiced-gold-07l/p/506077",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/506077/dt_main.jpg"
+}

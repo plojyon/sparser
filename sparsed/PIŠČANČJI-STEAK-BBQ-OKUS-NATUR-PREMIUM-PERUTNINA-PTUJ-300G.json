@@ -1,0 +1,43 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "2,50 g",
+            "Total Fat": "9,00 g",
+            "Total Carbohydrate": "1,50 g",
+            "Sugar": "0,50 g",
+            "Salt": "1,00 g",
+            "kJ": "159,00 ",
+            "Protein": "18,00 g",
+            "kcal": "665,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "STEAK PIŠČ. BBQ PPR 300G IK",
+        "contact-information": {
+            "kontakt:": "Perutnina Ptuj,d.d.,Potrčeva 10,Ptuj"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "ingredient-information": {
+            "sestavine": "piščančje meso 93,00 %, marinada (delno hidrogenirana rastlinska maščoba (repična, palmina) začimbe in zelišča, repično olje, kuhinjska sol, sladkor, ekstrakti in arome začimb, dimljena sol)."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "9,00 %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/piscancji-steak-bbq-okus-natur-premium-perutnina-ptuj-300g/p/576145",
+    "product-price": "2,99",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/576145/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-insteadofprice": "3,99",
+    "product-amount": "",
+    "isOnPromotion": "true",
+    "product-promotionBadges": "Izdelek v promociji",
+    "teaser-text": "STEAK SOČNI BBQ IK 300G",
+    "product-stock-status": "",
+    "title": "PIŠČANČJI STEAK BBQ OKUS NATUR PREMIUM, PERUTNINA PTUJ, 300G",
+    "product-priceperunit": "9,97 €/kg",
+    "description": "STEAK SOČNI BBQ IK 300G"
+}

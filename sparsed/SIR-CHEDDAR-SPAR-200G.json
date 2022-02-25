@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "2,22",
+    "product-badge-image": "/online/medias/sys_master/images/images/h2e/h61/9040760340510/odli-na-kakovost-1.png",
+    "url": "https://www.spar.si/online/sir-cheddar-spar-200g/p/536489",
+    "title": "SIR CHEDDAR SPAR, 200G",
+    "product-promotionBadges": "Best quality",
+    "isOnPromotion": "false",
+    "product-price": "2,22",
+    "product-info": {
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,50 g",
+            "Total Carbohydrate": "0,50 g",
+            "Saturated fat": "22,00 g",
+            "Protein": "25,00 g",
+            "Total Fat": "34,00 g",
+            "kcal": "410,00 ",
+            "Salt": "1,80 g",
+            "kJ": "1700,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "West Country Farmhouse Cheddar ZOP.Trdi sir, 48 % maščobe v suhi snovi, zorjen najmanj 9 mesecev.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi"
+    },
+    "product-priceperunit": "11,10 €/kg",
+    "teaser-text": "SPAR SIR CHEDDAR 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR SIR CHEDDAR 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/536489/dt_main.jpg",
+    "product-brand": ""
+}

@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,60 g",
+            "Total Fat": "1,60 g",
+            "Total Carbohydrate": "95,00 g",
+            "Sugar": "95,00 g",
+            "Salt": "0,83 g",
+            "kJ": "1697,00 ",
+            "Protein": "0,00 g",
+            "kcal": "400,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Bonboni komprimati z okusom sadja",
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "8g"
+        },
+        "ingredient-information": {
+            "sestavine": "sladkor, glukozni sirup, kislina (citronska kislina e330), sredstvo za uravnavanje kislosti (natrijevi citrati e331), rastlinska maščoba (popolnoma hidrogenirano palmovo olje, olje palmovih jedrc), emulgator (mono- in digliceridi maščobnih kislin e471), aroma, naravna barvila: okus limona (koncentrat žafranike, koncentrat limoninega soka), okus pomaranča (koncentrat paprike), okus češnja (koncentrat grozdja, črnega ribeza in črnega korenja), okus jagoda (koncentrat črnega ribeza in črnega korenja), okus malina (koncentrat črnega korenja)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sadni-bonboni-mix-pez-85g/p/114521",
+    "product-price": "0,20",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/114521/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "0,20",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "BONBONI MIX PEZ 8,5G",
+    "product-stock-status": "",
+    "title": "SADNI BONBONI MIX, PEZ, 8,5G",
+    "product-priceperunit": "25,00 €/kg",
+    "description": "BONBONI MIX PEZ 8,5G"
+}

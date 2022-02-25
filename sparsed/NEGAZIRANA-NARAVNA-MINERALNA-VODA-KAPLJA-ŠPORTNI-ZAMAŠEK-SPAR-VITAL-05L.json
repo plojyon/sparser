@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "teaser-text": "SPAR VITAL VODA 0,5L ŠZ",
+    "description": "SPAR VITAL VODA 0,5L ŠZ",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "temperatura-za-hranjenje": "sobna temperatura"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "0,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "0,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "title": "NEGAZIRANA NARAVNA MINERALNA VODA KAPLJA, ŠPORTNI ZAMAŠEK, SPAR VITAL, 0,5L",
+    "url": "https://www.spar.si/online/negazirana-naravna-mineralna-voda-kaplja-sportni-zamasek-spar-vital-05l/p/395208",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,68 €/l",
+    "product-insteadofprice": "0,34",
+    "product-stock-status": "",
+    "product-price": "0,34",
+    "product-brand": "",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/395208/dt_main.jpg"
+}

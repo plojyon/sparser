@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,30 g",
+            "Total Fat": "9,00 g",
+            "Total Carbohydrate": "2,00 g",
+            "Sugar": "1,00 g",
+            "Salt": "0,60 g",
+            "kJ": "690,00 ",
+            "Protein": "19,00 g",
+            "kcal": "165,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MOZZARELA LIGHT GALBANI, 125G",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "opis": "Edinstven okus tradicionalne recepture. Galbani Mozzarella je mehek, masten kravji sir, hkrati tudi eden najbolj znanih italijanskih sirov na svetu.",
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mozzarella-light-galbani-125g/p/239642",
+    "product-price": "1,47",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/239642/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "1,47",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SIR MOZZARELLA 125G",
+    "product-stock-status": "",
+    "title": "MOZZARELLA LIGHT, GALBANI, 125G",
+    "product-priceperunit": "11,76 €/kg",
+    "description": "SIR MOZZARELLA 125G"
+}

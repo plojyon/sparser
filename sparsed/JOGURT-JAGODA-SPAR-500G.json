@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "1,70 g",
+            "Salt": "0,10 g",
+            "Total Fat": "2,50 g",
+            "Total Carbohydrate": "12,11 g",
+            "Sugar": "11,50 g",
+            "Prehranske vlaknine": "0,20 g",
+            "kJ": "360,00 ",
+            "Protein": "2,90 g",
+            "kcal": "85,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sadni jogurt iz pasteriziranega mleka s 3,2% maščobe in jagodami 10,1%",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jogurt-jagoda-spar-500g/p/251613",
+    "product-price": "0,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/251613/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "0,79",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "SPAR JOGURT JAGODA 500G",
+    "product-stock-status": "",
+    "title": "JOGURT JAGODA SPAR, 500G",
+    "product-priceperunit": "1,58 €/kg",
+    "description": "SPAR JOGURT JAGODA 500G"
+}

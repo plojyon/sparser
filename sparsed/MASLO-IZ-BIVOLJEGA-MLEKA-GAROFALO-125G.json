@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "12,64 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "MASLO BUFALO GAR 125G",
+    "teaser-text": "MASLO BUFALO GAR 125G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "83,00 g",
+            "Saturated fat": "58,00 g",
+            "Total Carbohydrate": "0,20 g",
+            "kJ": "3083,00 ",
+            "Protein": "0,50 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,20 g",
+            "kcal": "720,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/maslo-iz-bivoljega-mleka-garofalo-125g/p/380486",
+    "product-insteadofprice": "1,58",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/380486/dt_main.jpg",
+    "title": "MASLO IZ BIVOLJEGA MLEKA, GAROFALO, 125G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,58",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,41 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "5,00 g",
+            "Salt": "2,80 g",
+            "Total Fat": "11,00 g",
+            "Total Carbohydrate": "63,00 g",
+            "Sugar": "0,00 g",
+            "Prehranske vlaknine": "1,00 g",
+            "kJ": "1656,00 ",
+            "Protein": "10,00 g",
+            "kcal": "393,00 "
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "opis": "Vsebnost maščobe za 50% zmanjšana v primerjavi z običajno pokovko (Spar Popcorn Original).",
+        "product-net-cont": {
+            "neto-količina": "270g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "instruction-for-use": {}
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pokovka-lahka-spar-270g/p/253755",
+    "product-price": "1,04",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/253755/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,04",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "SPAR POP CORN AMER.270G",
+    "product-stock-status": "",
+    "title": "POKOVKA LAHKA SPAR, 270G",
+    "product-priceperunit": "3,85 €/kg",
+    "description": "SPAR POP CORN AMER.270G"
+}

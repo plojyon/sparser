@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,45",
+    "product-priceperunit": "0,97 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SCHWEPPES INDIAN TONIC WATER, 1,5L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Osvežilna brezalkoholna gazirana pijača z okusom kinina. S sladkorjem in sladilom.",
+        "opis": "Ob nakupu 6 kos, izdelke prejmete v vezu.",
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, fruktozni-glukozni sirup, ogljikov dioksid, kislina: citronska kislina, naravne arome (vključno s kininom), sladilo: natrijev saharin."
+        },
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "4,60 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "84,00 ",
+            "Sugar": "4,60 g",
+            "kcal": "20,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SCHWEPPES TONIC WAT.1.5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,45",
+    "teaser-text": "SCHWEPPES TONIC WAT.1.5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/schweppes-indian-tonic-water-15l/p/48311",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/48311/dt_main.jpg"
+}

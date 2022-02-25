@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "11,48",
+    "product-priceperunit": "11,48 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "EKSTRA DEVIŠKO OLJČNO OLJE, NEFILTRIRANO, FILIPPO BERIO, 1 L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Oljčno olje višje kategorije, pridobljeno neposredno iz oljk in zgolj z mehanskimi postopki.",
+        "ingredient-information": {
+            "sestavine": "oljčno olje."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "91,30 g",
+            "Protein": "0,00 g",
+            "kJ": "3378,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "822,00 ",
+            "Saturated fat": "66,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        }
+    },
+    "description": "OLJE OLJČNO FILIPPO 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "11,48",
+    "teaser-text": "OLJE OLJČNO FILIPPO 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ekstra-devisko-oljcno-olje-nefiltrirano-filippo-berio-1-l/p/445929",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/445929/dt_main.jpg"
+}

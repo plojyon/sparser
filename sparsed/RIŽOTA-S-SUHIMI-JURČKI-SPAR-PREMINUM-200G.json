@@ -1,0 +1,48 @@
+{
+    "product-insteadofprice": "2,69",
+    "product-priceperunit": "13,45 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "RIŽOTA S SUHIMI JURČKI, SPAR PREMINUM, 200G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "200G"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Priprava: potrebujemo 0,5 l zelenjavne jušne osnove, 1/8 l belega vina, 2 žlici oljčnega olja, 50 ml smetane in po želji nariban parmezan. V ponvi segrejemo olje in dodamo mešanico za rižoto ter jo mešamo, da postekleni. Rižoto prelijemo z vinom in tako dolgo mešamo, da vino izhlapi, nato med mešanjem po malo dodajamo jušno osnovo, dokler riž ni kuhan. Na koncu umešamo sladko smetano in po želji začinimo s poprom in soljo ter potresemo s sveže naribanim parmezanom. Čas kuhanja: 20 - 25 minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Rižota s suhimi jurčki",
+        "opis": "Rižota s suhimi jurčki, z rižem arborio iz Italije",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "riž 94,00 %, suhi jurčki 5,20 %, žajbelj, peteršilj."
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,03 g",
+            "Total Carbohydrate": "74,00 g",
+            "Prehranske vlaknine": "2,30 g",
+            "Total Fat": "1,00 g",
+            "Protein": "6,40 g",
+            "kJ": "1430,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "337,00 ",
+            "Saturated fat": "0,20 g"
+        }
+    },
+    "description": "SPAR PR. RIŽOTA JUR.200G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,69",
+    "teaser-text": "SPAR PR. RIŽOTA JUR.200G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/rizota-s-suhimi-jurcki-spar-preminum-200g/p/512976",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/512976/dt_main.jpg"
+}

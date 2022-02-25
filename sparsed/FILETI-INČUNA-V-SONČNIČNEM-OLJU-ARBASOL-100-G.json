@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "FILETI INČUNA V S.O.100G",
+    "description": "FILETI INČUNA V S.O.100G",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "base-information": {
+            "neto-količina-plod:": "55G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "949,20 ",
+            "Salt": "13,27 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "13,25 g",
+            "kcal": "226,50 ",
+            "Saturated fat": "1,50 g",
+            "Protein": "26,80 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Engraulis encrasicolus"
+        },
+        "contact-information": {
+            "kontakt:": "AL PONTE, d.o.o., Pot k sejmišču 30, Ljubljana"
+        }
+    },
+    "title": "FILETI INČUNA V SONČNIČNEM OLJU, ARBASOL, 100 G",
+    "url": "https://www.spar.si/online/fileti-incuna-v-soncnicnem-olju-arbasol-100-g/p/426272",
+    "isOnPromotion": "false",
+    "product-priceperunit": "39,90 €/kg",
+    "product-insteadofprice": "3,99",
+    "product-stock-status": "",
+    "product-price": "3,99",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/426272/dt_main.jpg"
+}

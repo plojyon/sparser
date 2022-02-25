@@ -1,0 +1,32 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "3,58 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "SVETLO PIVO, PRAZNIČNI LEŽAK, BERNARD, 0,5 L",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Svetlo pivo z dodatkom pivskih kvasovk. Fermentacija v steklenici.",
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "5,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "AHAC d.o.o., Stopče 31, 3231 Grobelno"
+        }
+    },
+    "description": "PIVO BERNARD SVETLO 0,5L",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,79",
+    "teaser-text": "PIVO BERNARD SVETLO 0,5L",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/svetlo-pivo-praznicni-lezak-bernard-05-l/p/491271",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491271/dt_main.jpg"
+}

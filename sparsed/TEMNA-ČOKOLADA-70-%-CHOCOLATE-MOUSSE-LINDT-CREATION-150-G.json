@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "20,53 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "ČOK.TEM.POL.MOUSSE 150G",
+    "teaser-text": "ČOK.TEM.POL.MOUSSE 150G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje jajca, pšenico in druge oreščke."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "38,00 g",
+            "Saturated fat": "22,00 g",
+            "Total Carbohydrate": "38,00 g",
+            "kJ": "2270,00 ",
+            "Protein": "7,70 g",
+            "Salt": "0,04 g",
+            "Sugar": "32,00 g",
+            "kcal": "547,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, JAJCA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/temna-cokolada-70-chocolate-mousse-lindt-creation-150-g/p/373192",
+    "product-insteadofprice": "3,08",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/373192/dt_main.jpg",
+    "title": "TEMNA ČOKOLADA, 70 %, CHOCOLATE MOUSSE, LINDT CREATION, 150 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,08",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

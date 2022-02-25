@@ -1,0 +1,30 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MOKA NAM.ZA PEC.1KG",
+    "description": "MOKA NAM.ZA PEC.1KG",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Namenska moka za domače pecivo 1 kg",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Mlinotest Živilska industrija d.d, Tovarniška cesta 14, 5270 Ajdovščina"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi"
+    },
+    "title": "NAMENSKA MOKA ZA PECIVO, MLINOTEST, 1KG",
+    "url": "https://www.spar.si/online/namenska-moka-za-pecivo-mlinotest-1kg/p/41472",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,55 €/kg",
+    "product-insteadofprice": "1,55",
+    "product-stock-status": "",
+    "product-price": "1,55",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/41472/dt_main.jpg"
+}

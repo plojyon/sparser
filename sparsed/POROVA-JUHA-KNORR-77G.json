@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "JUHA POROVA 77G KNORR",
+    "description": "JUHA POROVA 77G KNORR",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "POROVA JUHA, KNORR, 77 G",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, ŽVEPLOV DIOKSID IN SULFITI, JAJCA (V SLEDOVIH), ZELENA (V SLEDOVIH), gorčično seme (v sledovih)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "77g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "188,00 ",
+            "Salt": "0,70 g",
+            "Sugar": "0,80 g",
+            "Total Carbohydrate": "5,30 g",
+            "Total Fat": "2,20 g",
+            "kcal": "45,00 ",
+            "Saturated fat": "1,30 g",
+            "Protein": "0,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        }
+    },
+    "title": "POROVA JUHA, KNORR, 77G",
+    "url": "https://www.spar.si/online/porova-juha-knorr-77g/p/414679",
+    "isOnPromotion": "false",
+    "product-priceperunit": "16,62 €/kg",
+    "product-insteadofprice": "1,28",
+    "product-stock-status": "",
+    "product-price": "1,28",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/414679/dt_main.jpg"
+}

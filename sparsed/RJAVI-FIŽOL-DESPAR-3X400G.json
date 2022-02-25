@@ -1,0 +1,47 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "DESPAR FIŽOL RJ. 3X400G",
+    "description": "DESPAR FIŽOL RJ. 3X400G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Naliv lahko odlijemo ali ga porabimo ločeno pri nadaljnji pripravi živila."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "RJAVI FIŽOL pripravljen za uporabo.",
+        "ingredient-information": {
+            "sestavine": "rjavi fižol, voda, sol."
+        },
+        "base-information": {
+            "neto-količina-plod:": "750G"
+        },
+        "product-net-cont": {
+            "neto-količina": "1,2kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "389,00 ",
+            "Salt": "0,30 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "12,00 g",
+            "Total Fat": "0,60 g",
+            "kcal": "92,00 ",
+            "Prehranske vlaknine": "6,90 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "6,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "RJAVI FIŽOL, DESPAR, 3X400G",
+    "url": "https://www.spar.si/online/rjavi-fizol-despar-3x400g/p/426205",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,38 €/kg",
+    "product-insteadofprice": "1,66",
+    "product-stock-status": "",
+    "product-price": "1,66",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/426205/dt_main.jpg"
+}

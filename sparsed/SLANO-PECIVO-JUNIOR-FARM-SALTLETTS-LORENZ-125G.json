@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "PECIVO SL.ŽIVALI 125G BK",
+    "description": "PECIVO SL.ŽIVALI 125G BK",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje jajca, mleko in sezamova semena."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), MLEKO (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1768,00 ",
+            "Salt": "2,20 g",
+            "Sugar": "6,20 g",
+            "Total Carbohydrate": "70,00 g",
+            "Total Fat": "9,40 g",
+            "kcal": "419,00 ",
+            "Prehranske vlaknine": "3,30 g",
+            "Saturated fat": "4,40 g",
+            "Protein": "12,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "contact-information": {
+            "kontakt:": "Magistrat International d.o.o., Kotnikova 28, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "SLANO PECIVO JUNIOR FARM, SALTLETTS, LORENZ, 125G",
+    "url": "https://www.spar.si/online/slano-pecivo-junior-farm-saltletts-lorenz-125g/p/397010",
+    "isOnPromotion": "false",
+    "product-priceperunit": "7,12 €/kg",
+    "product-insteadofprice": "0,89",
+    "product-stock-status": "",
+    "product-price": "0,89",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/397010/dt_main.jpg"
+}

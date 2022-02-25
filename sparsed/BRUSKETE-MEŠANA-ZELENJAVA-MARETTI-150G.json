@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "1,48",
+    "product-priceperunit": "9,87 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "BRUSKETE MEŠANA ZELENJAVA MARETTI, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "BRUSKETE MEŠANA ZELENJAVA MARETTI",
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MLEKO, SOJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,00 g",
+            "Total Carbohydrate": "66,00 g",
+            "Prehranske vlaknine": "2,70 g",
+            "Total Fat": "18,00 g",
+            "Protein": "9,00 g",
+            "kJ": "1963,00 ",
+            "Sugar": "2,90 g",
+            "kcal": "467,00 ",
+            "Saturated fat": "2,20 g"
+        }
+    },
+    "description": "BRUSC.GRAN.MEŠ.ZELENJ.",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,48",
+    "teaser-text": "BRUSC.GRAN.MEŠ.ZELENJ.",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bruskete-mesana-zelenjava-maretti-150g/p/491990",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491990/dt_main.jpg"
+}

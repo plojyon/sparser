@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "2,84 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "JOGURT EGO ARONIJA 250G",
+    "teaser-text": "JOGURT EGO ARONIJA 250G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,10 g",
+            "Saturated fat": "0,90 g",
+            "Total Carbohydrate": "13,10 g",
+            "kJ": "319,00 ",
+            "Protein": "3,30 g",
+            "Salt": "0,10 g",
+            "Sugar": "12,00 g",
+            "kcal": "76,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "EGO JOG.TEK. SAD. ARO/GR. 250G TT",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "250g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/tekoci-probioticni-jogurt-grozdje-in-aronija-ego-250g/p/358937",
+    "product-insteadofprice": "0,84",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/358937/dt_main.jpg",
+    "title": "TEKOČI PROBIOTIČNI JOGURT GROZDJE IN ARONIJA, EGO, 250G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "0,71",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

@@ -1,0 +1,38 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,00 g",
+            "Total Fat": "9,00 g",
+            "Total Carbohydrate": "16,60 g",
+            "Sugar": "12,50 g",
+            "Salt": "0,10 g",
+            "kJ": "630,00 ",
+            "Protein": "2,70 g",
+            "kcal": "151,00 "
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Celeia d.o.o., Arja vas 92, 3301 Petrovče"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/jogurtova-smetana-s-stracciatello-desert-zelene-doline-150-g/p/244302",
+    "product-price": "0,84",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/244302/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-insteadofprice": "0,84",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "Hlajeno",
+    "teaser-text": "DESERT SMETANA 150G",
+    "product-stock-status": "",
+    "title": "JOGURTOVA SMETANA S STRACCIATELLO, DESERT, ZELENE DOLINE, 150 G",
+    "product-priceperunit": "5,60 €/kg",
+    "description": "DESERT SMETANA 150G"
+}

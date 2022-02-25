@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "0,99",
+    "product-priceperunit": "0,84 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "NAPITEK Z MARELIČNO KAŠO DESPAR, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresemo."
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "opis": "Sadni delež: 40%.",
+        "ingredient-information": {
+            "sestavine": "voda, marelična kaša, sladkor, glukozni-fruktozni sirup, antioksidant: askorbinska kislina."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,02 g",
+            "Total Carbohydrate": "15,00 g",
+            "Prehranske vlaknine": "0,60 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "260,00 ",
+            "Sugar": "15,00 g",
+            "kcal": "61,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "DESPAR NAPIT. MAREL.1LTZ",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,84",
+    "teaser-text": "DESPAR NAPIT. MAREL.1LTZ",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/napitek-z-marelicno-kaso-despar-1l/p/491925",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/491925/dt_main.jpg"
+}

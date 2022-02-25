@@ -1,0 +1,44 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "8,99",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Meso Kamnik d.d., Korenova cesta 9, 1241 Kamnik"
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Blejska salama Anton",
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "30,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "972,00 ",
+            "Saturated fat": "8,30 g",
+            "Prehranske vlaknine": "0,99 g",
+            "Protein": "12,00 g",
+            "Sugar": "0,10 g",
+            "Total Fat": "20,10 g",
+            "kcal": "235,00 ",
+            "Total Carbohydrate": "1,50 g",
+            "Salt": "1,40 g"
+        }
+    },
+    "product-priceperunit": "8,99 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/blejska-salama-anton-1kg/p/44728",
+    "product-price": "8,99",
+    "title": "BLEJSKA SALAMA ANTON, 1KG",
+    "description": "SALAMA BLEJSKA KAMNIK",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/44728/dt_main.jpg",
+    "teaser-text": "SALAMA BLEJSKA KAMNIK"
+}

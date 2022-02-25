@@ -1,0 +1,33 @@
+{
+    "product-insteadofprice": "18,64",
+    "product-priceperunit": "14,79 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "title": "GIN WAPPING, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "GIN WAPPING, 1L",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "sestavine": "gin."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "38,00 vol. %"
+        }
+    },
+    "description": "GIN WAPPING 1L",
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-brand": "",
+    "product-price": "14,79",
+    "teaser-text": "GIN WAPPING 1L",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/gin-wapping-1l/p/471048",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/471048/dt_main.jpg"
+}

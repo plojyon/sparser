@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,95",
+    "product-priceperunit": "13,00 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "ZASEKA S ČESNOM, AVE, PANVITA, 150G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "ZASEKA S ČESNOM 150G",
+        "contact-information": {
+            "kontakt:": "Panvita Mir d.d., Ljutomerska cesta 28a, 9250 Gornja Radgona"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "75,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "2,00 g",
+            "Total Carbohydrate": "0,50 g",
+            "Total Fat": "74,60 g",
+            "Protein": "5,40 g",
+            "kJ": "2852,00 ",
+            "Sugar": "0,50 g",
+            "kcal": "693,00 ",
+            "Saturated fat": "27,00 g"
+        }
+    },
+    "description": "ZASEKA S ČESNOM 150 G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,95",
+    "teaser-text": "ZASEKA S ČESNOM 150 G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/zaseka-s-cesnom-ave-panvita-150g/p/479568",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/479568/dt_main.jpg"
+}

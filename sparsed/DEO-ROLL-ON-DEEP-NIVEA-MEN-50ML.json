@@ -1,0 +1,28 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,05l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Parfum, Persea Gratissima Oil, Charcoal Powder, Trisodium EDTA, BHT, Linalool, Limonene, Citronellol, Alpha-Isomethyl Ionone, Geraniol."
+        },
+        "contact-information": {
+            "kontakt:": "Beiersdorf d.o.o., Letališka 32, Ljubljana."
+        }
+    },
+    "product-priceperunit": "55,80 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/deo-roll-on-deep-nivea-men-50ml/p/552449",
+    "product-price": "2,79",
+    "title": "DEO ROLL ON DEEP, NIVEA MEN, 50ML",
+    "description": "DEO ROLL ON NIVEA 50ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/552449/dt_main.jpg",
+    "teaser-text": "DEO ROLL ON NIVEA 50ML"
+}

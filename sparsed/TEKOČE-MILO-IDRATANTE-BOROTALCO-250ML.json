@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,98",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,25l"
+        },
+        "ingredient-information": {
+            "sestavine": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Glycereth-2 Cocoate, Coco-Glucoside, Glayceryl Oleate, Parfum, Aloe barbadensis Leaf Extract, Sodium Chloride, Styrene/Acrylates Copolymer, Citric Acid, Disodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Benzyl Salicylate, Coumarin, Geraniol, Limonene, Linalool."
+        },
+        "opis": "Borotalco tekoče milo Moisturizing neguje vaše roke in jih naredi vsak dan mehkejše in žametne zahvaljujoč izjemno kremni formuli obogateni z naravnimi blažilnimi snovmi in Aloe Vero.Značilen vonj Borotalca vas bo spremljal cel dan in vas razvajal z občutkom ugodja in dobrega počutja.",
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Tekoče milo za umivanje rok."
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        }
+    },
+    "product-priceperunit": "5,92 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tekoce-milo-idratante-borotalco-250ml/p/446525",
+    "product-price": "1,48",
+    "title": "TEKOČE MILO IDRATANTE, BOROTALCO, 250ML",
+    "description": "MILO TEKOČE BOROTALCO",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446525/dt_main.jpg",
+    "teaser-text": "MILO TEKOČE BOROTALCO"
+}

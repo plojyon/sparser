@@ -1,0 +1,43 @@
+{
+    "product-priceperunit": "13,00 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "VEGETA 150G PODRAVKA",
+    "teaser-text": "VEGETA 150G PODRAVKA",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,50 g",
+            "Saturated fat": "0,20 g",
+            "Total Carbohydrate": "32,00 g",
+            "kJ": "697,00 ",
+            "Protein": "8,50 g",
+            "Salt": "56,90 g",
+            "Sugar": "22,00 g",
+            "kcal": "164,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Dodatek jedem z zelenjavo",
+        "ingredient-information": {
+            "alergeni": "ZELENA."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred pripravo posujte z Vegeto meso, jedi pripravljene za žar, perutnino, ribje in druge jedi. Kuhanim in dušenim jedem (juham, omakam, rižu, zelenjavi in podobnim jedem) dodajte 1 žličko Vegete (3 g) na 250 ml (1 obrok) 5 minut pred koncem kuhanja. Po potrebi dosolite."
+        }
+    },
+    "url": "https://www.spar.si/online/dodatek-jedem-z-zelenjavo-vegeta-podravka-150g/p/370471",
+    "product-insteadofprice": "1,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/370471/dt_main.jpg",
+    "title": "DODATEK JEDEM Z ZELENJAVO VEGETA, PODRAVKA, 150G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,95",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

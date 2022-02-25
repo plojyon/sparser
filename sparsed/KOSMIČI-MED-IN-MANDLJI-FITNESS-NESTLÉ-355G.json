@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "3,29",
+    "product-priceperunit": "9,27 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KOSMIČI MED IN MANDLJI FITNESS, NESTLÉ, 355G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,95 g",
+            "Total Carbohydrate": "74,30 g",
+            "Prehranske vlaknine": "6,30 g",
+            "Total Fat": "4,20 g",
+            "Protein": "9,10 g",
+            "kJ": "1624,00 ",
+            "Sugar": "20,70 g",
+            "kcal": "393,00 ",
+            "Saturated fat": "0,70 g"
+        },
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, MANDLJI, ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "355g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Lahko vsebuje mleko, arašide in oreške."
+        }
+    },
+    "description": "KOSMIČI Z MED.IN M.355G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,29",
+    "teaser-text": "KOSMIČI Z MED.IN M.355G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kosmici-med-in-mandlji-fitness-nestl-355g/p/469682",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/469682/dt_main.jpg"
+}

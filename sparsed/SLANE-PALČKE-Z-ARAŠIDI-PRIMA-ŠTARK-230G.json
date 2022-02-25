@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,66",
+    "product-priceperunit": "7,22 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "SLANE PALČKE Z ARAŠIDI PRIMA, ŠTARK, 230G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Pekovski izdelek - slano pecivo polnjeno s kikirikijem (28%)",
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "230g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "3,50 g",
+            "Total Carbohydrate": "60,00 g",
+            "Total Fat": "19,00 g",
+            "Protein": "16,00 g",
+            "kJ": "1990,00 ",
+            "Sugar": "3,30 g",
+            "kcal": "475,00 ",
+            "Saturated fat": "3,90 g"
+        }
+    },
+    "description": "PALČ.SL.AR.PRIMA 230G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "1,66",
+    "teaser-text": "PALČ.SL.AR.PRIMA 230G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/slane-palcke-z-arasidi-prima-stark-230g/p/510017",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/510017/dt_main.jpg"
+}

@@ -1,0 +1,51 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-priceperunit": "19,90 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO KUHAN KOSTANJ SPAR NATUR*PUR, 100G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "neto-količina-plod:": "100G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "36,00 g",
+            "Prehranske vlaknine": "7,20 g",
+            "Total Fat": "0,90 g",
+            "Protein": "5,10 g",
+            "kJ": "790,00 ",
+            "Sugar": "12,00 g",
+            "kcal": "187,00 ",
+            "Saturated fat": "0,20 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Lahko ga uživamo hladnega direktno iz vrečke ali ga pogrejemo v pečici ali mikrovalovni pečici. Uporabimo ga lahko kot dodatek z raznim sladicam."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO KUHAN KOSTANJ",
+        "opis": "Olupljen, kuhan in pripravljen za uživanje. Iz ekološke pridelave.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "bio kuhan kostanj iz ekološke pridelave (kmetijstvo eu, it-bio-005)."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "SPAR KOSTANJ BIO 100G",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,99",
+    "teaser-text": "SPAR KOSTANJ BIO 100G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-kuhan-kostanj-spar-naturpur-100g/p/507628",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507628/dt_main.jpg"
+}

@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "9,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "P&F Jeruzalem d.o.o., Kolodvorska c. 11, 2270 Ormož"
+        }
+    },
+    "product-priceperunit": "9,32 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/muskatna-penina-jeruzalem-ormoz-075l/p/200461",
+    "product-price": "6,99",
+    "title": "MUŠKATNA PENINA JERUZALEM ORMOŽ, 0,75L",
+    "description": "PEN.V.MUŠK.JER.0,75L",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/200461/dt_main.jpg",
+    "teaser-text": "PEN.V.MUŠK.JER.0,75L"
+}

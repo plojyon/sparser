@@ -1,0 +1,45 @@
+{
+    "product-priceperunit": "14,27 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "SPAR BIO CROUTONS 75G",
+    "teaser-text": "SPAR BIO CROUTONS 75G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "opis": "Odlični kot jušni vložek ali hrustljav dodatek solatam oz. kot samostojni prigrizek.",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO pirini hrustavci iz ekološke pridelave (AT-BIO-402, Kmetijstvo EU).",
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "12,00 g",
+            "Saturated fat": "1,00 g",
+            "Total Carbohydrate": "72,00 g",
+            "kJ": "1833,00 ",
+            "Protein": "8,50 g",
+            "Salt": "2,30 g",
+            "Sugar": "1,60 g",
+            "kcal": "440,00 ",
+            "Prehranske vlaknine": "2,60 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "75g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        }
+    },
+    "url": "https://www.spar.si/online/bio-pirini-hrustavci-spar-naturpur-75g/p/384268",
+    "product-insteadofprice": "1,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/384268/dt_main.jpg",
+    "title": "BIO PIRINI HRUSTAVCI, SPAR NATUR*PUR, 75G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,07",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

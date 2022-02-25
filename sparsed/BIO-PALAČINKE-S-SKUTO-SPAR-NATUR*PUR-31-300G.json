@@ -1,0 +1,46 @@
+{
+    "product-priceperunit": "7,63 €/kg",
+    "product-promotionBadges": "BIO Certifikat",
+    "isOnPromotion": "false",
+    "description": "SPAR PALAČIN.SKUT.300G",
+    "teaser-text": "SPAR PALAČIN.SKUT.300G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI- 1000 Ljubljana, Telefonska številka.: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "9,30 g",
+            "Saturated fat": "2,20 g",
+            "Total Carbohydrate": "22,00 g",
+            "kJ": "849,00 ",
+            "Protein": "7,60 g",
+            "Salt": "0,40 g",
+            "Sugar": "7,50 g",
+            "kcal": "203,00 ",
+            "Prehranske vlaknine": "0,50 g"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        },
+        "opis": "/",
+        "\n\t\t\t\ttehnično-ime-izdelka": "3 BIO PALAČINKE S SKUTO (23%) hitro zamrznjeno, iz ekološke pridelave",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO, SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "hitro zamrznjen izdelek",
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/bio-palacinke-s-skuto-spar-naturpur-31-300g/p/377978",
+    "product-insteadofprice": "2,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377978/dt_main.jpg",
+    "title": "BIO PALAČINKE S SKUTO, SPAR NATUR*PUR, 3/1, 300G",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,29",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

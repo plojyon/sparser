@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,59",
+    "product-priceperunit": "7,94 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "GRŠKI JOGURT, KOKOS, FRUYO, FAGE, 170 G",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,09 g",
+            "Total Carbohydrate": "12,40 g",
+            "Total Fat": "4,80 g",
+            "Protein": "7,30 g",
+            "kJ": "513,00 ",
+            "Sugar": "11,60 g",
+            "kcal": "122,00 ",
+            "Saturated fat": "3,60 g"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 97,00 mg."
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "170g"
+        },
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        }
+    },
+    "description": "JOGURT GRŠKI FRUYO 170G",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "1,35",
+    "teaser-text": "JOGURT GRŠKI FRUYO 170G",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/grski-jogurt-kokos-fruyo-fage-170-g/p/497452",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/497452/dt_main.jpg"
+}

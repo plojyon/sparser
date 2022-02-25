@@ -1,0 +1,32 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "5,29",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,1l"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Shranjujte nedosegljivo otrokom! Izdelek ni primeren za otroke do vključno dvanajstega leta starosti, razen po navodilu zobozdravnika ali zdravnika. Občutljivi zobje so morda pokazatelj kakšne druge težave, ki zahteva pregled pri zobozdravniku. Če simptomi ne prenehajo ali se poslabšajo, obiščite zobozdravnika. Če se pojavi draženje, prenehajte z uporabo."
+        },
+        "ingredient-information": {
+            "sestavine": "Vsebuje natrijev fluorid 0,315 % w/w (1450 ppm fluorida). Aqua, ,Sorbitol, Hydrated Silica, Glycerin, Potassium Nitrate, Cocamidopropyl Betaine, Aroma, Xanthan Gum, Titanium Dioxide, Sodium Fluoride, Sodium Saccharin, Sodium Hydroxide, Sucralose, Limonene."
+        },
+        "opis": "KAJ JE SENSODYNE FLUORIDE: To je dnevna zobna pasta, ki zagotavlja klinično dokazano lajšanje bolečine zaradi občutljivosti. Poskrbi tudi za občutek svežine in čistoče v vaših ustih. KAKO DELUJE: Ob ščetkanju dvakrat dnevno zagotavlja lajšanje občutljivosti, ščiti pred kariesom in krepi zobe.  ZAKAJ JE DOBRO IZBRATI ZOBNO PASTO SENSODYNE FLUORIDE: To je dnevna negovalna zobna pasta za občutljive zobe, ki po uporabi v ustih pusti občutek svežine.  KOMU JE IZDELEK NAMENJEN: Izdelek je namenjen uporabnikom, ki so starejši od 12 let (oz. po priporočilu zobozdravnika) in bi radi olajšali občutljivost zob, se zaščitili pred kariesom in poskrbeli za občutek svežine v ustih. KAJ POVZROČA SLAB ZADAH (HALITOZO): Slab zadah oz. halitoza je predvsem posledica kopičenja bakterijskih oblog na površini zob in dlesnih.                                                                        KAKO PREPREČITI SLAB ZADAH: Redno ščetkanje dvakrat dnevno z zobno pasto Sensodyne FLUORIDE pomaga pri preprečevanju kopičenja oblog in bakterij na površini zob. KAKO UPORABLJATI IZDELEK: Zobe ščetkajte z zobno pasto Sensodyne FLUORIDE dvakrat dnevno, da olajšate občutljivost ter poskrbite za občutek svežine in čistoče v ustih.",
+        "contact-information": {
+            "kontakt:": "ARC-Kranj, d.o.o., Hrastje 52k, 4000 Kranj, Slovenija"
+        }
+    },
+    "product-priceperunit": "31,70 €/l",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/zobna-pasta-za-obcutek-svezine-v-ustih-sensodyne-fluoride-100ml/p/501594",
+    "product-price": "3,17",
+    "title": "ZOBNA PASTA ZA OBČUTEK SVEŽINE V USTIH, SENSODYNE FLUORIDE, 100ML",
+    "description": "PAS.ZOB.SENSODYNE 100ML",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/501594/dt_main.jpg",
+    "teaser-text": "PAS.ZOB.SENSODYNE 100ML"
+}

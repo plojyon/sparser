@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "11,68",
+    "product-priceperunit": "116,80 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PEKOČA OMAKA, 100 % PURE NAGA, ČILI PIPP, 100 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "PEKOČA OMAKA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "čili bhut jolokia, kis, paradižnik, paprika, sok limete, sladkor, koruzni škrob, sol."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,20 g",
+            "Total Carbohydrate": "13,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "2,00 g",
+            "kJ": "251,00 ",
+            "Sugar": "4,00 g",
+            "kcal": "60,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "OMAKA PURE NAGA 100ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "11,68",
+    "teaser-text": "OMAKA PURE NAGA 100ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pekoca-omaka-100-pure-naga-cili-pipp-100-ml/p/450641",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/450641/dt_main.jpg"
+}

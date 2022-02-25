@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "3,69 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "RIŽ PARBOI.DOLGOZRN.800G",
+    "teaser-text": "RIŽ PARBOI.DOLGOZRN.800G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Žito d.o.o., Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "1,00 g",
+            "Saturated fat": "0,40 g",
+            "Total Carbohydrate": "79,00 g",
+            "kJ": "1500,00 ",
+            "Protein": "7,00 g",
+            "Salt": "0,01 g",
+            "Sugar": "0,16 g",
+            "kcal": "360,00 ",
+            "Prehranske vlaknine": "0,80 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Brušen (beli) parboiled dolgozrnati riž",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "800g"
+        },
+        "ingredient-information": {
+            "sestavine": "riž."
+        }
+    },
+    "url": "https://www.spar.si/online/parboiled-dolgozrnati-riz-zlato-polje-800g/p/385894",
+    "product-insteadofprice": "2,95",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/385894/dt_main.jpg",
+    "title": "PARBOILED DOLGOZRNATI RIŽ, ZLATO POLJE, 800G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,95",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

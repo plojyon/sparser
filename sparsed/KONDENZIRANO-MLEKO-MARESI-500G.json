@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "2,43",
+    "product-priceperunit": "4,86 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KONDENZIRANO MLEKO, MARESI, 500G",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "/"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kondenzirano mleko, 7,5 % maščobe, 16% nemastne suhe snovi mleka, toplotno obdelano.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,22 g",
+            "Total Carbohydrate": "8,40 g",
+            "Total Fat": "7,50 g",
+            "Protein": "5,90 g",
+            "kJ": "520,00 ",
+            "Sugar": "8,40 g",
+            "kcal": "125,00 ",
+            "Saturated fat": "4,70 g"
+        }
+    },
+    "description": "MLEKO MARESI 500G",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "2,43",
+    "teaser-text": "MLEKO MARESI 500G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kondenzirano-mleko-maresi-500g/p/493103",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/493103/dt_main.jpg"
+}

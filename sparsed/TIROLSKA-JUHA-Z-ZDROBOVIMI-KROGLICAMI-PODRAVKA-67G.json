@@ -1,0 +1,44 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,70 g",
+            "Salt": "0,97 g",
+            "Total Fat": "1,20 g",
+            "Total Carbohydrate": "3,50 g",
+            "Sugar": "0,70 g",
+            "Prehranske vlaknine": "0,50 g",
+            "kJ": "117,00 ",
+            "Protein": "0,70 g",
+            "kcal": "28,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Vsebino vrečke vsujte v 1 do 1,1 L vrele vode in premešajte. Kuhajte na zmernem ognju 10 minut v na pol pokriti posodi. Potem več ne mešajte. Pred serviranjem pustite juho stati pokrito nekaj minut."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "product-net-cont": {
+            "neto-količina": "67g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, MLEKO (V SLEDOVIH), ZELENA (V SLEDOVIH)."
+        },
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tirolska-juha-z-zdrobovimi-kroglicami-podravka-67g/p/119799",
+    "product-price": "1,29",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/119799/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,29",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "JUHA TIROLSKA 67G PODR",
+    "product-stock-status": "",
+    "title": "TIROLSKA JUHA Z ZDROBOVIMI KROGLICAMI, PODRAVKA, 67G",
+    "product-priceperunit": "19,25 €/kg",
+    "description": "JUHA TIROLSKA 67G PODR"
+}

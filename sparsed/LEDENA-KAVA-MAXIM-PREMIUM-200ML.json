@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "0,53",
+    "product-priceperunit": "2,65 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "LEDENA KAVA MAXIM PREMIUM, 200ML",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ledena kava maxim, 0,2l",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne d.d., Ljubljana, Tolstojeva 63, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,25 g",
+            "Total Carbohydrate": "9,30 g",
+            "Total Fat": "1,40 g",
+            "Protein": "3,00 g",
+            "kJ": "261,00 ",
+            "Sugar": "9,30 g",
+            "kcal": "62,00 ",
+            "Saturated fat": "0,90 g"
+        }
+    },
+    "description": "LEDENA KAVA MAXIM 200ML",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,53",
+    "teaser-text": "LEDENA KAVA MAXIM 200ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/ledena-kava-maxim-premium-200ml/p/447718",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/447718/dt_main.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "0,95",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/cips-paprika-patatine-despar-150g/p/545595",
+    "title": "ČIPS PAPRIKA PATATINE, DESPAR, 150G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "0,95",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "1,90 g",
+            "Total Carbohydrate": "47,00 g",
+            "Prehranske vlaknine": "6,20 g",
+            "Saturated fat": "3,50 g",
+            "Protein": "7,10 g",
+            "Total Fat": "34,00 g",
+            "kcal": "535,00 ",
+            "Salt": "1,50 g",
+            "kJ": "2227,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ČIPS Z OKUSOM PAPRIKE",
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "150G"
+        }
+    },
+    "product-priceperunit": "6,33 €/kg",
+    "teaser-text": "DESPAR ČIPS PAPRIKA 150G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "DESPAR ČIPS PAPRIKA 150G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/545595/dt_main.jpg",
+    "product-brand": ""
+}

@@ -1,0 +1,30 @@
+{
+    "product-priceperunit": "0,25 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SB PESEK MAČJI 5KG",
+    "teaser-text": "SB PESEK MAČJI 5KG",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana"
+        },
+        "instruction-for-use": {},
+        "opis": "Bentonit v granulah za mačje stranišče z naravno lastnostjo sprijemanja. Lahko ga uporabljamo tudi za druge živali, kot so zajci in hrčki.",
+        "product-net-cont": {
+            "neto-količina": "5kg"
+        },
+        "ingredient-information": {
+            "sestavine": "bentonit v granulah 100,00 %."
+        }
+    },
+    "url": "https://www.spar.si/online/pesek-za-macke-s-budget-5kg/p/361712",
+    "product-insteadofprice": "1,25",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361712/dt_main.jpg",
+    "title": "PESEK ZA MAČKE S-BUDGET, 5KG",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,25",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

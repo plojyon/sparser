@@ -1,0 +1,46 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "TUNA KOSI V RA.OL. 4X80G",
+    "description": "TUNA KOSI V RA.OL. 4X80G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        },
+        "base-information": {
+            "neto-količina-plod:": "52G"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1632,00 ",
+            "Salt": "0,80 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "35,00 g",
+            "kcal": "394,00 ",
+            "Saturated fat": "4,40 g",
+            "Protein": "19,00 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "320g"
+        },
+        "trade-group": {
+            "latinsko-ime": "Katsuwonus pelamis"
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "TUNA V RASTLINSKEM OLJU EVA, 3/1, 320G",
+    "url": "https://www.spar.si/online/tuna-v-rastlinskem-olju-eva-31-320g/p/434210",
+    "isOnPromotion": "false",
+    "product-priceperunit": "14,81 €/kg",
+    "product-insteadofprice": "4,74",
+    "product-stock-status": "",
+    "product-price": "4,74",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/434210/dt_main.jpg"
+}

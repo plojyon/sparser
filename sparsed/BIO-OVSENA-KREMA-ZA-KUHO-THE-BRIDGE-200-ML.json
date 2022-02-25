@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,39",
+    "product-priceperunit": "6,95 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO OVSENA KREMA, ZA KUHO, THE BRIDGE, 200 ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "8,10 g",
+            "Prehranske vlaknine": "1,00 g",
+            "Total Fat": "9,80 g",
+            "Protein": "0,60 g",
+            "kJ": "510,00 ",
+            "Sugar": "6,10 g",
+            "kcal": "123,00 ",
+            "Saturated fat": "1,00 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "BIO KREMA OVSENA 200ML",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "1,39",
+    "teaser-text": "BIO KREMA OVSENA 200ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-ovsena-krema-za-kuho-the-bridge-200-ml/p/446865",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/446865/dt_main.jpg"
+}

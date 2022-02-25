@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,85",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/gorcica-dijon-podravka-200g/p/595985",
+    "title": "GORČICA DIJON, PODRAVKA, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,85",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "2,50 g",
+            "Total Carbohydrate": "2,50 g",
+            "Saturated fat": "0,50 g",
+            "Protein": "8,20 g",
+            "Total Fat": "8,20 g",
+            "kcal": "130,00 ",
+            "Salt": "4,50 g",
+            "kJ": "540,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave"
+    },
+    "product-priceperunit": "9,25 €/kg",
+    "teaser-text": "GORČICA DIJON 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "GORČICA DIJON 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/595985/dt_main.jpg",
+    "product-brand": ""
+}

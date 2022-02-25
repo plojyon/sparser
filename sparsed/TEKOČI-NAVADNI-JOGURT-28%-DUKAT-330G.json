@@ -1,0 +1,45 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "teaser-text": "JOGURT NAVADNI 2,8%330G",
+    "description": "JOGURT NAVADNI 2,8%330G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "opis": "Tekoči jogurt s prepoznavnim blago kiselkastim okusom.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "base-information": {
+            "neto-količina-plod:": "330G"
+        },
+        "product-net-cont": {
+            "neto-količina": "330g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "238,00 ",
+            "Salt": "0,13 g",
+            "Sugar": "4,60 g",
+            "Total Carbohydrate": "4,60 g",
+            "Total Fat": "2,80 g",
+            "kcal": "57,00 ",
+            "Saturated fat": "1,78 g",
+            "Protein": "3,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "Dukat S d.o.o., Tolstojeva 63, 1000 Ljubljana"
+        }
+    },
+    "title": "TEKOČI NAVADNI JOGURT 2,8%, DUKAT, 330G",
+    "url": "https://www.spar.si/online/tekoci-navadni-jogurt-28-dukat-330g/p/411024",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,97 €/kg",
+    "product-insteadofprice": "0,98",
+    "product-stock-status": "",
+    "product-price": "0,98",
+    "product-brand": "",
+    "product-promotionBadges": "Trajno znižano",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/411024/dt_main.jpg"
+}

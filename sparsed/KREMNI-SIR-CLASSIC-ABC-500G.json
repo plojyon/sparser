@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "4,48",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "url": "https://www.spar.si/online/kremni-sir-classic-abc-500g/p/567262",
+    "title": "KREMNI SIR CLASSIC, ABC, 500G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "true",
+    "product-price": "3,80",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sveži kremni sir, min. 30% suhe snovi in min. 60% mlečne maščobe v suhi snovi.",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "3,00 g",
+            "Total Carbohydrate": "3,00 g",
+            "Saturated fat": "15,90 g",
+            "Protein": "6,50 g",
+            "Total Fat": "22,50 g",
+            "kcal": "241,00 ",
+            "Salt": "0,80 g",
+            "kJ": "1009,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "product-priceperunit": "7,60 €/kg",
+    "teaser-text": "NAMAZ ABC CLASSIC 500G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "NAMAZ ABC CLASSIC 500G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/567262/dt_main.jpg",
+    "product-brand": ""
+}

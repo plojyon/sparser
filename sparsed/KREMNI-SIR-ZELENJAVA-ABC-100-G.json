@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "11,80 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "NAMAZ ABC SIR ZELENJ 100",
+    "teaser-text": "NAMAZ ABC SIR ZELENJ 100",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "21,00 g",
+            "Saturated fat": "14,50 g",
+            "Total Carbohydrate": "2,50 g",
+            "kJ": "930,00 ",
+            "Protein": "5,70 g",
+            "Salt": "0,90 g",
+            "Sugar": "2,30 g",
+            "kcal": "222,00 "
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/kremni-sir-zelenjava-abc-100-g/p/377949",
+    "product-insteadofprice": "1,18",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377949/dt_main.jpg",
+    "title": "KREMNI SIR, ZELENJAVA, ABC, 100 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,18",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

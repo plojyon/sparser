@@ -1,0 +1,38 @@
+{
+    "product-priceperunit": "10,05 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "REZANCI INSTANT 375G HS",
+    "teaser-text": "REZANCI INSTANT 375G HS",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "17,00 g",
+            "Saturated fat": "9,00 g",
+            "Total Carbohydrate": "65,00 g",
+            "kJ": "1900,00 ",
+            "Protein": "10,00 g",
+            "Salt": "1,35 g",
+            "Sugar": "0,00 g",
+            "kcal": "450,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ITU-IMEX d.o.o., Brnčičeva 13, 1231 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "375g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        }
+    },
+    "url": "https://www.spar.si/online/instant-kitajski-rezanci-hs-tajska-375-g/p/377780",
+    "product-insteadofprice": "3,77",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377780/dt_main.jpg",
+    "title": "INSTANT KITAJSKI REZANCI, HS TAJSKA, 375 G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,77",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

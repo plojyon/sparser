@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "1,69",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/polnozrnati-kruhki-sante-150g/p/533024",
+    "title": "POLNOZRNATI KRUHKI SANTE, 150G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,69",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Hrustljavi kruhki polnozrnati ??? pšenični in rženi",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "0,70 g",
+            "Total Carbohydrate": "72,00 g",
+            "Prehranske vlaknine": "8,00 g",
+            "Saturated fat": "0,50 g",
+            "Protein": "11,00 g",
+            "Total Fat": "4,50 g",
+            "kcal": "389,00 ",
+            "Salt": "0,90 g",
+            "kJ": "1642,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "product-priceperunit": "11,27 €/kg",
+    "teaser-text": "KRUHKI HRUST.POLNOZRNATI",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "KRUHKI HRUST.POLNOZRNATI",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/533024/dt_main.jpg",
+    "product-brand": ""
+}

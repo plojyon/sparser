@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "6,65",
+    "product-priceperunit": "1,11 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ALPSKO MLEKO 1,5% M.M., 6X1L",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ALPSKO MLEKO POL POSNETO TBA EDGE (6x1L)",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "6l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,10 g",
+            "Total Carbohydrate": "4,70 g",
+            "Total Fat": "1,50 g",
+            "Protein": "3,30 g",
+            "kJ": "192,00 ",
+            "Sugar": "4,70 g",
+            "kcal": "46,00 ",
+            "Saturated fat": "0,90 g"
+        }
+    },
+    "description": "MLEKO ALPSKO POLPOS 6x1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "6,65",
+    "teaser-text": "MLEKO ALPSKO POLPOS 6x1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/alpsko-mleko-15-mm-6x1l/p/481110",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/481110/dt_main.jpg"
+}

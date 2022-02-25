@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB NEKTAR POMARANČA 1,5",
+    "description": "SB NEKTAR POMARANČA 1,5",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "opis": "Sadni delež: najmanj 50%.",
+        "ingredient-information": {
+            "sestavine": "pomarančni sok iz zgoščenega soka, voda, sladkor, glukozni-fruktozni sirup, kislina: citronska kislina."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "185,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "9,80 g",
+            "Total Carbohydrate": "9,80 g",
+            "Total Fat": "0,10 g",
+            "kcal": "44,00 ",
+            "Prehranske vlaknine": "0,10 g",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,30 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "POMARANČNI NEKTAR S-BUDGET, 1,5L",
+    "url": "https://www.spar.si/online/pomarancni-nektar-s-budget-15l/p/389473",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,50 €/l",
+    "product-insteadofprice": "0,75",
+    "product-stock-status": "",
+    "product-price": "0,75",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/389473/dt_main.jpg"
+}

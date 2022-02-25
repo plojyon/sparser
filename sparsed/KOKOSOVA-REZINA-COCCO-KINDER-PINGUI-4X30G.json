@@ -1,0 +1,38 @@
+{
+    "product-insteadofprice": "1,89",
+    "product-priceperunit": "15,75 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KOKOSOVA REZINA COCCO, KINDER PINGUI, 4X30G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Biskvit z mlekom in kokosom prelit z mlečno čokolado.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "contact-information": {},
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA, SOJA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,23 g",
+            "Total Carbohydrate": "38,30 g",
+            "Total Fat": "31,30 g",
+            "Protein": "6,50 g",
+            "kJ": "1929,00 ",
+            "Sugar": "30,50 g",
+            "kcal": "463,00 ",
+            "Saturated fat": "21,50 g"
+        }
+    },
+    "description": "REZINA KINDER COCCO 4x30",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,89",
+    "teaser-text": "REZINA KINDER COCCO 4x30",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kokosova-rezina-cocco-kinder-pingui-4x30g/p/441963",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/441963/dt_main.jpg"
+}

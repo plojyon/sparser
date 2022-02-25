@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "7,21 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR TUNINA MEH.SOL.280G",
+    "teaser-text": "SPAR TUNINA MEH.SOL.280G",
+    "product-info": {
+        "contact-information": {},
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "2,50 g",
+            "Saturated fat": "0,20 g",
+            "Total Carbohydrate": "9,40 g",
+            "kJ": "418,00 ",
+            "Protein": "8,60 g",
+            "Salt": "1,58 g",
+            "Sugar": "4,40 g",
+            "kcal": "99,00 ",
+            "Prehranske vlaknine": "2,40 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Tunina solata z mehiško zelenjavo",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "280g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        }
+    },
+    "url": "https://www.spar.si/online/tunina-solata-z-mehisko-zelenjavo-spar-280g/p/358348",
+    "product-insteadofprice": "2,02",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/358348/dt_main.jpg",
+    "title": "TUNINA SOLATA Z MEHIŠKO ZELENJAVO, SPAR, 280G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "2,02",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

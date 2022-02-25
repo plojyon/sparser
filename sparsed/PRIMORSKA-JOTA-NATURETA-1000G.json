@@ -1,0 +1,41 @@
+{
+    "product-insteadofprice": "3,39",
+    "product-priceperunit": "3,39 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PRIMORSKA JOTA, NATURETA, 1000G",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Primorska jota s kislim zeljem",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "contact-information": {
+            "kontakt:": "ETA KAMNIK d.o.o., Kajuhova pot 4, 1241 Kamnik"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,40 g",
+            "Total Carbohydrate": "4,50 g",
+            "Prehranske vlaknine": "3,50 g",
+            "Total Fat": "2,20 g",
+            "Protein": "2,70 g",
+            "kJ": "233,00 ",
+            "Sugar": "0,80 g",
+            "kcal": "56,00 ",
+            "Saturated fat": "0,50 g"
+        }
+    },
+    "description": "JOTA PRIMORSKA 1KG",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,39",
+    "teaser-text": "JOTA PRIMORSKA 1KG",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/primorska-jota-natureta-1000g/p/469061",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/469061/dt_main.jpg"
+}

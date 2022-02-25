@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "6,38 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR FF KRUH MEŠAN.500G",
+    "teaser-text": "SPAR FF KRUH MEŠAN.500G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "4,00 g",
+            "Saturated fat": "0,50 g",
+            "Total Carbohydrate": "35,00 g",
+            "kJ": "208,00 ",
+            "Protein": "6,00 g",
+            "Salt": "0,90 g",
+            "Sugar": "1,00 g",
+            "kcal": "877,00 ",
+            "Prehranske vlaknine": "4,00 g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR free from Mešani kruhki brez glutena in laktoze. Rezine kruha s sončničnimi semeni in rezine kruha z lanenimi semeni, brez glutena. Pakirano po 2 rezini skupaj.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "ingredient-information": {
+            "alergeni": "VOLČJI BOB."
+        }
+    },
+    "url": "https://www.spar.si/online/mesani-kruhki-brez-glutena-in-laktoze-spar-free-from-500g/p/376858",
+    "product-insteadofprice": "3,19",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376858/dt_main.jpg",
+    "title": "MEŠANI KRUHKI BREZ GLUTENA IN LAKTOZE, SPAR FREE FROM, 500G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,19",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

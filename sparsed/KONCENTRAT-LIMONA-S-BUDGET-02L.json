@@ -1,0 +1,39 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SB KONCENTRAT LIM.0,2L",
+    "description": "SB KONCENTRAT LIM.0,2L",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "0,2l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "223,00 ",
+            "Salt": "0,00 g",
+            "Sugar": "0,40 g",
+            "Total Carbohydrate": "0,40 g",
+            "Total Fat": "0,10 g",
+            "kcal": "52,00 ",
+            "Prehranske vlaknine": "0,10 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        }
+    },
+    "title": "KONCENTRAT LIMONA S-BUDGET, 0,2L",
+    "url": "https://www.spar.si/online/koncentrat-limona-s-budget-02l/p/417017",
+    "isOnPromotion": "false",
+    "product-priceperunit": "1,90 €/l",
+    "product-insteadofprice": "0,38",
+    "product-stock-status": "",
+    "product-price": "0,38",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/417017/dt_main.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "/online/medias/sys_master/root/h34/h66/9049881575454/VEGAN.png",
+    "url": "https://www.spar.si/online/100-sok-jabolko-in-jagodicje-spar-1l/p/588896",
+    "title": "100% SOK JABOLKO IN JAGODIČJE, SPAR, 1L",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {},
+        "ingredient-information": {
+            "sestavine": "jabolčni sok 69%, grozdni sok 15%, jagodna kaša 12%, ribezov sok 4%, antioksidant: askorbinska kislina."
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "11,00 g",
+            "Total Carbohydrate": "12,00 g",
+            "Prehranske vlaknine": "0,30 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "49,00 ",
+            "Salt": "0,01 g",
+            "kJ": "206,00 "
+        },
+        "product-badges": {
+            "certifikati": "Vegan"
+        }
+    },
+    "product-priceperunit": "1,99 €/l",
+    "teaser-text": "SPAR SOK JAB.JAG.100% 1L",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR SOK JAB.JAG.100% 1L",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/588896/dt_main.jpg",
+    "product-brand": ""
+}

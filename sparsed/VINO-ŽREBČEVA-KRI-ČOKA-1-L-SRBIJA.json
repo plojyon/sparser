@@ -1,0 +1,31 @@
+{
+    "product-insteadofprice": "4,04",
+    "product-priceperunit": "4,04 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "VINO, ŽREBČEVA KRI, ČOKA, 1 L, SRBIJA",
+    "product-stock-status": "",
+    "product-info": {
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "11,00 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "MAKEDONIJA TRADE d.o.o., Nove Fužine 33, 1000 Ljubljana"
+        }
+    },
+    "description": "VINO ŽREBČEVA KRI 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "4,04",
+    "teaser-text": "VINO ŽREBČEVA KRI 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/vino-zrebceva-kri-coka-1-l-srbija/p/442139",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/442139/dt_main.jpg"
+}

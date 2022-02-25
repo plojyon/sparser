@@ -1,0 +1,41 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,95",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 120,00 mikrogr. Kalcij 136,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "766,00 ",
+            "Saturated fat": "9,20 g",
+            "Protein": "2,50 g",
+            "Sugar": "11,20 g",
+            "Total Fat": "13,50 g",
+            "kcal": "184,00 ",
+            "Total Carbohydrate": "13,10 g",
+            "Salt": "0,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "Erfa d.o.o., Bevkova 12, 1233 Dob"
+        }
+    },
+    "product-priceperunit": "4,43 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/desert-monte-white-zott-4x100g/p/543518",
+    "product-price": "1,77",
+    "title": "DESERT MONTE WHITE, ZOTT, 4X100G",
+    "description": "DESERT MONTE WHITE 4X100",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/543518/dt_main.jpg",
+    "teaser-text": "DESERT MONTE WHITE 4X100"
+}

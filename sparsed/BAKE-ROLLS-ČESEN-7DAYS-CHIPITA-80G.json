@@ -1,0 +1,38 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "BAKE ROLLS S ČESNOM 80g",
+    "description": "BAKE ROLLS S ČESNOM 80g",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), ZELENA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "1905,00 ",
+            "Salt": "2,80 g",
+            "Sugar": "6,20 g",
+            "Total Carbohydrate": "63,00 g",
+            "Total Fat": "15,00 g",
+            "kcal": "453,00 ",
+            "Saturated fat": "6,30 g",
+            "Protein": "15,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "title": "BAKE ROLLS ČESEN, 7DAYS, CHIPITA, 80G",
+    "url": "https://www.spar.si/online/bake-rolls-cesen-7days-chipita-80g/p/406022",
+    "isOnPromotion": "false",
+    "product-priceperunit": "8,13 €/kg",
+    "product-insteadofprice": "0,65",
+    "product-stock-status": "",
+    "product-price": "0,65",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/406022/dt_main.jpg"
+}

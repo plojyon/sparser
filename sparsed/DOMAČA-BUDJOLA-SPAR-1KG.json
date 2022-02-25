@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "21,39",
+    "product-priceperunit": "21,39 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "title": "DOMAČA BUDJOLA, SPAR, 1KG",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Sušene mesnine",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "svinjski vrat, jedilna sol, začimbe, konzervans: natrijev nitrit."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "trade-group": {
+            "odstotek-maščob-manjši-od-…": "23,00 %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "4,60 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "22,50 g",
+            "Protein": "31,10 g",
+            "kJ": "1378,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "331,00 ",
+            "Saturated fat": "10,00 g"
+        }
+    },
+    "description": "SPAR BUDJOLA DOMAČA",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-brand": "",
+    "product-price": "21,39",
+    "teaser-text": "SPAR BUDJOLA DOMAČA",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/domaca-budjola-spar-1kg/p/482120",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/482120/dt_main.jpg"
+}

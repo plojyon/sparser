@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "40,83 €/l",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "AROMA RUM 38ML",
+    "teaser-text": "AROMA RUM 38ML",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "0,00 g",
+            "Saturated fat": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "0,00 ",
+            "Protein": "0,00 g",
+            "Salt": "0,00 g",
+            "Sugar": "0,00 g",
+            "kcal": "0,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Aroma rum 38 ml.",
+        "ingredient-information": {
+            "sestavine": "voda, etilni alkohol 10,00 %, barvilo karamel, aroma."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "0,04l"
+        },
+        "instruction-for-use": {}
+    },
+    "url": "https://www.spar.si/online/aroma-rum-dr-oetker-38-ml/p/367107",
+    "product-insteadofprice": "1,47",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/367107/dt_main.jpg",
+    "title": "AROMA RUM, DR. OETKER, 38 ML",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,47",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

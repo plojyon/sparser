@@ -1,0 +1,31 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "4,28",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "2kos"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Hraniti zunaj dosega otrok."
+        },
+        "ingredient-information": {
+            "sestavine": ">30 % anionske površinsko aktivne snovi, 5-15 % neionske površinsko aktivne snovi. Nadaljnje sestavine: parfumi, Butylphenyl methylpropional, Limonene, Coumarin, Alpha-isomethyl ionone"
+        },
+        "contact-information": {
+            "kontakt:": "Henkel Slovenija d.o.o., Industrijska 23, 2506 Maribor"
+        }
+    },
+    "product-priceperunit": "2,14 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/wc-obesanka-pine-power-aktiv-bref-2x50g/p/413977",
+    "product-price": "4,28",
+    "title": "WC OBEŠANKA, PINE POWER AKTIV, BREF, 2X50G",
+    "description": "OBEŠANKA WC BREF 2x50G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/413977/dt_main.jpg",
+    "teaser-text": "OBEŠANKA WC BREF 2x50G"
+}

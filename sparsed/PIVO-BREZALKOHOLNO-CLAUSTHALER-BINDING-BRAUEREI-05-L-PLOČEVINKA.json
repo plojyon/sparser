@@ -1,0 +1,42 @@
+{
+    "product-insteadofprice": "0,75",
+    "product-priceperunit": "1,50 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PIVO, BREZALKOHOLNO, CLAUSTHALER, BINDING BRAUEREI, 0,5 L, PLOČEVINKA",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "0,49 vol. %"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,01 g",
+            "Total Carbohydrate": "5,60 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,20 g",
+            "kJ": "108,00 ",
+            "Sugar": "2,80 g",
+            "kcal": "26,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "BREZ.PIVO CLAUS.0,5L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,75",
+    "teaser-text": "BREZ.PIVO CLAUS.0,5L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pivo-brezalkoholno-clausthaler-binding-brauerei-05-l-plocevinka/p/459085",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/459085/dt_main.jpg"
+}

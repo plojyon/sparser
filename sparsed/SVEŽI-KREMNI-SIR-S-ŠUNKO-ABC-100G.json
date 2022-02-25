@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "teaser-text": "NAMAZ ABC ŠUNKA 100G",
+    "description": "NAMAZ ABC ŠUNKA 100G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "ABC sveži kremni sir s šunko, min. 30% suhe snovi in min. 60% mlečne maščobe v suhi snovi",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 160,00 mikrogr. Kalcij 120,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "998,00 ",
+            "Salt": "1,10 g",
+            "Sugar": "2,50 g",
+            "Total Carbohydrate": "2,70 g",
+            "Total Fat": "22,00 g",
+            "kcal": "238,00 ",
+            "Saturated fat": "15,80 g",
+            "Protein": "7,20 g"
+        },
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed"
+    },
+    "title": "SVEŽI KREMNI SIR S ŠUNKO, ABC, 100G",
+    "url": "https://www.spar.si/online/svezi-kremni-sir-s-sunko-abc-100g/p/409540",
+    "isOnPromotion": "false",
+    "product-priceperunit": "11,80 €/kg",
+    "product-insteadofprice": "1,18",
+    "product-stock-status": "",
+    "product-price": "1,18",
+    "product-brand": "",
+    "product-promotionBadges": "Hlajeno",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/409540/dt_main.jpg"
+}

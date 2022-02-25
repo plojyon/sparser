@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "2,98",
+    "product-priceperunit": "2,98 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "KOKOSOV NAPITEK S ČOKOLADO, ALPRO, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin D 0,75 mikrogr. Vitamin B12 0,38 mikrogr."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Kokosov napitek s čokolado Alpro, 1L",
+        "contact-information": {
+            "kontakt:": "Storck Adria d.o.o., Tehnološki park 18, 1000 Ljubljana"
+        },
+        "ingredient-information": {
+            "alergeni": "LEŠNIKI (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,12 g",
+            "Total Carbohydrate": "6,80 g",
+            "Prehranske vlaknine": "0,40 g",
+            "Total Fat": "1,10 g",
+            "Protein": "0,40 g",
+            "kJ": "168,00 ",
+            "Sugar": "5,30 g",
+            "kcal": "40,00 ",
+            "Saturated fat": "1,00 g"
+        }
+    },
+    "description": "ALPRO KOKOSOV NAPITEK 1L",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "2,98",
+    "teaser-text": "ALPRO KOKOSOV NAPITEK 1L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kokosov-napitek-s-cokolado-alpro-1l/p/498863",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498863/dt_main.jpg"
+}

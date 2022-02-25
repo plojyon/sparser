@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "15,10",
+    "product-priceperunit": "15,10 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR POPRČ PLANIKA, CCA. 650G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Sir z dodatkom zelenega popra.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,81 g",
+            "Total Carbohydrate": "4,00 g",
+            "Total Fat": "24,10 g",
+            "Protein": "30,70 g",
+            "kJ": "356,00 ",
+            "Sugar": "0,90 g",
+            "kcal": "1482,00 ",
+            "Saturated fat": "16,60 g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Planika d.o.o., Gregorčičeva 32, 5222 Kobarid"
+        }
+    },
+    "description": "SIR POPRČ PLANIKA VP",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "15,10",
+    "teaser-text": "SIR POPRČ PLANIKA VP",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-poprc-planika-cca-650g/p/514609",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/514609/dt_main.jpg"
+}

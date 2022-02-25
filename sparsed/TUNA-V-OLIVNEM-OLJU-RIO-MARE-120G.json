@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "6,00 g",
+            "Total Fat": "37,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Sugar": "0,00 g",
+            "Salt": "1,10 g",
+            "kJ": "1666,00 ",
+            "Protein": "17,50 g",
+            "kcal": "403,00 "
+        },
+        "contact-information": {
+            "kontakt:": "Bolton Adriatic d.o.o., Polje 12, 5290 Šempeter pri Gorici"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "base-information": {
+            "neto-količina-plod:": "78G"
+        },
+        "product-net-cont": {
+            "neto-količina": "120g"
+        },
+        "ingredient-information": {
+            "alergeni": "RIBE."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/tuna-v-olivnem-olju-rio-mare-120g/p/151212",
+    "product-price": "3,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/151212/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "3,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "TUNA V OLIV. OLJU 120G",
+    "product-stock-status": "",
+    "title": "TUNA V OLIVNEM OLJU RIO MARE, 120G",
+    "product-priceperunit": "29,08 €/kg",
+    "description": "TUNA V OLIV. OLJU 120G"
+}

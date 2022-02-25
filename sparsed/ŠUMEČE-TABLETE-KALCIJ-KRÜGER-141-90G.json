@@ -1,0 +1,48 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "1,69",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "90g"
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Priporočene dnevne količine oziroma odmerka se ne sme prekoračiti. Prehransko dopolnilo ni nadomestilo za uravnoteženo in raznovrstno prehrano. Shranjevati nedosegljivo otrokom!"
+        },
+        "opis": "Šumenka s kalcijem daje osvežujočo pijačo z okusom limone ter dopolnjuje vsakodnevno uravnoteženo prehrano s kalcijem. Kalcij je potreben za ohranjanje zdravih kosti. Šumenka, ki jo enostavno raztopimo v kozarcu vode in popijemo, je praktična za uporabo doma, na delovnem mestu ali na poti.",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "Medex d.o.o., Linhartova 49a, 1000 Ljubljana"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Kalcij 500,00 mg."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ŠUMEČE TABLETE KALCIJ",
+        "ingredient-information": {
+            "sestavine": "kislina: citronska kislina, kalcijev karbonat, kislina: jabolčna kislina, sredstvo za uravnavanje kislosti: natrijev hidrogenkarbonat, koruzni škrob, sladilo: natrijev ciklamat, aroma, sladilo: natrijev saharin, barvilo: E101ii."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "povprečna-hranilna-vrednost": {
+            "kJ": "760,00 ",
+            "Saturated fat": "0,10 g",
+            "Protein": "0,10 g",
+            "Sugar": "0,10 g",
+            "Total Fat": "0,10 g",
+            "kcal": "176,00 ",
+            "Total Carbohydrate": "2,80 g",
+            "Salt": "0,10 g"
+        }
+    },
+    "product-priceperunit": "14,11 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/sumece-tablete-kalcij-krger-141-90g/p/270303",
+    "product-price": "1,27",
+    "title": "ŠUMEČE TABLETE KALCIJ, KRÜGER, 14/1, 90G",
+    "description": "TABLETE KALCIJ ŠUM.90G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/270303/dt_main.jpg",
+    "teaser-text": "TABLETE KALCIJ ŠUM.90G"
+}

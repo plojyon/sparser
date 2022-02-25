@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,29",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "url": "https://www.spar.si/online/bio-gorcica-kremser-mautner-markhof-200g/p/611768",
+    "title": "BIO GORČICA KREMSER, MAUTNER MARKHOF, 200G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,29",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "AL PONTE D.O.O., POT K SEJMIŠČU 30, 1000 LJUBLJANA"
+        },
+        "product-net-cont": {
+            "neto-količina": "200g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO GORČICA V TUBI KREMSER 200G",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "16,00 g",
+            "Total Carbohydrate": "16,00 g",
+            "Saturated fat": "0,80 g",
+            "Protein": "5,70 g",
+            "Total Fat": "6,10 g",
+            "kcal": "155,00 ",
+            "Salt": "0,76 g",
+            "kJ": "651,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "GORČIČNO SEME."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "product-priceperunit": "6,45 €/kg",
+    "teaser-text": "BIO KREMSER TUBA 200G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "BIO KREMSER TUBA 200G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/611768/dt_main.jpg",
+    "product-brand": ""
+}

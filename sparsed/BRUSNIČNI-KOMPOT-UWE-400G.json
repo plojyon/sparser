@@ -1,0 +1,42 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,30 g",
+            "Total Carbohydrate": "54,00 g",
+            "Sugar": "53,80 g",
+            "Salt": "0,00 g",
+            "kJ": "976,00 ",
+            "Protein": "0,20 g",
+            "kcal": "233,00 "
+        },
+        "contact-information": {
+            "kontakt:": "[email protected]"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "base-information": {
+            "neto-količina-plod:": "240G"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "sestavine": "brusnice 60,00 %, sladkor, želirno sredstvo: jabolčni pektin, limonin sok."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/brusnicni-kompot-uwe-400g/p/137079",
+    "product-price": "4,45",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/137079/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "4,45",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "KOMPOT BRUSNIČNI UWE 400",
+    "product-stock-status": "",
+    "title": "BRUSNIČNI KOMPOT UWE, 400G",
+    "product-priceperunit": "11,13 €/kg",
+    "description": "KOMPOT BRUSNIČNI UWE 400"
+}

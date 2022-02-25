@@ -1,0 +1,34 @@
+{
+    "product-insteadofprice": "7,19",
+    "product-priceperunit": "9,59 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "EKO VINO MALVAZIJA ŠTEKAR, 0,75L",
+    "product-stock-status": "",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "MABAT INT d.o.o., Kapele 2, 8258 Kapele, Slovenija"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,00 vol. %"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "VINO MALVAZIJA ŠTEK0,75L",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "7,19",
+    "teaser-text": "VINO MALVAZIJA ŠTEK0,75L",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/eko-vino-malvazija-stekar-075l/p/452724",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/452724/dt_main.jpg"
+}

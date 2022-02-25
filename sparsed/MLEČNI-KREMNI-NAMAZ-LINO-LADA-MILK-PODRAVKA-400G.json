@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "8,00 g",
+            "Total Fat": "34,00 g",
+            "Total Carbohydrate": "54,00 g",
+            "Sugar": "54,00 g",
+            "Salt": "0,30 g",
+            "kJ": "2307,00 ",
+            "Protein": "7,00 g",
+            "kcal": "553,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mlečni kremni namaz z lešniki",
+        "contact-information": {
+            "kontakt:": "Podravka d.o.o. Ljubljana, Šmartinska cesta 154, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO, LEŠNIKI, ARAŠIDI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/mlecni-kremni-namaz-lino-lada-milk-podravka-400g/p/179106",
+    "product-price": "2,49",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/179106/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "2,49",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "LINO LADA MILK 400",
+    "product-stock-status": "",
+    "title": "MLEČNI KREMNI NAMAZ LINO LADA MILK, PODRAVKA, 400G",
+    "product-priceperunit": "6,23 €/kg",
+    "description": "LINO LADA MILK 400"
+}

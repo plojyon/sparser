@@ -1,0 +1,46 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,97 g",
+            "Total Fat": "1,57 g",
+            "Total Carbohydrate": "9,40 g",
+            "Sugar": "5,85 g",
+            "Salt": "0,17 g",
+            "kJ": "278,00 ",
+            "Protein": "3,55 g",
+            "kcal": "66,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "LEDENA KAVA 1 LIT",
+        "security-warning": {
+            "varnostna-opozorila": "-"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "contact-information": {
+            "kontakt:": "Pomurske mlekarne d.d., Industrijska ulica 10, 9000 Murska Sobota"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "-"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/dunajska-ledena-kava-pomurske-mlekarne-1l/p/135163",
+    "product-price": "1,60",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/135163/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,60",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "LEDENA KAVA 1L POMUR ML",
+    "product-stock-status": "",
+    "title": "DUNAJSKA LEDENA KAVA, POMURSKE MLEKARNE, 1L",
+    "product-priceperunit": "1,60 €/l",
+    "description": "LEDENA KAVA 1L POMUR ML"
+}

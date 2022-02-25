@@ -1,0 +1,43 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "MESNI ZAJTRK 2X150G",
+    "description": "MESNI ZAJTRK 2X150G",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "Mesni zajtrk",
+        "ingredient-information": {
+            "alergeni": "SOJA, GLUTEN (V SLEDOVIH), MLEKO (V SLEDOVIH)."
+        },
+        "base-information": {
+            "neto-količina-plod:": "300"
+        },
+        "product-net-cont": {
+            "neto-količina": "300g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "952,00 ",
+            "Salt": "1,70 g",
+            "Sugar": "0,00 g",
+            "Total Carbohydrate": "6,00 g",
+            "Total Fat": "17,00 g",
+            "kcal": "229,00 ",
+            "Saturated fat": "6,80 g",
+            "Protein": "13,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Gavrilović M.G.P. d.o.o., Vojkova 5, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "MESNI ZAJTRK, GAVRILOVIĆ, 2 X 150 G",
+    "url": "https://www.spar.si/online/mesni-zajtrk-gavrilovi-2-x-150-g/p/433787",
+    "isOnPromotion": "false",
+    "product-priceperunit": "10,80 €/kg",
+    "product-insteadofprice": "3,24",
+    "product-stock-status": "",
+    "product-price": "3,24",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/433787/dt_main.jpg"
+}

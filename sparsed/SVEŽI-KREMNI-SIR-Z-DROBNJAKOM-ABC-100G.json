@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "11,80 €/kg",
+    "product-promotionBadges": "Hlajeno",
+    "isOnPromotion": "false",
+    "description": "NAMAZ ABC SIR DROBN 100G",
+    "teaser-text": "NAMAZ ABC SIR DROBN 100G",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Zvijezda d.o.o., Breznikova ulica 26, 1230 Domžale"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "21,00 g",
+            "Saturated fat": "14,50 g",
+            "Total Carbohydrate": "2,50 g",
+            "kJ": "390,00 ",
+            "Protein": "5,70 g",
+            "Salt": "0,90 g",
+            "Sugar": "2,30 g",
+            "kcal": "222,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "ABC sveži kremni sir z drobnjakom, min. 30% suhe snovi in min. 60% mlečne maščobe v suhi snovi.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "gotova jed",
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/svezi-kremni-sir-z-drobnjakom-abc-100g/p/377948",
+    "product-insteadofprice": "1,18",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/377948/dt_main.jpg",
+    "title": "SVEŽI KREMNI SIR Z DROBNJAKOM, ABC, 100G",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "1,18",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

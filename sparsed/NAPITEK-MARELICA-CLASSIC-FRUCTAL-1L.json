@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "1,03",
+    "product-priceperunit": "0,87 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "title": "NAPITEK MARELICA CLASSIC, FRUCTAL, 1L",
+    "product-stock-status": "",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo se proizvod dobro pretrese."
+        },
+        "contact-information": {
+            "kontakt:": "FRUCTAL d.o.o., Tovarniška cesta 7, 5270 Ajdovščina"
+        },
+        "opis": "Proizvod je negazirana brezalkoholna sadna pijača, proizvedena iz marelične kaše. Za slajenje je uporabljena kombinacija sladkorja in glukozno-fruktoznega sirupa. Kot antioksidant je uporabljena askorbinska kislina.",
+        "ingredient-information": {
+            "sestavine": "voda, marelična kaša 25,00 %, sladkor, glukozni-fruktozni sirup, kislina (citronska kislina), antioksidant (askorbinska kislina), aroma."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "11,70 g",
+            "Prehranske vlaknine": "0,60 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,20 g",
+            "kJ": "206,00 ",
+            "Sugar": "11,00 g",
+            "kcal": "49,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "NAPI.MARELICA CLAS.1L",
+    "product-promotionBadges": "Trajno znižano",
+    "product-brand": "",
+    "product-price": "0,87",
+    "teaser-text": "NAPI.MARELICA CLAS.1L",
+    "isOnPromotion": "true",
+    "url": "https://www.spar.si/online/napitek-marelica-classic-fructal-1l/p/466093",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/466093/dt_main.jpg"
+}

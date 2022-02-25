@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "3,89",
+    "product-priceperunit": "55,57 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "PINJOLE BIMED, 70G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 0,80 mg, Vitamin B1 (Tiamin) 0,40 mg, Vitamin B2 (Riboflavin) 0,20 mg, Vitamin B3 (Niacin) 4,40 mg, Vitamin B6 0,10 mg, Kalij 597,00 mg, Kalcij 16,00 mg, Fosfor 575,00 mg, Magnezij 521,00 mg, Železo 5,50 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "\n\t\t\t\ttehnično-ime-izdelka": "PINJOLE",
+        "contact-information": {
+            "kontakt:": "Bimed d.o.o., Mednarodni prehod 8, Vrtojba, 5290 Šempeter pri Gorici"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN (V SLEDOVIH), ARAŠIDI (V SLEDOVIH), SOJA (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "70g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "13,00 g",
+            "Total Fat": "68,00 g",
+            "Protein": "13,70 g",
+            "kJ": "2816,00 ",
+            "Sugar": "3,60 g",
+            "kcal": "673,00 ",
+            "Saturated fat": "4,90 g"
+        }
+    },
+    "description": "PINJOLE BIMED 70G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,89",
+    "teaser-text": "PINJOLE BIMED 70G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/pinjole-bimed-70g/p/498627",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/498627/dt_main.jpg"
+}

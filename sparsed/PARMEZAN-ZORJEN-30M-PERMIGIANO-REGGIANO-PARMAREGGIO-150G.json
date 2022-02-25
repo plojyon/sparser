@@ -1,0 +1,41 @@
+{
+    "product-priceperunit": "41,20 €/kg",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "SIR PARMEZAN REGGI 150G",
+    "teaser-text": "SIR PARMEZAN REGGI 150G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "28,00 g",
+            "Saturated fat": "19,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "kJ": "1633,00 ",
+            "Protein": "33,00 g",
+            "Salt": "1,60 g",
+            "Sugar": "0,00 g",
+            "kcal": "392,00 "
+        },
+        "contact-information": {
+            "kontakt:": "ALTANET d.o.o., Golo 82, 1292 Ig"
+        },
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin A 270,00 mikrogr. Kalcij 160,00 mg, Fosfor 680,00 mg."
+        },
+        "product-net-cont": {
+            "neto-količina": "150g"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/parmezan-zorjen-30m-permigiano-reggiano-parmareggio-150g/p/369141",
+    "product-insteadofprice": "7,28",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/369141/dt_main.jpg",
+    "title": "PARMEZAN, ZORJEN 30M., PERMIGIANO REGGIANO, PARMAREGGIO, 150G",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "6,18",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

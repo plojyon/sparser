@@ -1,0 +1,42 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "DESPAR ČEBULICE 300G",
+    "description": "DESPAR ČEBULICE 300G",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "180g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "99,00 ",
+            "Salt": "1,00 g",
+            "Sugar": "3,50 g",
+            "Total Carbohydrate": "4,50 g",
+            "Total Fat": "0,00 g",
+            "kcal": "24,00 ",
+            "Prehranske vlaknine": "1,70 g",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,00 g"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "base-information": {
+            "neto-količina-plod:": "180G"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "title": "SREBRNE ČEBULICE V VINSKEM KISU DESPAR, 300G",
+    "url": "https://www.spar.si/online/srebrne-cebulice-v-vinskem-kisu-despar-300g/p/426227",
+    "isOnPromotion": "false",
+    "product-priceperunit": "5,33 €/kg",
+    "product-insteadofprice": "0,96",
+    "product-stock-status": "",
+    "product-price": "0,96",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/426227/dt_main.jpg"
+}

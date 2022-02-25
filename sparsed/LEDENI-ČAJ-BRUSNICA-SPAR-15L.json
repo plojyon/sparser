@@ -1,0 +1,40 @@
+{
+    "product-amount": "",
+    "product-badge-image": "/online/medias/sys_master/root/h7d/he3/9567062556702/smd-badge-narejeno-v-SLO-new-listing-page.png",
+    "teaser-text": "SPAR LEDENI ČAJ BRUS 1,5",
+    "description": "SPAR LEDENI ČAJ BRUS 1,5",
+    "product-info": {
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR LEDENI ČAJ BRUSNICA - Ledeni čaj breskev, negazirana brezalkoholna pijača s sokom breskve in izvlečkom čaja rooibos. 1,5 l",
+        "ingredient-information": {
+            "sestavine": "voda, sladkor, sadni sok brusnice 1,00 %, sok črnega korena, sredstvo za uravnavanje kislosti: citronska kislina, izvleček čaja rooibos 0,02%, naravna aroma, konzervansa: kalijev sorbat, natrijev benzoat, sredstvo za uravnavanje kislosti: citronska kislina, izvleček čaja rooibos 0,02 %, naravna aroma, konzervansa: kalijev sorbat, natrijev benzoat."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1,5l"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "104,00 ",
+            "Salt": "0,01 g",
+            "Sugar": "5,50 g",
+            "Total Carbohydrate": "6,00 g",
+            "Total Fat": "0,00 g",
+            "kcal": "24,00 ",
+            "Saturated fat": "0,00 g",
+            "Protein": "0,10 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "title": "LEDENI ČAJ BRUSNICA, SPAR, 1,5L",
+    "url": "https://www.spar.si/online/ledeni-caj-brusnica-spar-15l/p/423194",
+    "isOnPromotion": "false",
+    "product-priceperunit": "0,39 €/l",
+    "product-insteadofprice": "0,59",
+    "product-stock-status": "",
+    "product-price": "0,59",
+    "product-brand": "",
+    "product-promotionBadges": "Narejeno v Sloveniji",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/423194/dt_main.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "product-insteadofprice": "18,22",
+    "product-priceperunit": "18,22 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "SIR TOLMINC MLEKARNA PLANIKA, CCA.330G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "Sir Tolminc je narejen po tradicionalnih receptih iz odbranega nehomogeniziranega mleka iz Posoških hribov. Svojevrsten okus mu dajejo klimatsko-geološke razmere planinskih predelov Posočja, vrsta in način reje govedi.",
+        "ingredient-information": {
+            "alergeni": "JAJCA, MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "1kg"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "1,23 g",
+            "Total Carbohydrate": "2,30 g",
+            "Total Fat": "32,20 g",
+            "Protein": "25,30 g",
+            "kJ": "1660,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "400,00 ",
+            "Saturated fat": "22,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "Mlekarna Planika d.o.o., Gregorčičeva 32, 5222 Kobarid"
+        }
+    },
+    "description": "SIR TOLMINC VP",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "18,22",
+    "teaser-text": "SIR TOLMINC VP",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sir-tolminc-mlekarna-planika-cca330g/p/484899",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/484899/dt_main.jpg"
+}

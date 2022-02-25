@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,09",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "contact-information": {
+            "kontakt:": "Atlantic trade d.o.o., Kolinska ulica 1, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "117g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "ingredient-information": {
+            "alergeni": "GLUTEN, SOJA, MLEKO, LEŠNIKI."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2387,00 ",
+            "Saturated fat": "16,80 g",
+            "Protein": "8,80 g",
+            "Sugar": "43,60 g",
+            "Total Fat": "35,90 g",
+            "kcal": "572,00 ",
+            "Total Carbohydrate": "53,00 g",
+            "Salt": "0,36 g"
+        }
+    },
+    "product-priceperunit": "17,86 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/vafelj-oblit-z-belo-cokolado-kinder-bueno-white-ferrero-31-117g/p/449411",
+    "product-price": "2,09",
+    "title": "VAFELJ OBLIT Z BELO ČOKOLADO KINDER BUENO WHITE, FERRERO, 3/1, 117G",
+    "description": "VAF.KIND.BUEN.3PACK 117G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/449411/dt_main.jpg",
+    "teaser-text": "VAF.KIND.BUEN.3PACK 117G"
+}

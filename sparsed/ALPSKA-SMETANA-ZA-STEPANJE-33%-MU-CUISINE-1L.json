@@ -1,0 +1,40 @@
+{
+    "product-priceperunit": "4,82 €/l",
+    "product-promotionBadges": "Izdelek v promociji",
+    "isOnPromotion": "true",
+    "description": "SMETANA ALP ZA STEP 1L",
+    "teaser-text": "SMETANA ALP ZA STEP 1L",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "Ljubljanske mlekarne, d.d., Tolstojeva 63, Ljubljana, Slovenija"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "33,00 g",
+            "Saturated fat": "17,00 g",
+            "Total Carbohydrate": "3,00 g",
+            "kJ": "1306,00 ",
+            "Protein": "2,00 g",
+            "Salt": "0,10 g",
+            "Sugar": "3,00 g",
+            "kcal": "317,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MU CUISINE ALPSKA SMET.STEPA. 33%1L TBA",
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek",
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        }
+    },
+    "url": "https://www.spar.si/online/alpska-smetana-za-stepanje-33-mu-cuisine-1l/p/361715",
+    "product-insteadofprice": "5,68",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/361715/dt_main.jpg",
+    "title": "ALPSKA SMETANA ZA STEPANJE 33%, MU CUISINE, 1L",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "4,82",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

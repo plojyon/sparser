@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "2,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/nastrgana-temna-cokolada-dr-oetker-100g/p/82645",
+    "title": "NASTRGANA TEMNA ČOKOLADA, DR. OETKER, 100G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "2,99",
+    "product-info": {
+        "contact-information": {
+            "kontakt:": "DR. OETKER d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "100g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Nastrgana temna čokolada",
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "48,00 g",
+            "Total Carbohydrate": "52,00 g",
+            "Saturated fat": "16,00 g",
+            "Protein": "6,00 g",
+            "Total Fat": "26,00 g",
+            "kcal": "493,00 ",
+            "Salt": "0,01 g",
+            "kJ": "2054,00 "
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH)."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek"
+    },
+    "product-priceperunit": "29,90 €/kg",
+    "teaser-text": "ČOKOLADA NASTR.GR.100G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "ČOKOLADA NASTR.GR.100G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/82645/dt_main.jpg",
+    "product-brand": ""
+}

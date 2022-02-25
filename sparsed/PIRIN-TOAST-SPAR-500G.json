@@ -1,0 +1,45 @@
+{
+    "product-insteadofprice": "1,99",
+    "product-badge-image": "",
+    "url": "https://www.spar.si/online/pirin-toast-spar-500g/p/599971",
+    "title": "PIRIN TOAST, SPAR, 500G",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "product-price": "1,99",
+    "product-info": {
+        "contact-information": {},
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Sugar": "4,80 g",
+            "Total Carbohydrate": "49,00 g",
+            "Prehranske vlaknine": "4,40 g",
+            "Saturated fat": "1,90 g",
+            "Protein": "11,00 g",
+            "Total Fat": "4,80 g",
+            "kcal": "292,00 ",
+            "Salt": "1,30 g",
+            "kJ": "1233,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "SPAR PIRIN TOAST - Pirin mešani kruh - rezan",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "security-warning": {
+            "varnostna-opozorila": "Izdelek je pasteriziran. Z zavitkom ravnajte previdno, v primeru poškodovane embalaže lahko toast splesni in postane neužiten."
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Toast kruh je idealen za pripravo različnih sendvičev ali pa na rezino namažemo kakšen namaz."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "pasteriziran izdelek"
+    },
+    "product-priceperunit": "3,98 €/kg",
+    "teaser-text": "SPAR TOAST PIRIN 500 G",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-stock-status": "",
+    "product-amount": "",
+    "description": "SPAR TOAST PIRIN 500 G",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/599971/dt_main.jpg",
+    "product-brand": ""
+}

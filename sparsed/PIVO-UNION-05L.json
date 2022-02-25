@@ -1,0 +1,45 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,01 g",
+            "Total Fat": "0,01 g",
+            "Total Carbohydrate": "3,40 g",
+            "Sugar": "0,01 g",
+            "Salt": "0,03 g",
+            "kJ": "170,00 ",
+            "Protein": "0,50 g",
+            "kcal": "40,60 "
+        },
+        "contact-information": {
+            "kontakt:": "Pivovarna Laško Union d.o.o., Pivovarniška ulica 2, 1000 Ljubljana"
+        },
+        "opis": "Najprepoznavnejše pivo Pivovarne Union (vsebnost alkohola: 4,9 vol.%) je dediščina 150-letne tradicije. Varjeno je iz prvovrstnega ječmenovega slada. Harmonijo ...",
+        "base-information": {
+            "neto-količina-plod:": "500ML"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "alergeni": "GLUTEN."
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "4,90 vol. %"
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/pivo-union-05l/p/11698",
+    "product-price": "1,14",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/11698/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,14",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "PIVO UNION PLOČ. 0,5L",
+    "product-stock-status": "",
+    "title": "PIVO UNION, 0,5L",
+    "product-priceperunit": "2,28 €/l",
+    "description": "PIVO UNION PLOČ. 0,5L"
+}

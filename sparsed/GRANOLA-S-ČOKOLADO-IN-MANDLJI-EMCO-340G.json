@@ -1,0 +1,40 @@
+{
+    "product-insteadofprice": "3,75",
+    "product-priceperunit": "11,03 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "GRANOLA S ČOKOLADO IN MANDLJI, EMCO, 340G",
+    "product-stock-status": "",
+    "product-info": {
+        "opis": "BREZ GLUTENA.",
+        "ingredient-information": {
+            "alergeni": "SOJA, MANDLJI, ARAŠIDI (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        },
+        "product-net-cont": {
+            "neto-količina": "340g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,23 g",
+            "Total Carbohydrate": "59,00 g",
+            "Prehranske vlaknine": "2,60 g",
+            "Total Fat": "16,00 g",
+            "Protein": "5,40 g",
+            "kJ": "1674,00 ",
+            "Sugar": "26,00 g",
+            "kcal": "400,00 ",
+            "Saturated fat": "3,40 g"
+        },
+        "contact-information": {
+            "kontakt:": "Merit HP d.o.o., Letališka cesta 3c, 1000 Ljubljana"
+        }
+    },
+    "description": "EMCO MUSLI ČOK.340G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "3,75",
+    "teaser-text": "EMCO MUSLI ČOK.340G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/granola-s-cokolado-in-mandlji-emco-340g/p/507677",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507677/dt_main.jpg"
+}

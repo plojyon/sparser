@@ -1,0 +1,39 @@
+{
+    "product-priceperunit": "9,48 €/kg",
+    "product-promotionBadges": "",
+    "isOnPromotion": "false",
+    "description": "SPAR FF MUSLI SAD.400G",
+    "teaser-text": "SPAR FF MUSLI SAD.400G",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Total Fat": "10,00 g",
+            "Saturated fat": "3,00 g",
+            "Total Carbohydrate": "44,00 g",
+            "kJ": "1492,00 ",
+            "Protein": "14,00 g",
+            "Salt": "0,35 g",
+            "Sugar": "21,00 g",
+            "kcal": "356,00 ",
+            "Prehranske vlaknine": "17,00 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, 1000 Ljubljana, Tel.: 080 82 44"
+        },
+        "product-net-cont": {
+            "neto-količina": "400g"
+        },
+        "ingredient-information": {
+            "alergeni": "SOJA, MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), INDIJSKI OREŠČKI (V SLEDOVIH), AMERIŠKI OREH (V SLEDOVIH), BRAZILSKI OREŠČKI (V SLEDOVIH), MAKADAMIJA (V SLEDOVIH), PISTACIJA (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH)."
+        }
+    },
+    "url": "https://www.spar.si/online/msli-s-sadjem-brez-glutena-spar-free-from-400g/p/376866",
+    "product-insteadofprice": "3,79",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/376866/dt_main.jpg",
+    "title": "MÜSLI S SADJEM BREZ GLUTENA SPAR FREE FROM, 400G",
+    "product-badge-image": "",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "3,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

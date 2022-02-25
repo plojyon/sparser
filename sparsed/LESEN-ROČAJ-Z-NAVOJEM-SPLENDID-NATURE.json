@@ -1,0 +1,26 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,99",
+    "product-stock-status": "",
+    "product-info": {
+        "product-net-cont": {
+            "neto-količina": "1kos"
+        },
+        "opis": "Navoj iz aluminija",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        }
+    },
+    "product-priceperunit": "2,79 €/kos",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/lesen-rocaj-z-navojem-splendid-nature/p/509324",
+    "product-price": "2,79",
+    "title": "LESEN ROČAJ Z NAVOJEM, SPLENDID NATURE",
+    "description": "SN LESENI ROČAJ",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/509324/dt_main.jpg",
+    "teaser-text": "SN LESENI ROČAJ"
+}

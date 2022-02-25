@@ -1,0 +1,50 @@
+{
+    "product-insteadofprice": "1,69",
+    "product-priceperunit": "7,68 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/h68/h25/10524621799454/badge-cold-FIN.jpg",
+    "title": "KAVA CAPPUCCINO, STARBUCKS, 220ML",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,08 g",
+            "Total Carbohydrate": "8,80 g",
+            "Total Fat": "2,50 g",
+            "Protein": "2,80 g",
+            "kJ": "281,00 ",
+            "Sugar": "8,50 g",
+            "kcal": "69,00 ",
+            "Saturated fat": "1,60 g"
+        },
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Uživajte ohlajeno, pred uporabo pretresti."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "MLEČNI NAPITEK S KAVO IN KAKAVOM, segret na ultravisoko temperaturo.",
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v kontrolirani atmosferi",
+        "security-warning": {
+            "varnostna-opozorila": "Visoka vsebnost kofeina. Ni priporočljivo za otroke ali nosečnice ali doječe matere (40 mg/100 ml)."
+        },
+        "opis": "/",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "product-net-cont": {
+            "neto-količina": "0,22l"
+        },
+        "product-badges": {
+            "certifikati": "Fair Trade"
+        }
+    },
+    "description": "KAVA STARBUCKS 220ML",
+    "product-promotionBadges": "Hlajeno",
+    "product-brand": "",
+    "product-price": "1,69",
+    "teaser-text": "KAVA STARBUCKS 220ML",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/kava-cappuccino-starbucks-220ml/p/507863",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/507863/dt_main.jpg"
+}

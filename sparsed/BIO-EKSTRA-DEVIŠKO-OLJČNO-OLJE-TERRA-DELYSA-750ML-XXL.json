@@ -1,0 +1,43 @@
+{
+    "product-insteadofprice": "9,89",
+    "product-priceperunit": "9,89 €/l",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/images/images/hc5/h14/9039970304030/bio-1.png",
+    "title": "BIO EKSTRA DEVIŠKO OLJČNO OLJE TERRA DELYSA, 750ML, XXL",
+    "product-stock-status": "",
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Salt": "0,00 g",
+            "Total Carbohydrate": "0,00 g",
+            "Total Fat": "100,00 g",
+            "Protein": "0,00 g",
+            "kJ": "3449,00 ",
+            "Sugar": "0,00 g",
+            "kcal": "824,00 ",
+            "Saturated fat": "19,10 g"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "\n\t\t\t\ttehnično-ime-izdelka": "BIO EKSTRA DEVIŠKO OLJČNO OLJE",
+        "contact-information": {
+            "kontakt:": "Baron International d.o.o., Obrežje 4, 1433 Radeče"
+        },
+        "ingredient-information": {
+            "sestavine": "bio extra deviško oljčno olje 100,00 %."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "product-badges": {
+            "certifikati": "BIO Certifikat"
+        }
+    },
+    "description": "OLJE OLJČNO BIO XXL",
+    "product-promotionBadges": "BIO Certifikat",
+    "product-brand": "",
+    "product-price": "9,89",
+    "teaser-text": "OLJE OLJČNO BIO XXL",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/bio-ekstra-devisko-oljcno-olje-terra-delysa-750ml-xxl/p/502710",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/502710/dt_main.jpg"
+}

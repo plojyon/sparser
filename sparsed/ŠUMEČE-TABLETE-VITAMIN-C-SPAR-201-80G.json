@@ -1,0 +1,44 @@
+{
+    "product-insteadofprice": "0,79",
+    "product-priceperunit": "9,88 €/kg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "title": "ŠUMEČE TABLETE VITAMIN C, SPAR, 20/1, 80G",
+    "product-stock-status": "",
+    "product-info": {
+        "base-information": {
+            "vitamini-in-minerali": "Vitamin C 180,00 mg."
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "\n\t\t\t\ttehnično-ime-izdelka": "Prehransko dopolnilo z vitaminom C, sladkorjem in sladilom z okusom limone.",
+        "opis": "Šumeče tablete vitamin C z dodanim sladkorjem in sladili. Prehransko dopolnilo. Okus limone.",
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "ingredient-information": {
+            "sestavine": "sredstvi za uravnavanje kislosti: citronska kislina, natrijev hidrogenkarbonat, fruktoze, sladilo: sorbitol, l-askorbinska kislina, sladilo: sukraloza, nosilec sladila: polietilen glikol, aroma limone, barvilo: riboflavin."
+        },
+        "product-net-cont": {
+            "neto-količina": "80g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "Salt": "16,50 g",
+            "Total Carbohydrate": "30,00 g",
+            "Total Fat": "0,00 g",
+            "Protein": "0,00 g",
+            "kJ": "1000,00 ",
+            "Sugar": "17,50 g",
+            "kcal": "225,00 ",
+            "Saturated fat": "0,00 g"
+        }
+    },
+    "description": "SPAR TABL.ŠUM.VIT.C 80G",
+    "product-promotionBadges": "",
+    "product-brand": "",
+    "product-price": "0,79",
+    "teaser-text": "SPAR TABL.ŠUM.VIT.C 80G",
+    "isOnPromotion": "false",
+    "url": "https://www.spar.si/online/sumece-tablete-vitamin-c-spar-201-80g/p/444349",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/444349/dt_main.jpg"
+}

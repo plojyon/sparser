@@ -1,0 +1,46 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR SMETANA ZA KUH 500G",
+    "description": "SPAR SMETANA ZA KUH 500G",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Pred uporabo pretresti."
+        },
+        "opis": "Smetana za kuhanje.",
+        "ingredient-information": {
+            "alergeni": "MLEKO."
+        },
+        "base-information": {
+            "neto-količina-plod:": "500G"
+        },
+        "product-net-cont": {
+            "neto-količina": "500g"
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "851,00 ",
+            "Salt": "0,10 g",
+            "Sugar": "3,40 g",
+            "Total Carbohydrate": "4,00 g",
+            "Total Fat": "20,00 g",
+            "kcal": "206,00 ",
+            "Saturated fat": "12,90 g",
+            "Protein": "2,50 g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "steriliziran izdelek"
+    },
+    "title": "SMETANA ZA KUHANJE SPAR, 500G",
+    "url": "https://www.spar.si/online/smetana-za-kuhanje-spar-500g/p/425086",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,38 €/kg",
+    "product-insteadofprice": "1,69",
+    "product-stock-status": "",
+    "product-price": "1,69",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/425086/dt_main.jpg"
+}

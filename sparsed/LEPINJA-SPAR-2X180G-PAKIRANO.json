@@ -1,0 +1,44 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "SPAR LEPINJA 2X180G PAK.",
+    "description": "SPAR LEPINJA 2X180G PAK.",
+    "product-info": {
+        "instruction-for-use": {
+            "navodila-za-uporabo": "Izdelek primeren za uporabo brez predhodne obdelave."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "LEPINJA SPAR, 2X180G, PAKIRANO",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, JAJCA (V SLEDOVIH), SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), LEŠNIKI (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH), SEZAM (V SLEDOVIH), ŽVEPLOV DIOKSID IN SULFITI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "985,00 ",
+            "Salt": "1,30 g",
+            "Sugar": "0,60 g",
+            "Total Carbohydrate": "44,30 g",
+            "Total Fat": "1,90 g",
+            "kcal": "233,00 ",
+            "Prehranske vlaknine": "1,70 g",
+            "Saturated fat": "0,20 g",
+            "Protein": "8,70 g"
+        },
+        "product-net-cont": {
+            "neto-količina": "360g"
+        },
+        "contact-information": {
+            "kontakt:": "SPAR Slovenija d.o.o., Letališka cesta 26, SI-1000 Ljubljana, Telefonska številka: 080 82 44"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "uporaba izdelka brez termične priprave"
+    },
+    "title": "LEPINJA SPAR, 2X180G, PAKIRANO",
+    "url": "https://www.spar.si/online/lepinja-spar-2x180g-pakirano/p/432289",
+    "isOnPromotion": "false",
+    "product-priceperunit": "3,08 €/kg",
+    "product-insteadofprice": "1,11",
+    "product-stock-status": "",
+    "product-price": "1,11",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/432289/dt_main.jpg"
+}

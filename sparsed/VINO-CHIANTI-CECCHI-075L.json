@@ -1,0 +1,31 @@
+{
+    "product-priceperunit": "7,72 €/l",
+    "product-promotionBadges": "Trajno znižano",
+    "isOnPromotion": "true",
+    "description": "VINO CHIANTI CEC.0,75L",
+    "teaser-text": "VINO CHIANTI CEC.0,75L",
+    "product-info": {
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "MABAT INT d.o.o., Kapele 2, 8258 Kapele, Slovenija"
+        },
+        "product-net-cont": {
+            "neto-količina": "0,75l"
+        },
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        }
+    },
+    "url": "https://www.spar.si/online/vino-chianti-cecchi-075l/p/363001",
+    "product-insteadofprice": "6,88",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/363001/dt_main.jpg",
+    "title": "VINO CHIANTI, CECCHI, 0,75L",
+    "product-badge-image": "/online/medias/sys_master/root/hf2/h7c/9039970435102/TZ-1.png",
+    "product-brand": "",
+    "product-stock-status": "",
+    "product-price": "5,79",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-amount": ""
+}

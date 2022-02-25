@@ -1,0 +1,42 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "2,82",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "dehidriran izdelek",
+        "opis": "Zmes za pripravo gostega vročega kakavovega napitka.",
+        "instruction-for-use": {},
+        "contact-information": {
+            "kontakt:": "DR. OETKER d.o.o., Gmajna 15, 1236 Trzin"
+        },
+        "product-net-cont": {
+            "neto-količina": "125g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Zmes za pripravo gostega vročega kakavovega napitka.",
+        "ingredient-information": {
+            "alergeni": "MLEKO, GLUTEN (V SLEDOVIH), JAJCA (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "408,00 ",
+            "Saturated fat": "1,10 g",
+            "Protein": "3,80 g",
+            "Sugar": "13,00 g",
+            "Total Fat": "1,70 g",
+            "kcal": "97,00 ",
+            "Total Carbohydrate": "16,00 g",
+            "Salt": "0,28 g"
+        }
+    },
+    "product-priceperunit": "18,00 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/vroca-cokolada-ciobar-dr-oetker-5x25g/p/298805",
+    "product-price": "2,25",
+    "title": "VROČA ČOKOLADA CIOBAR, DR. OETKER, 5X25G",
+    "description": "ČOKOLADA VROČA 5x25G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/298805/dt_main.jpg",
+    "teaser-text": "ČOKOLADA VROČA 5x25G"
+}

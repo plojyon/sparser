@@ -1,0 +1,40 @@
+{
+    "product-promotionBadges": "Izdelek v promociji",
+    "product-insteadofprice": "3,98",
+    "product-stock-status": "",
+    "product-info": {
+        "\n\t\t\t\tprehrambni-tip-artikla": "pakiran izdelek v normalni atmosferi",
+        "contact-information": {
+            "kontakt:": "Krašcommerce d.o.o., Cesta na Brdo 85, 1000 Ljubljana"
+        },
+        "product-net-cont": {
+            "neto-količina": "840g"
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Fini pekovski izdelek. Vafelj izdelek z lešnikovim polnilom (72%).",
+        "ingredient-information": {
+            "alergeni": "GLUTEN, ARAŠIDI, LEŠNIKI, SOJA (V SLEDOVIH), MLEKO (V SLEDOVIH), OREH (V SLEDOVIH), MANDLJI (V SLEDOVIH)."
+        },
+        "povprečna-hranilna-vrednost": {
+            "kJ": "2252,00 ",
+            "Saturated fat": "10,20 g",
+            "Protein": "5,20 g",
+            "Sugar": "38,00 g",
+            "Total Fat": "29,40 g",
+            "kcal": "539,00 ",
+            "Total Carbohydrate": "63,30 g",
+            "Salt": "0,30 g"
+        }
+    },
+    "product-priceperunit": "4,74 €/kg",
+    "product-brand": "",
+    "url": "https://www.spar.si/online/napolitanke-nougat-kras-840g/p/417628",
+    "product-price": "3,98",
+    "title": "NAPOLITANKE NOUGAT, KRAŠ, 840G",
+    "description": "NAPOL.LEŠ.KR.KRAŠ 840G",
+    "isOnPromotion": "true",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "/online/medias/sys_master/root/h42/h77/9039969648670/akcija-1.png",
+    "product-amount": "",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/417628/dt_main.jpg",
+    "teaser-text": "NAPOL.LEŠ.KR.KRAŠ 840G"
+}

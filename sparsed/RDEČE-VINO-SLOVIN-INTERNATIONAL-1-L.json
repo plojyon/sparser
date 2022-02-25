@@ -1,0 +1,36 @@
+{
+    "product-amount": "",
+    "product-badge-image": "",
+    "teaser-text": "VINO SLOVIN RDEČE 1L",
+    "description": "VINO SLOVIN RDEČE 1L",
+    "product-info": {
+        "security-warning": {
+            "varnostna-opozorila": "Vsebuje sulfit."
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": "Slovin, dišeče in polsuho namizno rdeče vino, pridelano v Sloveniji.",
+        "ingredient-information": {
+            "alergeni": "ŽVEPLOV DIOKSID IN SULFITI."
+        },
+        "product-net-cont": {
+            "neto-količina": "1l"
+        },
+        "trade-group": {
+            "vsebnost-alkohola": "12,50 vol. %"
+        },
+        "contact-information": {
+            "kontakt:": "Slovin International d.o.o., Tržaška cesta 132, 1000 Ljubljana"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno"
+    },
+    "title": "RDEČE VINO, SLOVIN INTERNATIONAL, 1 L",
+    "url": "https://www.spar.si/online/rdece-vino-slovin-international-1-l/p/399549",
+    "isOnPromotion": "false",
+    "product-priceperunit": "2,38 €/l",
+    "product-insteadofprice": "2,38",
+    "product-stock-status": "",
+    "product-price": "2,38",
+    "product-brand": "",
+    "product-promotionBadges": "",
+    "product-badge-hostname": "https://www.spar.si",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/399549/dt_main.jpg"
+}

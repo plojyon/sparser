@@ -1,0 +1,40 @@
+{
+    "product-info": {
+        "povprečna-hranilna-vrednost": {
+            "Saturated fat": "0,00 g",
+            "Total Fat": "0,00 g",
+            "Total Carbohydrate": "3,90 g",
+            "Sugar": "3,90 g",
+            "Salt": "0,13 g",
+            "kJ": "70,00 ",
+            "Protein": "0,00 g",
+            "kcal": "17,00 "
+        },
+        "\n\t\t\t\ttehnično-ime-izdelka": null,
+        "contact-information": {
+            "kontakt:": "COCA-COLA HBC Slovenija d.o.o., Motnica 9, 1236 Trzin"
+        },
+        "\n\t\t\t\tprehrambni-tip-artikla": "ni relevantno",
+        "product-net-cont": {
+            "neto-količina": "0,5l"
+        },
+        "ingredient-information": {
+            "sestavine": "voda, grozdni sladkor, sadni sladkor, citronska kislina, natrijev klorid, kalijevi citrati, magnezijev klorid, kalcijev klorid, kalijevi fosfati, arome, stabilizatorja (e414, e445), sladili (sukraloza in acesulfam k), kinolinsko rumeno."
+        }
+    },
+    "product-brand": "",
+    "url": "https://www.spar.si/online/izotonicni-napitek-citrus-powerade-500ml/p/256662",
+    "product-price": "1,15",
+    "teaser-image": "https://cdn1.interspar.at/cachableservlets/articleImage.dam/si/256662/dt_main.jpg",
+    "product-badge-hostname": "https://www.spar.si",
+    "product-badge-image": "",
+    "product-insteadofprice": "1,15",
+    "product-amount": "",
+    "isOnPromotion": "false",
+    "product-promotionBadges": "",
+    "teaser-text": "POWERADE CITRUS 0.5L BK",
+    "product-stock-status": "",
+    "title": "IZOTONIČNI NAPITEK CITRUS, POWERADE, 500ML",
+    "product-priceperunit": "2,30 €/l",
+    "description": "POWERADE CITRUS 0.5L BK"
+}

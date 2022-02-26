@@ -75,7 +75,7 @@ class Item:
 
     @property
     def price(self):
-        """Return the price in EUR."""
+        """Return the price in eur/g."""
         data = self.data.get("product-priceperunit")
         if data is None:
             return None
@@ -186,3 +186,37 @@ def data(location="./sparsed/", use_blacklist=True, parse=True):
                 products.append(item)
 
     return products
+
+
+def index_of(products, **kwargs):
+    """Find the index of a specified product in the given array."""
+    if "id" in kwargs.keys():
+        return get_index_by_id(products, kwargs["id"])
+    if "name" in kwargs.keys():
+        return get_index_by_name(products, kwargs["name"])
+    # TODO: add more ways to search for products
+    raise ValueError(f"Not enough data specified: {kwargs}")
+
+
+def get_product(products, **kwargs):
+    """Find a product by id or name."""
+    idx = index_of(products, **kwargs)
+    if idx is None:
+        return None
+    return products[idx]
+
+
+def get_index_by_id(products, id):
+    """Find a product index by id."""
+    for i, product in enumerate(products):
+        if product.id == id:
+            return i
+    return None
+
+
+def get_index_by_name(products, name):
+    """Find a product Item by name (icontains)."""
+    for i, product in enumerate(products):
+        if name.upper() in product.name:
+            return i
+    return None

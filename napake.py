@@ -2,7 +2,7 @@ import sparser
 
 all_products = sparser.data(use_blacklist=False)
 
-# filter products with a defined net weight
+# filter products with a defined neto weight
 products = list(filter(lambda x: x.has_value("weight"), all_products))
 
 nutri_slo = {

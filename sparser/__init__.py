@@ -172,7 +172,7 @@ def data(location="./sparsed/", use_blacklist=True, parse=True):
     # fetch local data
     products = []
     for filename in os.listdir(location):
-        with open(os.path.join(location, filename), "r") as file:
+        with open(os.path.join(location, filename), "r", encoding="utf-8") as file:
             data = json.loads(file.read())
             data["local_path"] = os.path.join(location, filename)
 
